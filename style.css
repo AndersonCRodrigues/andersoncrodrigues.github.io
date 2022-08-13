@@ -14,20 +14,18 @@ header{
 }
 nav{
   background: white;
-  display: block;
   width: 200px;
   height: 1009px;
   float: left;
 }
 
-#principal {
+main {
   background-color: white;
-  display: block;
   width: 789px;
   float: right;
   padding-left: 10px;
   text-align: center;
-  border-left: 1px solid #A4B8C4 ;
+  border-left: 1px solid #A4B8C4;
 }
 
 #foto-perfil {
@@ -35,12 +33,6 @@ nav{
   border: 5px solid white;
   width: 300px;
   display: block;
-
-
-}
-
-nav {
-  text-decoration: none;
 }
 
 p {
@@ -52,25 +44,24 @@ p {
 }
 
 a {
-  color: black;
   text-decoration: none;
 }
 
-#menu ul {
-  padding: 20px;
+#menu li {
+  padding: 10px;
   text-align: right;
 }
 
-#menu li {
-  padding: 20px;
+#menu a {
+  color: black;
   font-weight: bold;
-  /*background: #3D52D5;*/
-  padding: 10px;
-  margin: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-#menu li:hover {
+#menu a:hover {
   background: #3D52D5;
   border: 0.5px solid #484A47;
-  box-shadow: 1px 1px 1px #484A47;
+  box-shadow: 2px 2px 2px #484A47;
+  color: white;
+  padding: 10px;
 }
