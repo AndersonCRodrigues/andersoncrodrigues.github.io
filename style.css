@@ -94,3 +94,16 @@ nav a:hover {
   color: white;
   padding: 10px;
 }
+
+main h2 {
+  color:#3D52D5;
+}
+
+main ul {
+  list-style: none;
+  text-align: center;
+}
+
+main p, ul {
+  color: #37392E;
+}
