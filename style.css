@@ -4,7 +4,16 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+nav {
+  text-decoration: none;
+}
+
 p {
   text-align: justify;
   width: 300px;
+}
+
+#links {
+  color: black;
+  text-decoration: none;
 }
