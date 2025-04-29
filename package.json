@@ -1,0 +1,26 @@
+{
+  "name": "anderson-rodrigues-portfolio",
+  "version": "1.0.0",
+  "description": "Portfólio profissional para desenvolvedor backend",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w",
+    "start": "lite-server"
+  },
+  "keywords": [
+    "portfolio",
+    "backend",
+    "developer"
+  ],
+  "author": "Anderson Rodrigues",
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "^2.6.1",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "@emailjs/browser": "^4.4.1"
+  }
+}
