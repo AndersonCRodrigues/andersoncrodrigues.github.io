@@ -8,19 +8,17 @@ export function renderAbout() {
             <h2 class="text-3xl md:text-4xl font-bold text-center mb-12 reveal-fade-up">Sobre Mim</h2>
             <div class="flex flex-col md:flex-row items-center">
                 <div class="md:w-1/2 mb-8 md:mb-0 reveal-fade-up">
-                    <img src="https://images.prismic.io/voitto-blog/17f7d622-3a54-480e-be53-5dd7296bddce_desenvolvedor+backend.jpg?auto=compress,format?w=3840&q=75" alt="Desenvolvedor Backend" class="rounded-lg shadow-lg">
+                    <img src="https://academiatech.s3.amazonaws.com/wp-content/uploads/2023/01/imagem-software-21012023.webp" alt="Desenvolvedor Backend" class="rounded-lg shadow-lg">
                 </div>
                 <div class="md:w-1/2 md:pl-12 reveal-fade-up">
-                    <h3 class="text-2xl font-bold mb-4 text-blue-700">Desenvolvedor Backend Experiente</h3>
+                    <h3 class="text-2xl font-bold mb-4 text-blue-700">Engenheiro de Software</h3>
                     <p class="text-lg mb-4">
-                        Sou um desenvolvedor de software apaixonado por criar soluções backend robustas e eficientes.
-                        Minha especialidade está em desenvolver APIs RESTful com Python, Node.js, Express e TypeScript, seguindo
-                        boas práticas de arquitetura e padrões de projeto.
+                        Sou um engenheiro de software com foco em backend, mas com experiência fullstack, incluindo a stack MERN (MongoDB, Express, React, Node.js). Tenho experiência no desenvolvimento de APIs RESTful com Python e Node.js, além de conhecimentos em front-end (React, Next) e bancos de dados relacionais, não relacionais e vetoriais.
                     </p>
                     <p class="text-lg mb-6">
-                        Com forte conhecimento em bancos de dados relacionais e não-relacionais, autenticação,
-                        segurança e containers, busco sempre entregar código limpo, testável e de alta qualidade.
+                        Meu foco está em criar soluções robustas e escaláveis, com atenção à segurança, autenticação e Docker. Estou sempre em evolução, com interesse em LangChain, RAG e inteligência artificial, e valorizo a escrita de código limpo, testável e de alta qualidade.
                     </p>
+
                     <div class="flex space-x-4">
                         <a href="https://github.com/AndersonCRodrigues" target="_blank" class="bg-gray-800 hover:bg-gray-900 text-white font-medium py-2 px-4 rounded-lg flex items-center">
                             <svg class="w-5 h-5 mr-2" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
