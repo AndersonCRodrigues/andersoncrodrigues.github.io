@@ -7,7 +7,7 @@ export function renderHero() {
         <div class="container mx-auto px-4 flex flex-col md:flex-row items-center">
             <div class="md:w-1/2 mb-8 md:mb-0 reveal-fade-up">
                 <h1 class="text-4xl md:text-5xl font-bold mb-4">Anderson Rodrigues</h1>
-                <h2 class="text-2xl md:text-3xl text-blue-300 mb-6">Desenvolvedor Backend</h2>
+                <h2 class="text-2xl md:text-3xl text-blue-300 mb-6">Engenheiro de Software</h2>
                 <p class="text-lg md:text-xl mb-6">Especialista em construir APIs robustas e escaláveis com Python, Node.js, Express e TypeScript.</p>
                 <div class="flex space-x-4">
                     <a href="#projects" class="bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 px-6 rounded-lg transition">Ver Projetos</a>
