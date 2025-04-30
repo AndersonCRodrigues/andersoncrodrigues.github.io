@@ -12,7 +12,6 @@
     "rootDir": "./src",
     "sourceMap": true,
     "lib": ["DOM", "ES2020"],
-    // --- Ajustes aqui ---
     "baseUrl": "./src",
   },
   "include": ["src/**/*"],
