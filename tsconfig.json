@@ -1,8 +1,8 @@
 {
   "compilerOptions": {
     "target": "ES2020",
-    "module": "ESNext",
-    "moduleResolution": "Node",
+    "module": "nodenext",
+    "moduleResolution": "nodenext",
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
     "strict": true,
@@ -11,7 +11,9 @@
     "outDir": "./dist",
     "rootDir": "./src",
     "sourceMap": true,
-    "lib": ["DOM", "ES2020"]
+    "lib": ["DOM", "ES2020"],
+    // --- Ajustes aqui ---
+    "baseUrl": "./src",
   },
   "include": ["src/**/*"],
   "exclude": ["node_modules"]
