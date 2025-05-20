@@ -158,7 +158,6 @@
    pokemonGrid.appendChild(card);
  }
 
- // Funções de paginação
  function goToPreviousPage() {
    if (currentPage > 1) {
      currentPage--;
@@ -203,7 +202,6 @@
  }
 
  function goToRandomPokemon() {
-   // Há 898 pokémons nas gerações 1-8
    const randomId = Math.floor(Math.random() * 898) + 1;
    window.location.href = `pokemon-details.html?id=${randomId}`;
  }
