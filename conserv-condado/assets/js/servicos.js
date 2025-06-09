@@ -84,7 +84,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     imagem: "assets/img/servico4.jpg",
                     solicitanteEmail: "usuario1@example.com",
                     dataSolicitacao: "2025-01-10T08:00:00Z",
-                    dataConclusao: null,
+                    dataConclusao: "2025-01-13T08:00:00Z",
                     status: "Concluído"
                 },
                 {
@@ -102,7 +102,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     imagem: "assets/img/servico5.jpg",
                     solicitanteEmail: "usuario2@example.com",
                     dataSolicitacao: "2025-02-15T13:00:00Z",
-                    dataConclusao: null,
+                    dataConclusao: "2025-02-20T08:00:00Z",
                     status: "Concluído"
                 }
             ];

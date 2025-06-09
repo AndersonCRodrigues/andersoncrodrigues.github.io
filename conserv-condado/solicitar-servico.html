@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Solicitar Serviço - CONSERV CONDADO</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="icon" href="assets/img/favicon.ico" type="image/x-icon">
+</head>
+
+<body class="bg-secondary flex flex-col min-h-screen font-sans">
+  <header class="bg-primary text-white p-4 flex justify-between items-center shadow-lg fixed top-0 w-full z-50">
+    <h1 class="text-2xl font-extrabold tracking-wide drop-shadow-md">CONSERV CONDADO</h1>
+    <div class="relative">
+      <img src="assets/img/logo.png" alt="Logotipo" class="h-12 drop-shadow-md rounded-full border-2 border-white">
+      <div class="absolute inset-0 bg-white/10 rounded-full blur-sm"></div>
+    </div>
+  </header>
+
+  <main class="flex-grow p-4 pb-20 md:pb-4 pt-24">
+    <div class="max-w-2xl mx-auto">
+      <div class="text-center mb-10">
+        <h2 class="text-3xl font-bold text-primary mb-3 leading-tight">Nova Solicitação de Serviço</h2>
+        <div class="w-32 h-1.5 bg-gradient-to-r from-green-500 to-yellow-400 mx-auto rounded-full"></div>
+      </div>
+
+      <form id="solicitarServicoForm"
+        class="bg-white p-8 rounded-2xl shadow-xl border border-gray-100 transform transition-all duration-300 hover:shadow-2xl">
+        <div class="space-y-6">
+          <div>
+            <label for="titulo" class="block text-gray-800 text-base font-semibold mb-2">
+              Título do Serviço
+            </label>
+            <input type="text" id="titulo" name="titulo"
+              class="w-full py-3 px-4 text-gray-700 bg-gray-50 border border-gray-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent transition-all duration-200 placeholder-gray-400"
+              placeholder="Ex: Limpeza de Via Pública" required>
+          </div>
+
+          <div>
+            <label for="descricao" class="block text-gray-800 text-base font-semibold mb-2">
+              Descrição Detalhada
+            </label>
+            <textarea id="descricao" name="descricao" rows="4"
+              class="w-full py-3 px-4 text-gray-700 bg-gray-50 border border-gray-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent transition-all duration-200 placeholder-gray-400 resize-none"
+              placeholder="Descreva detalhadamente o serviço necessário..." maxlength="200" required></textarea>
+            <div class="flex justify-between items-center mt-1 text-sm">
+              <p class="text-gray-600">Seja específico para melhor atendimento</p>
+              <p class="text-gray-500">Máximo 200 caracteres</p>
+            </div>
+          </div>
+
+          <div>
+            <label for="tipoServico" class="block text-gray-800 text-base font-semibold mb-2">
+              Categoria do Serviço
+            </label>
+            <select id="tipoServico" name="tipoServico"
+              class="w-full py-3 px-4 text-gray-700 bg-gray-50 border border-gray-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent transition-all duration-200 cursor-pointer"
+              required>
+              <option value="" class="text-gray-400">Selecione a categoria...</option>
+              <option value="Roçada">🌿 Roçada</option>
+              <option value="Capina">🌱 Capina</option>
+              <option value="Varrição">🧹 Varrição</option>
+              <option value="Poda de galhos">✂️ Poda de galhos</option>
+              <option value="Coleta de resíduo verde">🍃 Coleta de resíduo verde</option>
+              <option value="Projeto horta orgânica comunitária">🥬 Projeto horta orgânica comunitária</option>
+              <option value="É plantando que se colhe">🌾 É plantando que se colhe</option>
+              <option value="Limpeza de bueiros">🚰 Limpeza de bueiros</option>
+              <option value="Coleta de RCC">🏗️ Coleta de RCC</option>
+              <option value="Coleta de RSU">🗑️ Coleta de RSU</option>
+              <option value="Caiação">🎨 Caiação</option>
+              <option value="Instalação de lixeirinhas">📦 Instalação de lixeirinhas</option>
+              <option value="Conscientização e Dicas">💡 Conscientização e Dicas para o CONSERV CONDADO</option>
+            </select>
+          </div>
+
+          <div class="bg-blue-50 p-6 rounded-xl border-l-4 border-blue-300 shadow-inner">
+            <h3 class="text-blue-800 font-bold mb-4 flex items-center">
+              <svg class="w-6 h-6 mr-2 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                  d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path>
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                  d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path>
+              </svg>
+              Localização do Serviço
+            </h3>
+
+            <div class="space-y-4">
+              <div>
+                <label for="rua" class="block text-gray-700 text-sm font-medium mb-1">Rua</label>
+                <input type="text" id="rua" name="rua"
+                  class="w-full py-2.5 px-3 text-gray-700 bg-white border border-gray-200 rounded-lg focus:outline-none focus:ring-1 focus:ring-blue-400 focus:border-transparent transition-all duration-200"
+                  placeholder="Nome da rua" required>
+              </div>
+
+              <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+                <div>
+                  <label for="numero" class="block text-gray-700 text-sm font-medium mb-1">Número</label>
+                  <input type="text" id="numero" name="numero"
+                    class="w-full py-2.5 px-3 text-gray-700 bg-white border border-gray-200 rounded-lg focus:outline-none focus:ring-1 focus:ring-blue-400 focus:border-transparent transition-all duration-200"
+                    placeholder="Nº" required>
+                </div>
+                <div>
+                  <label for="lote" class="block text-gray-700 text-sm font-medium mb-1">Lote</label>
+                  <input type="text" id="lote" name="lote"
+                    class="w-full py-2.5 px-3 text-gray-700 bg-white border border-gray-200 rounded-lg focus:outline-none focus:ring-1 focus:ring-blue-400 focus:border-transparent transition-all duration-200"
+                    placeholder="Opcional">
+                </div>
+                <div>
+                  <label for="quadra" class="block text-gray-700 text-sm font-medium mb-1">Quadra</label>
+                  <input type="text" id="quadra" name="quadra"
+                    class="w-full py-2.5 px-3 text-gray-700 bg-white border border-gray-200 rounded-lg focus:outline-none focus:ring-1 focus:ring-blue-400 focus:border-transparent transition-all duration-200"
+                    placeholder="Opcional">
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div>
+            <label for="imagem" class="block text-gray-800 text-base font-semibold mb-2">
+              Imagem Ilustrativa
+            </label>
+            <input type="text" id="imagem" name="imagem"
+              class="w-full py-3 px-4 text-gray-700 bg-gray-50 border border-gray-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent transition-all duration-200 placeholder-gray-400"
+              placeholder="URL da imagem (opcional)">
+            <p class="text-sm text-gray-600 mt-1">Cole o link de uma imagem que ilustre o problema</p>
+          </div>
+
+          <button type="submit"
+            class="w-full bg-primary text-white font-bold py-4 px-6 rounded-xl hover:bg-opacity-90 focus:outline-none focus:ring-4 focus:ring-primary/50 transition-all duration-300 transform hover:scale-[1.01] active:scale-95 shadow-lg">
+            <span class="flex items-center justify-center">
+              <svg class="w-6 h-6 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                  d="M12 19l9 2-9-18-9 18 9-2zm0 0v-8"></path>
+              </svg>
+              Solicitar Serviço
+            </span>
+          </button>
+        </div>
+      </form>
+    </div>
+  </main>
+
+  <nav class="bg-primary text-white p-4 shadow-2xl fixed bottom-0 w-full z-50">
+    <div class="flex justify-around items-center max-w-md mx-auto">
+      <a href="home.html"
+        class="flex flex-col items-center text-xs font-medium p-3 rounded-xl hover:bg-white/20 transition-all duration-200 group transform hover:scale-105">
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 group-hover:scale-110 transition-transform" fill="none"
+          viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+            d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m0 0l7-7 7 7M19 10v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6" />
+        </svg>
+        <span class="mt-1">Home</span>
+      </a>
+      <a href="solicitar-servico.html"
+        class="flex flex-col items-center text-xs font-semibold p-3 rounded-xl bg-white/20 backdrop-blur-sm border border-white/30 shadow-lg transform scale-105">
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-7 w-7" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+            d="M12 9v3m0 0v3m0-3h3m-3 0H9m12 0a9 9 0 11-18 0 9 9 0 0118 0z" />
+        </svg>
+        <span class="mt-1">Solicitar</span>
+      </a>
+      <a href="perfil.html"
+        class="flex flex-col items-center text-xs font-medium p-3 rounded-xl hover:bg-white/20 transition-all duration-200 group transform hover:scale-105">
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 group-hover:scale-110 transition-transform" fill="none"
+          viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+            d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
+        </svg>
+        <span class="mt-1">Perfil</span>
+      </a>
+      <a href="sobre.html"
+        class="flex flex-col items-center text-xs font-medium p-3 rounded-xl hover:bg-white/20 transition-all duration-200 group transform hover:scale-105">
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 group-hover:scale-110 transition-transform" fill="none"
+          viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+            d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+        </svg>
+        <span class="mt-1">Sobre</span>
+      </a>
+    </div>
+  </nav>
+
+  <div id="modal"
+    class="fixed inset-0 bg-gray-900 bg-opacity-50 backdrop-blur-sm hidden flex items-center justify-center p-4 z-[999]">
+    <div
+      class="bg-white rounded-2xl p-8 shadow-2xl max-w-sm w-full text-center transform scale-95 transition-all duration-300 ease-out">
+      <div
+        class="w-16 h-16 bg-gradient-to-r from-green-500 to-emerald-600 rounded-full mx-auto mb-4 flex items-center justify-center animate-bounce">
+        <svg class="w-9 h-9 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+        </svg>
+      </div>
+      <h2 id="modalTitle" class="text-2xl font-bold mb-3 text-primary"></h2>
+      <p id="modalMessage" class="text-gray-700 mb-6 leading-relaxed"></p>
+      <button id="closeModal"
+        class="bg-primary text-white font-semibold py-3 px-6 rounded-xl hover:bg-opacity-90 focus:outline-none focus:ring-4 focus:ring-primary/50 transition-all duration-200 transform hover:scale-105">
+        Entendi
+      </button>
+    </div>
+  </div>
+
+  <script src="assets/js/storage.js"></script>
+  <script src="assets/js/ui.js"></script>
+  <script src="assets/js/servicos.js"></script>
+</body>
+
+</html>

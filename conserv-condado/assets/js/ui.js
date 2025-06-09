@@ -20,5 +20,7 @@ function showModal(title, message, callback = null) {
         modalMessage.textContent = message;
         modalCallback = callback;
         modal.classList.remove('hidden');
+        modal.querySelector('div').classList.remove('scale-95');
+        modal.querySelector('div').classList.add('scale-100');
     }
 }
