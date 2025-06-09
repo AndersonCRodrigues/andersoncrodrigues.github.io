@@ -26,7 +26,9 @@
    typeFilter.addEventListener('change', filterByType);
    searchButton.addEventListener('click', searchPokemon);
    searchInput.addEventListener('keypress', (e) => {
-     if (e.key === 'Enter') searchPokemon();
+     if (e.key === 'Enter') {
+       searchPokemon();
+     }
    });
    randomButton.addEventListener('click', goToRandomPokemon);
  });
