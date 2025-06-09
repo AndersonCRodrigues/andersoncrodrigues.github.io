@@ -53,7 +53,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 },
                 {
                     id: 3,
-                    titulo: "Instalação de Lixeira Comunitária",
+                    titulo: "Instalação de Lixeira Vermelhinha",
                     descricao: "Nova lixeira instalada em ponto estratégico para descarte adequado.",
                     tipoServico: "Instalação de lixeirinhas",
                     endereco: {
@@ -89,9 +89,9 @@ document.addEventListener('DOMContentLoaded', () => {
                 },
                 {
                     id: 5,
-                    titulo: "Coleta de Resíduo Sólido Urbano Adicional",
-                    descricao: "Solicitação para coleta extra de RSU na Rua E devido a evento local.",
-                    tipoServico: "Coleta de RSU",
+                    titulo: "Coleta de Resíduo Verde",
+                    descricao: "Solicitação para coleta extra de resíduo verde na Rua E devido a evento local.",
+                    tipoServico: "Coleta de resíduo verde",
                     endereco: {
                         rua: "Rua E",
                         numero: "50",
