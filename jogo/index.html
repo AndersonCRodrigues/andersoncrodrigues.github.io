@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <title>Projeto - Luta</title>
+</head>
+
+<body>
+    <div id="selection-modal" class="modal">
+        <div class="modal-content">
+            <h2>Escolha seu Herói</h2>
+            <input type="text" id="hero-name-input" placeholder="Digite o nome do seu Herói">
+            <div class="hero-options">
+                <button onclick="startGame('knight')">Escolher Knight</button>
+                <button onclick="startGame('sorcerer')">Escolher Sorcerer</button>
+                <button onclick="startGame('rogue')">Escolher Rogue</button>
+                <button onclick="startGame('ranger')">Escolher Ranger</button>
+            </div>
+        </div>
+    </div>
+
+    <ul class="log">
+
+    </ul>
+
+    <div class="fight-area">
+        <div id="char">
+            <img src="" alt="Imagem do Herói" class="character-image">
+            <div class="life-bar">
+                <div class="bar" style="width: 10%;"></div>
+            </div>
+            <strong class="name"> -- </strong>
+            <div>
+                <button class="attack-button"> Atacar </button>
+            </div>
+        </div>
+        <div id="monster">
+            <img src="" alt="Imagem do Monstro" class="character-image">
+            <div class="life-bar">
+                <div class="bar" style="width: 10%;"></div>
+            </div>
+            <strong class="name"> -- </strong>
+            <div>
+                <button class="attack-button"> Atacar </button>
+            </div>
+        </div>
+    </div>
+
+    <script src="assets/js/classes.js"></script>
+    <script src="assets/js/script.js"></script>
+</body>
+
+</html>
