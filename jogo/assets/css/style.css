@@ -1,0 +1,139 @@
+body {
+    background-image: url('../img/arena.gif');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    padding: 20px;
+
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.fight-area {
+    display: flex;
+    gap: 20px;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+#char, #monster {
+    flex: 0 0 45%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    border-radius: 5px;
+
+}
+
+.character-image {
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
+    margin-bottom: 10px;
+}
+
+.life-bar {
+    width: 100%;
+    height: 15px;
+    border: 1px solid #333;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+.bar {
+    height: inherit;
+    background-color: red;
+    border-radius: 5px;
+}
+
+.log {
+    border: 1px solid #999;
+    height: 200px;
+    overflow-y: scroll;
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.9);
+}
+
+.log li {
+    font-size: 14px;
+    margin-bottom: 2px;
+    list-style: none;
+}
+
+.hero-message {
+    color: green;
+    font-weight: bold;
+}
+
+.monster-message {
+    color: darkred;
+    font-weight: bold;
+}
+
+.system-message {
+    color: rgb(0, 102, 204);
+    font-style: italic;
+}
+
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.6);
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-content {
+    background-color: #fefefe;
+    padding: 30px;
+    border: 1px solid #888;
+    width: 80%;
+    max-width: 500px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+#hero-name-input {
+    width: 90%;
+    padding: 10px;
+    margin: 10px 0 20px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.hero-options button {
+    padding: 10px 20px;
+    margin: 5px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    color: white;
+}
+
+.hero-options button:nth-child(1) {
+    background-color: #4CAF50;
+}
+
+.hero-options button:nth-child(2) {
+    background-color: #008CBA;
+}
+
+.hero-options button:nth-child(3) {
+    background-color: #cc6600;
+}
+
+.hero-options button:nth-child(4) {
+    background-color: #8B4513;
+}
