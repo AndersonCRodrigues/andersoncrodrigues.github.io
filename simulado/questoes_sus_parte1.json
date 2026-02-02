@@ -1,0 +1,604 @@
+{
+  "sus_parte1": [
+    {
+      "id": 1,
+      "enunciado": "A Lei nº 8.080/90 estabelece que a integralidade da assistência deve priorizar:",
+      "alternativas": [
+        "Exclusivamente as atividades preventivas em detrimento das assistenciais",
+        "Ações de promoção, proteção e recuperação articuladas entre níveis de complexidade",
+        "Apenas atendimento ambulatorial básico",
+        "Somente procedimentos de alta complexidade",
+        "Atividades curativas sem foco preventivo"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 2,
+      "enunciado": "Segundo a Lei nº 8.142/90, os Conselhos de Saúde têm caráter:",
+      "alternativas": [
+        "Apenas deliberativo",
+        "Permanente e deliberativo",
+        "Temporário e consultivo",
+        "Executivo e normativo",
+        "Administrativo sem poder deliberativo"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 3,
+      "enunciado": "Na composição do Conselho de Saúde, a representação dos USUÁRIOS deve ser:",
+      "alternativas": [
+        "Igual à dos profissionais de saúde",
+        "Inferior à dos gestores",
+        "Paritária em relação ao conjunto dos demais segmentos",
+        "Minoritária em relação aos trabalhadores",
+        "Proporcional à população do município"
+      ],
+      "gabarito": "C"
+    },
+    {
+      "id": 4,
+      "enunciado": "O Decreto nº 7.508/2011 define Região de Saúde como:",
+      "alternativas": [
+        "Espaço geográfico contínuo de municípios limítrofes",
+        "Apenas municípios de um mesmo estado",
+        "Território sem necessidade de articulação interestadual",
+        "Definição unilateral do Ministério da Saúde",
+        "Substitui as Redes de Atenção à Saúde"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 5,
+      "enunciado": "Sobre a Atenção Primária segundo a PNAB, é INCORRETO afirmar:",
+      "alternativas": [
+        "Deve ser porta de entrada preferencial",
+        "Caracteriza-se pela longitudinalidade do cuidado",
+        "Tem foco exclusivo em ações curativas",
+        "Coordena o cuidado na rede de atenção",
+        "Desenvolve vigilância em saúde no território"
+      ],
+      "gabarito": "C"
+    },
+    {
+      "id": 6,
+      "enunciado": "A Estratégia Saúde da Família NÃO se orienta por:",
+      "alternativas": [
+        "Território adscrito com responsabilidade sanitária",
+        "Equipe multiprofissional integrada",
+        "Priorização de atendimento individual sobre ações coletivas",
+        "Planejamento baseado em diagnóstico local",
+        "Estímulo à participação comunitária"
+      ],
+      "gabarito": "C"
+    },
+    {
+      "id": 7,
+      "enunciado": "Segundo a Portaria nº 2.436/2017 (PNAB), a população adscrita por equipe de SF deve ser de:",
+      "alternativas": [
+        "1.000 a 2.000 pessoas",
+        "2.000 a 3.500 pessoas",
+        "3.000 a 5.000 pessoas em áreas urbanas (até 4.000 recomendado)",
+        "5.000 a 7.000 pessoas",
+        "Sem limite estabelecido"
+      ],
+      "gabarito": "C"
+    },
+    {
+      "id": 8,
+      "enunciado": "NÃO é atribuição específica do ACS segundo a PNAB:",
+      "alternativas": [
+        "Cadastrar famílias e atualizar o cadastro",
+        "Desenvolver ações de promoção da saúde",
+        "Prescrever medicamentos de uso contínuo",
+        "Realizar visitas domiciliares programadas",
+        "Orientar sobre utilização dos serviços de saúde"
+      ],
+      "gabarito": "C"
+    },
+    {
+      "id": 9,
+      "enunciado": "A Rede de Atenção à Saúde (RAS) segundo o Decreto nº 7.508/2011 caracteriza-se por:",
+      "alternativas": [
+        "Organização hierárquica rígida entre níveis",
+        "Fragmentação dos serviços com ações isoladas",
+        "Arranjos organizativos com ações integradas",
+        "Priorização exclusiva da atenção terciária",
+        "Desconsideração da atenção primária"
+      ],
+      "gabarito": "C"
+    },
+    {
+      "id": 10,
+      "enunciado": "Sobre o SISAB e e-SUS AB, é correto afirmar:",
+      "alternativas": [
+        "O e-SUS AB não registra ações dos ACS",
+        "O SISAB substituiu o antigo SIAB",
+        "Usa exclusivamente fichas de papel",
+        "O PEC não faz parte do e-SUS AB",
+        "Não permite acompanhamento de indicadores"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 11,
+      "enunciado": "A Política Nacional de Humanização (PNH) propõe como diretriz:",
+      "alternativas": [
+        "Acolhimento com classificação de risco",
+        "Atendimento apenas por ordem de chegada",
+        "Redução da participação dos usuários",
+        "Verticalização das relações de trabalho",
+        "Fragmentação do cuidado"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 12,
+      "enunciado": "O Pacto pela Saúde (Portaria GM/MS nº 399/2006) compreende:",
+      "alternativas": [
+        "Pacto pela Vida, Pacto pela Cidadania e Pacto de Gestão",
+        "Pacto pela Vida, Pacto em Defesa do SUS e Pacto de Gestão",
+        "Pacto pela Saúde, Pacto Social e Pacto Federativo",
+        "Pacto Sanitário, Pacto Social e Pacto de Gestão",
+        "Pacto pela Vida, Pacto Administrativo e Pacto Financeiro"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 13,
+      "enunciado": "Sobre descentralização do SUS (Lei 8.080/90), é INCORRETO:",
+      "alternativas": [
+        "Ênfase na descentralização para municípios",
+        "Regionalização e hierarquização da rede",
+        "União detém exclusivamente competência sobre saúde",
+        "Direção única em cada esfera de governo",
+        "Municípios podem se consorciar"
+      ],
+      "gabarito": "C"
+    },
+    {
+      "id": 14,
+      "enunciado": "Vigilância epidemiológica segundo Lei 8.080/90 é definida como:",
+      "alternativas": [
+        "Apenas notificação de doenças",
+        "Ações que proporcionam conhecimento de mudanças nos determinantes de saúde",
+        "Sistema de fiscalização sanitária",
+        "Apenas programa de imunização",
+        "Apenas controle de qualidade de alimentos"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 15,
+      "enunciado": "Doença de notificação compulsória IMEDIATA (24h):",
+      "alternativas": [
+        "Hipertensão arterial",
+        "Diabetes mellitus tipo 2",
+        "Sarampo",
+        "Obesidade mórbida",
+        "Artrite reumatoide"
+      ],
+      "gabarito": "C"
+    },
+    {
+      "id": 16,
+      "enunciado": "O Programa Nacional de Imunizações (PNI) tem como objetivo:",
+      "alternativas": [
+        "Vacinar apenas crianças menores de 5 anos",
+        "Coordenar ações apenas em âmbito federal",
+        "Contribuir para controle, eliminação e erradicação de doenças imunopreveníveis",
+        "Substituir ações de atenção básica",
+        "Comercializar vacinas"
+      ],
+      "gabarito": "C"
+    },
+    {
+      "id": 17,
+      "enunciado": "NÃO é eixo temático da Política Nacional de Promoção da Saúde (PNPS):",
+      "alternativas": [
+        "Alimentação adequada e saudável",
+        "Práticas corporais e atividade física",
+        "Cultura de paz e direitos humanos",
+        "Tratamento medicamentoso de doenças crônicas",
+        "Desenvolvimento sustentável"
+      ],
+      "gabarito": "D"
+    },
+    {
+      "id": 18,
+      "enunciado": "Sobre o COAP (Decreto 7.508/2011), é correto:",
+      "alternativas": [
+        "É facultativo para entes federativos",
+        "Define responsabilidades individuais e solidárias",
+        "Substitui financiamento tripartite",
+        "Elimina comissões intergestores",
+        "Aplica-se apenas a municípios grandes"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 19,
+      "enunciado": "O NASF (Núcleo de Apoio à Saúde da Família) tem como objetivo:",
+      "alternativas": [
+        "Substituir equipes de Saúde da Família",
+        "Ampliar abrangência e escopo das ações da AB",
+        "Realizar apenas vigilância sanitária",
+        "Gerenciar administrativamente as UBS",
+        "Coordenar as redes de atenção"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 20,
+      "enunciado": "A PNAB (Portaria 2.436/2017) estabelece que o processo de trabalho deve considerar:",
+      "alternativas": [
+        "Apenas demanda espontânea",
+        "Exclusivamente ações programáticas verticais",
+        "Definição de território e população adscrita",
+        "Fragmentação entre ações individuais e coletivas",
+        "Ausência de vínculo longitudinal"
+      ],
+      "gabarito": "C"
+    },
+    {
+      "id": 21,
+      "enunciado": "O financiamento da Atenção Básica é composto por:",
+      "alternativas": [
+        "Apenas recursos federais",
+        "Transferências federais e recursos próprios de estados/municípios",
+        "Apenas arrecadação municipal",
+        "Pagamento direto pelos usuários",
+        "Doações internacionais"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 22,
+      "enunciado": "O princípio da EQUIDADE no SUS significa:",
+      "alternativas": [
+        "Oferecer o mesmo para todos indistintamente",
+        "Tratar desigualmente os desiguais, reduzindo iniquidades",
+        "Priorizar grupos economicamente favorecidos",
+        "Apenas igualdade de acesso",
+        "Não considerar especificidades regionais"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 23,
+      "enunciado": "A territorialização na Atenção Básica é importante porque:",
+      "alternativas": [
+        "Delimita burocraticamente áreas",
+        "Permite conhecer condições de vida e saúde da população",
+        "Restringe acesso aos serviços",
+        "Dificulta planejamento de ações",
+        "Elimina trabalho em equipe"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 24,
+      "enunciado": "A Rede Cegonha (Portaria 1.459/2011) visa:",
+      "alternativas": [
+        "Garantir apenas parto normal",
+        "Implementar rede de cuidados à mulher e criança",
+        "Substituir pré-natal na atenção básica",
+        "Centralizar partos em hospitais terciários",
+        "Reduzir consultas de pré-natal"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 25,
+      "enunciado": "Matriciamento ou apoio matricial refere-se a:",
+      "alternativas": [
+        "Substituição da equipe por especialistas",
+        "Arranjo que viabiliza suporte técnico especializado",
+        "Encaminhamento sistemático para especialistas",
+        "Fragmentação do cuidado",
+        "Verticalização sem integração"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 26,
+      "enunciado": "Sobre a PNAISH (Saúde do Homem), é INCORRETO:",
+      "alternativas": [
+        "Reconhece menor acesso masculino à APS",
+        "Propõe ações específicas de prevenção",
+        "Estimula autocuidado e corresponsabilização",
+        "Prioriza exclusivamente IST/AIDS",
+        "Busca reorganizar serviços para facilitar acesso"
+      ],
+      "gabarito": "D"
+    },
+    {
+      "id": 27,
+      "enunciado": "A PNSPI (Saúde da Pessoa Idosa) estabelece como diretriz:",
+      "alternativas": [
+        "Institucionalização obrigatória de dependentes",
+        "Promoção do envelhecimento ativo e saudável",
+        "Atendimento apenas em unidades especializadas",
+        "Restrição a tratamentos de alta complexidade",
+        "Desestímulo à participação social"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 28,
+      "enunciado": "O Programa Saúde na Escola (PSE) resulta da integração entre:",
+      "alternativas": [
+        "Ministério da Saúde e Ministério da Educação",
+        "Apenas secretarias estaduais de saúde",
+        "ONGs e municípios",
+        "Iniciativa privada e governo federal",
+        "Conselhos profissionais e universidades"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 29,
+      "enunciado": "Sobre Política Nacional de Saúde Mental, é correto:",
+      "alternativas": [
+        "Prioriza modelo manicomial",
+        "Promove desinstitucionalização e cuidado em liberdade",
+        "Restringe tratamento à medicalização",
+        "Centraliza em hospitais psiquiátricos",
+        "Exclui família do processo"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 30,
+      "enunciado": "Os CAPS (Centros de Atenção Psicossocial) são serviços que:",
+      "alternativas": [
+        "Substituem completamente hospitais psiquiátricos",
+        "Oferecem atendimento diário em atenção psicossocial",
+        "Funcionam apenas para internações longas",
+        "Atendem apenas dependência química",
+        "São exclusivos para atendimento infantil"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 31,
+      "enunciado": "A PNPIC (Práticas Integrativas e Complementares) no SUS inclui:",
+      "alternativas": [
+        "Apenas homeopatia e acupuntura",
+        "Acupuntura, homeopatia, plantas medicinais e fitoterapia",
+        "Exclusivamente medicina antroposófica",
+        "Apenas práticas corporais orientais",
+        "Somente plantas medicinais"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 32,
+      "enunciado": "O Programa Bolsa Família relaciona-se com saúde através de:",
+      "alternativas": [
+        "Inexistência de condicionalidades",
+        "Acompanhamento de calendário vacinal e pré-natal",
+        "Substituição do atendimento na AB",
+        "Apenas matrícula escolar obrigatória",
+        "Distribuição de medicamentos gratuitos"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 33,
+      "enunciado": "Sobre a PNAN (Alimentação e Nutrição), é INCORRETO:",
+      "alternativas": [
+        "Integra a Política Nacional de Saúde",
+        "Promove alimentação adequada e saudável",
+        "Foca exclusivamente em desnutrição infantil",
+        "Aborda vigilância alimentar e nutricional",
+        "Articula-se com Segurança Alimentar"
+      ],
+      "gabarito": "C"
+    },
+    {
+      "id": 34,
+      "enunciado": "A RAPS (Rede de Atenção Psicossocial) tem como componentes:",
+      "alternativas": [
+        "Apenas CAPS e hospitais psiquiátricos",
+        "Atenção básica, atenção psicossocial, urgência, entre outros",
+        "Exclusivamente serviços residenciais terapêuticos",
+        "Somente unidades de acolhimento",
+        "Apenas consultórios na rua"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 35,
+      "enunciado": "O controle social no SUS é exercido através de:",
+      "alternativas": [
+        "Conselhos de Saúde e Conferências de Saúde",
+        "Apenas gestores de saúde",
+        "Exclusivamente profissionais de saúde",
+        "Unicamente Ministério Público",
+        "Só representantes do governo federal"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 36,
+      "enunciado": "As Conferências de Saúde (Lei 8.142/90) devem ocorrer:",
+      "alternativas": [
+        "Anualmente em todos os níveis",
+        "A cada quatro anos para avaliar situação de saúde",
+        "Apenas quando convocadas pelo MS",
+        "Mensalmente nas UBS",
+        "A cada dois anos só no âmbito federal"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 37,
+      "enunciado": "O PSE (Programa Saúde na Escola) visa promover:",
+      "alternativas": [
+        "Apenas tratamento de doenças em estudantes",
+        "Saúde e educação integral de crianças e adolescentes",
+        "Exclusivamente vacinação escolar",
+        "Somente atividades físicas",
+        "Apenas educação sexual"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 38,
+      "enunciado": "Sobre a Política de Redução de Morbimortalidade por Acidentes e Violências:",
+      "alternativas": [
+        "Foca apenas em acidentes de trânsito",
+        "Propõe articulação intersetorial para prevenção e atenção",
+        "Restringe-se a ações policiais",
+        "Exclui violência doméstica",
+        "Limita-se ao atendimento hospitalar"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 39,
+      "enunciado": "A notificação de violência doméstica, sexual e outras é:",
+      "alternativas": [
+        "Opcional para profissionais de saúde",
+        "Obrigatória apenas em violência sexual",
+        "Compulsória em todo território nacional",
+        "Necessária só com registro policial",
+        "Dispensada em casos contra idosos"
+      ],
+      "gabarito": "C"
+    },
+    {
+      "id": 40,
+      "enunciado": "O acolhimento nos serviços de saúde implica:",
+      "alternativas": [
+        "Recepção sem avaliação de necessidades",
+        "Escuta qualificada e responsabilização pela demanda",
+        "Atendimento exclusivamente por ordem de chegada",
+        "Triagem que impede acesso de não urgentes",
+        "Transferência imediata para especialistas"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 41,
+      "enunciado": "O SNVS (Sistema Nacional de Vigilância Sanitária) objetiva:",
+      "alternativas": [
+        "Apenas fiscalizar estabelecimentos comerciais",
+        "Eliminar, diminuir ou prevenir riscos à saúde de produtos/serviços",
+        "Substituir vigilância epidemiológica",
+        "Controlar apenas medicamentos",
+        "Atuar só em portos e aeroportos"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 42,
+      "enunciado": "A Assistência Farmacêutica no SUS compreende:",
+      "alternativas": [
+        "Apenas dispensação de medicamentos",
+        "Conjunto de ações desde seleção até uso racional",
+        "Exclusivamente produção de genéricos",
+        "Somente armazenamento",
+        "Apenas prescrição médica"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 43,
+      "enunciado": "A RENAME (Relação Nacional de Medicamentos Essenciais) é:",
+      "alternativas": [
+        "Lista de medicamentos apenas da rede privada",
+        "Seleção de medicamentos para necessidades prioritárias",
+        "Catálogo apenas de alto custo",
+        "Relação de importados pelo SUS",
+        "Lista de venda livre"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 44,
+      "enunciado": "O Programa Farmácia Popular do Brasil visa:",
+      "alternativas": [
+        "Substituir assistência farmacêutica do SUS",
+        "Ampliar acesso com coparticipação ou gratuidade",
+        "Disponibilizar apenas medicamentos de marca",
+        "Comercializar controlados sem receita",
+        "Vender apenas em redes privadas"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 45,
+      "enunciado": "Sobre o Programa de Controle da Tuberculose, é INCORRETO:",
+      "alternativas": [
+        "Preconiza tratamento diretamente observado (TDO)",
+        "É exclusivo da atenção especializada",
+        "Visa detecção precoce e tratamento adequado",
+        "Integra vigilância epidemiológica",
+        "Prioriza atenção básica como porta de entrada"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 46,
+      "enunciado": "O Programa de Controle da Hanseníase objetiva:",
+      "alternativas": [
+        "Erradicar a hanseníase como problema de saúde pública",
+        "Promover isolamento compulsório",
+        "Tratamento apenas em hospitais especializados",
+        "Restringir diagnóstico a centros de referência",
+        "Descontinuar vigilância de contatos"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 47,
+      "enunciado": "A Política de Saúde da População Negra reconhece:",
+      "alternativas": [
+        "Inexistência de iniquidades raciais",
+        "Racismo como determinante social de saúde",
+        "Desnecessidade de ações específicas",
+        "Igualdade de indicadores entre grupos",
+        "Apenas fatores genéticos como determinantes"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 48,
+      "enunciado": "Sobre a Política de Saúde LGBT, é correto:",
+      "alternativas": [
+        "Promove ações de combate à discriminação",
+        "Restringe atendimento a serviços especializados",
+        "Ignora especificidades de saúde",
+        "Limita-se a IST/AIDS",
+        "Exclui travestis e transexuais"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 49,
+      "enunciado": "O Programa de Controle do Tabagismo tem como estratégia:",
+      "alternativas": [
+        "Criminalização de fumantes",
+        "Ações educativas, legislativas e econômicas integradas",
+        "Proibição total da venda de cigarros",
+        "Responsabilização apenas individual",
+        "Desconsideração do tabagismo passivo"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 50,
+      "enunciado": "A Lei 8.080/90 define saúde como:",
+      "alternativas": [
+        "Ausência de doença física ou mental",
+        "Resultado apenas de políticas do setor saúde",
+        "Direito decorrente de alimentação, moradia, educação, entre outros",
+        "Responsabilidade exclusiva do indivíduo",
+        "Estado de bem-estar apenas físico"
+      ],
+      "gabarito": "C"
+    }
+  ]
+}

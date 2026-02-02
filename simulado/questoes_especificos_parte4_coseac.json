@@ -1,0 +1,604 @@
+{
+  "especificos_parte4_coseac": [
+    {
+      "id": 151,
+      "enunciado": "Sobre territorialização, o ACS deve:",
+      "alternativas": [
+        "Apenas delimitar ruas",
+        "Conhecer características demográficas, sociais, epidemiológicas do território",
+        "Ignorar aspectos sociais",
+        "Apenas contar casas",
+        "Não precisa conhecer o território"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 152,
+      "enunciado": "Recém-nascido sem teste do pezinho realizado. O ACS deve:",
+      "alternativas": [
+        "Apenas anotar",
+        "Orientar urgência e encaminhar para coleta imediata",
+        "Coletar pessoalmente",
+        "Aguardar próxima campanha",
+        "Não é importante"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 153,
+      "enunciado": "Sobre a vacina pentavalente, protege contra:",
+      "alternativas": [
+        "Hepatite A, B, C, D e E",
+        "Difteria, tétano, coqueluche, Hib e hepatite B",
+        "Sarampo, caxumba, rubéola, varicela e hepatite A",
+        "Meningites A, C, W, Y e B",
+        "Rotavírus, influenza, pneumococo, meningococo e HPV"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 154,
+      "enunciado": "Sobre influenza (gripe), são priorizados na campanha de vacinação:",
+      "alternativas": [
+        "Apenas crianças < 5 anos",
+        "Idosos, gestantes, crianças 6m-<6a, doentes crônicos, entre outros",
+        "Somente trabalhadores da saúde",
+        "Exclusivamente doentes crônicos",
+        "Toda população indistintamente"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 155,
+      "enunciado": "Sobre sífilis congênita, é correto:",
+      "alternativas": [
+        "É impossível prevenir",
+        "Prevenção: diagnóstico e tratamento da gestante e parceiro",
+        "Não causa sequelas",
+        "Parceiro não precisa tratar",
+        "Pré-natal é dispensável"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 156,
+      "enunciado": "Sobre alimentação complementar (após 6 meses), o ACS orienta:",
+      "alternativas": [
+        "Iniciar aos 4 meses",
+        "Iniciar aos 6 meses mantendo aleitamento",
+        "Suspender aleitamento ao introduzir alimentos",
+        "Apenas frutas no primeiro ano",
+        "Iniciar com alimentos industrializados"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 157,
+      "enunciado": "Sobre desnutrição infantil, o ACS identifica e:",
+      "alternativas": [
+        "Apenas orienta alimentação",
+        "Comunica IMEDIATAMENTE à equipe para avaliação",
+        "Aguarda próxima visita",
+        "Doar alimentos",
+        "Apenas registra"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 158,
+      "enunciado": "Sobre obesidade infantil, o ACS pode orientar:",
+      "alternativas": [
+        "É apenas estético",
+        "Alimentação saudável, atividade física, acompanhamento",
+        "Não precisa intervir",
+        "Apenas dieta restritiva",
+        "Apenas medicação"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 159,
+      "enunciado": "Sobre atividade física, o ACS orienta:",
+      "alternativas": [
+        "Apenas exercícios intensos",
+        "Caminhadas regulares já trazem benefícios",
+        "Idosos não devem praticar",
+        "Apenas atletas precisam",
+        "Contraindicada em crônicos"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 160,
+      "enunciado": "Sobre alimentação saudável, o ACS recomenda:",
+      "alternativas": [
+        "Consumo de ultraprocessados",
+        "Priorizar alimentos in natura e minimamente processados",
+        "Restrição total de carboidratos",
+        "Uso frequente de suplementos",
+        "Dietas da moda"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 161,
+      "enunciado": "Sobre primeira visita ao dentista, deve ocorrer:",
+      "alternativas": [
+        "Apenas quando criança sentir dor",
+        "Após erupção do primeiro dente",
+        "Apenas após troca dos dentes",
+        "Na adolescência",
+        "Quando todos dentes permanentes nasceram"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 162,
+      "enunciado": "Sobre fluoretação da água, visa:",
+      "alternativas": [
+        "Prevenir doenças gastrointestinais",
+        "Reduzir incidência de cárie dentária",
+        "Eliminar bactérias",
+        "Melhorar sabor",
+        "Prevenir doenças de pele"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 163,
+      "enunciado": "Sobre prevenção de acidentes domésticos com crianças:",
+      "alternativas": [
+        "Não é papel do ACS",
+        "Orientar sobre riscos: tomadas, escadas, produtos químicos",
+        "Apenas após acidente",
+        "Somente em crianças pequenas",
+        "Não é prioridade"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 164,
+      "enunciado": "Sobre climatério/menopausa:",
+      "alternativas": [
+        "Não necessita acompanhamento",
+        "Orientar sobre mudanças e importância de acompanhamento",
+        "Apenas medicar sintomas",
+        "Processo natural sem cuidados",
+        "Não é tema para ACS"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 165,
+      "enunciado": "Pessoa em situação de rua. O ACS deve:",
+      "alternativas": [
+        "Ignorar por não ter endereço fixo",
+        "Acolher, orientar sobre direitos, articular rede",
+        "Apenas oferecer comida",
+        "Chamar polícia",
+        "Não é responsabilidade da saúde"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 166,
+      "enunciado": "Sobre saúde do trabalhador, o ACS pode:",
+      "alternativas": [
+        "Apenas observar",
+        "Identificar riscos ocupacionais e orientar sobre direitos",
+        "Prescrever afastamento",
+        "Emitir CAT",
+        "Fazer perícia"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 167,
+      "enunciado": "Sobre sintomas de COVID-19, pessoa com febre, tosse, perda de olfato. O ACS deve:",
+      "alternativas": [
+        "Entrar normalmente na casa",
+        "Orientar isolamento, procurar serviço, usar EPIs durante visita",
+        "Apenas ligar sem visitar",
+        "Ignorar",
+        "Visitar sem proteção"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 168,
+      "enunciado": "Sobre vacinação antirrábica de animais, o ACS orienta:",
+      "alternativas": [
+        "Apenas anotar",
+        "Importância e encaminhar para vacinação",
+        "Aplicar vacina pessoalmente",
+        "Notificar para recolher animais",
+        "Ignorar"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 169,
+      "enunciado": "Sobre mamografia de rastreamento, é recomendada:",
+      "alternativas": [
+        "Para todas mulheres > 30 anos",
+        "Bienalmente para mulheres de 50-69 anos",
+        "Anualmente a partir dos 35 anos",
+        "Apenas quando há nódulo",
+        "Somente com histórico familiar"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 170,
+      "enunciado": "Sobre educação em saúde, o ACS deve:",
+      "alternativas": [
+        "Impor conhecimentos",
+        "Dialogar e construir conhecimento com a comunidade",
+        "Focar apenas em palestras técnicas",
+        "Desconsiderar saberes populares",
+        "Usar linguagem complexa"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 171,
+      "enunciado": "Durante surto de doença transmissível, o ACS deve:",
+      "alternativas": [
+        "Ocultar informações",
+        "Orientar medidas preventivas e comunicar equipe/vigilância",
+        "Aguardar instruções sem agir",
+        "Responsabilizar apenas população",
+        "Ignorar situação"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 172,
+      "enunciado": "Participação do ACS em atividades coletivas (grupos, campanhas):",
+      "alternativas": [
+        "Dispensável, focar visitas",
+        "Fundamental para promoção e fortalecimento comunitário",
+        "Exclusiva de outros profissionais",
+        "Desnecessária",
+        "Apenas burocrática"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 173,
+      "enunciado": "ACS identifica situação fora de competência. Deve:",
+      "alternativas": [
+        "Tentar resolver sozinho",
+        "Acionar outros membros da equipe",
+        "Ignorar",
+        "Improvisar",
+        "Culpar família"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 174,
+      "enunciado": "Sobre visita domiciliar, o ACS deve priorizar:",
+      "alternativas": [
+        "Apenas quem solicita",
+        "Gestantes, crianças, idosos, acamados, situações de risco",
+        "Somente doentes crônicos",
+        "Exclusivamente recém-cadastrados",
+        "Apenas quem tem consulta"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 175,
+      "enunciado": "Criança com esquema vacinal atrasado. O ACS deve:",
+      "alternativas": [
+        "Apenas anotar",
+        "Orientar importância e encaminhar para atualização",
+        "Aplicar pessoalmente",
+        "Esperar campanha",
+        "Notificar Conselho Tutelar"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 176,
+      "enunciado": "Sobre puericultura, o ACS orienta que:",
+      "alternativas": [
+        "É apenas quando adoece",
+        "Acompanha crescimento e desenvolvimento sistematicamente",
+        "Substitui vacinação",
+        "É exclusiva de pediatras",
+        "Não é importante"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 177,
+      "enunciado": "Gestante faltosa ao pré-natal. O ACS deve:",
+      "alternativas": [
+        "Apenas anotar",
+        "Busca ativa, investigar motivos, orientar importância",
+        "Avisar apenas médico",
+        "Aguardar que procure",
+        "Desistir após segunda falta"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 178,
+      "enunciado": "Sinais de alerta na gestação (sangramento, dor, febre, perda de líquido) exigem:",
+      "alternativas": [
+        "Aguardar próxima consulta",
+        "Avaliação médica IMEDIATA",
+        "Apenas repouso",
+        "Aguardar melhora",
+        "Orientação por telefone"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 179,
+      "enunciado": "Sobre saúde mental, o ACS contribui orientando:",
+      "alternativas": [
+        "Prescrição de psiquiátricos",
+        "Importância de buscar ajuda, reduzir estigma, apoio",
+        "Internação imediata",
+        "Apenas medicação",
+        "Isolamento social"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 180,
+      "enunciado": "Sobre acompanhamento de doentes crônicos, o ACS:",
+      "alternativas": [
+        "Apenas anota medicação",
+        "Monitora adesão, comparecimento, hábitos de vida",
+        "Prescreve medicamentos",
+        "Substitui consultas",
+        "Apenas entrega receitas"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 181,
+      "enunciado": "Pessoa acamada no domicílio. O ACS orienta sobre:",
+      "alternativas": [
+        "Apenas higiene",
+        "Mudança de decúbito, higiene, alimentação, sinais de alerta",
+        "Não precisa orientar",
+        "Apenas medicação",
+        "Somente emocional"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 182,
+      "enunciado": "Caso suspeito de tuberculose. O ACS deve:",
+      "alternativas": [
+        "Apenas anotar",
+        "Encaminhar urgentemente para avaliação e coleta de escarro",
+        "Aguardar próxima visita",
+        "Orientar apenas repouso",
+        "Isolar imediatamente"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 183,
+      "enunciado": "Sobre TDO (Tratamento Diretamente Observado) da tuberculose:",
+      "alternativas": [
+        "É desnecessário",
+        "ACS pode observar tomada diária da medicação",
+        "Apenas médico faz",
+        "Substitui medicação",
+        "É obrigatório para todos"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 184,
+      "enunciado": "Contato de hanseníase. O ACS deve:",
+      "alternativas": [
+        "Isolar contatos",
+        "Orientar sobre exame dermatoneurológico",
+        "Apenas observar",
+        "Aplicar medicação profilática",
+        "Não fazer nada"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 185,
+      "enunciado": "Sobre arboviroses (dengue, zika, chikungunya), o ACS orienta:",
+      "alternativas": [
+        "Apenas repelente",
+        "Eliminação de criadouros, proteção, procurar serviço se sintomas",
+        "Somente inseticida",
+        "Apenas em epidemias",
+        "Não precisa orientar"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 186,
+      "enunciado": "Idoso com dificuldade de locomoção faltoso. O ACS deve:",
+      "alternativas": [
+        "Apenas anotar faltas",
+        "Investigar dificuldades e articular atendimento domiciliar/transporte",
+        "Culpar o idoso",
+        "Desmarcar futuras",
+        "Não fazer nada"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 187,
+      "enunciado": "Sobre violência contra mulher, o ACS deve:",
+      "alternativas": [
+        "Manter sigilo e não agir",
+        "Acolher, informar direitos, notificar, articular rede",
+        "Apenas aconselhar sair",
+        "Confrontar agressor",
+        "Ignorar se não denunciar"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 188,
+      "enunciado": "Sobre Bolsa Família, o ACS:",
+      "alternativas": [
+        "Faz inscrição",
+        "Monitora condicionalidades de saúde (vacina, pré-natal)",
+        "Gerencia pagamentos",
+        "Cadastra beneficiários",
+        "Define valores"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 189,
+      "enunciado": "Sobre saneamento básico, relaciona-se a:",
+      "alternativas": [
+        "Apenas gripe",
+        "Diarreias, verminoses, hepatite A",
+        "Exclusivamente câncer",
+        "Apenas cardíacas",
+        "Apenas diabetes"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 190,
+      "enunciado": "Sobre determinantes sociais:",
+      "alternativas": [
+        "Apenas biológicos",
+        "Condições socioeconômicas, culturais, ambientais",
+        "Não influenciam",
+        "Apenas responsabilidade individual",
+        "Limitam-se a serviços"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 191,
+      "enunciado": "Sobre prontuário familiar/individual:",
+      "alternativas": [
+        "Pode ser compartilhado publicamente",
+        "Deve ser mantido em sigilo profissional",
+        "Não requer preenchimento adequado",
+        "É de propriedade exclusiva do paciente",
+        "Pode ser descartado"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 192,
+      "enunciado": "Mapeamento do território serve para:",
+      "alternativas": [
+        "Apenas delimitar",
+        "Conhecer características demográficas, sociais, epidemiológicas",
+        "Substituir visitas",
+        "Controlar sem planejamento",
+        "Dificultar acesso"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 193,
+      "enunciado": "Comunicação efetiva do ACS deve:",
+      "alternativas": [
+        "Termos técnicos sem explicação",
+        "Ser clara, respeitosa, adaptada ao contexto cultural",
+        "Impor opiniões",
+        "Desconsiderar dúvidas",
+        "Criar barreiras"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 194,
+      "enunciado": "Cadastramento de famílias permite:",
+      "alternativas": [
+        "Apenas controle burocrático",
+        "Planejamento de ações baseado em necessidades",
+        "Invasão de privacidade",
+        "Dificultar acesso",
+        "Substituir outras atividades"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 195,
+      "enunciado": "Sobre lesão de pele suspeita, o ACS deve:",
+      "alternativas": [
+        "Diagnosticar pessoalmente",
+        "Orientar procura de avaliação médica",
+        "Prescrever pomada",
+        "Ignorar se não dói",
+        "Apenas fotografar"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 196,
+      "enunciado": "Sobre prevenção de câncer de próstata:",
+      "alternativas": [
+        "Não há prevenção",
+        "Orientar homens sobre avaliação médica periódica após 50 anos",
+        "Apenas se houver sintomas",
+        "Somente com histórico familiar",
+        "Não é tema para ACS"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 197,
+      "enunciado": "Família em área de risco ambiental (deslizamento). O ACS deve:",
+      "alternativas": [
+        "Apenas anotar",
+        "Comunicar equipe e acionar defesa civil/assistência",
+        "Orientar sair sem apoio",
+        "Ignorar se não choveu",
+        "Aguardar tragédia"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 198,
+      "enunciado": "Sobre morte no domicílio, o ACS deve:",
+      "alternativas": [
+        "Emitir atestado",
+        "Acolher família, orientar procedimentos, acionar equipe",
+        "Apenas se retirar",
+        "Chamar polícia sempre",
+        "Fazer velório"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 199,
+      "enunciado": "Diabético descompensado faltoso. O ACS deve:",
+      "alternativas": [
+        "Apenas anotar",
+        "Busca ativa, investigar motivos, reforçar importância",
+        "Desistir após segunda falta",
+        "Apenas avisar médico",
+        "Aguardar procura espontânea"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 200,
+      "enunciado": "Adolescente com suspeita de uso de drogas. O ACS deve:",
+      "alternativas": [
+        "Confrontar agressivamente",
+        "Acolher, orientar riscos, articular equipe e rede",
+        "Apenas informar pais",
+        "Denúncia policial",
+        "Ignorar"
+      ],
+      "gabarito": "B"
+    }
+  ]
+}

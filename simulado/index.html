@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Simulado FEMAR - Agente Comunitário de Saúde">
+    <title>Simulado FEMAR ACS 2025</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Tela Inicial -->
+    <div id="telaInicial" class="container">
+        <header class="header">
+            <h1>🏥 Simulado FEMAR</h1>
+            <p class="subtitle">Agente Comunitário de Saúde</p>
+        </header>
+
+        <div class="info-card">
+            <h2>📋 Informações do Simulado</h2>
+            <ul class="info-list">
+                <li><strong>30 questões</strong> (10 de cada tópico)</li>
+                <li>✓ 10 Língua Portuguesa</li>
+                <li>✓ 10 Legislação do SUS</li>
+                <li>✓ 10 Conhecimentos Específicos</li>
+                <li>🎲 Questões aleatórias</li>
+                <li>🔀 Alternativas embaralhadas</li>
+                <li>⏱️ Com cronômetro</li>
+            </ul>
+        </div>
+
+        <div class="banco-info">
+            <p>📚 Banco: <strong>300 questões de alta dificuldade</strong></p>
+        </div>
+
+        <button id="btnIniciar" class="btn btn-primary">
+            🚀 Iniciar Simulado
+        </button>
+
+        <footer class="footer">
+            <p>💪 Baseado no Edital nº 2/2023 - FEMAR Maricá/RJ</p>
+        </footer>
+    </div>
+
+    <!-- Tela do Simulado -->
+    <div id="telaSimulado" class="container hidden">
+        <!-- Cabeçalho com info -->
+        <div class="simulado-header">
+            <div class="progress-info">
+                <span id="questaoAtual">1</span>/<span id="totalQuestoes">30</span>
+            </div>
+            <div class="timer" id="timer">⏱️ 00:00</div>
+        </div>
+
+        <!-- Barra de progresso -->
+        <div class="progress-bar">
+            <div class="progress-fill" id="progressFill"></div>
+        </div>
+
+        <!-- Área da questão -->
+        <div class="questao-card">
+            <div class="questao-topico" id="questaoTopico"></div>
+            <div class="questao-enunciado" id="questaoEnunciado"></div>
+            
+            <div class="alternativas" id="alternativasContainer"></div>
+        </div>
+
+        <!-- Navegação -->
+        <div class="navegacao">
+            <button id="btnAnterior" class="btn btn-secondary" disabled>
+                ← Anterior
+            </button>
+            <button id="btnProxima" class="btn btn-primary">
+                Próxima →
+            </button>
+            <button id="btnFinalizar" class="btn btn-success hidden">
+                ✓ Finalizar
+            </button>
+        </div>
+    </div>
+
+    <!-- Tela de Resultado -->
+    <div id="telaResultado" class="container hidden">
+        <header class="header">
+            <h1>🎯 Resultado do Simulado</h1>
+        </header>
+
+        <div class="resultado-card">
+            <div class="resultado-pontuacao">
+                <div class="pontuacao-grande" id="pontuacaoTotal">0</div>
+                <p>pontos de 30</p>
+            </div>
+
+            <div class="resultado-stats">
+                <div class="stat-item stat-acertos">
+                    <div class="stat-numero" id="totalAcertos">0</div>
+                    <div class="stat-label">✓ Acertos</div>
+                </div>
+                <div class="stat-item stat-erros">
+                    <div class="stat-numero" id="totalErros">0</div>
+                    <div class="stat-label">✗ Erros</div>
+                </div>
+                <div class="stat-item stat-percentual">
+                    <div class="stat-numero" id="percentualAcerto">0%</div>
+                    <div class="stat-label">% Acerto</div>
+                </div>
+            </div>
+
+            <div class="resultado-tempo">
+                <p>⏱️ Tempo total: <strong id="tempoFinal">00:00</strong></p>
+            </div>
+        </div>
+
+        <!-- Desempenho por tópico -->
+        <div class="topicos-desempenho">
+            <h3>📊 Desempenho por Tópico</h3>
+            <div class="topico-resultado">
+                <span class="topico-nome">📝 Português</span>
+                <span class="topico-pontos" id="pontosPortugues">0/10</span>
+            </div>
+            <div class="topico-resultado">
+                <span class="topico-nome">🏥 SUS</span>
+                <span class="topico-pontos" id="pontosSus">0/10</span>
+            </div>
+            <div class="topico-resultado">
+                <span class="topico-nome">👨‍⚕️ Específicos</span>
+                <span class="topico-pontos" id="pontosEspecificos">0/10</span>
+            </div>
+        </div>
+
+        <!-- Gabarito -->
+        <div class="gabarito-section">
+            <button id="btnToggleGabarito" class="btn btn-secondary">
+                📖 Ver Gabarito Detalhado
+            </button>
+            <div id="gabaritoDetalhado" class="gabarito-detalhado hidden"></div>
+        </div>
+
+        <!-- Botões de ação -->
+        <div class="resultado-acoes">
+            <button id="btnNovoSimulado" class="btn btn-primary">
+                🔄 Novo Simulado
+            </button>
+            <button id="btnVoltar" class="btn btn-secondary">
+                🏠 Voltar ao Início
+            </button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

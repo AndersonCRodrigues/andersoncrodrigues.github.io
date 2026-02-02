@@ -1,0 +1,604 @@
+{
+  "portugues_parte3_coseac": [
+    {
+      "id": 101,
+      "enunciado": "Analise: 'Comprovou-se QUE os dados ERAM consistentes, o QUE possibilitou prosseguir.' As ocorrências de 'que' são, respectivamente:",
+      "alternativas": [
+        "Conjunção integrante e conjunção integrante",
+        "Conjunção integrante e pronome relativo",
+        "Pronome relativo e pronome relativo",
+        "Pronome relativo e conjunção integrante",
+        "Partícula expletiva e pronome relativo"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 102,
+      "enunciado": "'Os profissionais, CUJAS competências foram avaliadas, receberam certificação.' A função sintática de 'cujas' é:",
+      "alternativas": [
+        "Adjunto adnominal de 'profissionais'",
+        "Adjunto adnominal de 'competências'",
+        "Complemento nominal de 'avaliadas'",
+        "Objeto direto de 'foram avaliadas'",
+        "Predicativo do sujeito"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 103,
+      "enunciado": "'Se MANTIVERMOS a calma, superaremos.' 'MANTIVÉSSEMOS' seria empregado em:",
+      "alternativas": [
+        "Futuro do subjuntivo",
+        "Pretérito imperfeito do subjuntivo",
+        "Presente do subjuntivo",
+        "Pretérito perfeito do indicativo",
+        "Futuro do pretérito"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 104,
+      "enunciado": "Em 'A equipe SE esforçou, MAS não SE alcançaram os objetivos', os 'se' são, respectivamente:",
+      "alternativas": [
+        "Parte integrante e pronome apassivador",
+        "Pronome reflexivo e índice de indeterminação",
+        "Pronome reflexivo e pronome apassivador",
+        "Parte integrante e índice de indeterminação",
+        "Pronome apassivador e pronome apassivador"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 105,
+      "enunciado": "'HAJA VISTA os resultados' ou 'HAJAM VISTA os resultados'. Segundo a norma culta:",
+      "alternativas": [
+        "Apenas a primeira é correta",
+        "Apenas a segunda é correta",
+        "Ambas são corretas",
+        "Nenhuma é correta",
+        "Depende do contexto"
+      ],
+      "gabarito": "C"
+    },
+    {
+      "id": 106,
+      "enunciado": "'O médico QUIZ ajudar, mas não PODE.' Quanto à ortografia:",
+      "alternativas": [
+        "Ambas corretas",
+        "'Quis' e 'pôde' seriam as formas corretas",
+        "'Quiz' e 'poude' seriam corretas",
+        "'Quis' correto, 'pode' correto",
+        "'Quiz' aceito, 'pôde' necessário"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 107,
+      "enunciado": "Em 'É necessário QUE haja mudanças', a oração subordinada é:",
+      "alternativas": [
+        "Substantiva objetiva direta",
+        "Substantiva subjetiva reduzida",
+        "Substantiva subjetiva desenvolvida",
+        "Adjetiva restritiva",
+        "Adverbial causal"
+      ],
+      "gabarito": "C"
+    },
+    {
+      "id": 108,
+      "enunciado": "'Informaram AO diretor DE QUE haveria mudanças.' Quanto à regência:",
+      "alternativas": [
+        "Ambas preposições corretas",
+        "'Ao' correto, 'de que' incorreto (deve ser 'que')",
+        "'Ao' incorreto, 'de que' correto",
+        "Ambas incorretas",
+        "'De que' é facultativo"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 109,
+      "enunciado": "'BASTANTE pessoas compareceram.' vs 'Pessoas BASTANTE dedicadas.' Os termos são:",
+      "alternativas": [
+        "Adjetivo e advérbio",
+        "Advérbio e adjetivo",
+        "Ambos adjetivos",
+        "Ambos advérbios",
+        "Pronome indefinido e adjetivo"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 110,
+      "enunciado": "'A paciente TINHA SIDO ATENDIDA quando chegamos.' A locução verbal indica:",
+      "alternativas": [
+        "Pretérito perfeito composto",
+        "Pretérito mais-que-perfeito composto",
+        "Futuro do pretérito composto",
+        "Pretérito imperfeito composto",
+        "Pretérito perfeito simples"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 111,
+      "enunciado": "'Os CARACTERES foram analisados.' O plural está correto porque:",
+      "alternativas": [
+        "'Caráter' muda a sílaba tônica no plural",
+        "Mantém o acento na mesma sílaba",
+        "'Caractéres' seria a forma correta",
+        "'Carácteres' seria aceito também",
+        "Não admite plural"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 112,
+      "enunciado": "'CUSTA-ME crer nisso.' A regência está:",
+      "alternativas": [
+        "Incorreta: deveria ser 'me custa'",
+        "Correta: 'custar' com sentido de 'ser difícil' admite próclise/ênclise",
+        "Incorreta: deveria ser 'custa a mim'",
+        "Correta apenas na linguagem coloquial",
+        "Incorreta: 'custar' não admite objeto indireto"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 113,
+      "enunciado": "'Seguem ANEXAS as fichas.' vs 'As fichas seguem EM ANEXO.' Quanto ao uso:",
+      "alternativas": [
+        "Apenas primeira correta",
+        "Apenas segunda correta",
+        "Ambas corretas",
+        "Nenhuma correta",
+        "Primeira formal, segunda coloquial"
+      ],
+      "gabarito": "C"
+    },
+    {
+      "id": 114,
+      "enunciado": "'Ele INTERVIU no processo.' vs 'Ele INTERVEIO no processo.' Segundo a norma:",
+      "alternativas": [
+        "Apenas primeira correta",
+        "Apenas segunda correta",
+        "Ambas aceitas",
+        "Nenhuma correta",
+        "Primeira coloquial, segunda culta"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 115,
+      "enunciado": "'A SESSÃO será suspensa.' vs 'Haverá SEÇÃO de votação.' vs 'A CESSÃO foi autorizada.' Os termos significam:",
+      "alternativas": [
+        "Reunião, parte, ato de ceder",
+        "Ato de ceder, reunião, parte",
+        "Parte, ato de ceder, reunião",
+        "Todos sinônimos",
+        "Reunião, reunião, ato de ceder"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 116,
+      "enunciado": "'Os PROJETOSILE foram testados.' O plural correto de 'projétil' é:",
+      "alternativas": [
+        "Projetis",
+        "Projétis",
+        "Projéteis",
+        "Projectis",
+        "Projeitos"
+      ],
+      "gabarito": "C"
+    },
+    {
+      "id": 117,
+      "enunciado": "'É PROIBIDA A entrada.' vs 'É PROIBIDO entrada.' A diferença está:",
+      "alternativas": [
+        "Não há diferença",
+        "Com artigo concorda, sem artigo fica invariável",
+        "Primeira errada, segunda certa",
+        "Segunda errada, primeira certa",
+        "Ambas erradas"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 118,
+      "enunciado": "'Ele REAVEU os documentos.' Quanto ao verbo 'reaver':",
+      "alternativas": [
+        "Correto: conjuga-se regularmente",
+        "Incorreto: 'reaver' é defectivo, não tem esta forma",
+        "Correto: segue modelo de 'haver'",
+        "Incorreto: deveria ser 'reouve'",
+        "Correto na linguagem coloquial"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 119,
+      "enunciado": "'Os TÓRAX foram examinados.' O plural de palavras terminadas em X:",
+      "alternativas": [
+        "Sempre variam",
+        "São invariáveis",
+        "Acrescentam 'es'",
+        "Mudam para 'ces'",
+        "Dependem do contexto"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 120,
+      "enunciado": "'Eles se COMPROMETERAM a ajudar.' O 'se' é:",
+      "alternativas": [
+        "Pronome reflexivo",
+        "Parte integrante do verbo",
+        "Pronome apassivador",
+        "Índice de indeterminação",
+        "Pronome recíproco"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 121,
+      "enunciado": "'À MEDIDA QUE avançamos' vs 'NA MEDIDA EM QUE avançamos'. Quanto ao sentido:",
+      "alternativas": [
+        "Primeira: proporção / Segunda: causa",
+        "Ambas: proporção",
+        "Primeira: causa / Segunda: proporção",
+        "Ambas: causa",
+        "São sinônimas absolutas"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 122,
+      "enunciado": "'Prefiro MAIS café DO QUE chá.' A regência está:",
+      "alternativas": [
+        "Correta: forma padrão",
+        "Incorreta: 'preferir' rejeita intensificador e pede 'a'",
+        "Correta na linguagem coloquial",
+        "Incorreta apenas o 'mais'",
+        "Correta apenas o 'do que'"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 123,
+      "enunciado": "'ALUGA-SE casas.' vs 'ALUGAM-SE casas.' Segundo a norma:",
+      "alternativas": [
+        "Primeira correta (sujeito indeterminado)",
+        "Segunda correta (voz passiva sintética)",
+        "Ambas corretas",
+        "Nenhuma correta",
+        "Primeira coloquial, segunda culta"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 124,
+      "enunciado": "'Ele PROPÔS a solução.' O acento circunflexo:",
+      "alternativas": [
+        "Não existe mais após Acordo Ortográfico",
+        "É diferencial (distingue 'propôs' de 'propos')",
+        "Está incorreto",
+        "É facultativo",
+        "Apenas em Portugal"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 125,
+      "enunciado": "'Quando VIRES o resultado' vs 'Quando VERES o resultado'. A forma correta:",
+      "alternativas": [
+        "'Vires' (futuro subjuntivo de 'ver')",
+        "'Veres' (infinitivo)",
+        "Ambas corretas em contextos diferentes",
+        "'Vires' (futuro de 'vir')",
+        "Nenhuma correta"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 126,
+      "enunciado": "'Ele PROVEU o cargo.' vs 'Ele PROVIU o cargo.' Segundo gramática:",
+      "alternativas": [
+        "Primeira correta (segue modelo próprio)",
+        "Segunda correta (segue modelo de 'ver')",
+        "Ambas aceitas",
+        "Nenhuma correta",
+        "Primeira formal, segunda coloquial"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 127,
+      "enunciado": "'FAZEM dois anos' vs 'FAZ dois anos'. A concordância correta:",
+      "alternativas": [
+        "'Fazem' (concorda com 'anos')",
+        "'Faz' (verbo impessoal)",
+        "Ambas aceitas",
+        "Depende do contexto",
+        "'Fazem' em Portugal, 'faz' no Brasil"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 128,
+      "enunciado": "'Os ÓCULOS estão' vs 'O ÓCULOS está'. Quanto ao número:",
+      "alternativas": [
+        "Primeira correta (plural obrigatório)",
+        "Segunda aceita (singular facultativo)",
+        "Ambas corretas",
+        "Nenhuma correta",
+        "Depende da quantidade"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 129,
+      "enunciado": "'Entre EU e VOCÊ' vs 'Entre MIM e VOCÊ'. A forma correta:",
+      "alternativas": [
+        "Primeira (pronomes retos após preposição)",
+        "Segunda (pronomes oblíquos após preposição)",
+        "Ambas aceitas",
+        "Depende se há verbo após",
+        "Primeira formal, segunda coloquial"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 130,
+      "enunciado": "'Pediu PARA MIM fazer' vs 'Pediu PARA EU fazer'. O correto:",
+      "alternativas": [
+        "Primeira (objeto indireto)",
+        "Segunda ('eu' é sujeito de 'fazer')",
+        "Ambas aceitas",
+        "Nenhuma ('que eu fizesse')",
+        "Primeira coloquial, segunda culta"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 131,
+      "enunciado": "'A maioria DOS alunos FOI' vs 'A maioria DOS alunos FORAM'. Segundo gramática:",
+      "alternativas": [
+        "Apenas primeira correta",
+        "Apenas segunda correta",
+        "Ambas corretas (concordância facultativa)",
+        "Nenhuma correta",
+        "Primeira formal, segunda coloquial"
+      ],
+      "gabarito": "C"
+    },
+    {
+      "id": 132,
+      "enunciado": "'Tratam-SE de questões' vs 'Trata-SE de questões'. O correto:",
+      "alternativas": [
+        "Primeira (concorda com 'questões')",
+        "Segunda ('tratar-se de' é impessoal)",
+        "Ambas aceitas",
+        "Nenhuma correta",
+        "Depende do registro"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 133,
+      "enunciado": "'Deve HAVER soluções' vs 'Devem HAVER soluções'. A concordância:",
+      "alternativas": [
+        "Primeira ('haver' impessoal não flexiona locução)",
+        "Segunda (concorda com 'soluções')",
+        "Ambas corretas",
+        "Nenhuma correta",
+        "Depende do contexto"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 134,
+      "enunciado": "'PRECISA-SE de ajuda' vs 'PRECISAM-SE de ajudas'. O 'se':",
+      "alternativas": [
+        "Partícula apassivadora em ambos",
+        "Índice de indeterminação em ambos",
+        "Primeiro indeterminação, segundo apassivador",
+        "Primeiro apassivador, segundo indeterminação",
+        "Depende do contexto"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 135,
+      "enunciado": "'É PROIBIDO entrada' pode variar para 'É PROIBIDA A entrada' quando:",
+      "alternativas": [
+        "Nunca pode variar",
+        "Quando substantivo vem determinado por artigo",
+        "Quando está no plural",
+        "Quando é substantivo feminino",
+        "Sempre pode variar"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 136,
+      "enunciado": "'Ele MANTÉM' vs 'Eles MANTÊM'. O acento:",
+      "alternativas": [
+        "Não existe em nenhuma",
+        "Apenas na primeira (singular)",
+        "Apenas na segunda (plural)",
+        "Em ambas (diferencial de 'vêm')",
+        "Circunflexo na singular, agudo na plural"
+      ],
+      "gabarito": "D"
+    },
+    {
+      "id": 137,
+      "enunciado": "'Quando VIREM' (futuro subjuntivo) difere de 'Quando VIEREM' porque:",
+      "alternativas": [
+        "Primeira é de 'ver', segunda de 'vir'",
+        "Primeira é de 'vir', segunda de 'ver'",
+        "São formas equivalentes",
+        "Ambas são de 'ver'",
+        "Ambas são de 'vir'"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 138,
+      "enunciado": "'Os CIDADÃOS' vs 'Os CIDADÕES'. O plural correto:",
+      "alternativas": [
+        "Apenas primeira",
+        "Apenas segunda",
+        "Ambas aceitas",
+        "Nenhuma ('cidadães')",
+        "Depende da região"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 139,
+      "enunciado": "'ANEXO' vs 'ANEXA' vs 'EM ANEXO'. Quanto à variação:",
+      "alternativas": [
+        "'Anexo/anexa' variam, 'em anexo' invariável",
+        "Todos variam",
+        "Todos invariáveis",
+        "Apenas 'anexo/anexa' invariáveis",
+        "Depende da posição na frase"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 140,
+      "enunciado": "'MEIO-DIA E MEIO' vs 'MEIO-DIA E MEIA'. O correto:",
+      "alternativas": [
+        "Primeira (masculino concorda com 'dia')",
+        "Segunda (feminino, subentende 'hora')",
+        "Ambas aceitas",
+        "Nenhuma ('meio-dia e trinta')",
+        "Depende do contexto"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 141,
+      "enunciado": "'Ela está MEIO nervosa' vs 'Ela está MEIA nervosa'. O correto:",
+      "alternativas": [
+        "Primeira (advérbio invariável)",
+        "Segunda (concorda com 'ela')",
+        "Ambas aceitas",
+        "Nenhuma ('um pouco')",
+        "Depende do grau de nervosismo"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 142,
+      "enunciado": "'BASTANTE pessoas' vs 'BASTANTES pessoas'. A concordância:",
+      "alternativas": [
+        "Primeira (advérbio invariável)",
+        "Segunda (adjetivo, concorda)",
+        "Ambas corretas",
+        "Nenhuma correta",
+        "Primeira informal, segunda formal"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 143,
+      "enunciado": "'Eles DETIVERAM' vs 'Eles DETERAM'. O pretérito de 'deter':",
+      "alternativas": [
+        "Apenas primeira correta",
+        "Apenas segunda correta",
+        "Ambas aceitas",
+        "Nenhuma ('detinham')",
+        "Depende do contexto"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 144,
+      "enunciado": "'Eles INTERVIERAM' vs 'Eles INTERVIRAM'. O pretérito de 'intervir':",
+      "alternativas": [
+        "Apenas primeira correta",
+        "Apenas segunda correta",
+        "Ambas aceitas",
+        "Nenhuma ('intervinham')",
+        "Depende do contexto"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 145,
+      "enunciado": "'Os PROJETOS-PILOTO' vs 'Os PROJETOS-PILOTOS'. O plural:",
+      "alternativas": [
+        "Apenas primeira (só primeiro elemento)",
+        "Apenas segunda (ambos elementos)",
+        "Ambas aceitas",
+        "Nenhuma ('projeto-pilotos')",
+        "Depende do tipo de projeto"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 146,
+      "enunciado": "'Duzentos GRAMAS' vs 'Duzentas GRAMAS'. O gênero de 'grama' (peso):",
+      "alternativas": [
+        "Masculino",
+        "Feminino",
+        "Ambos aceitos",
+        "Depende da região",
+        "Neutro"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 147,
+      "enunciado": "'Ele PROVEU' vs 'Ele PROVIU'. O pretérito de 'prover':",
+      "alternativas": [
+        "Apenas primeira (não segue 'ver')",
+        "Apenas segunda (segue 'ver')",
+        "Ambas aceitas",
+        "Nenhuma ('proveio')",
+        "Depende do sentido"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 148,
+      "enunciado": "'Ele REQUEREU' vs 'Ele REQUISOU'. O pretérito de 'requerer':",
+      "alternativas": [
+        "Apenas primeira (segue 'querer')",
+        "Apenas segunda",
+        "Ambas aceitas",
+        "Nenhuma ('requisitou')",
+        "Depende do contexto jurídico"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 149,
+      "enunciado": "'Por que' vs 'Porque' vs 'Por quê' vs 'Porquê'. Em 'Não sei POR QUÊ ele faltou':",
+      "alternativas": [
+        "'Por que' (início de pergunta indireta)",
+        "'Porque' (resposta/explicação)",
+        "'Por quê' (final de frase)",
+        "'Porquê' (substantivo)",
+        "Tanto A quanto C"
+      ],
+      "gabarito": "C"
+    },
+    {
+      "id": 150,
+      "enunciado": "'Senão' vs 'Se não'. Em 'Estude, SENÃO será reprovado':",
+      "alternativas": [
+        "'Senão' (caso contrário)",
+        "'Se não' (condição negativa)",
+        "Ambos aceitos",
+        "Nenhum ('ou então')",
+        "Depende do contexto"
+      ],
+      "gabarito": "A"
+    }
+  ]
+}

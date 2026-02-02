@@ -1,0 +1,604 @@
+{
+  "sus_parte4_coseac": [
+    {
+      "id": 151,
+      "enunciado": "Sobre Comissão Intergestores Tripartite (CIT), é correto afirmar:",
+      "alternativas": [
+        "Composta apenas por gestores municipais",
+        "Fórum de negociação entre União, estados e municípios",
+        "Tem poder apenas consultivo sem deliberação",
+        "Atua apenas no âmbito estadual",
+        "Não participa da pactuação do SUS"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 152,
+      "enunciado": "A Comissão Intergestores Bipartite (CIB) é composta por:",
+      "alternativas": [
+        "Representantes da União e municípios",
+        "Representantes do estado e municípios",
+        "Apenas gestores estaduais",
+        "União e estados apenas",
+        "Apenas municípios de uma região"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 153,
+      "enunciado": "Os Conselhos de Saúde (Lei 8.142/90) têm caráter:",
+      "alternativas": [
+        "Apenas consultivo",
+        "Permanente e deliberativo",
+        "Temporário e executivo",
+        "Normativo sem deliberação",
+        "Apenas fiscalizador"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 154,
+      "enunciado": "Na composição dos Conselhos de Saúde, os usuários devem representar:",
+      "alternativas": [
+        "Minoria em relação aos demais",
+        "50% (metade) do total de membros",
+        "Apenas 25% do conselho",
+        "Proporção definida localmente",
+        "Não há regra estabelecida"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 155,
+      "enunciado": "As Conferências de Saúde (Lei 8.142/90) devem ocorrer:",
+      "alternativas": [
+        "Anualmente em todos níveis",
+        "A cada 4 anos para avaliar saúde e propor diretrizes",
+        "Apenas quando convocadas pelo MS",
+        "Mensalmente nas UBS",
+        "Apenas em âmbito federal"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 156,
+      "enunciado": "O princípio da UNIVERSALIDADE do SUS significa:",
+      "alternativas": [
+        "Acesso apenas para contribuintes",
+        "Saúde como direito de todos, dever do Estado",
+        "Atendimento só emergencial",
+        "Cobertura apenas básica",
+        "Acesso restrito a grupos"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 157,
+      "enunciado": "O princípio da INTEGRALIDADE pressupõe:",
+      "alternativas": [
+        "Apenas ações preventivas",
+        "Articulação de ações promocionais, preventivas e curativas",
+        "Somente atendimento hospitalar",
+        "Exclusivamente procedimentos de alta complexidade",
+        "Apenas assistência ambulatorial"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 158,
+      "enunciado": "O princípio da EQUIDADE busca:",
+      "alternativas": [
+        "Tratar todos exatamente igual",
+        "Reduzir desigualdades tratando diferentemente os desiguais",
+        "Priorizar grupos econômicos favorecidos",
+        "Apenas igualdade formal",
+        "Desconsiderar especificidades"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 159,
+      "enunciado": "A DESCENTRALIZAÇÃO no SUS implica:",
+      "alternativas": [
+        "Centralização federal absoluta",
+        "Redistribuição de poder e responsabilidades entre esferas",
+        "Apenas gestão municipal",
+        "Eliminação da esfera federal",
+        "Privatização dos serviços"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 160,
+      "enunciado": "A HIERARQUIZAÇÃO da rede significa:",
+      "alternativas": [
+        "Apenas separação por especialidades",
+        "Níveis de atenção de diferentes complexidades articulados",
+        "Exclusão de alguns níveis",
+        "Priorização apenas da alta complexidade",
+        "Desarticulação entre níveis"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 161,
+      "enunciado": "A REGIONALIZAÇÃO visa:",
+      "alternativas": [
+        "Apenas delimitar municípios",
+        "Organizar rede integrada em territórios sanitários",
+        "Fragmentar ainda mais os serviços",
+        "Isolar municípios",
+        "Eliminar cooperação intermunicipal"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 162,
+      "enunciado": "A PARTICIPAÇÃO da comunidade (Lei 8.080/90):",
+      "alternativas": [
+        "É facultativa sem importância",
+        "É princípio fundamental do SUS",
+        "Restringe-se a profissionais",
+        "Apenas em grandes municípios",
+        "Não influencia gestão"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 163,
+      "enunciado": "Sobre determinantes sociais da saúde:",
+      "alternativas": [
+        "Referem-se apenas a fatores biológicos",
+        "Incluem condições socioeconômicas, culturais e ambientais",
+        "Não influenciam saúde-doença",
+        "São apenas responsabilidade individual",
+        "Limitam-se a serviços de saúde"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 164,
+      "enunciado": "A Lei 8.080/90 define saúde como:",
+      "alternativas": [
+        "Ausência de doença",
+        "Resultado de políticas sociais e econômicas múltiplas",
+        "Responsabilidade exclusiva individual",
+        "Apenas bem-estar físico",
+        "Apenas assistência médica"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 165,
+      "enunciado": "O campo de atuação do SUS (Lei 8.080/90) inclui:",
+      "alternativas": [
+        "Apenas assistência curativa",
+        "Vigilância, assistência e saúde do trabalhador",
+        "Somente campanhas de vacinação",
+        "Exclusivamente atendimento hospitalar",
+        "Apenas ações preventivas"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 166,
+      "enunciado": "A vigilância epidemiológica (Lei 8.080/90) visa:",
+      "alternativas": [
+        "Apenas notificar doenças",
+        "Conhecimento e detecção de mudanças nos determinantes de saúde",
+        "Somente fiscalização sanitária",
+        "Exclusivamente vacinação",
+        "Apenas controle de qualidade"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 167,
+      "enunciado": "A vigilância sanitária (Lei 8.080/90) abrange:",
+      "alternativas": [
+        "Apenas fiscalização de restaurantes",
+        "Controle de produtos, serviços e ambientes de interesse da saúde",
+        "Somente medicamentos",
+        "Exclusivamente alimentos",
+        "Apenas portos e aeroportos"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 168,
+      "enunciado": "A saúde do trabalhador (Lei 8.080/90) inclui:",
+      "alternativas": [
+        "Apenas tratamento de acidentes",
+        "Promoção, proteção, recuperação e vigilância nos ambientes de trabalho",
+        "Somente emissão de CAT",
+        "Exclusivamente perícias médicas",
+        "Apenas fiscalização de empresas"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 169,
+      "enunciado": "O financiamento do SUS é de responsabilidade:",
+      "alternativas": [
+        "Apenas federal",
+        "Tripartite: União, estados e municípios",
+        "Exclusivamente municipal",
+        "Apenas estadual",
+        "Apenas dos usuários"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 170,
+      "enunciado": "A direção do SUS em cada esfera é:",
+      "alternativas": [
+        "Colegiada e compartilhada",
+        "Única em cada nível de governo",
+        "Sem definição clara",
+        "Múltipla e fragmentada",
+        "Apenas consultiva"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 171,
+      "enunciado": "Podem participar do SUS de forma complementar:",
+      "alternativas": [
+        "Apenas serviços públicos",
+        "Instituições privadas preferencialmente filantrópicas",
+        "Somente com fins lucrativos",
+        "Apenas cooperativas médicas",
+        "Não se admite participação privada"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 172,
+      "enunciado": "É vedado à iniciativa privada no SUS:",
+      "alternativas": [
+        "Qualquer participação",
+        "Participação direta ou indireta de empresas estrangeiras",
+        "Apenas filantropia",
+        "Apenas atendimento ambulatorial",
+        "Participação em urgências"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 173,
+      "enunciado": "O planejamento do SUS é:",
+      "alternativas": [
+        "Apenas federal centralizado",
+        "Ascendente, do nível local até o federal, orientado por epidemiologia",
+        "Apenas municipal isolado",
+        "Descendente do federal ao local",
+        "Sem base epidemiológica"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 174,
+      "enunciado": "A assistência à saúde é:",
+      "alternativas": [
+        "Dever exclusivo do Estado",
+        "Livre à iniciativa privada",
+        "Proibida à iniciativa privada",
+        "Monopólio estatal absoluto",
+        "Apenas para quem pode pagar"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 175,
+      "enunciado": "O SUS deve dar prioridade a:",
+      "alternativas": [
+        "Apenas ações curativas",
+        "Atividades preventivas sem prejuízo das assistenciais",
+        "Exclusivamente assistência hospitalar",
+        "Somente procedimentos complexos",
+        "Apenas urgências"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 176,
+      "enunciado": "A formulação da política de medicamentos compete:",
+      "alternativas": [
+        "Apenas ao setor privado",
+        "Ao SUS através do MS",
+        "Exclusivamente a estados",
+        "Apenas a municípios",
+        "Apenas à ANVISA"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 177,
+      "enunciado": "A formulação da política de sangue e hemoderivados compete:",
+      "alternativas": [
+        "Apenas a estados",
+        "Ao SUS através do MS",
+        "Exclusivamente a hemocentros privados",
+        "Apenas a municípios",
+        "Sem regulamentação"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 178,
+      "enunciado": "O controle de qualidade de água para consumo compete:",
+      "alternativas": [
+        "Apenas a empresas de saneamento",
+        "Ao SUS através da vigilância sanitária",
+        "Exclusivamente a municípios",
+        "Apenas ao Ministério do Meio Ambiente",
+        "Sem regulamentação no SUS"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 179,
+      "enunciado": "A fiscalização de alimentos compete:",
+      "alternativas": [
+        "Apenas ao Ministério da Agricultura",
+        "Ao SUS através da vigilância sanitária",
+        "Exclusivamente a municípios",
+        "Apenas a estados",
+        "Sem regulamentação"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 180,
+      "enunciado": "O controle de agrotóxicos e sua utilização compete:",
+      "alternativas": [
+        "Apenas ao setor agrícola",
+        "Também ao SUS através da vigilância sanitária",
+        "Exclusivamente ao Ministério da Agricultura",
+        "Apenas ao Meio Ambiente",
+        "Sem participação do SUS"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 181,
+      "enunciado": "A Norma Operacional Básica (NOB) visa:",
+      "alternativas": [
+        "Apenas definir financiamento",
+        "Regular processo de descentralização e gestão do SUS",
+        "Somente aspectos assistenciais",
+        "Exclusivamente controle social",
+        "Apenas recursos humanos"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 182,
+      "enunciado": "O Pacto pela Saúde (2006) contempla:",
+      "alternativas": [
+        "Apenas Pacto de Gestão",
+        "Pacto pela Vida, em Defesa do SUS e de Gestão",
+        "Somente Pacto Financeiro",
+        "Exclusivamente Pacto Social",
+        "Apenas Pacto Federativo"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 183,
+      "enunciado": "O Pacto pela Vida (2006) estabelece prioridades:",
+      "alternativas": [
+        "Apenas para idosos",
+        "Saúde do idoso, câncer, mortalidade infantil, entre outras",
+        "Somente doenças transmissíveis",
+        "Exclusivamente saúde mental",
+        "Apenas urgências"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 184,
+      "enunciado": "O Pacto em Defesa do SUS visa:",
+      "alternativas": [
+        "Apenas melhorar assistência",
+        "Repolitizar saúde e fortalecer o SUS como política de Estado",
+        "Somente aumentar financiamento",
+        "Exclusivamente formar profissionais",
+        "Apenas gestão"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 185,
+      "enunciado": "O Pacto de Gestão estabelece:",
+      "alternativas": [
+        "Apenas responsabilidades federais",
+        "Responsabilidades de cada esfera de gestão",
+        "Somente financiamento",
+        "Exclusivamente controle social",
+        "Apenas regionalização"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 186,
+      "enunciado": "A Programação Pactuada e Integrada (PPI) visa:",
+      "alternativas": [
+        "Apenas programar consultas",
+        "Organizar rede regionalizada e hierarquizada",
+        "Somente financiamento",
+        "Exclusivamente compra de equipamentos",
+        "Apenas recursos humanos"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 187,
+      "enunciado": "O Termo de Compromisso de Gestão visa:",
+      "alternativas": [
+        "Apenas formalizar convênios",
+        "Formalizar responsabilidades e metas dos gestores",
+        "Somente transferir recursos",
+        "Exclusivamente contratar pessoal",
+        "Apenas fiscalizar"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 188,
+      "enunciado": "O Relatório Anual de Gestão deve:",
+      "alternativas": [
+        "Apenas constar financiamento",
+        "Apresentar resultados alcançados e orientar replanejamento",
+        "Somente listar procedimentos",
+        "Exclusivamente justificar gastos",
+        "Apenas dados estatísticos"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 189,
+      "enunciado": "A Audiência Pública de Saúde visa:",
+      "alternativas": [
+        "Apenas cumprir formalidade",
+        "Apresentar e discutir relatório de gestão com a comunidade",
+        "Somente aprovar contas",
+        "Exclusivamente divulgar indicadores",
+        "Apenas informar despesas"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 190,
+      "enunciado": "O Plano Municipal de Saúde deve:",
+      "alternativas": [
+        "Apenas listar serviços",
+        "Definir diretrizes, objetivos e metas para 4 anos",
+        "Somente indicar recursos",
+        "Exclusivamente copiar plano estadual",
+        "Apenas aspectos financeiros"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 191,
+      "enunciado": "A Programação Anual de Saúde deve:",
+      "alternativas": [
+        "Apenas listar ações",
+        "Operacionalizar intenções do Plano de Saúde anualmente",
+        "Somente indicar despesas",
+        "Exclusivamente copiar ano anterior",
+        "Apenas listar metas gerais"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 192,
+      "enunciado": "O Relatório Detalhado do Quadrimestre deve:",
+      "alternativas": [
+        "Apenas indicar gastos",
+        "Demonstrar execução orçamentária e física",
+        "Somente justificar despesas",
+        "Exclusivamente listar procedimentos",
+        "Apenas dados financeiros"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 193,
+      "enunciado": "A transparência na gestão do SUS implica:",
+      "alternativas": [
+        "Apenas publicar balanços",
+        "Ampla divulgação de informações e prestação de contas",
+        "Somente informar gastos totais",
+        "Exclusivamente relatórios técnicos",
+        "Apenas cumprir legislação mínima"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 194,
+      "enunciado": "A Lei de Responsabilidade Fiscal (LRF) estabelece para saúde:",
+      "alternativas": [
+        "Apenas controle de gastos",
+        "Percentuais mínimos de aplicação de recursos",
+        "Somente limites de despesa",
+        "Exclusivamente controle de pessoal",
+        "Apenas prestação de contas"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 195,
+      "enunciado": "A EC 29/2000 (regulamentada pela LC 141/2012) estabeleceu:",
+      "alternativas": [
+        "Apenas aumento de arrecadação",
+        "Percentuais mínimos de investimento em saúde por ente",
+        "Somente controle de gastos",
+        "Exclusivamente fontes de financiamento",
+        "Apenas prestação de contas"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 196,
+      "enunciado": "Municípios devem aplicar em saúde no mínimo:",
+      "alternativas": [
+        "10% da receita",
+        "15% da receita de impostos e transferências",
+        "20% da arrecadação total",
+        "Valor fixo em reais",
+        "Não há mínimo estabelecido"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 197,
+      "enunciado": "Estados devem aplicar em saúde no mínimo:",
+      "alternativas": [
+        "10% da receita",
+        "12% da receita de impostos e transferências",
+        "15% da arrecadação total",
+        "20% do orçamento",
+        "Não há mínimo estabelecido"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 198,
+      "enunciado": "O Contrato Organizativo da Ação Pública (COAP):",
+      "alternativas": [
+        "É facultativo para entes",
+        "Define responsabilidades solidárias entre entes federados",
+        "Substitui outras formas de pactuação",
+        "Apenas para municípios grandes",
+        "Sem caráter vinculante"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 199,
+      "enunciado": "As Portas de Entrada do SUS (Decreto 7.508/2011) incluem:",
+      "alternativas": [
+        "Apenas UBS",
+        "Atenção primária, urgência/emergência, psicossocial e especial",
+        "Somente hospitais",
+        "Exclusivamente UPA",
+        "Apenas SAMU"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 200,
+      "enunciado": "O princípio da INTEGRALIDADE implica garantir:",
+      "alternativas": [
+        "Apenas medicamentos",
+        "Acesso a todos níveis de atenção articulados",
+        "Somente internações",
+        "Exclusivamente consultas",
+        "Apenas exames"
+      ],
+      "gabarito": "B"
+    }
+  ]
+}

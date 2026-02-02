@@ -1,0 +1,604 @@
+{
+  "portugues_parte1": [
+    {
+      "id": 1,
+      "enunciado": "Analise: 'Embora a equipe tenha se esforçado, não conseguiram atingir a meta.' Quanto à concordância:",
+      "alternativas": [
+        "Erro: 'conseguir' deveria estar no singular concordando com 'equipe'",
+        "Correta: sujeito composto exige verbo no plural",
+        "Erro duplo: 'tenha' e 'conseguiram' deveriam estar no plural",
+        "Correta por silepse de número (concordância ideológica)",
+        "Erro apenas no tempo verbal após 'embora'"
+      ],
+      "gabarito": "D"
+    },
+    {
+      "id": 2,
+      "enunciado": "Crase INCORRETA em:",
+      "alternativas": [
+        "O médico referiu-se à paciente com respeito",
+        "Aderiram à campanha de combate à dengue",
+        "Assistiu à idosa durante a internação",
+        "Informou à comunidade sobre às datas de vacinação",
+        "Fez alusão àquilo discutido na reunião"
+      ],
+      "gabarito": "D"
+    },
+    {
+      "id": 3,
+      "enunciado": "'O prontuário que estava na mesa, e que foi preenchido ontem, sumiu.' As orações são:",
+      "alternativas": [
+        "Restritiva e restritiva",
+        "Explicativa e explicativa",
+        "Restritiva e explicativa",
+        "Explicativa e restritiva",
+        "Coordenadas entre si"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 4,
+      "enunciado": "'Haja vista os problemas, a gestão realocou recursos.' A expressão:",
+      "alternativas": [
+        "Está errada: deveria ser 'hajam vista'",
+        "Está correta: 'haja vista' é invariável",
+        "Está errada: deveria ser 'haja visto'",
+        "Está correta, mas 'hajam vista' também é aceita",
+        "Está errada: correto é 'havia vista'"
+      ],
+      "gabarito": "D"
+    },
+    {
+      "id": 5,
+      "enunciado": "'Os agentes, cujos relatórios foram analisados, receberam feedback.' 'Cujos' indica:",
+      "alternativas": [
+        "Posse entre 'agentes' e 'feedback'",
+        "Posse entre 'relatórios' e 'agentes'",
+        "Finalidade entre 'análise' e 'relatórios'",
+        "Causalidade entre 'agentes' e 'relatórios'",
+        "Posse entre 'agentes' e 'relatórios'"
+      ],
+      "gabarito": "E"
+    },
+    {
+      "id": 6,
+      "enunciado": "Colocação pronominal CORRETA:",
+      "alternativas": [
+        "Me informaram sobre a mudança no protocolo",
+        "Nunca recusaria-me a atender emergências",
+        "Os dados que coletaram-se são eficazes",
+        "Quando me procurarem, estarei na UBS",
+        "Não lhe vi ontem na reunião"
+      ],
+      "gabarito": "D"
+    },
+    {
+      "id": 7,
+      "enunciado": "Qual frase tem TODAS as crases INCORRETAS?",
+      "alternativas": [
+        "Daqui à duas horas começa o plantão",
+        "Permaneceu à espera dos exames",
+        "Funciona de segunda à segunda",
+        "Dirigiu-se àquela sala de arquivos",
+        "As opções A e C estão incorretas"
+      ],
+      "gabarito": "E"
+    },
+    {
+      "id": 8,
+      "enunciado": "Pontuação CORRETA:",
+      "alternativas": [
+        "A prevenção, depende de educação em saúde",
+        "Profissionais: médicos, enfermeiros, agentes, participaram",
+        "Perguntou: – Quando terei alta doutor?",
+        "Apesar do cansaço, continuou atendendo, com dedicação",
+        "A equipe—composta por vários—atuou integrada"
+      ],
+      "gabarito": "E"
+    },
+    {
+      "id": 9,
+      "enunciado": "'É necessário paciência no atendimento.' Permanece invariável porque:",
+      "alternativas": [
+        "Concorda com sujeito oracional",
+        "O substantivo está sem determinante",
+        "Locução verbal cristalizada",
+        "Verbo impessoal neste contexto",
+        "Concordância facultativa"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 10,
+      "enunciado": "ERRO de regência em:",
+      "alternativas": [
+        "Preferiu adiar a reunião a realizá-la sem todos",
+        "Assiste ao médico o direito de recusar procedimentos",
+        "O enfermeiro aspirava à promoção há tempos",
+        "Agentes procederam à vacinação conforme protocolo",
+        "Informou o paciente de que resultados chegariam"
+      ],
+      "gabarito": "E"
+    },
+    {
+      "id": 11,
+      "enunciado": "'Solicitaram que SE PREPARASSEM.' O SE é:",
+      "alternativas": [
+        "Pronome apassivador",
+        "Índice de indeterminação",
+        "Pronome reflexivo",
+        "Parte integrante do verbo",
+        "Conjunção subordinativa"
+      ],
+      "gabarito": "C"
+    },
+    {
+      "id": 12,
+      "enunciado": "Vírgula separando oração adjetiva explicativa:",
+      "alternativas": [
+        "A UBS, que fica no centro, atende diariamente",
+        "Quando chegaram medicamentos, farmácia retomou",
+        "Médico examinou, prescreveu e liberou",
+        "Embora cansado, agente continuou visitas",
+        "Profissionais que se especializaram foram certificados"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 13,
+      "enunciado": "'Proteja-se! Vacine-se!' evidencia função da linguagem:",
+      "alternativas": [
+        "Metalinguística",
+        "Fática",
+        "Referencial",
+        "Conativa",
+        "Emotiva"
+      ],
+      "gabarito": "D"
+    },
+    {
+      "id": 14,
+      "enunciado": "'Falta de medicamentos ACARRETOU problemas.' Sinônimo:",
+      "alternativas": [
+        "Amparou",
+        "Ocasionou",
+        "Impediu",
+        "Suprimiu",
+        "Agregou"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 15,
+      "enunciado": "'Desvalorização' formou-se por:",
+      "alternativas": [
+        "Derivação parassintética",
+        "Composição por justaposição",
+        "Derivação prefixal e sufixal",
+        "Derivação regressiva",
+        "Composição por aglutinação"
+      ],
+      "gabarito": "C"
+    },
+    {
+      "id": 16,
+      "enunciado": "Verbo 'haver' INCORRETO:",
+      "alternativas": [
+        "Devem haver soluções mais eficazes",
+        "Havia muitos pacientes aguardando",
+        "Faz dois anos que não há surtos",
+        "Haverá mudanças no protocolo",
+        "Houve casos graves de intoxicação"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 17,
+      "enunciado": "Período composto por coordenação:",
+      "alternativas": [
+        "É fundamental que todos participem",
+        "Paciente chegou e foi atendido",
+        "Quando terminar, irei à farmácia",
+        "A enfermeira, que estava de plantão, socorreu",
+        "Embora chovesse, visitas foram realizadas"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 18,
+      "enunciado": "'Profissionais que trabalham na saúde precisam educação.' A oração é:",
+      "alternativas": [
+        "Subordinada substantiva objetiva direta",
+        "Subordinada adjetiva restritiva",
+        "Subordinada adverbial causal",
+        "Coordenada sindética aditiva",
+        "Subordinada adjetiva explicativa"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 19,
+      "enunciado": "'Seguem ANEXOS os relatórios e planilhas.' A concordância:",
+      "alternativas": [
+        "Errada: deveria ser 'anexo'",
+        "Correta: concorda com o mais próximo",
+        "Correta: concorda com 'relatórios e planilhas'",
+        "Errada: 'anexo' é invariável",
+        "Correta, mas 'em anexo' seria melhor"
+      ],
+      "gabarito": "C"
+    },
+    {
+      "id": 20,
+      "enunciado": "Emprego CORRETO de 'mas' e 'mais':",
+      "alternativas": [
+        "Visitou vinte famílias, mas poderia ter visitado mais",
+        "Estudei muito, mais não consegui aprovação",
+        "Não há mas nada a fazer",
+        "Ela é a profissional mas dedicada",
+        "Trabalhamos muito, mais não obtivemos resultados"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 21,
+      "enunciado": "'MAL chegou, foi informado.' MAL é:",
+      "alternativas": [
+        "Substantivo",
+        "Adjetivo",
+        "Advérbio",
+        "Conjunção",
+        "Pronome indefinido"
+      ],
+      "gabarito": "C"
+    },
+    {
+      "id": 22,
+      "enunciado": "Plural INCORRETO:",
+      "alternativas": [
+        "Os cidadões têm direito à saúde",
+        "Vários projetos-pilotos implementados",
+        "Os médicos-chefes participaram",
+        "Distribuídos vários abaixo-assinados",
+        "A, B e C apresentam erros"
+      ],
+      "gabarito": "E"
+    },
+    {
+      "id": 23,
+      "enunciado": "'A saúde é a mãe de todas as virtudes.' Figura de linguagem:",
+      "alternativas": [
+        "Metonímia",
+        "Hipérbole",
+        "Metáfora",
+        "Eufemismo",
+        "Prosopopeia"
+      ],
+      "gabarito": "C"
+    },
+    {
+      "id": 24,
+      "enunciado": "Pronome oblíquo INCORRETO:",
+      "alternativas": [
+        "Tudo se resolveu após a intervenção",
+        "Não nos comunicaram sobre a mudança",
+        "Os pacientes que encontraram-se foram atendidos",
+        "Dir-lhe-ei toda a verdade",
+        "Jamais me esquecerei deste atendimento"
+      ],
+      "gabarito": "C"
+    },
+    {
+      "id": 25,
+      "enunciado": "'A equipe estava MEIA preocupada.' O termo:",
+      "alternativas": [
+        "Está correto: 'meia' é advérbio invariável",
+        "Está incorreto: deveria ser 'meio' (advérbio)",
+        "Está correto: concorda com 'equipe' (feminino)",
+        "Ambas as formas são aceitas",
+        "Está incorreto: correto seria 'médio'"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 26,
+      "enunciado": "'Médicos RETIFICARAM o diagnóstico.' Significa:",
+      "alternativas": [
+        "Confirmaram",
+        "Corrigiram",
+        "Autenticaram",
+        "Ratificaram",
+        "Validaram"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 27,
+      "enunciado": "Acento diferencial CORRETO:",
+      "alternativas": [
+        "Não pôde comparecer à reunião",
+        "O médico pára de atender às 18h",
+        "Não se usa mais esse método",
+        "A enfermeira pêra os procedimentos",
+        "Todas estão corretas"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 28,
+      "enunciado": "Oração subordinada substantiva predicativa:",
+      "alternativas": [
+        "É necessário que todos compareçam",
+        "A verdade é que faltam recursos",
+        "Espero que os resultados sejam positivos",
+        "Informaram-nos de que haveria mudanças",
+        "Tenho certeza de que a campanha será bem-sucedida"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 29,
+      "enunciado": "'Menos de dois terços COMPARECERAM.' O verbo:",
+      "alternativas": [
+        "Incorreto: deveria concordar com 'menos'",
+        "Correto: concorda facultativamente",
+        "Incorreto: deveria ficar no singular",
+        "Correto: concorda com 'profissionais'",
+        "Correto, mas singular também seria aceito"
+      ],
+      "gabarito": "D"
+    },
+    {
+      "id": 30,
+      "enunciado": "Uso de 'onde' e 'aonde' - qual a MENOS errada?",
+      "alternativas": [
+        "Onde você vai após o plantão?",
+        "Este é o hospital aonde trabalho",
+        "Aonde fica a farmácia?",
+        "A cidade aonde nasci tem bom sistema de saúde",
+        "Não sei aonde deixei meu jaleco"
+      ],
+      "gabarito": "E"
+    },
+    {
+      "id": 31,
+      "enunciado": "Voz passiva analítica:",
+      "alternativas": [
+        "Vacinaram-se todas as crianças",
+        "As crianças foram vacinadas pela equipe",
+        "Necessita-se de mais profissionais",
+        "Vendem-se medicamentos com desconto",
+        "Fizeram-se todos os procedimentos"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 32,
+      "enunciado": "'Prima PELA excelência.' A preposição indica:",
+      "alternativas": [
+        "Modo",
+        "Finalidade",
+        "Causa",
+        "Meio",
+        "Assunto"
+      ],
+      "gabarito": "E"
+    },
+    {
+      "id": 33,
+      "enunciado": "'Fazem dois meses que não há casos.' Concordância:",
+      "alternativas": [
+        "Ambos corretos",
+        "'Fazem' está incorreto (deve ser 'faz')",
+        "'Há' está incorreto",
+        "Ambos incorretos",
+        "Facultativa em ambos"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 34,
+      "enunciado": "Erro de ortografia em:",
+      "alternativas": [
+        "Análise com muita perspicácia",
+        "Médico demonstrou discrição",
+        "Houve discrepância entre dados",
+        "Paciente excessivamente ansioso",
+        "A intercessão da enfermeira foi fundamental"
+      ],
+      "gabarito": "E"
+    },
+    {
+      "id": 35,
+      "enunciado": "'Ainda que CHOVA, realizaremos.' Oração:",
+      "alternativas": [
+        "Adverbial condicional",
+        "Adverbial concessiva",
+        "Adverbial temporal",
+        "Adverbial causal",
+        "Substantiva objetiva direta"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 36,
+      "enunciado": "Mesmo sentido de 'assistir' (prestar assistência):",
+      "alternativas": [
+        "Médico assistiu à cirurgia",
+        "Assiste ao paciente o direito",
+        "Enfermeiro assistiu o idoso em suas necessidades",
+        "Assistiram ao vídeo",
+        "Coordenador assiste em Maricá"
+      ],
+      "gabarito": "C"
+    },
+    {
+      "id": 37,
+      "enunciado": "Colocação pronominal INCORRETA:",
+      "alternativas": [
+        "Ninguém dirigiu-se ao coordenador",
+        "Aqui se trabalha com dedicação",
+        "Tudo se esclareceu",
+        "Quando nos procurarem, estaremos disponíveis",
+        "Jamais negaria-me a ajudar"
+      ],
+      "gabarito": "E"
+    },
+    {
+      "id": 38,
+      "enunciado": "'CONQUANTO estivesse cansado.' Sinônimo:",
+      "alternativas": [
+        "Porquanto",
+        "Uma vez que",
+        "Embora",
+        "Portanto",
+        "Dado que"
+      ],
+      "gabarito": "C"
+    },
+    {
+      "id": 39,
+      "enunciado": "'Que' como pronome relativo em:",
+      "alternativas": [
+        "Que bom que você chegou!",
+        "É importante que todos participem",
+        "O protocolo que estudamos será implementado",
+        "Mais vale prevenir que remediar",
+        "Espero que tudo corra bem"
+      ],
+      "gabarito": "C"
+    },
+    {
+      "id": 40,
+      "enunciado": "Vírgula isolando aposto:",
+      "alternativas": [
+        "Maricá, cidade do RJ, investe em saúde",
+        "Quando terminar, favor comunicar",
+        "Os profissionais, cansados, continuaram",
+        "Distribuíram vacinas, medicamentos e preservativos",
+        "Embora difícil, a meta foi alcançada"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 41,
+      "enunciado": "'A sessão será CESSADA.' Há erro em:",
+      "alternativas": [
+        "Uso de 'sessão'",
+        "Concordância verbal",
+        "Regência verbal",
+        "Colocação pronominal",
+        "Não há erro"
+      ],
+      "gabarito": "E"
+    },
+    {
+      "id": 42,
+      "enunciado": "Frase totalmente CORRETA:",
+      "alternativas": [
+        "Médico irá proscrever o tratamento",
+        "Iminente reforma será iniciada",
+        "Tráfico de informações é crime",
+        "Descrição foi minuciosa e detalhada",
+        "Todas corretas"
+      ],
+      "gabarito": "D"
+    },
+    {
+      "id": 43,
+      "enunciado": "'Agentes, cujos relatórios foram elogiados.' 'Cujos' expressa:",
+      "alternativas": [
+        "Posse: relatórios dos agentes",
+        "Finalidade: agentes e certificação",
+        "Causalidade: elogio e certificação",
+        "Tempo: relatórios e elogio",
+        "Comparação: agentes e relatórios"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 44,
+      "enunciado": "Regência CORRETA:",
+      "alternativas": [
+        "Prefiro mais trabalhar no posto que no hospital",
+        "Enfermeiro simpatizou com o novo colega",
+        "Médico chegou no consultório atrasado",
+        "Esqueceram-se dos prontuários em casa",
+        "Agente procedeu o cadastramento"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 45,
+      "enunciado": "'Vacinação IMPLICOU redução de casos.' Sentido:",
+      "alternativas": [
+        "Envolver-se",
+        "Acarretar",
+        "Contradizer",
+        "Pirraçar",
+        "Comprometer-se"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 46,
+      "enunciado": "Oração adverbial consecutiva:",
+      "alternativas": [
+        "Como estava chovendo, suspenderam",
+        "Trabalhou tanto que adoeceu",
+        "Se houver necessidade, faremos plantão",
+        "Embora cansados, permaneceram",
+        "Quando chegarem medicamentos, avisaremos"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 47,
+      "enunciado": "Infinitivo CORRETO:",
+      "alternativas": [
+        "É importante os agentes comparecerem",
+        "Mandaram os enfermeiros saírem",
+        "Ouvi os pacientes reclamarem",
+        "Fizemos os profissionais participarem",
+        "Vi os médicos chegarem à unidade"
+      ],
+      "gabarito": "E"
+    },
+    {
+      "id": 48,
+      "enunciado": "'POR QUE não compareceu?' Grafia:",
+      "alternativas": [
+        "Incorreta: deveria ser 'porque'",
+        "Incorreta: deveria ser 'porquê'",
+        "Correta: usado em perguntas diretas",
+        "Incorreta: deveria ser 'por quê'",
+        "Correta, mas 'porque' também seria aceito"
+      ],
+      "gabarito": "C"
+    },
+    {
+      "id": 49,
+      "enunciado": "Erro de concordância nominal:",
+      "alternativas": [
+        "Seguem anexas as fichas",
+        "É proibida a entrada",
+        "Bastante profissionais participaram",
+        "Os próprios pacientes relataram",
+        "Foi ela mesma quem organizou"
+      ],
+      "gabarito": "C"
+    },
+    {
+      "id": 50,
+      "enunciado": "'À MEDIDA QUE casos aumentavam.' Expressa:",
+      "alternativas": [
+        "Proporção",
+        "Causa",
+        "Comparação",
+        "Consequência",
+        "Concessão"
+      ],
+      "gabarito": "A"
+    }
+  ]
+}

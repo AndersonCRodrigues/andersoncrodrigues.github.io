@@ -1,0 +1,604 @@
+{
+  "portugues_parte4_coseac": [
+    {
+      "id": 151,
+      "enunciado": "'Ao invés de' vs 'Em vez de'. Em 'Saiu AO INVÉS DE ficar', há:",
+      "alternativas": [
+        "Erro: deveria ser 'em vez de' (substituição)",
+        "Correto se houver oposição/contrariedade",
+        "Ambas formas sempre equivalentes",
+        "Erro gramatical grave",
+        "Correto apenas na linguagem coloquial"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 152,
+      "enunciado": "'Acerca de' vs 'Há cerca de' vs 'A cerca de'. Em 'Moro A CERCA DE 2km daqui':",
+      "alternativas": [
+        "Correto (distância aproximada)",
+        "Erro: deveria ser 'há cerca de' (tempo)",
+        "Erro: deveria ser 'acerca de' (sobre)",
+        "Todas formas aceitáveis",
+        "Depende do contexto"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 153,
+      "enunciado": "'A fim de' vs 'Afim'. Em 'Estudou A FIM DE passar', está:",
+      "alternativas": [
+        "Correto (finalidade, separado)",
+        "Erro: deveria ser 'afim' (junto)",
+        "Ambas formas corretas",
+        "Erro: deveria ser 'com o fim de'",
+        "Correto apenas informalmente"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 154,
+      "enunciado": "'Tampouco' vs 'Tão pouco'. Em 'Não veio, TAMPOUCO avisou':",
+      "alternativas": [
+        "Correto (também não, junto)",
+        "Erro: deveria ser 'tão pouco' (separado)",
+        "Ambas formas equivalentes",
+        "Erro: deveria ser 'também não'",
+        "Depende do contexto"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 155,
+      "enunciado": "'Mal' vs 'Mau'. Em 'Ele é um MAL profissional', está:",
+      "alternativas": [
+        "Correto ('mal' substantivo)",
+        "Erro: deveria ser 'mau' (adjetivo)",
+        "Ambas formas aceitas",
+        "Correto se significa 'problema'",
+        "Depende do contexto regional"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 156,
+      "enunciado": "'Onde' vs 'Aonde'. Em 'AONDE você mora?', está:",
+      "alternativas": [
+        "Correto ('aonde' com movimento)",
+        "Erro: deveria ser 'onde' (permanência)",
+        "Ambas formas aceitas",
+        "Correto apenas coloquialmente",
+        "Depende se há verbo de movimento"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 157,
+      "enunciado": "'Quite' vs 'Quites'. Em 'Eles estão QUITE com suas obrigações':",
+      "alternativas": [
+        "Correto (invariável)",
+        "Erro: deveria ser 'quites' (concorda)",
+        "Ambas aceitas",
+        "Erro: 'quite' não existe",
+        "Depende se é formal"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 158,
+      "enunciado": "'A par' vs 'Ao par'. Em 'Estou A PAR da situação':",
+      "alternativas": [
+        "Correto (ciente, informado)",
+        "Erro: deveria ser 'ao par' (câmbio)",
+        "Ambas formas equivalentes",
+        "Erro: deveria ser 'à parte'",
+        "Depende do contexto"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 159,
+      "enunciado": "'Demais' vs 'De mais'. Em 'Pessoas DEMAIS na sala':",
+      "alternativas": [
+        "Correto ('demais' = excessivamente, junto)",
+        "Erro: deveria ser 'de mais' (separado)",
+        "Ambas aceitas",
+        "Erro: deveria ser 'muitas'",
+        "Depende da quantidade"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 160,
+      "enunciado": "'Eminente' vs 'Iminente'. Em 'Perigo IMINENTE':",
+      "alternativas": [
+        "Correto (prestes a ocorrer)",
+        "Erro: deveria ser 'eminente' (ilustre)",
+        "Ambas aceitas",
+        "Erro: deveria ser 'evidente'",
+        "Depende do tipo de perigo"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 161,
+      "enunciado": "'Descrição' vs 'Discrição'. Em 'Agiu com DISCRIÇÃO':",
+      "alternativas": [
+        "Correto (reserva, prudência)",
+        "Erro: deveria ser 'descrição' (ato de descrever)",
+        "Ambas aceitas",
+        "Erro ortográfico",
+        "Depende do contexto"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 162,
+      "enunciado": "'Ratificar' vs 'Retificar'. Em 'RETIFICOU o erro no documento':",
+      "alternativas": [
+        "Correto (corrigir)",
+        "Erro: deveria ser 'ratificar' (confirmar)",
+        "Ambas aceitas",
+        "Erro: deveria ser 'rectificar'",
+        "Depende se é correção ou confirmação"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 163,
+      "enunciado": "'Tráfego' vs 'Tráfico'. Em 'TRÁFEGO intenso de veículos':",
+      "alternativas": [
+        "Correto (trânsito, circulação)",
+        "Erro: deveria ser 'tráfico' (comércio ilícito)",
+        "Ambas aceitas",
+        "Erro: deveria ser 'trafego'",
+        "Depende do tipo de circulação"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 164,
+      "enunciado": "'Emigrar' vs 'Imigrar'. 'Ele EMIGROU para os EUA' significa:",
+      "alternativas": [
+        "Saiu do país de origem",
+        "Entrou no país de destino",
+        "Ambos significados",
+        "Erro: deveria ser 'migrou'",
+        "Depende do ponto de vista"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 165,
+      "enunciado": "'Prescrever' vs 'Proscrever'. 'Médico PRESCREVEU medicamento':",
+      "alternativas": [
+        "Correto (receitar, indicar)",
+        "Erro: deveria ser 'proscrever' (proibir)",
+        "Ambas aceitas",
+        "Erro: deveria ser 'precresver'",
+        "Depende se é obrigatório"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 166,
+      "enunciado": "'Flagrante' vs 'Fragrante'. 'Crime FLAGRANTE':",
+      "alternativas": [
+        "Correto (evidente, no ato)",
+        "Erro: deveria ser 'fragrante' (perfumado)",
+        "Ambas aceitas",
+        "Erro ortográfico",
+        "Depende do tipo de crime"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 167,
+      "enunciado": "'Infligir' vs 'Infringir'. 'INFRINGIU a norma':",
+      "alternativas": [
+        "Correto (violar, transgredir)",
+        "Erro: deveria ser 'infligir' (aplicar pena)",
+        "Ambas aceitas",
+        "Erro: deveria ser 'infrigir'",
+        "Depende da gravidade"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 168,
+      "enunciado": "'Estada' vs 'Estadia'. 'Teve boa ESTADA no hotel' (pessoa):",
+      "alternativas": [
+        "Correto (permanência de pessoa)",
+        "Erro: deveria ser 'estadia' (permanência de veículo)",
+        "Ambas aceitas para pessoa",
+        "Erro: deveria ser 'estadía'",
+        "Depende do tipo de estabelecimento"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 169,
+      "enunciado": "'Despercebido' vs 'Desapercebido'. 'Passou DESPERCEBIDO':",
+      "alternativas": [
+        "Correto (não notado)",
+        "Erro: deveria ser 'desapercebido' (desprevenido)",
+        "Ambas sinônimas",
+        "Erro ortográfico",
+        "Depende do contexto"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 170,
+      "enunciado": "'Cavaleiro' vs 'Cavalheiro'. 'Comportou-se como CAVALHEIRO':",
+      "alternativas": [
+        "Correto (homem gentil, educado)",
+        "Erro: deveria ser 'cavaleiro' (que monta cavalo)",
+        "Ambas aceitas",
+        "Erro: deveria ser 'cavalheiro'",
+        "Depende se montava cavalo"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 171,
+      "enunciado": "'Comprimento' vs 'Cumprimento'. 'CUMPRIMENTO do dever':",
+      "alternativas": [
+        "Correto (execução, realização)",
+        "Erro: deveria ser 'comprimento' (extensão)",
+        "Ambas aceitas",
+        "Erro ortográfico",
+        "Depende do contexto"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 172,
+      "enunciado": "'Absolver' vs 'Absorver'. 'Juiz ABSOLVEU o réu':",
+      "alternativas": [
+        "Correto (inocentar, perdoar)",
+        "Erro: deveria ser 'absorver' (aspirar)",
+        "Ambas aceitas",
+        "Erro: deveria ser 'absolber'",
+        "Depende da sentença"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 173,
+      "enunciado": "'Deferir' vs 'Diferir'. 'O pedido foi DEFERIDO':",
+      "alternativas": [
+        "Correto (atendido, aprovado)",
+        "Erro: deveria ser 'diferido' (adiado)",
+        "Ambas aceitas",
+        "Erro: deveria ser 'deferído'",
+        "Depende do resultado"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 174,
+      "enunciado": "'Delatar' vs 'Dilatar'. 'DILATOU o prazo':",
+      "alternativas": [
+        "Correto (ampliar, estender)",
+        "Erro: deveria ser 'delatar' (denunciar)",
+        "Ambas aceitas",
+        "Erro: deveria ser 'delatar'",
+        "Depende do tipo de prazo"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 175,
+      "enunciado": "'Emergir' vs 'Imergir'. 'Submarino EMERGIU':",
+      "alternativas": [
+        "Correto (vir à tona, subir)",
+        "Erro: deveria ser 'imergir' (mergulhar)",
+        "Ambas aceitas",
+        "Erro: deveria ser 'emerjir'",
+        "Depende da direção"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 176,
+      "enunciado": "'Mandato' vs 'Mandado'. 'Cumpriu o MANDATO de 4 anos':",
+      "alternativas": [
+        "Correto (período de exercício)",
+        "Erro: deveria ser 'mandado' (ordem judicial)",
+        "Ambas aceitas",
+        "Erro: deveria ser 'mandáto'",
+        "Depende do cargo"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 177,
+      "enunciado": "'Vultoso' vs 'Vultuoso'. 'Quantia VULTOSA':",
+      "alternativas": [
+        "Correto (grande, volumosa)",
+        "Erro: deveria ser 'vultuoso' (rosto inchado)",
+        "Ambas aceitas",
+        "Erro ortográfico",
+        "Depende do valor"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 178,
+      "enunciado": "'Espectador' vs 'Expectador'. 'ESPECTADOR do jogo':",
+      "alternativas": [
+        "Correto (quem assiste)",
+        "Erro: deveria ser 'expectador' (quem tem expectativa)",
+        "Ambas aceitas",
+        "Erro: deveria ser 'espetador'",
+        "Depende se está aguardando"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 179,
+      "enunciado": "'Incipiente' vs 'Insipiente'. 'Conhecimento INCIPIENTE':",
+      "alternativas": [
+        "Correto (inicial, principiante)",
+        "Erro: deveria ser 'insipiente' (ignorante)",
+        "Ambas aceitas",
+        "Erro ortográfico",
+        "Depende do nível"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 180,
+      "enunciado": "'Pleito' vs 'Preito'. 'Prestou PREITO de homenagem':",
+      "alternativas": [
+        "Correto (homenagem, reverência)",
+        "Erro: deveria ser 'pleito' (disputa eleitoral)",
+        "Ambas aceitas",
+        "Erro: deveria ser 'préito'",
+        "Depende do contexto"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 181,
+      "enunciado": "'Acidente' vs 'Incidente'. 'INCIDENTE durante o evento':",
+      "alternativas": [
+        "Correto (acontecimento, episódio)",
+        "Erro: deveria ser 'acidente' (imprevisto grave)",
+        "Ambas sinônimas",
+        "Erro ortográfico",
+        "Depende da gravidade"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 182,
+      "enunciado": "'Eminência' vs 'Iminência'. 'EMINÊNCIA médica':",
+      "alternativas": [
+        "Correto (pessoa ilustre)",
+        "Erro: deveria ser 'iminência' (prestes a ocorrer)",
+        "Ambas aceitas",
+        "Erro: deveria ser 'eminente'",
+        "Depende do grau"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 183,
+      "enunciado": "'Casual' vs 'Causal'. 'Encontro CASUAL':",
+      "alternativas": [
+        "Correto (por acaso, fortuito)",
+        "Erro: deveria ser 'causal' (relativo a causa)",
+        "Ambas aceitas",
+        "Erro: deveria ser 'cazual'",
+        "Depende se foi planejado"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 184,
+      "enunciado": "'Concerto' vs 'Conserto'. 'CONSERTO do equipamento':",
+      "alternativas": [
+        "Correto (reparo)",
+        "Erro: deveria ser 'concerto' (apresentação musical)",
+        "Ambas aceitas",
+        "Erro ortográfico",
+        "Depende do tipo"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 185,
+      "enunciado": "'Paço' vs 'Passo'. 'PAÇO municipal':",
+      "alternativas": [
+        "Correto (palácio, edifício público)",
+        "Erro: deveria ser 'passo' (ato de caminhar)",
+        "Ambas aceitas",
+        "Erro: deveria ser 'paço'",
+        "Depende do local"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 186,
+      "enunciado": "'Tacha' vs 'Taxa'. 'TAXA de juros':",
+      "alternativas": [
+        "Correto (tributo, percentual)",
+        "Erro: deveria ser 'tacha' (pequeno prego)",
+        "Ambas aceitas",
+        "Erro: deveria ser 'taxá'",
+        "Depende do valor"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 187,
+      "enunciado": "'Censo' vs 'Senso'. 'CENSO demográfico':",
+      "alternativas": [
+        "Correto (contagem, levantamento)",
+        "Erro: deveria ser 'senso' (juízo)",
+        "Ambas aceitas",
+        "Erro: deveria ser 'çenso'",
+        "Depende do tipo"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 188,
+      "enunciado": "'Coser' vs 'Cozer'. 'COZER alimentos':",
+      "alternativas": [
+        "Correto (cozinhar)",
+        "Erro: deveria ser 'coser' (costurar)",
+        "Ambas aceitas",
+        "Erro: deveria ser 'cozêr'",
+        "Depende do método"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 189,
+      "enunciado": "'Cela' vs 'Sela'. 'CELA do presídio':",
+      "alternativas": [
+        "Correto (pequeno quarto)",
+        "Erro: deveria ser 'sela' (arreio)",
+        "Ambas aceitas",
+        "Erro ortográfico",
+        "Depende do local"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 190,
+      "enunciado": "'Vês' vs 'Vez'. 'Desta VEZ acertei':",
+      "alternativas": [
+        "Correto (ocasião)",
+        "Erro: deveria ser 'vês' (verbo ver)",
+        "Ambas aceitas",
+        "Erro: deveria ser 'véz'",
+        "Depende do contexto"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 191,
+      "enunciado": "'Ruço' vs 'Russo'. 'Cavalo RUÇO':",
+      "alternativas": [
+        "Correto (cor acinzentada)",
+        "Erro: deveria ser 'russo' (da Rússia)",
+        "Ambas aceitas",
+        "Erro ortográfico",
+        "Depende da raça"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 192,
+      "enunciado": "'Chá' vs 'Xá'. 'XÁ da Pérsia':",
+      "alternativas": [
+        "Correto (imperador persa)",
+        "Erro: deveria ser 'chá' (bebida)",
+        "Ambas aceitas",
+        "Erro: deveria ser 'xah'",
+        "Depende do período histórico"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 193,
+      "enunciado": "'Cheque' vs 'Xeque'. 'XEQUE-mate':",
+      "alternativas": [
+        "Correto (lance no xadrez)",
+        "Erro: deveria ser 'cheque' (ordem de pagamento)",
+        "Ambas aceitas",
+        "Erro ortográfico",
+        "Depende do jogo"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 194,
+      "enunciado": "'Apreçar' vs 'Apressar'. 'APRESSAR o passo':",
+      "alternativas": [
+        "Correto (acelerar)",
+        "Erro: deveria ser 'apreçar' (dar preço)",
+        "Ambas aceitas",
+        "Erro: deveria ser 'apresár'",
+        "Depende da velocidade"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 195,
+      "enunciado": "'Arrear' vs 'Arriar'. 'ARRIAR a bandeira':",
+      "alternativas": [
+        "Correto (abaixar)",
+        "Erro: deveria ser 'arrear' (pôr arreios)",
+        "Ambas aceitas",
+        "Erro: deveria ser 'arriár'",
+        "Depende do objeto"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 196,
+      "enunciado": "'Brocha' vs 'Broxa'. 'Pintou com BROXA':",
+      "alternativas": [
+        "Correto (pincel grande)",
+        "Erro: deveria ser 'brocha' (prego pequeno)",
+        "Ambas aceitas",
+        "Erro ortográfico",
+        "Depende do tamanho"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 197,
+      "enunciado": "'Bucho' vs 'Buxo'. 'Planta BUXO':",
+      "alternativas": [
+        "Correto (arbusto ornamental)",
+        "Erro: deveria ser 'bucho' (estômago)",
+        "Ambas aceitas",
+        "Erro: deveria ser 'búxo'",
+        "Depende da espécie"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 198,
+      "enunciado": "'Cachola' vs 'Caixola'. 'Usou a CACHOLA':",
+      "alternativas": [
+        "Correto (cabeça, coloquial)",
+        "Erro: deveria ser 'caixola' (caixa pequena)",
+        "Ambas aceitas",
+        "Erro ortográfico",
+        "Depende do contexto"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 199,
+      "enunciado": "'Tachar' vs 'Taxar'. 'TACHAR de incompetente':",
+      "alternativas": [
+        "Correto (atribuir defeito, censurar)",
+        "Erro: deveria ser 'taxar' (fixar taxa)",
+        "Ambas aceitas",
+        "Erro: deveria ser 'táchar'",
+        "Depende da intenção"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 200,
+      "enunciado": "'Estrato' vs 'Extrato'. 'EXTRATO bancário':",
+      "alternativas": [
+        "Correto (resumo, demonstrativo)",
+        "Erro: deveria ser 'estrato' (camada)",
+        "Ambas aceitas",
+        "Erro: deveria ser 'estrató'",
+        "Depende do banco"
+      ],
+      "gabarito": "A"
+    }
+  ]
+}

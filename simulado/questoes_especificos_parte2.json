@@ -1,0 +1,604 @@
+{
+  "especificos_parte2": [
+    {
+      "id": 51,
+      "enunciado": "Sobre a visita domiciliar, o ACS deve priorizar:",
+      "alternativas": [
+        "Apenas famílias que solicitam",
+        "Gestantes, crianças, idosos, acamados e situações de risco",
+        "Somente pessoas com doenças crônicas",
+        "Exclusivamente recém-cadastrados",
+        "Apenas quem tem consulta marcada"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 52,
+      "enunciado": "O ACS identifica criança com esquema vacinal atrasado. Deve:",
+      "alternativas": [
+        "Apenas anotar e não fazer nada",
+        "Orientar sobre importância e encaminhar para atualização na UBS",
+        "Aplicar as vacinas pessoalmente",
+        "Esperar próxima campanha de vacinação",
+        "Notificar Conselho Tutelar imediatamente"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 53,
+      "enunciado": "Sobre a puericultura, o ACS deve orientar que:",
+      "alternativas": [
+        "É necessária apenas quando criança adoece",
+        "Acompanha crescimento e desenvolvimento sistematicamente",
+        "Substitui vacinação",
+        "É exclusiva de pediatras",
+        "Não é importante nos primeiros anos"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 54,
+      "enunciado": "Gestante faltosa ao pré-natal. O ACS deve:",
+      "alternativas": [
+        "Apenas anotar no cadastro",
+        "Realizar busca ativa, investigar motivos e orientar sobre importância",
+        "Avisar apenas o médico",
+        "Aguardar que ela procure a UBS",
+        "Desistir após segunda falta"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 55,
+      "enunciado": "Sobre sinais de alerta na gestação que exigem avaliação imediata:",
+      "alternativas": [
+        "Apenas náuseas matinais",
+        "Sangramento vaginal, dor abdominal intensa, febre, perda de líquido",
+        "Somente ganho de peso",
+        "Apenas cansaço",
+        "Somente edema de membros inferiores leve"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 56,
+      "enunciado": "O ACS pode contribuir com a saúde mental orientando sobre:",
+      "alternativas": [
+        "Prescrição de medicamentos psiquiátricos",
+        "Importância de buscar ajuda profissional, reduzir estigma, apoio familiar",
+        "Internação compulsória imediata",
+        "Apenas uso de medicação",
+        "Isolamento social como tratamento"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 57,
+      "enunciado": "Família em situação de insegurança alimentar. O ACS deve:",
+      "alternativas": [
+        "Apenas anotar a informação",
+        "Informar à equipe e articular com assistência social e programas existentes",
+        "Doar alimentos pessoalmente",
+        "Ignorar por não ser da área da saúde",
+        "Orientar a família a se virar sozinha"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 58,
+      "enunciado": "Sobre o acompanhamento de pessoas com doenças crônicas, o ACS deve:",
+      "alternativas": [
+        "Apenas anotar se tomam medicação",
+        "Monitorar adesão ao tratamento, comparecer a consultas, hábitos de vida",
+        "Prescrever medicamentos",
+        "Substituir consultas médicas",
+        "Apenas entregar receitas"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 59,
+      "enunciado": "Pessoa acamada no domicílio. O ACS pode orientar sobre:",
+      "alternativas": [
+        "Apenas higiene básica",
+        "Mudança de decúbito, higiene, alimentação, hidratação e sinais de alerta",
+        "Não precisa orientar nada",
+        "Apenas medicação",
+        "Somente questões emocionais"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 60,
+      "enunciado": "Identificação de caso suspeito de tuberculose. O ACS deve:",
+      "alternativas": [
+        "Apenas anotar",
+        "Encaminhar urgentemente para avaliação médica e coleta de escarro",
+        "Aguardar próxima visita",
+        "Orientar apenas repouso",
+        "Isolar o paciente imediatamente"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 61,
+      "enunciado": "Sobre o tratamento diretamente observado (TDO) da tuberculose:",
+      "alternativas": [
+        "É desnecessário",
+        "ACS pode ser responsável por observar tomada diária da medicação",
+        "Apenas médico pode fazer",
+        "Substitui toda medicação",
+        "É obrigatório para todos pacientes"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 62,
+      "enunciado": "Contato domiciliar de paciente com hanseníase. O ACS deve:",
+      "alternativas": [
+        "Isolar os contatos",
+        "Orientar sobre importância de exame dermatoneurológico",
+        "Apenas observar",
+        "Aplicar medicação profilática",
+        "Não precisa fazer nada"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 63,
+      "enunciado": "Sobre arboviroses (dengue, zika, chikungunya), o ACS deve orientar:",
+      "alternativas": [
+        "Apenas uso de repelente",
+        "Eliminação de criadouros, proteção individual, procura por serviço se sintomas",
+        "Somente aplicação de inseticida",
+        "Apenas durante epidemias",
+        "Não precisa orientar"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 64,
+      "enunciado": "Moradia com presença de triatomíneo (barbeiro). O ACS deve:",
+      "alternativas": [
+        "Apenas matar o inseto",
+        "Capturar, acondicionar adequadamente e encaminhar para análise, orientar família",
+        "Ignorar",
+        "Aplicar inseticida pessoalmente",
+        "Apenas fotografar"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 65,
+      "enunciado": "Sobre raiva, o ACS deve orientar que:",
+      "alternativas": [
+        "Apenas cães transmitem",
+        "Qualquer mamífero pode transmitir; lavar ferida e procurar UBS imediatamente",
+        "Não há tratamento",
+        "Apenas morcegos transmitem",
+        "Esperar sintomas para procurar ajuda"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 66,
+      "enunciado": "Sobre leptospirose, o ACS deve orientar:",
+      "alternativas": [
+        "Não é grave",
+        "Evitar contato com água/lama de enchentes, usar botas/luvas, procurar UBS se sintomas",
+        "Apenas ratos transmitem",
+        "Não há prevenção",
+        "Tratamento é apenas sintomático"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 67,
+      "enunciado": "Idoso com dificuldade de locomoção faltoso a consultas. O ACS deve:",
+      "alternativas": [
+        "Apenas anotar as faltas",
+        "Investigar dificuldades e articular atendimento domiciliar ou transporte",
+        "Culpar o idoso",
+        "Desmarcar consultas futuras",
+        "Não fazer nada"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 68,
+      "enunciado": "Sobre violência contra idoso, o ACS deve:",
+      "alternativas": [
+        "Manter sigilo familiar",
+        "Notificar, comunicar à equipe e acionar rede de proteção",
+        "Apenas conversar com agressor",
+        "Ignorar se for violência psicológica",
+        "Aguardar lesões físicas graves"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 69,
+      "enunciado": "Criança com sinais de desnutrição. O ACS deve:",
+      "alternativas": [
+        "Apenas orientar alimentação",
+        "Comunicar imediatamente à equipe para avaliação e acompanhamento",
+        "Doar alimentos",
+        "Esperar próxima visita",
+        "Orientar apenas suplementos"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 70,
+      "enunciado": "Sobre aleitamento materno, o ACS deve orientar que:",
+      "alternativas": [
+        "Horários rígidos devem ser seguidos",
+        "Deve ser em livre demanda, sem horários fixos",
+        "Complementar com chá é necessário",
+        "Água deve ser oferecida desde o nascimento",
+        "Mamadeira ajuda na produção de leite"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 71,
+      "enunciado": "Gestante com hipertensão. O ACS deve:",
+      "alternativas": [
+        "Apenas anotar",
+        "Reforçar importância do pré-natal rigoroso e sinais de alerta",
+        "Orientar a parar medicação",
+        "Apenas medir PA",
+        "Não precisa fazer acompanhamento"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 72,
+      "enunciado": "Sobre prevenção de acidentes domésticos com crianças:",
+      "alternativas": [
+        "Não é papel do ACS orientar",
+        "Orientar sobre riscos e medidas preventivas (tomadas, escadas, produtos químicos)",
+        "Apenas após acidente",
+        "Somente em domicílios com crianças pequenas",
+        "Não é prioridade"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 73,
+      "enunciado": "Pessoa com sintomas de COVID-19. O ACS deve:",
+      "alternativas": [
+        "Entrar na casa normalmente",
+        "Orientar isolamento, procura de serviço e uso de EPIs durante visita",
+        "Apenas ligar sem visitar",
+        "Ignorar os sintomas",
+        "Visitar sem proteção"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 74,
+      "enunciado": "Sobre saúde do trabalhador, o ACS pode:",
+      "alternativas": [
+        "Apenas observar",
+        "Identificar riscos ocupacionais e orientar sobre direitos e medidas preventivas",
+        "Prescrever afastamento",
+        "Emitir CAT",
+        "Fazer perícia médica"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 75,
+      "enunciado": "Adolescente grávida. O ACS deve:",
+      "alternativas": [
+        "Julgar moralmente",
+        "Acolher, orientar sobre pré-natal e direitos, articular rede de apoio",
+        "Apenas informar aos pais",
+        "Ignorar por ser menor",
+        "Orientar interrupção da gestação"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 76,
+      "enunciado": "Sobre prevenção de câncer de colo uterino, o ACS deve orientar:",
+      "alternativas": [
+        "Apenas mulheres com sintomas devem fazer exame",
+        "Importância do Papanicolau periódico e vacinação contra HPV",
+        "Exame é apenas para mulheres casadas",
+        "Não há prevenção",
+        "Somente após os 50 anos"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 77,
+      "enunciado": "Família com animais domésticos sem vacinação antirrábica. O ACS deve:",
+      "alternativas": [
+        "Apenas anotar",
+        "Orientar sobre importância e encaminhar para vacinação",
+        "Aplicar vacina pessoalmente",
+        "Notificar vigilância para recolher animais",
+        "Ignorar"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 78,
+      "enunciado": "Sobre o e-SUS AB, o ACS deve:",
+      "alternativas": [
+        "Apenas o enfermeiro usa",
+        "Registrar visitas e ações realizadas no sistema",
+        "Não precisa usar",
+        "Apenas ler informações",
+        "Usar somente em campanhas"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 79,
+      "enunciado": "Paciente com diabetes descompensado faltoso. O ACS deve:",
+      "alternativas": [
+        "Apenas anotar",
+        "Busca ativa, investigar motivos, reforçar importância do acompanhamento",
+        "Desistir após segunda falta",
+        "Apenas avisar o médico",
+        "Aguardar que procure a UBS"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 80,
+      "enunciado": "Sobre o Bolsa Família, o ACS pode:",
+      "alternativas": [
+        "Fazer inscrição das famílias",
+        "Monitorar condicionalidades de saúde (vacinação, pré-natal)",
+        "Gerenciar pagamentos",
+        "Cadastrar e descadastrar beneficiários",
+        "Definir valores a receber"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 81,
+      "enunciado": "Moradia sem acesso a água tratada. O ACS deve orientar:",
+      "alternativas": [
+        "Apenas beber água sem tratamento",
+        "Ferver, clorar ou filtrar água antes do consumo",
+        "Usar qualquer água disponível",
+        "Não beber água",
+        "Apenas comprar água mineral"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 82,
+      "enunciado": "Sobre prevenção de parasitoses intestinais:",
+      "alternativas": [
+        "Não é possível prevenir",
+        "Higiene das mãos, lavagem de alimentos, água tratada, saneamento",
+        "Apenas medicação resolve",
+        "Somente crianças precisam de orientação",
+        "Não é papel do ACS"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 83,
+      "enunciado": "Adolescente com suspeita de uso de drogas. O ACS deve:",
+      "alternativas": [
+        "Confrontar agressivamente",
+        "Acolher, orientar sobre riscos, articular com equipe e rede de apoio",
+        "Apenas informar aos pais",
+        "Fazer denúncia policial",
+        "Ignorar"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 84,
+      "enunciado": "Sobre saúde mental na pandemia, o ACS pode orientar:",
+      "alternativas": [
+        "Não é sua função",
+        "Manter rotina, atividades prazerosas, buscar ajuda se necessário",
+        "Apenas medicação resolve",
+        "Ignorar sentimentos",
+        "Isolar-se completamente"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 85,
+      "enunciado": "Pessoa com lesão de pele suspeita. O ACS deve:",
+      "alternativas": [
+        "Diagnosticar pessoalmente",
+        "Orientar procura de avaliação médica na UBS",
+        "Prescrever pomada",
+        "Ignorar se não há dor",
+        "Apenas fotografar"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 86,
+      "enunciado": "Sobre prevenção de IST em adolescentes:",
+      "alternativas": [
+        "Não deve abordar o tema",
+        "Orientar sobre uso de preservativo, testagem, direitos sexuais/reprodutivos",
+        "Apenas falar de abstinência",
+        "Proibir relações sexuais",
+        "Avisar apenas os pais"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 87,
+      "enunciado": "Gestante tabagista. O ACS deve:",
+      "alternativas": [
+        "Apenas julgar",
+        "Orientar sobre riscos e oferecer apoio para cessação do tabagismo",
+        "Ignorar",
+        "Apenas dizer para parar sem orientação",
+        "Ameaçar com consequências legais"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 88,
+      "enunciado": "Sobre saúde bucal infantil, o ACS deve orientar:",
+      "alternativas": [
+        "Escovação apenas após todos dentes nascerem",
+        "Higiene desde primeiro dente, evitar açúcar, consultas periódicas",
+        "Mamadeira noturna com açúcar é normal",
+        "Dentes de leite não precisam cuidados",
+        "Apenas após os 5 anos"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 89,
+      "enunciado": "Mulher vítima de violência doméstica. O ACS deve:",
+      "alternativas": [
+        "Manter sigilo e não agir",
+        "Acolher, oferecer informações sobre direitos, notificar, articular rede proteção",
+        "Apenas aconselhar a sair de casa",
+        "Confrontar o agressor",
+        "Ignorar se ela não quiser denunciar"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 90,
+      "enunciado": "Sobre imunização de idosos, o ACS deve orientar:",
+      "alternativas": [
+        "Idosos não precisam vacinar",
+        "Importância de vacinas como influenza, pneumocócica, COVID-19",
+        "Apenas em campanhas",
+        "Somente se estiver doente",
+        "Não é prioridade"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 91,
+      "enunciado": "Criança com diarreia. O ACS deve orientar:",
+      "alternativas": [
+        "Apenas aguardar melhora",
+        "Oferecer líquidos, soro caseiro, observar sinais de desidratação, procurar UBS",
+        "Suspender alimentação",
+        "Apenas medicar",
+        "Esperar 7 dias para procurar ajuda"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 92,
+      "enunciado": "Sobre prevenção de câncer de próstata:",
+      "alternativas": [
+        "Não há prevenção",
+        "Orientar homens sobre importância de avaliação médica periódica após 50 anos",
+        "Apenas se houver sintomas",
+        "Somente com histórico familiar",
+        "Não é tema para ACS abordar"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 93,
+      "enunciado": "Pessoa com suspeita de AVC (face torta, fraqueza, fala arrastada). O ACS deve:",
+      "alternativas": [
+        "Aguardar melhora",
+        "Acionar SAMU imediatamente - é emergência médica",
+        "Levar para UBS",
+        "Apenas observar",
+        "Dar medicação para dor"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 94,
+      "enunciado": "Sobre saúde do homem, o ACS pode orientar:",
+      "alternativas": [
+        "Homens não precisam cuidados preventivos",
+        "Importância de consultas regulares, prevenção, autocuidado",
+        "Apenas tratamento de doenças",
+        "Somente após os 60 anos",
+        "Não é prioridade"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 95,
+      "enunciado": "Família em área de risco ambiental (deslizamento). O ACS deve:",
+      "alternativas": [
+        "Apenas anotar",
+        "Comunicar à equipe e acionar defesa civil/assistência social",
+        "Orientar a sair sem apoio",
+        "Ignorar se não choveu",
+        "Aguardar tragédia"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 96,
+      "enunciado": "Sobre morte no domicílio, o ACS deve:",
+      "alternativas": [
+        "Emitir atestado de óbito",
+        "Acolher família, orientar sobre procedimentos, acionar equipe",
+        "Apenas se retirar",
+        "Chamar polícia sempre",
+        "Fazer velório"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 97,
+      "enunciado": "Recém-nascido sem teste do pezinho. O ACS deve:",
+      "alternativas": [
+        "Apenas anotar",
+        "Orientar importância e urgência, encaminhar para coleta imediata",
+        "Coletar pessoalmente",
+        "Aguardar próxima campanha",
+        "Não é importante"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 98,
+      "enunciado": "Sobre saúde no climatério/menopausa:",
+      "alternativas": [
+        "Não necessita acompanhamento",
+        "Orientar sobre mudanças, importância de acompanhamento médico",
+        "Apenas medicar sintomas",
+        "É processo natural sem necessidade de cuidados",
+        "Não é tema para ACS"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 99,
+      "enunciado": "Pessoa em situação de rua. O ACS deve:",
+      "alternativas": [
+        "Ignorar por não ter endereço fixo",
+        "Acolher, orientar sobre direitos, articular com equipe e rede socioassistencial",
+        "Apenas oferecer comida",
+        "Chamar polícia",
+        "Não é responsabilidade da saúde"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 100,
+      "enunciado": "Sobre o papel do ACS na equipe de saúde:",
+      "alternativas": [
+        "É apenas um visitador",
+        "É elo entre comunidade e equipe, agente de transformação social",
+        "Substitui outros profissionais",
+        "Apenas cadastra famílias",
+        "Não tem importância significativa"
+      ],
+      "gabarito": "B"
+    }
+  ]
+}

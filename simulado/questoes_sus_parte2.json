@@ -1,0 +1,604 @@
+{
+  "sus_parte2": [
+    {
+      "id": 51,
+      "enunciado": "Sobre os determinantes sociais da saúde, é correto afirmar:",
+      "alternativas": [
+        "Referem-se exclusivamente a fatores biológicos",
+        "Incluem condições socioeconômicas, culturais e ambientais",
+        "Não influenciam o processo saúde-doença",
+        "São apenas responsabilidade individual",
+        "Limitam-se ao acesso a serviços de saúde"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 52,
+      "enunciado": "A Lei 8.080/90 estabelece que fazem parte do campo de atuação do SUS:",
+      "alternativas": [
+        "Apenas assistência terapêutica integral",
+        "Vigilância sanitária, epidemiológica, saúde do trabalhador e assistência",
+        "Exclusivamente ações curativas",
+        "Somente campanhas de vacinação",
+        "Apenas atendimento hospitalar"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 53,
+      "enunciado": "O princípio da UNIVERSALIDADE do SUS significa:",
+      "alternativas": [
+        "Acesso apenas para contribuintes",
+        "Saúde como direito de todos, dever do Estado",
+        "Atendimento só para emergências",
+        "Cobertura apenas de procedimentos básicos",
+        "Acesso restrito a determinados grupos"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 54,
+      "enunciado": "Segundo a Lei 8.080/90, a participação da comunidade é:",
+      "alternativas": [
+        "Facultativa e sem importância",
+        "Obrigatória apenas em grandes municípios",
+        "Princípio fundamental do SUS",
+        "Restrita a profissionais de saúde",
+        "Desnecessária para gestão do sistema"
+      ],
+      "gabarito": "C"
+    },
+    {
+      "id": 55,
+      "enunciado": "A hierarquização da rede de serviços do SUS deve ser entendida como:",
+      "alternativas": [
+        "Apenas separação por especialidades",
+        "Níveis de atenção de diferentes complexidades",
+        "Exclusão de alguns níveis de atenção",
+        "Priorização apenas da alta complexidade",
+        "Desarticulação entre os níveis"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 56,
+      "enunciado": "Sobre a Comissão Intergestores Tripartite (CIT):",
+      "alternativas": [
+        "É composta apenas por gestores municipais",
+        "Reúne representantes da União, estados e municípios",
+        "Tem poder apenas consultivo",
+        "Atua apenas no âmbito estadual",
+        "Não participa do pacto federativo"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 57,
+      "enunciado": "A Comissão Intergestores Bipartite (CIB) é composta por:",
+      "alternativas": [
+        "União e municípios",
+        "Estado e municípios",
+        "Apenas representantes estaduais",
+        "União e estados",
+        "Apenas municípios de uma região"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 58,
+      "enunciado": "O Mapa da Saúde, segundo Decreto 7.508/2011, é:",
+      "alternativas": [
+        "Apenas descrição geográfica",
+        "Descrição geográfica de distribuição de recursos e ações/serviços",
+        "Mapa epidemiológico de doenças",
+        "Planejamento apenas hospitalar",
+        "Indicador financeiro exclusivamente"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 59,
+      "enunciado": "A Relação Nacional de Ações e Serviços de Saúde (RENASES) compreende:",
+      "alternativas": [
+        "Apenas medicamentos essenciais",
+        "Todas as ações e serviços oferecidos pelo SUS",
+        "Somente procedimentos hospitalares",
+        "Exclusivamente atenção básica",
+        "Apenas ações de vigilância"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 60,
+      "enunciado": "O Decreto 7.508/2011 estabelece que o acesso universal e igualitário inicia-se:",
+      "alternativas": [
+        "Nos hospitais de referência",
+        "Pelas Portas de Entrada nas Redes de Atenção",
+        "Apenas em pronto-socorros",
+        "Por consultórios particulares",
+        "Exclusivamente por UPAs"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 61,
+      "enunciado": "São Portas de Entrada do SUS, EXCETO:",
+      "alternativas": [
+        "Atenção Primária/Básica",
+        "Atenção de Urgência e Emergência",
+        "Atenção Psicossocial",
+        "Consultórios particulares",
+        "Serviços especiais de acesso aberto"
+      ],
+      "gabarito": "D"
+    },
+    {
+      "id": 62,
+      "enunciado": "O Protocolo Clínico e Diretriz Terapêutica (PCDT) tem por objetivo:",
+      "alternativas": [
+        "Apenas definir medicamentos",
+        "Estabelecer critérios para diagnóstico, tratamento e acompanhamento",
+        "Substituir autonomia médica completamente",
+        "Restringir acesso a procedimentos",
+        "Apenas orientar compras"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 63,
+      "enunciado": "A Atenção Domiciliar no SUS caracteriza-se por:",
+      "alternativas": [
+        "Substituir completamente a hospitalização",
+        "Assistência multiprofissional no domicílio",
+        "Atender apenas idosos",
+        "Ser exclusiva da rede privada",
+        "Não integrar a RAS"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 64,
+      "enunciado": "O Serviço de Atendimento Móvel de Urgência (SAMU) integra:",
+      "alternativas": [
+        "Apenas atenção hospitalar",
+        "Componente pré-hospitalar móvel da urgência",
+        "Exclusivamente transporte eletivo",
+        "Apenas remoções inter-hospitalares",
+        "Somente atendimento em vias públicas"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 65,
+      "enunciado": "As Unidades de Pronto Atendimento (UPA) são classificadas como:",
+      "alternativas": [
+        "Atenção primária",
+        "Componente pré-hospitalar fixo da urgência",
+        "Atenção terciária",
+        "Apenas observação, sem atendimento",
+        "Substitutas de hospitais"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 66,
+      "enunciado": "A Política Nacional de Regulação do SUS abrange:",
+      "alternativas": [
+        "Apenas regulação assistencial",
+        "Regulação de sistemas, assistencial e acesso à assistência",
+        "Somente controle de leitos",
+        "Exclusivamente central de marcação",
+        "Apenas regulação ambulatorial"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 67,
+      "enunciado": "O Cartão Nacional de Saúde (CNS) visa:",
+      "alternativas": [
+        "Substituir documentos pessoais",
+        "Identificar usuário e vincular procedimentos ao prontuário",
+        "Apenas controle financeiro",
+        "Ser cartão de crédito para saúde",
+        "Uso exclusivo em hospitais"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 68,
+      "enunciado": "A Ouvidoria do SUS tem como função:",
+      "alternativas": [
+        "Apenas receber reclamações",
+        "Receber, examinar e encaminhar manifestações dos cidadãos",
+        "Substituir o controle social",
+        "Apenas elogiar serviços",
+        "Função meramente burocrática"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 69,
+      "enunciado": "A Política Nacional de Educação Permanente em Saúde propõe:",
+      "alternativas": [
+        "Apenas cursos pontuais",
+        "Aprendizagem no trabalho baseada em problemas reais",
+        "Exclusivamente formação acadêmica",
+        "Separação entre ensino e serviço",
+        "Apenas certificações formais"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 70,
+      "enunciado": "O Sistema Nacional de Vigilância em Saúde abrange:",
+      "alternativas": [
+        "Apenas vigilância epidemiológica",
+        "Vigilância epidemiológica, sanitária, ambiental e saúde do trabalhador",
+        "Somente controle de endemias",
+        "Exclusivamente fiscalização sanitária",
+        "Apenas vigilância de doenças transmissíveis"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 71,
+      "enunciado": "A Política Nacional de Saúde do Trabalhador visa:",
+      "alternativas": [
+        "Apenas tratar doenças ocupacionais",
+        "Promoção e proteção da saúde do trabalhador",
+        "Substituir medicina do trabalho das empresas",
+        "Apenas fiscalização de empresas",
+        "Restringir-se a acidentes de trabalho"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 72,
+      "enunciado": "O Centro de Referência em Saúde do Trabalhador (CEREST) tem como atribuição:",
+      "alternativas": [
+        "Apenas atendimento ambulatorial",
+        "Dar suporte técnico, educação e vigilância em saúde do trabalhador",
+        "Substituir SESMTs das empresas",
+        "Apenas emitir CAT",
+        "Exclusivamente perícias médicas"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 73,
+      "enunciado": "A Política de Atenção às Urgências estabelece que:",
+      "alternativas": [
+        "Apenas hospitais atendem urgências",
+        "Toda unidade de saúde deve acolher, classificar risco e dar resposta",
+        "UBS não deve atender urgências",
+        "Apenas SAMU atende urgências",
+        "Urgência é só em UPA"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 74,
+      "enunciado": "O Acolhimento com Classificação de Risco visa:",
+      "alternativas": [
+        "Atender por ordem de chegada sempre",
+        "Identificar prioridades clínicas e organizar fluxo",
+        "Apenas separar pacientes",
+        "Impedir acesso de casos leves",
+        "Substituir avaliação médica"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 75,
+      "enunciado": "A Rede de Urgência e Emergência (RUE) é composta por:",
+      "alternativas": [
+        "Apenas SAMU e UPA",
+        "Promoção/prevenção, atenção básica, SAMU, UPA, hospitais e atenção domiciliar",
+        "Somente componente hospitalar",
+        "Exclusivamente pré-hospitalar",
+        "Apenas pronto-socorros"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 76,
+      "enunciado": "A Central de Regulação Médica das Urgências tem função de:",
+      "alternativas": [
+        "Apenas transportar pacientes",
+        "Regular, orientar e ordenar fluxos assistenciais",
+        "Substituir atendimento médico",
+        "Apenas marcar consultas",
+        "Somente regulação de leitos"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 77,
+      "enunciado": "A Política de Atenção Oncológica prevê:",
+      "alternativas": [
+        "Apenas tratamento em hospitais especializados",
+        "Ações de promoção, prevenção, diagnóstico, tratamento e cuidados paliativos",
+        "Exclusivamente quimioterapia e radioterapia",
+        "Somente cirurgias oncológicas",
+        "Apenas diagnóstico sem tratamento"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 78,
+      "enunciado": "Os Cuidados Paliativos no SUS visam:",
+      "alternativas": [
+        "Apenas controle da dor",
+        "Melhorar qualidade de vida de pacientes com doenças graves",
+        "Substituir tratamento curativo sempre",
+        "Apenas cuidados ao fim da vida",
+        "Exclusivamente pacientes com câncer"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 79,
+      "enunciado": "A Política de Saúde da Criança e Aleitamento Materno estabelece:",
+      "alternativas": [
+        "Apenas vacinação infantil",
+        "Atenção integral desde gestação até adolescência",
+        "Exclusivamente puericultura",
+        "Somente tratamento de doenças",
+        "Apenas aleitamento materno"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 80,
+      "enunciado": "O Método Canguru é indicado para:",
+      "alternativas": [
+        "Todas as crianças indistintamente",
+        "Recém-nascidos de baixo peso após estabilização",
+        "Apenas prematuros extremos em UTI",
+        "Substituir incubadora sempre",
+        "Apenas crianças a termo"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 81,
+      "enunciado": "A Triagem Neonatal (Teste do Pezinho) deve ser realizada:",
+      "alternativas": [
+        "Nas primeiras 24 horas",
+        "Entre 3º e 5º dia de vida",
+        "Após 15 dias",
+        "Apenas se houver sintomas",
+        "Somente em prematuros"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 82,
+      "enunciado": "A Política de Atenção Integral à Saúde da Mulher inclui:",
+      "alternativas": [
+        "Apenas saúde reprodutiva",
+        "Atenção em todos os ciclos de vida",
+        "Exclusivamente pré-natal e parto",
+        "Somente planejamento familiar",
+        "Apenas prevenção do câncer"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 83,
+      "enunciado": "O pré-natal de BAIXO RISCO deve ter no mínimo:",
+      "alternativas": [
+        "3 consultas",
+        "6 consultas",
+        "9 consultas",
+        "12 consultas",
+        "Não há número mínimo"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 84,
+      "enunciado": "A Política de Planejamento Familiar garante:",
+      "alternativas": [
+        "Apenas métodos contraceptivos",
+        "Acesso a informações, métodos e acompanhamento",
+        "Somente laqueadura e vasectomia",
+        "Exclusivamente para mulheres",
+        "Apenas DIU e pílula"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 85,
+      "enunciado": "A Política de Atenção às Pessoas com Doenças Crônicas visa:",
+      "alternativas": [
+        "Apenas tratamento medicamentoso",
+        "Promoção, prevenção, diagnóstico, tratamento e reabilitação",
+        "Exclusivamente hipertensão e diabetes",
+        "Somente atenção hospitalar",
+        "Apenas distribuição de medicamentos"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 86,
+      "enunciado": "O HIPERDIA é um sistema que:",
+      "alternativas": [
+        "Apenas distribui medicamentos",
+        "Cadastra e acompanha hipertensos e diabéticos",
+        "Substitui consultas médicas",
+        "Exclusivamente para insulinodependentes",
+        "Apenas registro sem acompanhamento"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 87,
+      "enunciado": "A Rede de Atenção à Saúde das Pessoas com Doenças Crônicas inclui:",
+      "alternativas": [
+        "Apenas atenção especializada",
+        "Atenção básica, especializada, hospitalar e urgência",
+        "Somente hospitais",
+        "Exclusivamente AB",
+        "Apenas farmácia"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 88,
+      "enunciado": "A Política de Prevenção e Controle do Câncer estabelece:",
+      "alternativas": [
+        "Apenas tratamento do câncer",
+        "Ações de prevenção primária e secundária, diagnóstico e tratamento",
+        "Exclusivamente rastreamento",
+        "Somente quimioterapia",
+        "Apenas cirurgia oncológica"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 89,
+      "enunciado": "O rastreamento do câncer de colo uterino recomenda:",
+      "alternativas": [
+        "Papanicolau anual para todas mulheres",
+        "Inicio aos 25 anos, trienal se dois exames anuais negativos",
+        "Apenas quando há sintomas",
+        "Início na primeira relação sexual",
+        "Somente após os 40 anos"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 90,
+      "enunciado": "A mamografia de rastreamento é recomendada:",
+      "alternativas": [
+        "Para todas mulheres acima de 30 anos",
+        "Bienalmente para mulheres de 50 a 69 anos",
+        "Anualmente a partir dos 35 anos",
+        "Apenas quando há nódulo palpável",
+        "Somente com histórico familiar"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 91,
+      "enunciado": "A Política de Atenção às IST/HIV/AIDS prevê:",
+      "alternativas": [
+        "Apenas tratamento de doentes",
+        "Prevenção, diagnóstico, tratamento e ações de redução de danos",
+        "Exclusivamente distribuição de preservativos",
+        "Somente testagem",
+        "Apenas para grupos de risco"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 92,
+      "enunciado": "A Profilaxia Pós-Exposição (PEP) ao HIV deve iniciar:",
+      "alternativas": [
+        "Em qualquer momento",
+        "Até 72 horas após exposição",
+        "Apenas após 7 dias",
+        "Somente com teste positivo",
+        "Não há prazo estabelecido"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 93,
+      "enunciado": "A Profilaxia Pré-Exposição (PrEP) consiste em:",
+      "alternativas": [
+        "Vacina contra HIV",
+        "Uso de antirretrovirais por pessoas não infectadas em risco",
+        "Tratamento após diagnóstico",
+        "Apenas para profissionais de saúde",
+        "Substitui preservativo"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 94,
+      "enunciado": "A Política de Atenção Integral ao Uso de Crack e outras Drogas estabelece:",
+      "alternativas": [
+        "Apenas internação compulsória",
+        "Rede de cuidados com atenção psicossocial, redução de danos e reinserção",
+        "Exclusivamente tratamento medicamentoso",
+        "Somente abstinência",
+        "Apenas comunidades terapêuticas"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 95,
+      "enunciado": "A estratégia de Redução de Danos visa:",
+      "alternativas": [
+        "Substituir todas as formas de tratamento",
+        "Minimizar riscos e danos sem exigir abstinência imediata",
+        "Apenas distribuir insumos",
+        "Promover uso de drogas",
+        "Apenas para usuários de drogas injetáveis"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 96,
+      "enunciado": "O Consultório na Rua é um serviço que:",
+      "alternativas": [
+        "Substitui CAPS",
+        "Atende população em situação de rua in loco",
+        "Apenas distribui alimentos",
+        "Exclusivamente para dependentes químicos",
+        "Somente ações assistenciais"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 97,
+      "enunciado": "A Política de Saúde Bucal (Brasil Sorridente) inclui:",
+      "alternativas": [
+        "Apenas extração dentária",
+        "Atenção básica, especializada e próteses dentárias",
+        "Exclusivamente urgências",
+        "Somente para crianças",
+        "Apenas prevenção"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 98,
+      "enunciado": "Os Centros de Especialidades Odontológicas (CEO) oferecem:",
+      "alternativas": [
+        "Apenas procedimentos básicos",
+        "Especialidades como endodontia, periodontia, cirurgia oral menor",
+        "Exclusivamente ortodontia",
+        "Somente próteses",
+        "Apenas urgências"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 99,
+      "enunciado": "A Política de Atenção à Pessoa com Deficiência prevê:",
+      "alternativas": [
+        "Apenas reabilitação física",
+        "Atenção integral incluindo habilitação, reabilitação e tecnologias assistivas",
+        "Exclusivamente fornecimento de órteses/próteses",
+        "Somente atendimento especializado",
+        "Apenas fisioterapia"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 100,
+      "enunciado": "A Rede de Cuidados à Pessoa com Deficiência é composta por:",
+      "alternativas": [
+        "Apenas centros especializados",
+        "Atenção básica, especializada, hospitalar e urgência",
+        "Somente reabilitação",
+        "Exclusivamente CER (Centro Especializado em Reabilitação)",
+        "Apenas oficinas ortopédicas"
+      ],
+      "gabarito": "B"
+    }
+  ]
+}

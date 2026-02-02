@@ -1,0 +1,604 @@
+{
+  "especificos_parte1": [
+    {
+      "id": 1,
+      "enunciado": "O ACS identifica gestante de 16 anos com sinais de violência doméstica. A conduta PRIORITÁRIA deve ser:",
+      "alternativas": [
+        "Aguardar próxima reunião de equipe para discutir",
+        "Comunicar imediatamente ao enfermeiro/médico para avaliação e notificação",
+        "Orientar a gestante a procurar delegacia sozinha",
+        "Manter sigilo absoluto sem comunicar à equipe",
+        "Confrontar o agressor durante a visita"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 2,
+      "enunciado": "Durante visita, o ACS observa moradia precária com água parada, lixo e animais em excesso. A ação adequada é:",
+      "alternativas": [
+        "Comunicar apenas o serviço de limpeza urbana",
+        "Articular com equipe e outros setores para intervenção integrada",
+        "Orientar a família sem registrar",
+        "Realizar limpeza pessoalmente",
+        "Notificar apenas vigilância sanitária"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 3,
+      "enunciado": "Sobre o ciclo do Aedes aegypti, é INCORRETO afirmar:",
+      "alternativas": [
+        "Ciclo completo dura 7-10 dias em condições ideais",
+        "Fêmea deposita ovos em água limpa e parada",
+        "Ovos podem resistir secos por até 1 ano",
+        "Mosquito tem hábitos diurnos, picando ao amanhecer/entardecer",
+        "Fase aquática ocorre em água suja e poluída"
+      ],
+      "gabarito": "E"
+    },
+    {
+      "id": 4,
+      "enunciado": "Sobre prevenção da transmissão vertical do HIV, o ACS deve orientar:",
+      "alternativas": [
+        "É impossível prevenir transmissão ao bebê",
+        "Pré-natal, antirretrovirais e parto seguro reduzem significativamente o risco",
+        "Aleitamento materno é sempre recomendado",
+        "Testagem no pré-natal é desnecessária",
+        "Apenas parto cesáreo previne transmissão"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 5,
+      "enunciado": "Sobre a Caderneta de Saúde da Criança, é correto afirmar:",
+      "alternativas": [
+        "Deve ser usada apenas pelo pediatra",
+        "Contém gráficos de crescimento, calendário vacinal e orientações",
+        "Substitui consultas de puericultura",
+        "É de uso exclusivo até 6 meses",
+        "Não identifica atrasos no desenvolvimento"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 6,
+      "enunciado": "O aleitamento materno EXCLUSIVO é recomendado até:",
+      "alternativas": [
+        "3 meses de idade",
+        "4 meses de idade",
+        "6 meses de idade",
+        "9 meses de idade",
+        "12 meses de idade"
+      ],
+      "gabarito": "C"
+    },
+    {
+      "id": 7,
+      "enunciado": "Criança de 8 meses com olhos fundos, moleira afundada, choro sem lágrimas. A conduta IMEDIATA:",
+      "alternativas": [
+        "Orientar soro caseiro e aguardar melhora",
+        "Encaminhar imediatamente à UBS para avaliação médica",
+        "Marcar consulta para próxima semana",
+        "Recomendar apenas aumento de água",
+        "Aguardar próxima visita para reavaliar"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 8,
+      "enunciado": "O Programa de Controle da Hipertensão na AB preconiza:",
+      "alternativas": [
+        "Acompanhamento exclusivo por cardiologista",
+        "Aferição de PA anualmente para todos adultos",
+        "Mudanças no estilo de vida e, quando necessário, medicação",
+        "Uso obrigatório de medicação para todos",
+        "Dispensa de orientações sobre alimentação"
+      ],
+      "gabarito": "C"
+    },
+    {
+      "id": 9,
+      "enunciado": "Sobre Diabetes Mellitus tipo 2, é INCORRETO:",
+      "alternativas": [
+        "Relaciona-se a obesidade, sedentarismo e histórico familiar",
+        "Pode ser prevenido com alimentação saudável e atividade física",
+        "Diagnóstico e controle previnem complicações",
+        "Acomete exclusivamente pessoas acima de 65 anos",
+        "ACS pode orientar sobre alimentação e adesão ao tratamento"
+      ],
+      "gabarito": "D"
+    },
+    {
+      "id": 10,
+      "enunciado": "O teste do pezinho deve ser realizado preferencialmente:",
+      "alternativas": [
+        "Nas primeiras 24 horas de vida",
+        "Entre 3º e 5º dia de vida",
+        "Após 15º dia de vida",
+        "Apenas se houver sinais de doença",
+        "Somente em bebês prematuros"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 11,
+      "enunciado": "A hanseníase é uma doença:",
+      "alternativas": [
+        "De alta contagiosidade e difícil tratamento",
+        "Sem cura que exige isolamento",
+        "Curável, de baixa contagiosidade, com tratamento no SUS",
+        "Transmitida por mosquitos",
+        "Que não requer notificação compulsória"
+      ],
+      "gabarito": "C"
+    },
+    {
+      "id": 12,
+      "enunciado": "Sobre tuberculose, é correto afirmar:",
+      "alternativas": [
+        "É transmitida por via respiratória através de gotículas",
+        "Não tem cura conhecida",
+        "Tratamento pode ser interrompido quando sintomas desaparecem",
+        "Acomete exclusivamente os pulmões",
+        "Não requer investigação de contatos"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 13,
+      "enunciado": "A vacina BCG ao nascer previne formas graves de:",
+      "alternativas": [
+        "Hepatite B",
+        "Tuberculose",
+        "Poliomielite",
+        "Sarampo",
+        "Meningite meningocócica"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 14,
+      "enunciado": "A vacina pentavalente protege contra:",
+      "alternativas": [
+        "Hepatite A, B, C, D e E",
+        "Difteria, tétano, coqueluche, Haemophilus influenzae b e hepatite B",
+        "Sarampo, caxumba, rubéola, varicela e hepatite A",
+        "Meningite A, C, W, Y e B",
+        "Rotavírus, influenza, pneumococo, meningococo e HPV"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 15,
+      "enunciado": "Na campanha de vacinação contra influenza, são priorizados:",
+      "alternativas": [
+        "Apenas crianças menores de 5 anos",
+        "Idosos, gestantes, crianças de 6 meses a <6 anos, entre outros",
+        "Somente trabalhadores da saúde",
+        "Exclusivamente pessoas com doenças crônicas",
+        "Toda população sem distinção"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 16,
+      "enunciado": "Sobre sífilis congênita, é INCORRETO:",
+      "alternativas": [
+        "Resulta de transmissão vertical na gestação",
+        "Pode ser prevenida com diagnóstico e tratamento da gestante",
+        "Não causa sequelas se tratada após nascimento",
+        "Parceiro também deve ser tratado",
+        "Pré-natal é fundamental para prevenção"
+      ],
+      "gabarito": "C"
+    },
+    {
+      "id": 17,
+      "enunciado": "ACS identifica suspeita de violência contra criança. Deve:",
+      "alternativas": [
+        "Manter sigilo absoluto para proteger família",
+        "Comunicar ao Conselho Tutelar e equipe de saúde",
+        "Confrontar diretamente os responsáveis",
+        "Aguardar confirmação médica antes de agir",
+        "Orientar criança a procurar ajuda sozinha"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 18,
+      "enunciado": "A visita domiciliar do ACS NÃO tem como objetivo:",
+      "alternativas": [
+        "Conhecer condições de vida e saúde das famílias",
+        "Orientar sobre prevenção e promoção da saúde",
+        "Prescrever medicamentos para problemas identificados",
+        "Identificar situações de risco e vulnerabilidade",
+        "Fortalecer vínculo entre equipe e comunidade"
+      ],
+      "gabarito": "C"
+    },
+    {
+      "id": 19,
+      "enunciado": "Sobre planejamento familiar, o ACS deve orientar que:",
+      "alternativas": [
+        "É direito do casal/indivíduo escolher livremente o método",
+        "Apenas mulheres decidem sobre contracepção",
+        "Laqueadura e vasectomia são únicos métodos do SUS",
+        "Adolescentes não podem acessar orientações",
+        "É responsabilidade exclusiva do setor privado"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 20,
+      "enunciado": "O Papanicolau é recomendado para mulheres:",
+      "alternativas": [
+        "A partir dos 25 anos, se já iniciaram atividade sexual",
+        "Apenas após 40 anos",
+        "Somente quando apresentam sintomas",
+        "Exclusivamente gestantes",
+        "A partir da primeira menstruação"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 21,
+      "enunciado": "Sobre câncer de mama, é correto:",
+      "alternativas": [
+        "Acomete exclusivamente mulheres acima de 60 anos",
+        "Mamografia de rastreamento é para mulheres de 50-69 anos",
+        "Autoexame substitui mamografia",
+        "Não há fatores de risco identificáveis",
+        "Homens não podem desenvolver"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 22,
+      "enunciado": "Idoso com tristeza persistente, isolamento, perda de interesse. O ACS deve:",
+      "alternativas": [
+        "Ignorar, pois é normal idosos ficarem tristes",
+        "Comunicar à equipe para avaliação e acompanhamento",
+        "Prescrever antidepressivo",
+        "Recomendar que família resolva sozinha",
+        "Orientar idoso a 'se animar'"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 23,
+      "enunciado": "A Caderneta de Saúde da Pessoa Idosa:",
+      "alternativas": [
+        "Substitui consultas médicas",
+        "Auxilia no acompanhamento das condições de saúde",
+        "É de uso exclusivo do geriatra",
+        "Serve apenas para registrar vacinação",
+        "Não contém informações sobre capacidade funcional"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 24,
+      "enunciado": "Sobre prevenção de quedas em idosos, o ACS pode orientar:",
+      "alternativas": [
+        "Manter tapetes soltos e pouca iluminação",
+        "Retirar obstáculos, melhorar iluminação e instalar barras",
+        "Restringir completamente mobilidade",
+        "Evitar qualquer atividade física",
+        "Quedas são inevitáveis"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 25,
+      "enunciado": "O Estatuto do Idoso garante:",
+      "alternativas": [
+        "Atendimento preferencial em serviços públicos e privados",
+        "Gratuidade apenas em transporte intermunicipal",
+        "Prioridade somente em doença grave",
+        "Benefícios exclusivos para maiores de 80 anos",
+        "Atendimento igualitário sem prioridade"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 26,
+      "enunciado": "A primeira visita ao dentista deve ocorrer:",
+      "alternativas": [
+        "Apenas quando criança sentir dor",
+        "Após erupção do primeiro dente de leite",
+        "Somente após troca dos dentes",
+        "Exclusivamente na adolescência",
+        "Quando todos dentes permanentes nasceram"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 27,
+      "enunciado": "A fluoretação da água de abastecimento visa:",
+      "alternativas": [
+        "Prevenir doenças gastrointestinais",
+        "Reduzir incidência de cárie dentária",
+        "Eliminar bactérias da água",
+        "Melhorar sabor da água",
+        "Prevenir doenças de pele"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 28,
+      "enunciado": "Sobre alimentação saudável, o ACS deve recomendar:",
+      "alternativas": [
+        "Consumo elevado de ultraprocessados",
+        "Priorização de alimentos in natura e minimamente processados",
+        "Restrição total de carboidratos",
+        "Uso frequente de suplementos",
+        "Dietas da moda sem orientação"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 29,
+      "enunciado": "Sobre atividade física, o ACS pode orientar que:",
+      "alternativas": [
+        "Apenas exercícios de alta intensidade trazem benefícios",
+        "Caminhadas regulares já contribuem para saúde",
+        "Idosos não devem praticar atividade física",
+        "Apenas atletas precisam se exercitar",
+        "Atividade física é contraindicada em doenças crônicas"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 30,
+      "enunciado": "Uso abusivo de álcool/drogas deve ser abordado pelo ACS através de:",
+      "alternativas": [
+        "Julgamento moral e críticas",
+        "Acolhimento, orientação e encaminhamento aos serviços",
+        "Denúncia policial imediata",
+        "Ignorar por ser escolha individual",
+        "Isolamento social do usuário"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 31,
+      "enunciado": "Os CAPS AD (Álcool e Drogas) oferecem:",
+      "alternativas": [
+        "Internação compulsória de longa duração",
+        "Acompanhamento terapêutico em regime diário",
+        "Apenas grupos religiosos",
+        "Punição para usuários",
+        "Apenas tratamento medicamentoso"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 32,
+      "enunciado": "Sobre IST (Infecções Sexualmente Transmissíveis), é INCORRETO:",
+      "alternativas": [
+        "Preservativo é principal forma de prevenção",
+        "Algumas IST são assintomáticas",
+        "Tratamento está disponível no SUS",
+        "Apenas profissionais do sexo estão em risco",
+        "Diagnóstico precoce previne complicações"
+      ],
+      "gabarito": "D"
+    },
+    {
+      "id": 33,
+      "enunciado": "A PEP (Profilaxia Pós-Exposição) ao HIV deve iniciar:",
+      "alternativas": [
+        "Em até 72 horas após exposição de risco",
+        "Apenas após confirmação de infecção",
+        "Somente uma semana após exposição",
+        "Exclusivamente em transmissão vertical",
+        "Não há prazo definido"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 34,
+      "enunciado": "A PrEP (Profilaxia Pré-Exposição) ao HIV consiste em:",
+      "alternativas": [
+        "Vacina preventiva contra HIV",
+        "Uso de antirretrovirais por pessoas não infectadas em risco",
+        "Tratamento após diagnóstico de HIV",
+        "Medida exclusiva para profissionais de saúde",
+        "Substituição do preservativo"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 35,
+      "enunciado": "Busca ativa de sintomáticos respiratórios para tuberculose: identificar pessoas com:",
+      "alternativas": [
+        "Tosse por qualquer período",
+        "Tosse por três semanas ou mais",
+        "Apenas febre persistente",
+        "Somente emagrecimento sem causa",
+        "Qualquer sintoma respiratório"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 36,
+      "enunciado": "Sobre esquistossomose, é correto:",
+      "alternativas": [
+        "É transmitida por mosquitos",
+        "Infecção ocorre por contato com água contaminada",
+        "Não há tratamento disponível",
+        "Acomete exclusivamente crianças",
+        "Não relaciona-se a condições sanitárias"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 37,
+      "enunciado": "A dengue em forma grave pode causar:",
+      "alternativas": [
+        "Apenas febre e dor de cabeça leve",
+        "Hemorragias e choque, podendo levar à morte",
+        "Exclusivamente manchas na pele sem gravidade",
+        "Somente cansaço e indisposição",
+        "Apenas sintomas respiratórios"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 38,
+      "enunciado": "Sobre Zika vírus, é INCORRETO:",
+      "alternativas": [
+        "Pode causar microcefalia em bebês de gestantes infectadas",
+        "É transmitida pelo mesmo mosquito da dengue",
+        "Não há vacina disponível",
+        "Prevenção se dá combatendo o mosquito vetor",
+        "Causa sintomas graves em todos, sendo sempre letal"
+      ],
+      "gabarito": "E"
+    },
+    {
+      "id": 39,
+      "enunciado": "Saneamento básico inadequado relaciona-se a:",
+      "alternativas": [
+        "Apenas gripe e resfriados",
+        "Diarreias, verminoses e hepatite A",
+        "Exclusivamente câncer",
+        "Somente doenças cardíacas",
+        "Apenas diabetes e hipertensão"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 40,
+      "enunciado": "Determinantes sociais da saúde:",
+      "alternativas": [
+        "Referem-se apenas a fatores biológicos",
+        "Incluem condições socioeconômicas, culturais e ambientais",
+        "Não influenciam saúde-doença",
+        "São apenas responsabilidade individual",
+        "Limitam-se a acesso a serviços"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 41,
+      "enunciado": "A educação em saúde pelo ACS deve:",
+      "alternativas": [
+        "Impor verticalmente conhecimentos",
+        "Dialogar e construir conhecimento com a comunidade",
+        "Focar apenas em palestras técnicas",
+        "Desconsiderar saberes populares",
+        "Usar linguagem científica complexa"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 42,
+      "enunciado": "Trabalho em equipe na ESF pressupõe:",
+      "alternativas": [
+        "Hierarquia rígida sem comunicação",
+        "Colaboração, comunicação e responsabilidade compartilhada",
+        "Trabalho isolado de cada profissional",
+        "Competição entre membros",
+        "Desvalorização de diferentes saberes"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 43,
+      "enunciado": "O prontuário familiar/individual:",
+      "alternativas": [
+        "Pode ser compartilhado publicamente",
+        "Deve ser mantido em sigilo profissional",
+        "Não requer preenchimento adequado",
+        "É de propriedade exclusiva do paciente",
+        "Pode ser descartado a qualquer momento"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 44,
+      "enunciado": "O mapeamento do território serve para:",
+      "alternativas": [
+        "Apenas delimitar geograficamente",
+        "Conhecer características demográficas, sociais e epidemiológicas",
+        "Substituir visitas domiciliares",
+        "Controlar população sem planejamento",
+        "Dificultar acesso aos serviços"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 45,
+      "enunciado": "Sobre sigilo profissional, o ACS deve:",
+      "alternativas": [
+        "Comentar casos com vizinhos livremente",
+        "Manter confidencialidade das informações obtidas",
+        "Divulgar informações em redes sociais",
+        "Compartilhar dados sem autorização",
+        "Desconsiderar privacidade dos usuários"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 46,
+      "enunciado": "A comunicação efetiva do ACS deve:",
+      "alternativas": [
+        "Utilizar termos técnicos sem explicação",
+        "Ser clara, respeitosa e adaptada ao contexto cultural",
+        "Impor opiniões pessoais como verdades",
+        "Desconsiderar dúvidas e questionamentos",
+        "Criar barreiras entre profissional e usuário"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 47,
+      "enunciado": "O cadastramento das famílias permite:",
+      "alternativas": [
+        "Apenas controle burocrático",
+        "Planejamento de ações baseado em necessidades locais",
+        "Invasão de privacidade sem benefícios",
+        "Dificultar acesso aos serviços",
+        "Substituir todas outras atividades da equipe"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 48,
+      "enunciado": "Durante surto de doença transmissível, o ACS deve:",
+      "alternativas": [
+        "Ocultar informações para evitar pânico",
+        "Orientar medidas preventivas e comunicar à equipe/vigilância",
+        "Aguardar instruções sem agir",
+        "Responsabilizar apenas a população",
+        "Ignorar a situação"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 49,
+      "enunciado": "Participação do ACS em atividades coletivas (grupos, campanhas) é:",
+      "alternativas": [
+        "Dispensável, deve focar apenas em visitas",
+        "Fundamental para promoção e fortalecimento comunitário",
+        "Exclusiva de outros profissionais",
+        "Desnecessária para processo de trabalho",
+        "Apenas burocrática sem impacto"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 50,
+      "enunciado": "ACS identifica situação fora de sua competência. Deve:",
+      "alternativas": [
+        "Tentar resolver sozinho",
+        "Acionar outros membros da equipe de saúde",
+        "Ignorar por não saber agir",
+        "Improvisar sem embasamento",
+        "Culpar família pela complexidade"
+      ],
+      "gabarito": "B"
+    }
+  ]
+}

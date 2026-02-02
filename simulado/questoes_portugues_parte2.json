@@ -1,0 +1,604 @@
+{
+  "portugues_parte2": [
+    {
+      "id": 51,
+      "enunciado": "Em 'Os profissionais ANSIAM por melhores condições de trabalho', o verbo está:",
+      "alternativas": [
+        "Correto: 'ansiar' é regular e está bem conjugado",
+        "Incorreto: deveria ser 'anseiam' (verbo mediar)",
+        "Correto: 'ansiar' segue o modelo de 'odiar'",
+        "Incorreto: deveria ser 'ansiam' sem o 'e'",
+        "Ambas as formas 'ansiam' e 'anseiam' são aceitas"
+      ],
+      "gabarito": "E"
+    },
+    {
+      "id": 52,
+      "enunciado": "Quanto ao emprego da vírgula, está INCORRETA:",
+      "alternativas": [
+        "Trabalhamos muito, portanto merecemos reconhecimento",
+        "Médicos, enfermeiros e agentes participaram da reunião",
+        "O paciente, após longa espera foi finalmente atendido",
+        "Na próxima semana, haverá nova capacitação",
+        "Queremos, na verdade, um sistema de saúde melhor"
+      ],
+      "gabarito": "C"
+    },
+    {
+      "id": 53,
+      "enunciado": "Em 'Tratava-se de casos graves', o pronome 'se' é:",
+      "alternativas": [
+        "Pronome apassivador",
+        "Índice de indeterminação do sujeito",
+        "Pronome reflexivo",
+        "Parte integrante do verbo",
+        "Pronome recíproco"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 54,
+      "enunciado": "Assinale a alternativa em que 'a' deve receber acento grave:",
+      "alternativas": [
+        "Referiu-se a pessoas desconhecidas",
+        "Chegou a tempo de participar da reunião",
+        "Encaminharam o paciente a uma especialista",
+        "Dirigiu-se a sala de curativos imediatamente",
+        "Ficou frente a frente com o coordenador"
+      ],
+      "gabarito": "D"
+    },
+    {
+      "id": 55,
+      "enunciado": "O plural de 'qualquer cidadão' é:",
+      "alternativas": [
+        "Qualquer cidadãos",
+        "Quaisquer cidadões",
+        "Quaisquer cidadãos",
+        "Qualqueres cidadãos",
+        "Qualquer cidadães"
+      ],
+      "gabarito": "C"
+    },
+    {
+      "id": 56,
+      "enunciado": "'Não OBSTANTE o esforço, não alcançaram o objetivo.' O termo destacado pode ser substituído por:",
+      "alternativas": [
+        "Devido a",
+        "Em virtude de",
+        "Apesar de",
+        "Por causa de",
+        "Em razão de"
+      ],
+      "gabarito": "C"
+    },
+    {
+      "id": 57,
+      "enunciado": "Em 'Fazia anos que não visitava aquela comunidade', o verbo 'fazer' está:",
+      "alternativas": [
+        "Incorreto: deveria ser 'faziam'",
+        "Correto: é impessoal quando indica tempo",
+        "Incorreto: deveria concordar com 'anos'",
+        "Correto: mas 'faziam' também seria aceito",
+        "Incorreto: deveria estar no plural obrigatoriamente"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 58,
+      "enunciado": "Identifique a função sintática de 'aos pacientes' em: 'O médico informou aos pacientes o resultado.'",
+      "alternativas": [
+        "Objeto direto",
+        "Objeto indireto",
+        "Complemento nominal",
+        "Adjunto adverbial",
+        "Agente da passiva"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 59,
+      "enunciado": "Em 'É PROVÁVEL QUE haja mudanças no protocolo', a oração destacada é:",
+      "alternativas": [
+        "Subordinada substantiva subjetiva",
+        "Subordinada substantiva objetiva direta",
+        "Subordinada substantiva predicativa",
+        "Subordinada adjetiva explicativa",
+        "Subordinada adverbial causal"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 60,
+      "enunciado": "Assinale onde NÃO ocorre crase:",
+      "alternativas": [
+        "Refiro-me àquela paciente que chegou ontem",
+        "Daqui à pouco começará a palestra",
+        "Atendimento das 8h às 17h",
+        "Vou à farmácia buscar medicamentos",
+        "Entregou o relatório à coordenadora"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 61,
+      "enunciado": "'Quanto MAIS estudamos, MAIS aprendemos.' As palavras destacadas estabelecem relação de:",
+      "alternativas": [
+        "Causa e consequência",
+        "Condição e resultado",
+        "Proporção",
+        "Comparação",
+        "Oposição"
+      ],
+      "gabarito": "C"
+    },
+    {
+      "id": 62,
+      "enunciado": "Em 'O agente INTERVIU na discussão com argumentos sólidos', o verbo está:",
+      "alternativas": [
+        "Correto: segue o modelo de 'vir'",
+        "Incorreto: deveria ser 'interveio' (modelo de 'ver')",
+        "Correto: segue o modelo de 'ver'",
+        "Incorreto: deveria ser 'interveu' (modelo de 'ter')",
+        "Ambas 'interviu' e 'interveio' são aceitas"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 63,
+      "enunciado": "'Faz-se necessário maior investimento.' A partícula 'se' indica:",
+      "alternativas": [
+        "Sujeito indeterminado",
+        "Voz passiva sintética",
+        "Índice de indeterminação",
+        "Pronome reflexivo",
+        "Realce ou expletivo"
+      ],
+      "gabarito": "E"
+    },
+    {
+      "id": 64,
+      "enunciado": "Quanto à regência, está CORRETA:",
+      "alternativas": [
+        "Ele está quite com suas obrigações",
+        "Todos estavam quite com a mensalidade",
+        "As enfermeiras ficaram quites com o plantão",
+        "O médico está quites com seus deveres",
+        "Ficamos quite com os pagamentos"
+      ],
+      "gabarito": "C"
+    },
+    {
+      "id": 65,
+      "enunciado": "Em 'A enfermeira ENTRETEU as crianças durante a vacinação', o verbo está:",
+      "alternativas": [
+        "Correto: segue o modelo de 'ter'",
+        "Incorreto: deveria ser 'entreteve' (modelo de 'ter')",
+        "Correto: segue o modelo de 'vir'",
+        "Incorreto: deveria ser 'entreteu' mesmo",
+        "Ambas as formas são aceitas"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 66,
+      "enunciado": "'Dado QUE havia urgência, priorizaram o atendimento.' A oração expressa:",
+      "alternativas": [
+        "Condição",
+        "Causa",
+        "Concessão",
+        "Consequência",
+        "Finalidade"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 67,
+      "enunciado": "Assinale a alternativa com ERRO de concordância:",
+      "alternativas": [
+        "Ela mesma resolveu o problema",
+        "Eles próprios admitiram o erro",
+        "Seguem inclusas as documentações",
+        "É proibido entrada de menores",
+        "Água é bom para a saúde"
+      ],
+      "gabarito": "C"
+    },
+    {
+      "id": 68,
+      "enunciado": "'Os médicos REQUISERAM mais equipamentos.' O verbo está:",
+      "alternativas": [
+        "Correto: 'requerer' é regular",
+        "Incorreto: deveria ser 'requereram'",
+        "Correto: segue o modelo de 'querer'",
+        "Incorreto: deveria ser 'requisitaram'",
+        "Correto, mas 'requereram' também é aceito"
+      ],
+      "gabarito": "C"
+    },
+    {
+      "id": 69,
+      "enunciado": "Em 'Há DE haver soluções', a locução verbal está:",
+      "alternativas": [
+        "Incorreta: deveria ser 'Hão de haver'",
+        "Correta: 'haver' é impessoal",
+        "Incorreta: deveria ser 'Há de haverem'",
+        "Correta: concorda com 'soluções'",
+        "Ambas as formas são aceitas"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 70,
+      "enunciado": "'Ele é um dos profissionais que MAIS SE DESTACA.' A concordância está:",
+      "alternativas": [
+        "Correta: concorda com 'um'",
+        "Incorreta: deveria ser 'destacam' (plural)",
+        "Correta: concordância facultativa",
+        "Incorreta: deveria ser 'se destacam'",
+        "Ambas 'destaca' e 'destacam' são corretas"
+      ],
+      "gabarito": "E"
+    },
+    {
+      "id": 71,
+      "enunciado": "'Seguem ANEXO as cópias dos documentos.' A concordância:",
+      "alternativas": [
+        "Está correta: 'anexo' é invariável",
+        "Está incorreta: deveria ser 'anexas'",
+        "Está correta: concorda com 'cópias'",
+        "Está incorreta: deveria ser 'anexados'",
+        "Ambas as formas são aceitas"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 72,
+      "enunciado": "'A MAIORIA DOS pacientes COMPARECEU.' O verbo pode também ficar:",
+      "alternativas": [
+        "Apenas no singular obrigatoriamente",
+        "Apenas no plural obrigatoriamente",
+        "No plural: 'compareceram' (facultativo)",
+        "No feminino: 'comparecida'",
+        "Não admite outra forma"
+      ],
+      "gabarito": "C"
+    },
+    {
+      "id": 73,
+      "enunciado": "Em 'Espero que você ESTEJE bem', o verbo está:",
+      "alternativas": [
+        "Correto: presente do subjuntivo de 'estar'",
+        "Incorreto: deveria ser 'esteja'",
+        "Correto: variante regional aceita",
+        "Incorreto: deveria ser 'estejas'",
+        "Ambas 'esteje' e 'esteja' são aceitas"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 74,
+      "enunciado": "'Trouxeram-me o prontuário.' Forma pronominal INCORRETA:",
+      "alternativas": [
+        "Me trouxeram o prontuário",
+        "O prontuário me foi trazido",
+        "Trouxeram-no para mim",
+        "Trouxeram o prontuário para mim",
+        "Todas estão corretas exceto A"
+      ],
+      "gabarito": "E"
+    },
+    {
+      "id": 75,
+      "enunciado": "'Os exames que os médicos FIZERAM foram conclusivos.' A forma 'fizeram' está:",
+      "alternativas": [
+        "Incorreta: deveria ser 'fizeram'",
+        "Correta: plural de 'fazer' no pretérito",
+        "Incorreta: deveria ser 'fizessem'",
+        "Correta: mas 'fazeram' também é aceito",
+        "Incorreta: deveria ser 'fezeram'"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 76,
+      "enunciado": "'O essencial é QUE todos participem.' A oração destacada é:",
+      "alternativas": [
+        "Subordinada substantiva subjetiva",
+        "Subordinada substantiva predicativa",
+        "Subordinada substantiva objetiva direta",
+        "Subordinada adverbial final",
+        "Coordenada sindética conclusiva"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 77,
+      "enunciado": "'Havia BASTANTES profissionais no evento.' O termo destacado:",
+      "alternativas": [
+        "Está correto: concorda com 'profissionais'",
+        "Está incorreto: deveria ser 'bastante' (invariável)",
+        "Está correto: mas 'bastante' também seria aceito",
+        "Está incorreto: deveria ser 'bastantos'",
+        "Ambas as formas têm o mesmo valor"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 78,
+      "enunciado": "'É MEIO-DIA E MEIA.' A expressão está:",
+      "alternativas": [
+        "Incorreta: deveria ser 'meio-dia e meio'",
+        "Correta: 'meia' concorda com 'hora' subentendida",
+        "Incorreta: deveria ser 'meia-dia e meia'",
+        "Correta: mas 'meio' também seria aceito",
+        "Depende do contexto regional"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 79,
+      "enunciado": "'Eles se MANTIVERAM calmos.' O verbo está:",
+      "alternativas": [
+        "Incorreto: deveria ser 'manteram'",
+        "Correto: pretérito perfeito de 'manter'",
+        "Incorreto: deveria ser 'manteram-se'",
+        "Correto: variante de 'manter'",
+        "Incorreto: deveria ser 'mantêm'"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 80,
+      "enunciado": "Em 'Vossa Senhoria TROUXE os documentos', a concordância:",
+      "alternativas": [
+        "Está incorreta: deveria ser 'trouxestes'",
+        "Está correta: 3ª pessoa",
+        "Está incorreta: deveria ser 'trouxeram'",
+        "Está correta: 2ª pessoa",
+        "Depende do grau de formalidade"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 81,
+      "enunciado": "'Eles INTERVIRAM no processo.' O verbo está:",
+      "alternativas": [
+        "Correto: pretérito de 'intervir'",
+        "Incorreto: deveria ser 'intervieram'",
+        "Correto: variante aceita",
+        "Incorreto: deveria ser 'intervinham'",
+        "Ambas 'interviram' e 'intervieram' são aceitas"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 82,
+      "enunciado": "'Quando VIRES o resultado, ficará feliz.' O verbo está:",
+      "alternativas": [
+        "Correto: futuro do subjuntivo de 'ver'",
+        "Incorreto: deveria ser 'ver'",
+        "Correto: mas 'veres' também é aceito",
+        "Incorreto: deveria ser 'vir'",
+        "Depende do contexto"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 83,
+      "enunciado": "'Compramos duzentas GRAMAS de medicamento.' O termo está:",
+      "alternativas": [
+        "Correto: 'grama' é substantivo feminino",
+        "Incorreto: deveria ser 'duzentos gramas'",
+        "Correto: variante regional aceita",
+        "Incorreto: 'grama' é masculino",
+        "Ambas as formas são aceitas"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 84,
+      "enunciado": "'Ele PROVEU o setor de materiais.' O verbo está:",
+      "alternativas": [
+        "Correto: pretérito de 'prover'",
+        "Incorreto: deveria ser 'proviu'",
+        "Correto: segue modelo de 'ver'",
+        "Incorreto: deveria ser 'proveio'",
+        "Ambas 'proveu' e 'proviu' são aceitas"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 85,
+      "enunciado": "'HAJA VISTA os problemas.' Também poderia ser:",
+      "alternativas": [
+        "Apenas 'haja vista' (invariável)",
+        "Apenas 'hajam vista'",
+        "'Haja vista' ou 'hajam vista'",
+        "'Haja visto' ou 'hajam visto'",
+        "Nenhuma outra forma é aceita"
+      ],
+      "gabarito": "C"
+    },
+    {
+      "id": 86,
+      "enunciado": "'É PROIBIDO entrada de animais.' A concordância:",
+      "alternativas": [
+        "Está correta: substantivo sem determinante",
+        "Está incorreta: deveria ser 'proibida'",
+        "Está correta: mas 'proibida' também seria aceito",
+        "Está incorreta: deveria ser 'proibidos'",
+        "Depende se há placa ou não"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 87,
+      "enunciado": "'Entre EU e VOCÊ não há segredos.' Está:",
+      "alternativas": [
+        "Correto: pronomes do caso reto",
+        "Incorreto: deveria ser 'mim' e 'ti'",
+        "Correto: após 'entre' usa-se caso reto",
+        "Incorreto: deveria ser 'entre mim e você'",
+        "Ambas as formas são aceitas"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 88,
+      "enunciado": "'Chegamos A CASA cedo.' A expressão:",
+      "alternativas": [
+        "Está incorreta: deveria ter crase",
+        "Está correta: 'casa' sem especificação não leva crase",
+        "Está incorreta: deveria ser 'em casa'",
+        "Está correta: mas 'à casa' também seria aceito",
+        "Depende do contexto"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 89,
+      "enunciado": "'Ela o viu MEIO tímida.' O termo destacado:",
+      "alternativas": [
+        "Está correto: advérbio (invariável)",
+        "Está incorreto: deveria ser 'meia'",
+        "Está correto: concorda com 'ela'",
+        "Está incorreto: deveria ser 'meios'",
+        "Ambas as formas são aceitas"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 90,
+      "enunciado": "'Mandei-o SAIR.' A forma pronominal está:",
+      "alternativas": [
+        "Incorreta: deveria ser 'mandei ele sair'",
+        "Correta: ênclise ao verbo principal",
+        "Incorreta: deveria ser 'mandei-lhe sair'",
+        "Correta: mas 'o mandei sair' também seria aceito",
+        "Depende da norma (culta ou coloquial)"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 91,
+      "enunciado": "'Ela é UMA DAS que MAIS SE ESFORÇA.' A concordância:",
+      "alternativas": [
+        "Está correta: singular enfático",
+        "Está incorreta: deveria ser 'esforçam'",
+        "Está correta: concorda com 'uma'",
+        "Está incorreta: deveria ser 'se esforçam'",
+        "Ambas as formas (singular/plural) são aceitas"
+      ],
+      "gabarito": "E"
+    },
+    {
+      "id": 92,
+      "enunciado": "'Fazem cinco anos QUE nos conhecemos.' O verbo 'fazer' está:",
+      "alternativas": [
+        "Correto: concorda com 'anos'",
+        "Incorreto: deveria ser 'faz' (impessoal)",
+        "Correto: variante aceita",
+        "Incorreto: deveria ser 'fazem' mesmo",
+        "Ambas as formas têm o mesmo valor"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 93,
+      "enunciado": "'Tratam-SE de questões complexas.' A construção está:",
+      "alternativas": [
+        "Correta: voz passiva sintética",
+        "Incorreta: deveria ser 'Trata-se'",
+        "Correta: concorda com 'questões'",
+        "Incorreta: deveria ser 'Tratam de'",
+        "Ambas as formas são aceitas"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 94,
+      "enunciado": "'Elas PASSEIAM no parque.' Também pode ser:",
+      "alternativas": [
+        "'Passeam' (variante sem 'i')",
+        "'Passeiem' (presente do subjuntivo)",
+        "Apenas 'passeiam' é correto",
+        "'Passeiaram' (pretérito)",
+        "Nenhuma outra forma no presente"
+      ],
+      "gabarito": "C"
+    },
+    {
+      "id": 95,
+      "enunciado": "'Ele PROPÔS uma solução.' O acento está:",
+      "alternativas": [
+        "Incorreto: não se acentua mais",
+        "Correto: diferencial de 'propos'",
+        "Incorreto: deveria ser 'propós'",
+        "Correto: oxítona terminada em 'o'",
+        "Facultativo pelo Novo Acordo"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 96,
+      "enunciado": "'Pediu PARA MIM fazer o trabalho.' Está:",
+      "alternativas": [
+        "Correto: 'para mim' é complemento",
+        "Incorreto: deveria ser 'para eu'",
+        "Correto: variante coloquial aceita",
+        "Incorreto: deveria ser 'para me'",
+        "Ambas as formas são igualmente corretas"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 97,
+      "enunciado": "'Os ÓCULOS estão sobre a mesa.' O substantivo é:",
+      "alternativas": [
+        "Singular usado como plural",
+        "Plural (só existe no plural)",
+        "Invariável (singular/plural iguais)",
+        "Coletivo",
+        "Derivado plural"
+      ],
+      "gabarito": "B"
+    },
+    {
+      "id": 98,
+      "enunciado": "'Comprei o livro CUJO autor é famoso.' 'Cujo' indica:",
+      "alternativas": [
+        "Posse: o autor do livro",
+        "Qualidade: livro que é famoso",
+        "Quantidade: vários livros",
+        "Tempo: quando foi escrito",
+        "Lugar: onde foi publicado"
+      ],
+      "gabarito": "A"
+    },
+    {
+      "id": 99,
+      "enunciado": "'PARECE QUE vai chover.' Também poderia ser:",
+      "alternativas": [
+        "Apenas 'parece que' é correto",
+        "'Parecem que' (plural)",
+        "'Parece irem chover'",
+        "'Parece chover' (sem o 'que')",
+        "Nenhuma outra construção"
+      ],
+      "gabarito": "D"
+    },
+    {
+      "id": 100,
+      "enunciado": "'Eles REOUVERAM os documentos.' O verbo está:",
+      "alternativas": [
+        "Correto: pretérito de 'reaver'",
+        "Incorreto: deveria ser 'reouveram'",
+        "Correto: segue modelo de 'haver'",
+        "Incorreto: 'reaver' é defectivo nessa pessoa",
+        "Ambas as formas são aceitas"
+      ],
+      "gabarito": "D"
+    }
+  ]
+}
