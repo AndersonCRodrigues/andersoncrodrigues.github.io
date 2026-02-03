@@ -10,7 +10,8 @@
         "Correta por silepse de número (concordância ideológica)",
         "Erro apenas no tempo verbal após 'embora'"
       ],
-      "gabarito": "D"
+      "gabarito": "D",
+      "explicacao": "✓ CORRETA por SILEPSE DE NÚMERO. 'Equipe' é singular gramatical, mas representa várias pessoas. O verbo 'conseguiram' concorda com a ideia (os membros), não com a forma. Essa concordância ideológica é aceita quando o sentido plural está claro no contexto."
     },
     {
       "id": 2,
@@ -22,583 +23,632 @@
         "Informou à comunidade sobre às datas de vacinação",
         "Fez alusão àquilo discutido na reunião"
       ],
-      "gabarito": "D"
+      "gabarito": "D",
+      "explicacao": "✗ ERRO em 'sobre às datas'. A preposição 'sobre' NÃO exige preposição 'a', logo não há crase. Correto: 'sobre AS datas'. As demais estão corretas: referir-se A + A paciente = à; aderir A + A campanha = à; assistir A (ajudar) + A idosa = à; alusão A + Aquilo = àquilo."
     },
     {
       "id": 3,
       "enunciado": "'O prontuário que estava na mesa, e que foi preenchido ontem, sumiu.' As orações são:",
       "alternativas": [
-        "Restritiva e restritiva",
-        "Explicativa e explicativa",
-        "Restritiva e explicativa",
-        "Explicativa e restritiva",
-        "Coordenadas entre si"
+        "Ambas subordinadas adjetivas restritivas",
+        "Ambas subordinadas adjetivas explicativas",
+        "Primeira restritiva, segunda explicativa",
+        "Primeira explicativa, segunda restritiva",
+        "Coordenadas aditivas"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Ambas EXPLICATIVAS (entre vírgulas). Adicionam info não essencial sobre 'o prontuário' já determinado. Podem ser removidas sem alterar sentido básico. Se fossem RESTRITIVAS, NÃO teriam vírgulas e limitariam o sentido (qual prontuário específico)."
     },
     {
       "id": 4,
-      "enunciado": "'Haja vista os problemas, a gestão realocou recursos.' A expressão:",
+      "enunciado": "'Os pacientes FORAM ORIENTADOS sobre os procedimentos.' Passando para voz ativa:",
       "alternativas": [
-        "Está errada: deveria ser 'hajam vista'",
-        "Está correta: 'haja vista' é invariável",
-        "Está errada: deveria ser 'haja visto'",
-        "Está correta, mas 'hajam vista' também é aceita",
-        "Está errada: correto é 'havia vista'"
+        "Orientaram-se os pacientes sobre os procedimentos",
+        "Orientaram os pacientes sobre os procedimentos",
+        "Os profissionais orientaram os pacientes sobre os procedimentos",
+        "Os pacientes orientaram-se sobre os procedimentos",
+        "Houve orientação dos pacientes sobre os procedimentos"
       ],
-      "gabarito": "D"
+      "gabarito": "C",
+      "explicacao": "✓ Voz passiva 'foram orientados' → voz ativa precisa de AGENTE (quem fez). Como não está expresso, usa-se agente genérico. Estrutura: Sujeito (profissionais) + VTD (orientaram) + Objeto (pacientes). A) é passiva sintética; B) inverte lógica; D) é reflexiva; E) é nominal."
     },
     {
       "id": 5,
-      "enunciado": "'Os agentes, cujos relatórios foram analisados, receberam feedback.' 'Cujos' indica:",
+      "enunciado": "Próclise OBRIGATÓRIA em:",
       "alternativas": [
-        "Posse entre 'agentes' e 'feedback'",
-        "Posse entre 'relatórios' e 'agentes'",
-        "Finalidade entre 'análise' e 'relatórios'",
-        "Causalidade entre 'agentes' e 'relatórios'",
-        "Posse entre 'agentes' e 'relatórios'"
+        "A equipe organizou-se para o atendimento",
+        "Nunca nos preocupamos com detalhes",
+        "Hoje, encontrei-me com o coordenador",
+        "Amanhã, far-se-á a reunião",
+        "Talvez realize-se a campanha"
       ],
-      "gabarito": "E"
+      "gabarito": "B",
+      "explicacao": "✓ 'Nunca' = advérbio de NEGAÇÃO = palavra atrativa = PRÓCLISE OBRIGATÓRIA. Palavras atrativas forçam pronome ANTES do verbo. Nas demais: A) sem atrativa, permite ênclise; C) 'hoje' não é atrativa; D) futuro permite mesóclise; E) 'talvez' exige próclise, logo 'realize-se' está ERRADO (deveria ser 'se realize')."
     },
     {
       "id": 6,
-      "enunciado": "Colocação pronominal CORRETA:",
+      "enunciado": "'A coordenadora, cuja competência é reconhecida, foi promovida.' A palavra 'cuja' estabelece relação de:",
       "alternativas": [
-        "Me informaram sobre a mudança no protocolo",
-        "Nunca recusaria-me a atender emergências",
-        "Os dados que coletaram-se são eficazes",
-        "Quando me procurarem, estarei na UBS",
-        "Não lhe vi ontem na reunião"
+        "Posse entre 'coordenadora' e 'competência'",
+        "Causa entre termos",
+        "Finalidade entre ações",
+        "Tempo entre eventos",
+        "Modo de ação"
       ],
-      "gabarito": "D"
+      "gabarito": "A",
+      "explicacao": "✓ CUJO/CUJA sempre indica POSSE. 'A competência DA coordenadora' → 'cuja competência'. Liga dois substantivos mostrando pertencimento. Varia (cujo/cuja/cujos/cujas) mas NUNCA leva artigo depois ('cuja a' é ERRO). É invariável quanto à função: sempre pronome relativo possessivo."
     },
     {
       "id": 7,
-      "enunciado": "Qual frase tem TODAS as crases INCORRETAS?",
+      "enunciado": "'HAJA VISTA os problemas encontrados' ou 'HAJAM VISTA os problemas'. A norma culta:",
       "alternativas": [
-        "Daqui à duas horas começa o plantão",
-        "Permaneceu à espera dos exames",
-        "Funciona de segunda à segunda",
-        "Dirigiu-se àquela sala de arquivos",
-        "As opções A e C estão incorretas"
+        "Apenas primeira correta",
+        "Apenas segunda correta",
+        "Ambas corretas",
+        "Nenhuma correta",
+        "Depende do contexto formal"
       ],
-      "gabarito": "E"
+      "gabarito": "C",
+      "explicacao": "✓ AMBAS aceitas! 'Haja vista' pode ser: 1) Locução invariável = 'tendo em vista'; 2) Verbo haver + substantivo vista concordando. Gramáticos divergem, mas ambas aparecem em textos formais e são aceitas pela norma culta. Use qualquer uma!"
     },
     {
       "id": 8,
-      "enunciado": "Pontuação CORRETA:",
+      "enunciado": "'Caso SEJA necessário, comunicaremos.' O verbo está no:",
       "alternativas": [
-        "A prevenção, depende de educação em saúde",
-        "Profissionais: médicos, enfermeiros, agentes, participaram",
-        "Perguntou: – Quando terei alta doutor?",
-        "Apesar do cansaço, continuou atendendo, com dedicação",
-        "A equipe—composta por vários—atuou integrada"
+        "Presente do indicativo",
+        "Presente do subjuntivo",
+        "Pretérito imperfeito do subjuntivo",
+        "Futuro do subjuntivo",
+        "Imperativo afirmativo"
       ],
-      "gabarito": "E"
+      "gabarito": "B",
+      "explicacao": "✓ SEJA = Presente do SUBJUNTIVO de SER. Após 'caso' (condicional) usa-se subjuntivo (expressa hipótese). Conjugação: seja, sejas, seja, sejamos, sejais, sejam. Não confundir com FUTURO do subjuntivo: for, fores, for, formos, fordes, forem."
     },
     {
       "id": 9,
-      "enunciado": "'É necessário paciência no atendimento.' Permanece invariável porque:",
+      "enunciado": "'A fim de' em 'Estudou A FIM DE passar' significa:",
       "alternativas": [
-        "Concorda com sujeito oracional",
-        "O substantivo está sem determinante",
-        "Locução verbal cristalizada",
-        "Verbo impessoal neste contexto",
-        "Concordância facultativa"
+        "Afinidade, semelhança",
+        "Finalidade, propósito",
+        "Causa, motivo",
+        "Tempo, duração",
+        "Modo, maneira"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ A FIM DE (separado) = FINALIDADE, PARA. Indica objetivo. Já AFIM (junto) = semelhança, afinidade. Dica: se substituir por 'para', é separado! 'Estudou A FIM DE passar' = 'Estudou PARA passar'. Junto: 'ideias afins' = semelhantes."
     },
     {
       "id": 10,
-      "enunciado": "ERRO de regência em:",
+      "enunciado": "'Faz CINCO ANOS que não nos vemos.' O verbo está:",
       "alternativas": [
-        "Preferiu adiar a reunião a realizá-la sem todos",
-        "Assiste ao médico o direito de recusar procedimentos",
-        "O enfermeiro aspirava à promoção há tempos",
-        "Agentes procederam à vacinação conforme protocolo",
-        "Informou o paciente de que resultados chegariam"
+        "Incorreto: deveria ser 'fazem' concordando com 'anos'",
+        "Correto: 'fazer' temporal é impessoal (sempre singular)",
+        "Incorreto: deveria ser 'há' em vez de 'faz'",
+        "Correto: concordância facultativa",
+        "Incorreto: deveria ser 'desde há'"
       ],
-      "gabarito": "E"
+      "gabarito": "B",
+      "explicacao": "✓ CORRETO! FAZER indicando TEMPO DECORRIDO é IMPESSOAL = sempre SINGULAR, nunca concorda. Regra: 'Faz 1 dia', 'Faz 2 anos', 'Faz 10 meses'. Quando auxiliar varia ('Devem fazer dois anos'). HAVER temporal também é impessoal: 'Há cinco anos' também está correto."
     },
     {
       "id": 11,
-      "enunciado": "'Solicitaram que SE PREPARASSEM.' O SE é:",
+      "enunciado": "'Os profissionais ANSIAM por melhores condições.' O verbo está:",
       "alternativas": [
-        "Pronome apassivador",
-        "Índice de indeterminação",
-        "Pronome reflexivo",
-        "Parte integrante do verbo",
-        "Conjunção subordinativa"
+        "Incorreto: deveria ser 'anseiam'",
+        "Correto: segue conjugação regular",
+        "Incorreto: deveria ser 'ansíam'",
+        "Correto: forma variante aceita",
+        "Incorreto: verbo defectivo não possui esta pessoa"
       ],
-      "gabarito": "C"
+      "gabarito": "B",
+      "explicacao": "✓ CORRETO! ANSIAR é regular: ansio, ANSAS, ansia, ansiamos, ansiais, ANSIAM (ou anseiam, ambas aceitas). NÃO é defectivo. Cuidado: não confundir com verbos defectivos como REAVER (que não tem 'eu reavo'). 'Ansiam' ou 'anseiam' = ambas corretas."
     },
     {
       "id": 12,
-      "enunciado": "Vírgula separando oração adjetiva explicativa:",
+      "enunciado": "'Se os gestores INTERVIREM no processo, haverá mudanças.' O verbo está:",
       "alternativas": [
-        "A UBS, que fica no centro, atende diariamente",
-        "Quando chegaram medicamentos, farmácia retomou",
-        "Médico examinou, prescreveu e liberou",
-        "Embora cansado, agente continuou visitas",
-        "Profissionais que se especializaram foram certificados"
+        "Incorreto: deveria ser 'intervirem'",
+        "Correto: futuro do subjuntivo de 'intervir'",
+        "Incorreto: deveria ser 'intervenham'",
+        "Correto: variante de 'intervirem'",
+        "Incorreto: tempo inadequado"
       ],
-      "gabarito": "A"
+      "gabarito": "B",
+      "explicacao": "✓ CORRETO! INTERVIR = derivado de VIR. Futuro subjuntivo de VIR: vier, vieres, vier... Logo INTERVIR: intervIER, intervIERES, intervIER, intervIERMOS, intervIERDES, intervIEREM. 'Intervirem' vem de IR (incorreto). Não confundir: SE vier (VIR) / SE for (IR)."
     },
     {
       "id": 13,
-      "enunciado": "'Proteja-se! Vacine-se!' evidencia função da linguagem:",
+      "enunciado": "'A maioria DOS profissionais CHEGOU cedo.' O verbo poderia também estar:",
       "alternativas": [
-        "Metalinguística",
-        "Fática",
-        "Referencial",
-        "Conativa",
-        "Emotiva"
+        "Apenas no singular obrigatoriamente",
+        "No plural: 'chegaram' (concordância atrativa)",
+        "Apenas no feminino: 'chegada'",
+        "No gerúndio: 'chegando'",
+        "No futuro: 'chegará'"
       ],
-      "gabarito": "D"
+      "gabarito": "B",
+      "explicacao": "✓ Com expressões partitivas (maioria, parte, metade) + DE + plural, concordância é FACULTATIVA: singular (com 'maioria') OU plural (com 'profissionais'). Ambas corretas: 'A maioria CHEGOU' ou 'A maioria CHEGARAM'. É a chamada concordância atrativa (atrai para o mais próximo)."
     },
     {
       "id": 14,
-      "enunciado": "'Falta de medicamentos ACARRETOU problemas.' Sinônimo:",
+      "enunciado": "'TRATAM-SE de questões complexas.' A construção está:",
       "alternativas": [
-        "Amparou",
-        "Ocasionou",
-        "Impediu",
-        "Suprimiu",
-        "Agregou"
+        "Correta: voz passiva sintética",
+        "Incorreta: deveria ser 'Trata-se' (verbo impessoal)",
+        "Correta: concorda com 'questões'",
+        "Incorreta: deveria ser sem 'se'",
+        "Correta: concordância facultativa"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✗ ERRADO! TRATAR-SE DE é IMPESSOAL = sempre singular, não varia. Correto: 'Trata-SE de questões'. O 'se' não é apassivador aqui (não tem sujeito paciente). É índice de indeterminação. Compare: 'Vendem-SE casas' (passiva, concorda) ≠ 'Trata-se de casas' (impessoal, não concorda)."
     },
     {
       "id": 15,
-      "enunciado": "'Desvalorização' formou-se por:",
+      "enunciado": "'Ele MANTEVE a calma durante a crise.' O verbo está:",
       "alternativas": [
-        "Derivação parassintética",
-        "Composição por justaposição",
-        "Derivação prefixal e sufixal",
-        "Derivação regressiva",
-        "Composição por aglutinação"
+        "Incorreto: deveria ser 'manteu'",
+        "Correto: pretérito perfeito de 'manter'",
+        "Incorreto: deveria ser 'mantiveu'",
+        "Correto: variante aceita",
+        "Incorreto: conjugação inexistente"
       ],
-      "gabarito": "C"
+      "gabarito": "B",
+      "explicacao": "✓ CORRETO! MANTER = derivado de TER. Segue conjugação de TER: tive → mantIVE, teve → mantEVE, tiveram → mantIVERAM. Pretérito perfeito: mantive, mantiveste, mantEVE, mantivemos, mantivestes, mantiveram. 'Manteu' e 'mantiveu' NÃO existem."
     },
     {
       "id": 16,
-      "enunciado": "Verbo 'haver' INCORRETO:",
+      "enunciado": "'Caso HAJAM problemas, avisem-me.' O verbo está:",
       "alternativas": [
-        "Devem haver soluções mais eficazes",
-        "Havia muitos pacientes aguardando",
-        "Faz dois anos que não há surtos",
-        "Haverá mudanças no protocolo",
-        "Houve casos graves de intoxicação"
+        "Correto: concorda com 'problemas'",
+        "Incorreto: deveria ser 'haja' (verbo impessoal)",
+        "Correto: variante aceita",
+        "Incorreto: tempo verbal inadequado",
+        "Correto: concordância facultativa"
       ],
-      "gabarito": "A"
+      "gabarito": "B",
+      "explicacao": "✗ ERRADO! HAVER no sentido de EXISTIR é IMPESSOAL = sempre singular, não concorda. Correto: 'Caso HAJA problemas'. Compare: 'Há problemas' (existir, impessoal) ≠ 'Eles HÃO DE vencer' (ter, auxiliar, varia). Substituir por 'existir' ajuda: 'Caso EXISTAM' (concorda)."
     },
     {
       "id": 17,
-      "enunciado": "Período composto por coordenação:",
+      "enunciado": "'Os CIDADÃOS têm direitos.' O plural está:",
       "alternativas": [
-        "É fundamental que todos participem",
-        "Paciente chegou e foi atendido",
-        "Quando terminar, irei à farmácia",
-        "A enfermeira, que estava de plantão, socorreu",
-        "Embora chovesse, visitas foram realizadas"
+        "Incorreto: deveria ser 'cidadões'",
+        "Correto: forma padrão",
+        "Incorreto: deveria ser 'cidadães'",
+        "Correto: mas 'cidadões' também aceito",
+        "Incorreto: não admite plural"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ CORRETO! CIDADÃO → CIDADÃOS. Regra: palavras terminadas em -ÃO têm 3 plurais possíveis: -ÕES (maioria), -ÃES (poucos), -ÃOS (alguns). Cidadão, cristão, irmão = -ÃOS. Pão, leão = -ÕES. Cão, alemão = -ÃES. Não há regra fixa, deve-se memorizar."
     },
     {
       "id": 18,
-      "enunciado": "'Profissionais que trabalham na saúde precisam educação.' A oração é:",
+      "enunciado": "'É PROIBIDO entrada.' Também pode ser:",
       "alternativas": [
-        "Subordinada substantiva objetiva direta",
-        "Subordinada adjetiva restritiva",
-        "Subordinada adverbial causal",
-        "Coordenada sindética aditiva",
-        "Subordinada adjetiva explicativa"
+        "Apenas 'proibido' (invariável)",
+        "'É proibida a entrada' (com artigo determinado)",
+        "Não admite variação",
+        "'São proibidas entradas'",
+        "'Está proibido entrada'"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Quando o sujeito é INDETERMINADO (sem artigo), fica INVARIÁVEL: 'É proibido entrada'. Com sujeito DETERMINADO (com artigo), CONCORDA: 'É proibidA A entrada'. Regra vale para: necessário/a, bom/boa, permitido/a, etc. Artigo define se varia!"
     },
     {
       "id": 19,
-      "enunciado": "'Seguem ANEXOS os relatórios e planilhas.' A concordância:",
+      "enunciado": "'Ele INTERVIU na situação.' O verbo está:",
       "alternativas": [
-        "Errada: deveria ser 'anexo'",
-        "Correta: concorda com o mais próximo",
-        "Correta: concorda com 'relatórios e planilhas'",
-        "Errada: 'anexo' é invariável",
-        "Correta, mas 'em anexo' seria melhor"
+        "Correto: pretérito de 'intervir'",
+        "Incorreto: deveria ser 'interveio'",
+        "Correto: variante regional",
+        "Incorreto: deveria ser 'interveu'",
+        "Correto: ambas formas aceitas"
       ],
-      "gabarito": "C"
+      "gabarito": "B",
+      "explicacao": "✗ ERRADO! INTERVIR deriva de VIR, não de VER. Pretérito de VIR = veio → INTERVEIO. 'Interviu' vem de VER (viu), mas é erro! Conjugação: interveio, intervieste, interveio, interviemos, interviestes, intervieram. Presente: intervenho, intervéns, intervém."
     },
     {
       "id": 20,
-      "enunciado": "Emprego CORRETO de 'mas' e 'mais':",
+      "enunciado": "'Vossa Excelência TROUXESTES os documentos.' Está:",
       "alternativas": [
-        "Visitou vinte famílias, mas poderia ter visitado mais",
-        "Estudei muito, mais não consegui aprovação",
-        "Não há mas nada a fazer",
-        "Ela é a profissional mas dedicada",
-        "Trabalhamos muito, mais não obtivemos resultados"
+        "Correto: 2ª pessoa",
+        "Incorreto: deveria ser 'trouxe' (3ª pessoa)",
+        "Correto: concordância formal",
+        "Incorreto: deveria ser 'trouxeram'",
+        "Correto: variante aceita"
       ],
-      "gabarito": "A"
+      "gabarito": "B",
+      "explicacao": "✗ ERRADO! Pronomes de tratamento (Vossa Excelência, Vossa Senhoria) exigem verbo na 3ª PESSOA, apesar de serem 'vossa' (2ª). Correto: 'Vossa Excelência TROUXE'. A lógica: referimo-nos à 'excelência DELA', não a 'vós'. Também: 'V. Exa. está' (não 'estais')."
     },
     {
       "id": 21,
-      "enunciado": "'MAL chegou, foi informado.' MAL é:",
+      "enunciado": "'A sessão será SUSPENSA.' 'Sessão' significa:",
       "alternativas": [
-        "Substantivo",
-        "Adjetivo",
-        "Advérbio",
-        "Conjunção",
-        "Pronome indefinido"
+        "Setor, departamento",
+        "Reunião, encontro, período",
+        "Ato de ceder direitos",
+        "Corte, divisão",
+        "Transferência"
       ],
-      "gabarito": "C"
+      "gabarito": "B",
+      "explicacao": "✓ SESSÃO = reunião, período de funcionamento. SEÇÃO = parte, divisão, departamento. CESSÃO = ato de ceder. Exemplos: 'Sessão de cinema', 'Seção de vendas', 'Cessão de direitos'. Dica: seSSão tem dois S como 'aSSentar-se' numa reunião."
     },
     {
       "id": 22,
-      "enunciado": "Plural INCORRETO:",
+      "enunciado": "'Ele é um dos que MAIS SE DESTACA.' Está:",
       "alternativas": [
-        "Os cidadões têm direito à saúde",
-        "Vários projetos-pilotos implementados",
-        "Os médicos-chefes participaram",
-        "Distribuídos vários abaixo-assinados",
-        "A, B e C apresentam erros"
+        "Correto: concorda com 'um'",
+        "Incorreto: deveria ser 'destacam'",
+        "Correto: concordância enfática",
+        "Incorreto: deveria ser 'se destacam'",
+        "Ambas formas aceitas"
       ],
-      "gabarito": "E"
+      "gabarito": "E",
+      "explicacao": "✓ AMBAS ACEITAS! 'Um dos que' admite concordância facultativa: 1) Singular com 'um' = 'se destaca' (ênfase em indivíduo); 2) Plural com 'os que' = 'se destacam' (ênfase em grupo). Gramáticos aceitam as duas. Plural é mais comum, mas singular não é erro."
     },
     {
       "id": 23,
-      "enunciado": "'A saúde é a mãe de todas as virtudes.' Figura de linguagem:",
+      "enunciado": "'Os TÓRAX foram examinados.' O plural está:",
       "alternativas": [
-        "Metonímia",
-        "Hipérbole",
-        "Metáfora",
-        "Eufemismo",
-        "Prosopopeia"
+        "Incorreto: deveria ser 'tóraxes'",
+        "Correto: palavras terminadas em X são invariáveis",
+        "Incorreto: deveria ser 'tóraces'",
+        "Correto: mas 'tóraxes' também aceito",
+        "Incorreto: não admite plural"
       ],
-      "gabarito": "C"
+      "gabarito": "B",
+      "explicacao": "✓ CORRETO! Palavras terminadas em X são INVARIÁVEIS no plural: o tórax → os tórax, o clímax → os clímax, o ônix → os ônix. O artigo marca o plural. Não se acrescenta -ES nem se troca o X. Exceções raríssimas como 'lápis/lápis' têm mesmo padrão."
     },
     {
       "id": 24,
-      "enunciado": "Pronome oblíquo INCORRETO:",
+      "enunciado": "'Ele REOUVE os documentos perdidos.' Está:",
       "alternativas": [
-        "Tudo se resolveu após a intervenção",
-        "Não nos comunicaram sobre a mudança",
-        "Os pacientes que encontraram-se foram atendidos",
-        "Dir-lhe-ei toda a verdade",
-        "Jamais me esquecerei deste atendimento"
+        "Correto: pretérito de 'reaver'",
+        "Incorreto: 'reaver' é defectivo, não tem esta forma",
+        "Correto: variante aceita",
+        "Incorreto: deveria ser 'reaveu'",
+        "Correto: conjugação regular"
       ],
-      "gabarito": "C"
+      "gabarito": "B",
+      "explicacao": "✗ ERRADO! REAVER é DEFECTIVO (incompleto). Só existe nas formas com 'V' no radical de HAVER: reavemos, reaveis, reouveram. NÃO existe: reaveis, reavê, reouve. 'Reouve' NÃO existe. Usar sinônimos: recuperou, obteve novamente, conseguiu de volta."
     },
     {
       "id": 25,
-      "enunciado": "'A equipe estava MEIA preocupada.' O termo:",
+      "enunciado": "'PARECE haver problemas' ou 'PARECEM haver problemas':",
       "alternativas": [
-        "Está correto: 'meia' é advérbio invariável",
-        "Está incorreto: deveria ser 'meio' (advérbio)",
-        "Está correto: concorda com 'equipe' (feminino)",
-        "Ambas as formas são aceitas",
-        "Está incorreto: correto seria 'médio'"
+        "Apenas primeira correta",
+        "Apenas segunda correta",
+        "Primeira é mais comum, segunda também aceita",
+        "'Parecem existir problemas' está correto",
+        "B e D estão corretas"
       ],
-      "gabarito": "B"
+      "gabarito": "E",
+      "explicacao": "✓ 'Parece haver' = locução (PARECER + HAVER impessoal) = singular. 'Parecem haver' = PARECER concorda com 'problemas', HAVER fica impessoal = também aceito. MAS 'Parecem EXISTIR problemas' é mais claro (EXISTIR concorda). 'Parecem haver' é polêmico, evite. Use 'Parece haver' ou 'Parecem existir'."
     },
     {
       "id": 26,
-      "enunciado": "'Médicos RETIFICARAM o diagnóstico.' Significa:",
+      "enunciado": "'HÁ DE existir soluções.' A locução está:",
       "alternativas": [
-        "Confirmaram",
-        "Corrigiram",
-        "Autenticaram",
-        "Ratificaram",
-        "Validaram"
+        "Incorreta: deveria ser 'Hão de'",
+        "Correta: 'haver' existencial é impessoal",
+        "Incorreta: deveria ser 'Há de existirem'",
+        "Correta: concordância facultativa",
+        "Incorreta: erro de pessoa"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ CORRETO! HÁ DE (auxiliar) + EXISTIR = locução. HAVER como auxiliar de TER (sentido de futuro perifrástico) permanece impessoal = singular. 'Há de existir' = 'deve existir', 'tem de existir'. Não confundir com HAVER = TER possuir ('Eles HÃO DE vencer' = possuir, varia)."
     },
     {
       "id": 27,
-      "enunciado": "Acento diferencial CORRETO:",
+      "enunciado": "'Os PROJETOS-PILOTO foram aprovados.' O plural está:",
       "alternativas": [
-        "Não pôde comparecer à reunião",
-        "O médico pára de atender às 18h",
-        "Não se usa mais esse método",
-        "A enfermeira pêra os procedimentos",
-        "Todas estão corretas"
+        "Incorreto: deveria ser 'projetos-pilotos'",
+        "Correto: apenas primeiro elemento flexiona",
+        "Incorreto: ambos devem flexionar",
+        "Correto: mas 'pilotos' também aceito",
+        "Incorreto: não admite plural"
       ],
-      "gabarito": "A"
+      "gabarito": "B",
+      "explicacao": "✓ CORRETO! Em compostos SUBSTANTIVO + SUBSTANTIVO onde o 2º especifica o 1º, só o PRIMEIRO varia: projeto-piloto → projetos-piloto, navio-escola → navios-escola, palavra-chave → palavras-chave. O segundo fica invariável (função adjetiva). 'Projetos-pilotos' seria erro."
     },
     {
       "id": 28,
-      "enunciado": "Oração subordinada substantiva predicativa:",
+      "enunciado": "'Comparecem BASTANTES profissionais.' A concordância está:",
       "alternativas": [
-        "É necessário que todos compareçam",
-        "A verdade é que faltam recursos",
-        "Espero que os resultados sejam positivos",
-        "Informaram-nos de que haveria mudanças",
-        "Tenho certeza de que a campanha será bem-sucedida"
+        "Incorreta: 'bastante' é advérbio invariável",
+        "Correta: 'bastante' é adjetivo, flexiona",
+        "Incorreta: sempre invariável",
+        "Correta: concordância facultativa",
+        "Incorreta: erro gramatical"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ CORRETO! BASTANTE varia conforme função: 1) ADJETIVO (= suficientes, muitos) = VARIA: 'bastantes profissionais'; 2) ADVÉRBIO (= muito, suficientemente) = INVARIÁVEL: 'trabalham bastante'. Dica: se modifica SUBSTANTIVO = adjetivo variável. Se modifica VERBO/ADJETIVO = advérbio invariável."
     },
     {
       "id": 29,
-      "enunciado": "'Menos de dois terços COMPARECERAM.' O verbo:",
+      "enunciado": "'À MEDIDA EM QUE avançamos, aprendemos.' Está:",
       "alternativas": [
-        "Incorreto: deveria concordar com 'menos'",
-        "Correto: concorda facultativamente",
-        "Incorreto: deveria ficar no singular",
-        "Correto: concorda com 'profissionais'",
-        "Correto, mas singular também seria aceito"
+        "Correto: forma padrão",
+        "Incorreto: deveria ser 'à medida que'",
+        "Correto: variante aceita",
+        "Incorreto: deveria ser 'na medida em que'",
+        "Correto: sinônimo de 'na medida em que'"
       ],
-      "gabarito": "D"
+      "gabarito": "B",
+      "explicacao": "✗ ERRADO! Correto é À MEDIDA QUE (proporção) ou NA MEDIDA EM QUE (causa). 'À medida EM que' é mistura incorreta das duas. À MEDIDA QUE = à proporção que, conforme. NA MEDIDA EM QUE = porque, tendo em vista que. Significados diferentes!"
     },
     {
       "id": 30,
-      "enunciado": "Uso de 'onde' e 'aonde' - qual a MENOS errada?",
+      "enunciado": "'Duzentas GRAMAS de açúcar.' A concordância está:",
       "alternativas": [
-        "Onde você vai após o plantão?",
-        "Este é o hospital aonde trabalho",
-        "Aonde fica a farmácia?",
-        "A cidade aonde nasci tem bom sistema de saúde",
-        "Não sei aonde deixei meu jaleco"
+        "Incorreta: 'grama' (peso) é masculino",
+        "Correta: 'grama' (peso) é feminino",
+        "Incorreta: concordância facultativa",
+        "Correta: apenas no Brasil é feminino",
+        "Incorreta: erro de gênero"
       ],
-      "gabarito": "E"
+      "gabarito": "B",
+      "explicacao": "✓ CORRETO! GRAMA (peso, medida) é FEMININO: a grama, duas gramas, duzentas gramas. GRAMA (planta, relva) é MASCULINO: o grama, aquele grama. Dicionários e gramáticas confirmam: 500g = quinhentas gramas. 'Duzentos gramas' é erro (confusão com planta)."
     },
     {
       "id": 31,
-      "enunciado": "Voz passiva analítica:",
+      "enunciado": "'Ele PROVEU o necessário.' O verbo está:",
       "alternativas": [
-        "Vacinaram-se todas as crianças",
-        "As crianças foram vacinadas pela equipe",
-        "Necessita-se de mais profissionais",
-        "Vendem-se medicamentos com desconto",
-        "Fizeram-se todos os procedimentos"
+        "Incorreto: deveria ser 'proviu'",
+        "Correto: pretérito de 'prover'",
+        "Incorreto: segue modelo de 'ver'",
+        "Correto: variante de 'proviu'",
+        "Incorreto: conjugação irregular"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ CORRETO! PROVER no pretérito NÃO segue VER. É regular: provEU, provESTE, provEU, provEMOS, provESTES, provERAM (como beber: bebeu). 'Proviu' (de ver: viu) está ERRADO. Derivados de VER: antever, prever, rever. PROVER é exceção!"
     },
     {
       "id": 32,
-      "enunciado": "'Prima PELA excelência.' A preposição indica:",
+      "enunciado": "'Entre MIM e VOCÊ não há segredos.' Está:",
       "alternativas": [
-        "Modo",
-        "Finalidade",
-        "Causa",
-        "Meio",
-        "Assunto"
+        "Correto: pronomes retos",
+        "Incorreto: deveria ser 'eu' e 'ti'",
+        "Correto: pronomes oblíquos após preposição",
+        "Incorreto: deveria ser 'eu' e 'você'",
+        "Correto: forma coloquial"
       ],
-      "gabarito": "E"
+      "gabarito": "C",
+      "explicacao": "✓ CORRETO! Após PREPOSIÇÃO (entre, para, de, sem, etc.) usa-se pronomes OBLÍQUOS: mim, ti, si, ele/ela. 'Entre MIM e VOCÊ' está certo. 'Entre EU e TU' estaria errado. EXCEÇÃO: quando há verbo no infinitivo após: 'Para EU fazer' (EU = sujeito de fazer)."
     },
     {
       "id": 33,
-      "enunciado": "'Fazem dois meses que não há casos.' Concordância:",
+      "enunciado": "'Eles SE ENTRETIVERAM com jogos.' O verbo está:",
       "alternativas": [
-        "Ambos corretos",
-        "'Fazem' está incorreto (deve ser 'faz')",
-        "'Há' está incorreto",
-        "Ambos incorretos",
-        "Facultativa em ambos"
+        "Incorreto: deveria ser 'entreteram'",
+        "Correto: pretérito de 'entreter'",
+        "Incorreto: deveria ser 'entretiveram'",
+        "Correto: variante aceita",
+        "Incorreto: conjugação inexistente"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ CORRETO! ENTRETER = derivado de TER. Pretérito: tiveram → ENTRETIVERAM. Conjugação completa: entretive, entretiveste, entreteve, entretivemos, entretivestes, entretiveram. 'Entreteram' e 'entretiveram' NÃO existem. Segue mesmo padrão de MANTER, CONTER, DETER."
     },
     {
       "id": 34,
-      "enunciado": "Erro de ortografia em:",
+      "enunciado": "'Ele está MAL.' O termo é:",
       "alternativas": [
-        "Análise com muita perspicácia",
-        "Médico demonstrou discrição",
-        "Houve discrepância entre dados",
-        "Paciente excessivamente ansioso",
-        "A intercessão da enfermeira foi fundamental"
+        "Adjetivo",
+        "Advérbio de modo",
+        "Substantivo",
+        "Locução adverbial",
+        "Pronome indefinido"
       ],
-      "gabarito": "E"
+      "gabarito": "B",
+      "explicacao": "✓ MAL = ADVÉRBIO de modo (modifica verbo 'está'). MAU = ADJETIVO (modifica substantivo). Teste: se pode substituir por 'bem' = advérbio MAL. Se substitui por 'bom' = adjetivo MAU. 'Está mal' ↔ 'está bem'. 'É mau' ↔ 'é bom'. Fácil!"
     },
     {
       "id": 35,
-      "enunciado": "'Ainda que CHOVA, realizaremos.' Oração:",
+      "enunciado": "'Seguem ANEXO as cópias.' A concordância está:",
       "alternativas": [
-        "Adverbial condicional",
-        "Adverbial concessiva",
-        "Adverbial temporal",
-        "Adverbial causal",
-        "Substantiva objetiva direta"
+        "Correta: 'anexo' é invariável",
+        "Incorreta: deveria ser 'anexas'",
+        "Correta: concordância facultativa",
+        "Incorreta: deveria ser 'em anexo'",
+        "Correta: forma reduzida"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✗ ERRADO! ANEXO é ADJETIVO = varia em gênero/número: anexo/anexa/anexos/anexas. Deve concordar: 'Seguem anexAS as cópias'. 'Seguem anexo' está errado. EM ANEXO (locução adverbial) é INVARIÁVEL: 'Seguem EM ANEXO as cópias'. Cuidado com a diferença!"
     },
     {
       "id": 36,
-      "enunciado": "Mesmo sentido de 'assistir' (prestar assistência):",
+      "enunciado": "'Ela está MEIO nervosa.' O termo está:",
       "alternativas": [
-        "Médico assistiu à cirurgia",
-        "Assiste ao paciente o direito",
-        "Enfermeiro assistiu o idoso em suas necessidades",
-        "Assistiram ao vídeo",
-        "Coordenador assiste em Maricá"
+        "Incorreto: deveria ser 'meia'",
+        "Correto: advérbio (invariável)",
+        "Incorreto: concorda com 'ela'",
+        "Correto: concordância facultativa",
+        "Incorreto: erro gramatical"
       ],
-      "gabarito": "C"
+      "gabarito": "B",
+      "explicacao": "✓ CORRETO! MEIO = ADVÉRBIO (= um pouco) = INVARIÁVEL. Modifica adjetivo 'nervosa'. 'Ela está MEIO nervosa' = 'um pouco nervosa'. Se fosse NUMERAL (metade) variaria: 'Tomou MEIA xícara' (metade da xícara). Teste: se substitui por 'um pouco' = invariável."
     },
     {
       "id": 37,
-      "enunciado": "Colocação pronominal INCORRETA:",
+      "enunciado": "'Os CARACTERES foram alterados.' O plural está:",
       "alternativas": [
-        "Ninguém dirigiu-se ao coordenador",
-        "Aqui se trabalha com dedicação",
-        "Tudo se esclareceu",
-        "Quando nos procurarem, estaremos disponíveis",
-        "Jamais negaria-me a ajudar"
+        "Incorreto: deveria ser 'carácteres'",
+        "Correto: muda sílaba tônica no plural",
+        "Incorreto: deveria ser 'caractéres'",
+        "Correto: mas 'carácteres' também aceito",
+        "Incorreto: não admite plural"
       ],
-      "gabarito": "E"
+      "gabarito": "B",
+      "explicacao": "✓ CORRETO! CARÁTER (singular, paroxítona) → CARACTERES (plural, proparoxítona). Muda SÍLABA TÔNICA: ca-RÁ-ter → ca-rac-TE-res. Outros exemplos: júnior → juniores, espécimen → especímenes. Acentuação muda com sílaba tônica. 'Carácteres' está ERRADO."
     },
     {
       "id": 38,
-      "enunciado": "'CONQUANTO estivesse cansado.' Sinônimo:",
+      "enunciado": "'Não quero QUE venhas.' Também poderia ser:",
       "alternativas": [
-        "Porquanto",
-        "Uma vez que",
-        "Embora",
-        "Portanto",
-        "Dado que"
+        "Apenas esta forma",
+        "'Não quero que venha' (você)",
+        "'Não quero que vir'",
+        "'Não quero que vens'",
+        "Todas formas aceitas"
       ],
-      "gabarito": "C"
+      "gabarito": "B",
+      "explicacao": "✓ 'QUE venhas' = presente subjuntivo com TU (você vem/tu vens). Pode ser 'que venha' (você) ou 'que venhas' (tu), conforme pronome usado. 'Que vir' está errado (infinitivo). 'Que vens' está errado (indicativo). Subjuntivo após QUERER: venha/venhas/venha/venhamos/venhais/venham."
     },
     {
       "id": 39,
-      "enunciado": "'Que' como pronome relativo em:",
+      "enunciado": "'Chegaste ATRASADO.' Com 'tu', a concordância está:",
       "alternativas": [
-        "Que bom que você chegou!",
-        "É importante que todos participem",
-        "O protocolo que estudamos será implementado",
-        "Mais vale prevenir que remediar",
-        "Espero que tudo corra bem"
+        "Incorreta: deveria ser 'atrasada'",
+        "Correta: masculino genérico",
+        "Incorreta: deveria concordar",
+        "Correta: concordância facultativa",
+        "Depende do gênero do falante"
       ],
-      "gabarito": "C"
+      "gabarito": "B",
+      "explicacao": "✓ CORRETO! Predicativo com 'tu' usa MASCULINO como genérico/neutro quando não se especifica gênero do interlocutor. Se falante for mulher: 'Chegaste atrasada'. Se homem: 'atrasado'. Em contexto indefinido, usa-se masculino. Concordância depende do sexo real da pessoa."
     },
     {
       "id": 40,
-      "enunciado": "Vírgula isolando aposto:",
+      "enunciado": "'É PRECISO cautela.' Também pode ser:",
       "alternativas": [
-        "Maricá, cidade do RJ, investe em saúde",
-        "Quando terminar, favor comunicar",
-        "Os profissionais, cansados, continuaram",
-        "Distribuíram vacinas, medicamentos e preservativos",
-        "Embora difícil, a meta foi alcançada"
+        "Apenas 'preciso' (invariável)",
+        "'É precisa a cautela' (com artigo)",
+        "Não admite variação",
+        "'São precisas cautelas'",
+        "Todas corretas"
       ],
-      "gabarito": "A"
+      "gabarito": "B",
+      "explicacao": "✓ Sem artigo (sujeito indeterminado) = INVARIÁVEL: 'É preciso cautela'. Com artigo (sujeito determinado) = VARIA: 'É precisA A cautela'. Mesma regra de PROIBIDO, NECESSÁRIO, BOM. Artigo determina concordância. 'Cautela é precisa' também varia (sujeito determinado)."
     },
     {
       "id": 41,
-      "enunciado": "'A sessão será CESSADA.' Há erro em:",
+      "enunciado": "'Eles REQUISERAM novos equipamentos.' Está:",
       "alternativas": [
-        "Uso de 'sessão'",
-        "Concordância verbal",
-        "Regência verbal",
-        "Colocação pronominal",
-        "Não há erro"
+        "Incorreto: deveria ser 'requereram'",
+        "Correto: pretérito de 'requerer'",
+        "Incorreto: deveria ser 'requisitaram'",
+        "Correto: variante aceita",
+        "Incorreto: conjugação inadequada"
       ],
-      "gabarito": "E"
+      "gabarito": "B",
+      "explicacao": "✓ CORRETO! REQUERER pretérito = segue QUERER (irregular): quis → requis, quisemos → requisemos, quiseram → REQUERERAM (não requiseram!). Presente: requeiro, requeres, requer. CUIDADO: não segue VER nem é completamente regular. Derivado de QUERER no pretérito."
     },
     {
       "id": 42,
-      "enunciado": "Frase totalmente CORRETA:",
+      "enunciado": "'Vou À CASA de minha mãe.' A crase está:",
       "alternativas": [
-        "Médico irá proscrever o tratamento",
-        "Iminente reforma será iniciada",
-        "Tráfico de informações é crime",
-        "Descrição foi minuciosa e detalhada",
-        "Todas corretas"
+        "Incorreta: 'casa' sem especificação não leva",
+        "Correta: 'casa' especificada leva crase",
+        "Incorreta: nunca leva crase",
+        "Correta: crase facultativa",
+        "Depende do contexto"
       ],
-      "gabarito": "D"
+      "gabarito": "B",
+      "explicacao": "✓ CORRETO! CASA especificada (de alguém) = leva crase: 'à casa de Maria'. Casa SEM especificação = sem crase: 'Voltei A casa' (= ao lar). Regra: CASA, TERRA (=chão), DISTÂNCIA sem especificação = sem crase. COM especificação = com crase."
     },
     {
       "id": 43,
-      "enunciado": "'Agentes, cujos relatórios foram elogiados.' 'Cujos' expressa:",
+      "enunciado": "'Os ANOS-LUZ foram percorridos.' O plural está:",
       "alternativas": [
-        "Posse: relatórios dos agentes",
-        "Finalidade: agentes e certificação",
-        "Causalidade: elogio e certificação",
-        "Tempo: relatórios e elogio",
-        "Comparação: agentes e relatórios"
+        "Incorreto: deveria ser 'ano-luz'",
+        "Correto: apenas primeiro flexiona",
+        "Incorreto: ambos devem flexionar",
+        "Correto: mas 'anos-luzes' também aceito",
+        "Incorreto: não admite plural"
       ],
-      "gabarito": "A"
+      "gabarito": "B",
+      "explicacao": "✓ CORRETO! ANO-LUZ (substantivo + substantivo onde 2º especifica) = só 1º varia: anos-luz. 'Anos-luzes' é ERRO. Mesmo padrão: pombo-correio → pombos-correio, navio-escola → navios-escola. LUZ especifica que tipo de ano, não varia."
     },
     {
       "id": 44,
-      "enunciado": "Regência CORRETA:",
+      "enunciado": "'Ele PROPÔS uma solução.' O acento está:",
       "alternativas": [
-        "Prefiro mais trabalhar no posto que no hospital",
-        "Enfermeiro simpatizou com o novo colega",
-        "Médico chegou no consultório atrasado",
-        "Esqueceram-se dos prontuários em casa",
-        "Agente procedeu o cadastramento"
+        "Incorreto: não acentua mais",
+        "Correto: diferencial de 'propos' (passado)",
+        "Incorreto: deveria ser 'propós'",
+        "Correto: mas sem acento também aceito",
+        "Incorreto: erro ortográfico"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ CORRETO! PROPÔS (pretérito) mantém acento DIFERENCIAL de 'propos' (forma arcaica ou regional). Novo Acordo manteve acentos diferenciais em: pôr (verbo) ≠ por (prep.), pôde (pretérito) ≠ pode (presente), além de verbos ter/vir no plural: têm, vêm."
     },
     {
       "id": 45,
-      "enunciado": "'Vacinação IMPLICOU redução de casos.' Sentido:",
+      "enunciado": "'A MAIORIA elegeu o representante.' O verbo está:",
       "alternativas": [
-        "Envolver-se",
-        "Acarretar",
-        "Contradizer",
-        "Pirraçar",
-        "Comprometer-se"
+        "Incorreto: deveria ser 'elegeram'",
+        "Correto: concorda com 'maioria'",
+        "Incorreto: sujeito coletivo exige plural",
+        "Correto: mas 'elegeram' também aceito",
+        "Incorreto: erro de concordância"
       ],
-      "gabarito": "B"
+      "gabarito": "D",
+      "explicacao": "✓ AMBAS CORRETAS! Com coletivo partitivo (maioria/metade/parte) sem complemento plural, prefere-se SINGULAR: 'A maioria elegeu'. Com complemento plural ('A maioria DOS alunos'), aceita-se singular OU plural. 'Elegeram' concordando com ideia plural também é aceito por alguns gramáticos."
     },
     {
       "id": 46,
-      "enunciado": "Oração adverbial consecutiva:",
+      "enunciado": "'Não LHES obedecerei.' O pronome está:",
       "alternativas": [
-        "Como estava chovendo, suspenderam",
-        "Trabalhou tanto que adoeceu",
-        "Se houver necessidade, faremos plantão",
-        "Embora cansados, permaneceram",
-        "Quando chegarem medicamentos, avisaremos"
+        "Incorreto: deveria ser 'os'",
+        "Correto: 'obedecer' é VTI (exige 'a alguém')",
+        "Incorreto: deveria ser 'a eles'",
+        "Correto: mas 'os' também aceito",
+        "Incorreto: uso inadequado"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ CORRETO! OBEDECER é VTI = obedecer A alguém = objeto INDIRETO = pronome LHE/LHES. 'Obedecer OS' está errado (OS é objeto direto). 'Obedecer A eles' é correto mas menos elegante. LHE/LHES = objeto indireto (substitui A+pessoa)."
     },
     {
       "id": 47,
-      "enunciado": "Infinitivo CORRETO:",
+      "enunciado": "'Espero QUE ele ESTEJA bem.' O verbo está:",
       "alternativas": [
-        "É importante os agentes comparecerem",
-        "Mandaram os enfermeiros saírem",
-        "Ouvi os pacientes reclamarem",
-        "Fizemos os profissionais participarem",
-        "Vi os médicos chegarem à unidade"
+        "Incorreto: deveria ser 'esteje'",
+        "Correto: presente subjuntivo de 'estar'",
+        "Incorreto: deveria ser 'está'",
+        "Correto: variante de 'esteje'",
+        "Incorreto: modo inadequado"
       ],
-      "gabarito": "E"
+      "gabarito": "B",
+      "explicacao": "✓ CORRETO! ESTEJA = presente SUBJUNTIVO de ESTAR. Conjugação: esteja, estejas, esteja, estejamos, estejais, estejam. 'Esteje' NÃO existe. Após 'espero que' (verbo de desejo/dúvida), usa-se SUBJUNTIVO. 'Está' (indicativo) estaria errado aqui."
     },
     {
       "id": 48,
-      "enunciado": "'POR QUE não compareceu?' Grafia:",
+      "enunciado": "'Quando eles VIREM o resultado.' Está:",
       "alternativas": [
-        "Incorreta: deveria ser 'porque'",
-        "Incorreta: deveria ser 'porquê'",
-        "Correta: usado em perguntas diretas",
-        "Incorreta: deveria ser 'por quê'",
-        "Correta, mas 'porque' também seria aceito"
+        "Incorreto: deveria ser 'vir'",
+        "Correto: futuro subjuntivo de 'ver'",
+        "Incorreto: deveria ser 'verem'",
+        "Correto: variante de 'vir'",
+        "Incorreto: tempo inadequado"
       ],
-      "gabarito": "C"
+      "gabarito": "B",
+      "explicacao": "✓ CORRETO! VER → futuro subjuntivo: vir, vires, vir, virmos, virdes, VIREM. Após 'quando' (temporal), usa-se futuro subjuntivo. NÃO confundir: VIREM (ver) ≠ VIEREM (vir). 'Quando virem' = quando enxergarem. 'Quando vierem' = quando chegarem."
     },
     {
       "id": 49,
-      "enunciado": "Erro de concordância nominal:",
+      "enunciado": "'Ele MANTÉM a palavra.' O acento está:",
       "alternativas": [
-        "Seguem anexas as fichas",
-        "É proibida a entrada",
-        "Bastante profissionais participaram",
-        "Os próprios pacientes relataram",
-        "Foi ela mesma quem organizou"
+        "Incorreto: não acentua",
+        "Correto: 3ª pessoa singular de 'manter'",
+        "Incorreto: deveria ser 'mantem'",
+        "Correto: mas sem acento também aceito",
+        "Incorreto: erro ortográfico"
       ],
-      "gabarito": "C"
+      "gabarito": "B",
+      "explicacao": "✓ CORRETO! MANTÉM (3ª singular) tem acento DIFERENCIAL de MANTÊM (3ª plural). TER/VIR e derivados: ele tem/vem (sem acento) ≠ eles têm/vêm (com acento). Derivados: ele mantém/detém/intervém ≠ eles mantêm/detêm/intervêm. Novo Acordo manteve esses acentos."
     },
     {
       "id": 50,
-      "enunciado": "'À MEDIDA QUE casos aumentavam.' Expressa:",
+      "enunciado": "'Quando MANTIVERMOS a calma, superaremos.' 'MANTIVÉSSEMOS' seria usado em:",
       "alternativas": [
-        "Proporção",
-        "Causa",
-        "Comparação",
-        "Consequência",
-        "Concessão"
+        "Futuro do subjuntivo",
+        "Pretérito imperfeito do subjuntivo",
+        "Presente do subjuntivo",
+        "Pretérito perfeito do indicativo",
+        "Futuro do pretérito"
       ],
-      "gabarito": "A"
+      "gabarito": "B",
+      "explicacao": "✓ MANTIVÉSSEMOS = pretérito IMPERFEITO do SUBJUNTIVO. Uso em frases hipotéticas/irreais no passado: 'SE mantivéssemos' (condição irreal). MANTIVERMOS = futuro subjuntivo: 'QUANDO mantivermos' (condição futura possível). Diferença crucial para sentido da frase!"
     }
   ]
 }

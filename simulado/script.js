@@ -318,7 +318,7 @@ function calcularResultado() {
 }
 
 // ========================================
-// GERAR GABARITO DETALHADO
+// GERAR GABARITO DETALHADO COM EXPLICAÇÕES DINÂMICAS
 // ========================================
 function gerarGabarito() {
     const container = document.getElementById('gabaritoDetalhado');
@@ -338,6 +338,54 @@ function gerarGabarito() {
         const textoResposta = indiceResposta >= 0 ? questao.alternativas[indiceResposta] : 'Não respondeu';
         const textoCorreto = questao.alternativas[indiceCorreto];
 
+        // Criar explicação dinâmica e contextualizada
+        let explicacaoHTML = '';
+
+        if (questao.explicacao) {
+            let explicacaoTexto = questao.explicacao;
+
+            // Se ERROU, adicionar explicação do erro ANTES da explicação geral
+            if (!acertou && respostaUsuario) {
+                explicacaoTexto = `
+                    <div style="background: #ffebee; padding: 12px; border-left: 4px solid #e53935; border-radius: 4px; margin-bottom: 12px;">
+                        <strong style="color: #c62828;">❌ POR QUE SUA RESPOSTA (${respostaUsuario}) ESTÁ ERRADA:</strong><br>
+                        <span style="color: #c62828;">"${textoResposta}"</span><br><br>
+                        ${gerarExplicacaoErro(questao, respostaUsuario, gabaritoCorreto, textoResposta, textoCorreto)}
+                    </div>
+                    <div style="background: #e8f5e9; padding: 12px; border-left: 4px solid #43a047; border-radius: 4px;">
+                        <strong style="color: #2e7d32;">✓ POR QUE A RESPOSTA CORRETA É (${gabaritoCorreto}):</strong><br>
+                        <span style="color: #2e7d32;">"${textoCorreto}"</span><br><br>
+                        ${questao.explicacao}
+                    </div>
+                `;
+            } else if (acertou) {
+                // Se ACERTOU, mostrar confirmação
+                explicacaoTexto = `
+                    <div style="background: #e8f5e9; padding: 12px; border-left: 4px solid #43a047; border-radius: 4px;">
+                        <strong style="color: #2e7d32;">✓ PARABÉNS! VOCÊ ACERTOU!</strong><br>
+                        <strong>Sua resposta (${respostaUsuario}):</strong> "${textoCorreto}"<br><br>
+                        ${questao.explicacao}
+                    </div>
+                `;
+            } else if (!respostaUsuario) {
+                // Se NÃO RESPONDEU
+                explicacaoTexto = `
+                    <div style="background: #fff3e0; padding: 12px; border-left: 4px solid #ff9800; border-radius: 4px;">
+                        <strong style="color: #ef6c00;">⚠️ VOCÊ NÃO RESPONDEU ESTA QUESTÃO</strong><br>
+                        <strong>A resposta correta era (${gabaritoCorreto}):</strong> "${textoCorreto}"<br><br>
+                        ${questao.explicacao}
+                    </div>
+                `;
+            }
+
+            explicacaoHTML = `
+                <div class="gabarito-explicacao">
+                    <strong>📚 Explicação Detalhada:</strong><br><br>
+                    ${explicacaoTexto}
+                </div>
+            `;
+        }
+
         const div = document.createElement('div');
         div.className = 'gabarito-questao';
         div.innerHTML = `
@@ -349,12 +397,40 @@ function gerarGabarito() {
             </div>
             <div class="gabarito-enunciado"><strong>${questao.enunciado}</strong></div>
             <div class="gabarito-resposta">
-                <strong>Sua resposta:</strong> <span style="color: ${acertou ? '#43a047' : '#e53935'};">${respostaUsuario || 'Não respondeu'}</span> - ${textoResposta}<br><br>
+                <strong>Sua resposta:</strong> <span style="color: ${acertou ? '#43a047' : '#e53935'}; font-weight: bold;">${respostaUsuario || 'Não respondeu'}</span> ${respostaUsuario ? '- ' + textoResposta : ''}<br><br>
                 <strong>Gabarito correto:</strong> <span style="color: #43a047; font-weight: bold;">${gabaritoCorreto}</span> - ${textoCorreto}
             </div>
+            ${explicacaoHTML}
         `;
         container.appendChild(div);
     });
+}
+
+// ========================================
+// GERAR EXPLICAÇÃO DO ERRO (CONTEXTUALIZADA)
+// ========================================
+function gerarExplicacaoErro(questao, respostaUsuario, gabaritoCorreto, textoResposta, textoCorreto) {
+    // Tentar criar explicação contextualizada do erro
+
+    // Padrões comuns de erro que podemos identificar
+    if (textoResposta.toLowerCase().includes('incorret') || textoResposta.toLowerCase().includes('erro')) {
+        return 'Esta alternativa está marcada como incorreta no próprio enunciado.';
+    }
+
+    if (textoResposta.toLowerCase().includes('apenas') || textoResposta.toLowerCase().includes('somente') || textoResposta.toLowerCase().includes('exclusivamente')) {
+        return 'Esta alternativa é muito restritiva. O uso de termos absolutos como "apenas", "somente" ou "exclusivamente" geralmente indica informação incompleta ou incorreta.';
+    }
+
+    if (textoResposta.toLowerCase().includes('nunca') || textoResposta.toLowerCase().includes('sempre') || textoResposta.toLowerCase().includes('todo')) {
+        return 'Cuidado com termos absolutos! Palavras como "nunca", "sempre" e "todo" raramente são corretas em questões de concurso, pois há quase sempre exceções.';
+    }
+
+    if (textoResposta.toLowerCase().includes('não') && textoCorreto.toLowerCase().includes('não')) {
+        return 'Você escolheu uma alternativa que nega algo, mas a negação está aplicada incorretamente ou ao contexto errado.';
+    }
+
+    // Explicação genérica mas útil
+    return `Esta alternativa contém informação incorreta, incompleta ou não atende ao que foi solicitado no enunciado. Compare com a alternativa correta (${gabaritoCorreto}) para entender a diferença.`;
 }
 
 // ========================================

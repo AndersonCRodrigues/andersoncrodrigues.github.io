@@ -10,7 +10,8 @@
         "Atua apenas no âmbito estadual",
         "Não participa da pactuação do SUS"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 152,
@@ -22,7 +23,8 @@
         "União e estados apenas",
         "Apenas municípios de uma região"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 153,
@@ -34,7 +36,8 @@
         "Normativo sem deliberação",
         "Apenas fiscalizador"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 154,
@@ -46,7 +49,8 @@
         "Proporção definida localmente",
         "Não há regra estabelecida"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 155,
@@ -58,7 +62,8 @@
         "Mensalmente nas UBS",
         "Apenas em âmbito federal"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 156,
@@ -70,7 +75,8 @@
         "Cobertura apenas básica",
         "Acesso restrito a grupos"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 157,
@@ -82,7 +88,8 @@
         "Exclusivamente procedimentos de alta complexidade",
         "Apenas assistência ambulatorial"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 158,
@@ -94,7 +101,8 @@
         "Apenas igualdade formal",
         "Desconsiderar especificidades"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 159,
@@ -106,7 +114,8 @@
         "Eliminação da esfera federal",
         "Privatização dos serviços"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 160,
@@ -118,7 +127,8 @@
         "Priorização apenas da alta complexidade",
         "Desarticulação entre níveis"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 161,
@@ -130,7 +140,8 @@
         "Isolar municípios",
         "Eliminar cooperação intermunicipal"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 162,
@@ -142,7 +153,8 @@
         "Apenas em grandes municípios",
         "Não influencia gestão"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 163,
@@ -154,7 +166,8 @@
         "São apenas responsabilidade individual",
         "Limitam-se a serviços de saúde"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 164,
@@ -166,7 +179,8 @@
         "Apenas bem-estar físico",
         "Apenas assistência médica"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 165,
@@ -178,7 +192,8 @@
         "Exclusivamente atendimento hospitalar",
         "Apenas ações preventivas"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 166,
@@ -190,7 +205,8 @@
         "Exclusivamente vacinação",
         "Apenas controle de qualidade"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 167,
@@ -202,7 +218,8 @@
         "Exclusivamente alimentos",
         "Apenas portos e aeroportos"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 168,
@@ -214,7 +231,8 @@
         "Exclusivamente perícias médicas",
         "Apenas fiscalização de empresas"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 169,
@@ -226,7 +244,8 @@
         "Apenas estadual",
         "Apenas dos usuários"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 170,
@@ -238,7 +257,8 @@
         "Múltipla e fragmentada",
         "Apenas consultiva"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 171,
@@ -250,7 +270,8 @@
         "Apenas cooperativas médicas",
         "Não se admite participação privada"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 172,
@@ -262,7 +283,8 @@
         "Apenas atendimento ambulatorial",
         "Participação em urgências"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 173,
@@ -274,7 +296,8 @@
         "Descendente do federal ao local",
         "Sem base epidemiológica"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 174,
@@ -286,7 +309,8 @@
         "Monopólio estatal absoluto",
         "Apenas para quem pode pagar"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 175,
@@ -298,7 +322,8 @@
         "Somente procedimentos complexos",
         "Apenas urgências"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 176,
@@ -310,7 +335,8 @@
         "Apenas a municípios",
         "Apenas à ANVISA"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 177,
@@ -322,7 +348,8 @@
         "Apenas a municípios",
         "Sem regulamentação"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 178,
@@ -334,7 +361,8 @@
         "Apenas ao Ministério do Meio Ambiente",
         "Sem regulamentação no SUS"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 179,
@@ -346,7 +374,8 @@
         "Apenas a estados",
         "Sem regulamentação"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 180,
@@ -358,7 +387,8 @@
         "Apenas ao Meio Ambiente",
         "Sem participação do SUS"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 181,
@@ -370,7 +400,8 @@
         "Exclusivamente controle social",
         "Apenas recursos humanos"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 182,
@@ -382,7 +413,8 @@
         "Exclusivamente Pacto Social",
         "Apenas Pacto Federativo"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 183,
@@ -394,7 +426,8 @@
         "Exclusivamente saúde mental",
         "Apenas urgências"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 184,
@@ -406,7 +439,8 @@
         "Exclusivamente formar profissionais",
         "Apenas gestão"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 185,
@@ -418,7 +452,8 @@
         "Exclusivamente controle social",
         "Apenas regionalização"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 186,
@@ -430,7 +465,8 @@
         "Exclusivamente compra de equipamentos",
         "Apenas recursos humanos"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 187,
@@ -442,7 +478,8 @@
         "Exclusivamente contratar pessoal",
         "Apenas fiscalizar"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 188,
@@ -454,7 +491,8 @@
         "Exclusivamente justificar gastos",
         "Apenas dados estatísticos"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 189,
@@ -466,7 +504,8 @@
         "Exclusivamente divulgar indicadores",
         "Apenas informar despesas"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 190,
@@ -478,7 +517,8 @@
         "Exclusivamente copiar plano estadual",
         "Apenas aspectos financeiros"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 191,
@@ -490,7 +530,8 @@
         "Exclusivamente copiar ano anterior",
         "Apenas listar metas gerais"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 192,
@@ -502,7 +543,8 @@
         "Exclusivamente listar procedimentos",
         "Apenas dados financeiros"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 193,
@@ -514,7 +556,8 @@
         "Exclusivamente relatórios técnicos",
         "Apenas cumprir legislação mínima"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 194,
@@ -526,7 +569,8 @@
         "Exclusivamente controle de pessoal",
         "Apenas prestação de contas"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 195,
@@ -538,7 +582,8 @@
         "Exclusivamente fontes de financiamento",
         "Apenas prestação de contas"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 196,
@@ -550,7 +595,8 @@
         "Valor fixo em reais",
         "Não há mínimo estabelecido"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 197,
@@ -562,7 +608,8 @@
         "20% do orçamento",
         "Não há mínimo estabelecido"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 198,
@@ -574,7 +621,8 @@
         "Apenas para municípios grandes",
         "Sem caráter vinculante"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 199,
@@ -586,7 +634,8 @@
         "Exclusivamente UPA",
         "Apenas SAMU"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 200,
@@ -598,7 +647,8 @@
         "Exclusivamente consultas",
         "Apenas exames"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     }
   ]
 }

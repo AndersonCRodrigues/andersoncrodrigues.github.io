@@ -10,7 +10,8 @@
         "Exclusivamente recém-cadastrados",
         "Apenas quem tem consulta marcada"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 52,
@@ -22,7 +23,8 @@
         "Esperar próxima campanha de vacinação",
         "Notificar Conselho Tutelar imediatamente"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 53,
@@ -34,7 +36,8 @@
         "É exclusiva de pediatras",
         "Não é importante nos primeiros anos"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 54,
@@ -46,7 +49,8 @@
         "Aguardar que ela procure a UBS",
         "Desistir após segunda falta"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 55,
@@ -58,7 +62,8 @@
         "Apenas cansaço",
         "Somente edema de membros inferiores leve"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 56,
@@ -70,7 +75,8 @@
         "Apenas uso de medicação",
         "Isolamento social como tratamento"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 57,
@@ -82,7 +88,8 @@
         "Ignorar por não ser da área da saúde",
         "Orientar a família a se virar sozinha"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 58,
@@ -94,7 +101,8 @@
         "Substituir consultas médicas",
         "Apenas entregar receitas"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 59,
@@ -106,7 +114,8 @@
         "Apenas medicação",
         "Somente questões emocionais"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 60,
@@ -118,7 +127,8 @@
         "Orientar apenas repouso",
         "Isolar o paciente imediatamente"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 61,
@@ -130,7 +140,8 @@
         "Substitui toda medicação",
         "É obrigatório para todos pacientes"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 62,
@@ -142,7 +153,8 @@
         "Aplicar medicação profilática",
         "Não precisa fazer nada"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 63,
@@ -154,7 +166,8 @@
         "Apenas durante epidemias",
         "Não precisa orientar"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 64,
@@ -166,7 +179,8 @@
         "Aplicar inseticida pessoalmente",
         "Apenas fotografar"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 65,
@@ -178,7 +192,8 @@
         "Apenas morcegos transmitem",
         "Esperar sintomas para procurar ajuda"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 66,
@@ -190,7 +205,8 @@
         "Não há prevenção",
         "Tratamento é apenas sintomático"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 67,
@@ -202,7 +218,8 @@
         "Desmarcar consultas futuras",
         "Não fazer nada"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 68,
@@ -214,7 +231,8 @@
         "Ignorar se for violência psicológica",
         "Aguardar lesões físicas graves"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 69,
@@ -226,7 +244,8 @@
         "Esperar próxima visita",
         "Orientar apenas suplementos"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 70,
@@ -238,7 +257,8 @@
         "Água deve ser oferecida desde o nascimento",
         "Mamadeira ajuda na produção de leite"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 71,
@@ -250,7 +270,8 @@
         "Apenas medir PA",
         "Não precisa fazer acompanhamento"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 72,
@@ -262,7 +283,8 @@
         "Somente em domicílios com crianças pequenas",
         "Não é prioridade"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 73,
@@ -274,7 +296,8 @@
         "Ignorar os sintomas",
         "Visitar sem proteção"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 74,
@@ -286,7 +309,8 @@
         "Emitir CAT",
         "Fazer perícia médica"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 75,
@@ -298,7 +322,8 @@
         "Ignorar por ser menor",
         "Orientar interrupção da gestação"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 76,
@@ -310,7 +335,8 @@
         "Não há prevenção",
         "Somente após os 50 anos"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 77,
@@ -322,7 +348,8 @@
         "Notificar vigilância para recolher animais",
         "Ignorar"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 78,
@@ -334,7 +361,8 @@
         "Apenas ler informações",
         "Usar somente em campanhas"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 79,
@@ -346,7 +374,8 @@
         "Apenas avisar o médico",
         "Aguardar que procure a UBS"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 80,
@@ -358,7 +387,8 @@
         "Cadastrar e descadastrar beneficiários",
         "Definir valores a receber"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 81,
@@ -370,7 +400,8 @@
         "Não beber água",
         "Apenas comprar água mineral"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 82,
@@ -382,7 +413,8 @@
         "Somente crianças precisam de orientação",
         "Não é papel do ACS"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 83,
@@ -394,7 +426,8 @@
         "Fazer denúncia policial",
         "Ignorar"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 84,
@@ -406,7 +439,8 @@
         "Ignorar sentimentos",
         "Isolar-se completamente"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 85,
@@ -418,7 +452,8 @@
         "Ignorar se não há dor",
         "Apenas fotografar"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 86,
@@ -430,7 +465,8 @@
         "Proibir relações sexuais",
         "Avisar apenas os pais"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 87,
@@ -442,7 +478,8 @@
         "Apenas dizer para parar sem orientação",
         "Ameaçar com consequências legais"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 88,
@@ -454,7 +491,8 @@
         "Dentes de leite não precisam cuidados",
         "Apenas após os 5 anos"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 89,
@@ -466,7 +504,8 @@
         "Confrontar o agressor",
         "Ignorar se ela não quiser denunciar"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 90,
@@ -478,7 +517,8 @@
         "Somente se estiver doente",
         "Não é prioridade"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 91,
@@ -490,7 +530,8 @@
         "Apenas medicar",
         "Esperar 7 dias para procurar ajuda"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 92,
@@ -502,7 +543,8 @@
         "Somente com histórico familiar",
         "Não é tema para ACS abordar"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 93,
@@ -514,7 +556,8 @@
         "Apenas observar",
         "Dar medicação para dor"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 94,
@@ -526,7 +569,8 @@
         "Somente após os 60 anos",
         "Não é prioridade"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 95,
@@ -538,7 +582,8 @@
         "Ignorar se não choveu",
         "Aguardar tragédia"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 96,
@@ -550,7 +595,8 @@
         "Chamar polícia sempre",
         "Fazer velório"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 97,
@@ -562,7 +608,8 @@
         "Aguardar próxima campanha",
         "Não é importante"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 98,
@@ -574,7 +621,8 @@
         "É processo natural sem necessidade de cuidados",
         "Não é tema para ACS"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 99,
@@ -586,7 +634,8 @@
         "Chamar polícia",
         "Não é responsabilidade da saúde"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 100,
@@ -598,7 +647,8 @@
         "Apenas cadastra famílias",
         "Não tem importância significativa"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     }
   ]
 }

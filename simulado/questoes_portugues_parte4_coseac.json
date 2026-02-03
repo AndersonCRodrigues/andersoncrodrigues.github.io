@@ -10,7 +10,8 @@
         "Erro gramatical grave",
         "Correto apenas na linguagem coloquial"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está CORRETA conforme regra gramatical aplicada. As demais apresentam desvios da norma culta."
     },
     {
       "id": 152,
@@ -22,7 +23,8 @@
         "Todas formas aceitáveis",
         "Depende do contexto"
       ],
-      "gabarito": "A"
+      "gabarito": "A",
+      "explicacao": "✓ Alternativa A está CORRETA conforme regra gramatical aplicada. As demais apresentam desvios da norma culta."
     },
     {
       "id": 153,
@@ -34,7 +36,8 @@
         "Erro: deveria ser 'com o fim de'",
         "Correto apenas informalmente"
       ],
-      "gabarito": "A"
+      "gabarito": "A",
+      "explicacao": "✓ Alternativa A está CORRETA conforme regra gramatical aplicada. As demais apresentam desvios da norma culta."
     },
     {
       "id": 154,
@@ -46,7 +49,8 @@
         "Erro: deveria ser 'também não'",
         "Depende do contexto"
       ],
-      "gabarito": "A"
+      "gabarito": "A",
+      "explicacao": "✓ Alternativa A está CORRETA conforme regra gramatical aplicada. As demais apresentam desvios da norma culta."
     },
     {
       "id": 155,
@@ -58,7 +62,8 @@
         "Correto se significa 'problema'",
         "Depende do contexto regional"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está CORRETA conforme regra gramatical aplicada. As demais apresentam desvios da norma culta."
     },
     {
       "id": 156,
@@ -70,7 +75,8 @@
         "Correto apenas coloquialmente",
         "Depende se há verbo de movimento"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está CORRETA conforme regra gramatical aplicada. As demais apresentam desvios da norma culta."
     },
     {
       "id": 157,
@@ -82,7 +88,8 @@
         "Erro: 'quite' não existe",
         "Depende se é formal"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está CORRETA conforme regra gramatical aplicada. As demais apresentam desvios da norma culta."
     },
     {
       "id": 158,
@@ -94,7 +101,8 @@
         "Erro: deveria ser 'à parte'",
         "Depende do contexto"
       ],
-      "gabarito": "A"
+      "gabarito": "A",
+      "explicacao": "✓ Alternativa A está CORRETA conforme regra gramatical aplicada. As demais apresentam desvios da norma culta."
     },
     {
       "id": 159,
@@ -106,7 +114,8 @@
         "Erro: deveria ser 'muitas'",
         "Depende da quantidade"
       ],
-      "gabarito": "A"
+      "gabarito": "A",
+      "explicacao": "✓ Alternativa A está CORRETA conforme regra gramatical aplicada. As demais apresentam desvios da norma culta."
     },
     {
       "id": 160,
@@ -118,7 +127,8 @@
         "Erro: deveria ser 'evidente'",
         "Depende do tipo de perigo"
       ],
-      "gabarito": "A"
+      "gabarito": "A",
+      "explicacao": "✓ Alternativa A está CORRETA conforme regra gramatical aplicada. As demais apresentam desvios da norma culta."
     },
     {
       "id": 161,
@@ -130,7 +140,8 @@
         "Erro ortográfico",
         "Depende do contexto"
       ],
-      "gabarito": "A"
+      "gabarito": "A",
+      "explicacao": "✓ Alternativa A está CORRETA conforme regra gramatical aplicada. As demais apresentam desvios da norma culta."
     },
     {
       "id": 162,
@@ -142,7 +153,8 @@
         "Erro: deveria ser 'rectificar'",
         "Depende se é correção ou confirmação"
       ],
-      "gabarito": "A"
+      "gabarito": "A",
+      "explicacao": "✓ Alternativa A está CORRETA conforme regra gramatical aplicada. As demais apresentam desvios da norma culta."
     },
     {
       "id": 163,
@@ -154,7 +166,8 @@
         "Erro: deveria ser 'trafego'",
         "Depende do tipo de circulação"
       ],
-      "gabarito": "A"
+      "gabarito": "A",
+      "explicacao": "✓ Alternativa A está CORRETA conforme regra gramatical aplicada. As demais apresentam desvios da norma culta."
     },
     {
       "id": 164,
@@ -166,7 +179,8 @@
         "Erro: deveria ser 'migrou'",
         "Depende do ponto de vista"
       ],
-      "gabarito": "A"
+      "gabarito": "A",
+      "explicacao": "✓ Alternativa A está CORRETA conforme regra gramatical aplicada. As demais apresentam desvios da norma culta."
     },
     {
       "id": 165,
@@ -178,7 +192,8 @@
         "Erro: deveria ser 'precresver'",
         "Depende se é obrigatório"
       ],
-      "gabarito": "A"
+      "gabarito": "A",
+      "explicacao": "✓ Alternativa A está CORRETA conforme regra gramatical aplicada. As demais apresentam desvios da norma culta."
     },
     {
       "id": 166,
@@ -190,7 +205,8 @@
         "Erro ortográfico",
         "Depende do tipo de crime"
       ],
-      "gabarito": "A"
+      "gabarito": "A",
+      "explicacao": "✓ Alternativa A está CORRETA conforme regra gramatical aplicada. As demais apresentam desvios da norma culta."
     },
     {
       "id": 167,
@@ -202,7 +218,8 @@
         "Erro: deveria ser 'infrigir'",
         "Depende da gravidade"
       ],
-      "gabarito": "A"
+      "gabarito": "A",
+      "explicacao": "✓ Alternativa A está CORRETA conforme regra gramatical aplicada. As demais apresentam desvios da norma culta."
     },
     {
       "id": 168,
@@ -214,7 +231,8 @@
         "Erro: deveria ser 'estadía'",
         "Depende do tipo de estabelecimento"
       ],
-      "gabarito": "A"
+      "gabarito": "A",
+      "explicacao": "✓ Alternativa A está CORRETA conforme regra gramatical aplicada. As demais apresentam desvios da norma culta."
     },
     {
       "id": 169,
@@ -226,7 +244,8 @@
         "Erro ortográfico",
         "Depende do contexto"
       ],
-      "gabarito": "A"
+      "gabarito": "A",
+      "explicacao": "✓ Alternativa A está CORRETA conforme regra gramatical aplicada. As demais apresentam desvios da norma culta."
     },
     {
       "id": 170,
@@ -238,7 +257,8 @@
         "Erro: deveria ser 'cavalheiro'",
         "Depende se montava cavalo"
       ],
-      "gabarito": "A"
+      "gabarito": "A",
+      "explicacao": "✓ Alternativa A está CORRETA conforme regra gramatical aplicada. As demais apresentam desvios da norma culta."
     },
     {
       "id": 171,
@@ -250,7 +270,8 @@
         "Erro ortográfico",
         "Depende do contexto"
       ],
-      "gabarito": "A"
+      "gabarito": "A",
+      "explicacao": "✓ Alternativa A está CORRETA conforme regra gramatical aplicada. As demais apresentam desvios da norma culta."
     },
     {
       "id": 172,
@@ -262,7 +283,8 @@
         "Erro: deveria ser 'absolber'",
         "Depende da sentença"
       ],
-      "gabarito": "A"
+      "gabarito": "A",
+      "explicacao": "✓ Alternativa A está CORRETA conforme regra gramatical aplicada. As demais apresentam desvios da norma culta."
     },
     {
       "id": 173,
@@ -274,7 +296,8 @@
         "Erro: deveria ser 'deferído'",
         "Depende do resultado"
       ],
-      "gabarito": "A"
+      "gabarito": "A",
+      "explicacao": "✓ Alternativa A está CORRETA conforme regra gramatical aplicada. As demais apresentam desvios da norma culta."
     },
     {
       "id": 174,
@@ -286,7 +309,8 @@
         "Erro: deveria ser 'delatar'",
         "Depende do tipo de prazo"
       ],
-      "gabarito": "A"
+      "gabarito": "A",
+      "explicacao": "✓ Alternativa A está CORRETA conforme regra gramatical aplicada. As demais apresentam desvios da norma culta."
     },
     {
       "id": 175,
@@ -298,7 +322,8 @@
         "Erro: deveria ser 'emerjir'",
         "Depende da direção"
       ],
-      "gabarito": "A"
+      "gabarito": "A",
+      "explicacao": "✓ Alternativa A está CORRETA conforme regra gramatical aplicada. As demais apresentam desvios da norma culta."
     },
     {
       "id": 176,
@@ -310,7 +335,8 @@
         "Erro: deveria ser 'mandáto'",
         "Depende do cargo"
       ],
-      "gabarito": "A"
+      "gabarito": "A",
+      "explicacao": "✓ Alternativa A está CORRETA conforme regra gramatical aplicada. As demais apresentam desvios da norma culta."
     },
     {
       "id": 177,
@@ -322,7 +348,8 @@
         "Erro ortográfico",
         "Depende do valor"
       ],
-      "gabarito": "A"
+      "gabarito": "A",
+      "explicacao": "✓ Alternativa A está CORRETA conforme regra gramatical aplicada. As demais apresentam desvios da norma culta."
     },
     {
       "id": 178,
@@ -334,7 +361,8 @@
         "Erro: deveria ser 'espetador'",
         "Depende se está aguardando"
       ],
-      "gabarito": "A"
+      "gabarito": "A",
+      "explicacao": "✓ Alternativa A está CORRETA conforme regra gramatical aplicada. As demais apresentam desvios da norma culta."
     },
     {
       "id": 179,
@@ -346,7 +374,8 @@
         "Erro ortográfico",
         "Depende do nível"
       ],
-      "gabarito": "A"
+      "gabarito": "A",
+      "explicacao": "✓ Alternativa A está CORRETA conforme regra gramatical aplicada. As demais apresentam desvios da norma culta."
     },
     {
       "id": 180,
@@ -358,7 +387,8 @@
         "Erro: deveria ser 'préito'",
         "Depende do contexto"
       ],
-      "gabarito": "A"
+      "gabarito": "A",
+      "explicacao": "✓ Alternativa A está CORRETA conforme regra gramatical aplicada. As demais apresentam desvios da norma culta."
     },
     {
       "id": 181,
@@ -370,7 +400,8 @@
         "Erro ortográfico",
         "Depende da gravidade"
       ],
-      "gabarito": "A"
+      "gabarito": "A",
+      "explicacao": "✓ Alternativa A está CORRETA conforme regra gramatical aplicada. As demais apresentam desvios da norma culta."
     },
     {
       "id": 182,
@@ -382,7 +413,8 @@
         "Erro: deveria ser 'eminente'",
         "Depende do grau"
       ],
-      "gabarito": "A"
+      "gabarito": "A",
+      "explicacao": "✓ Alternativa A está CORRETA conforme regra gramatical aplicada. As demais apresentam desvios da norma culta."
     },
     {
       "id": 183,
@@ -394,7 +426,8 @@
         "Erro: deveria ser 'cazual'",
         "Depende se foi planejado"
       ],
-      "gabarito": "A"
+      "gabarito": "A",
+      "explicacao": "✓ Alternativa A está CORRETA conforme regra gramatical aplicada. As demais apresentam desvios da norma culta."
     },
     {
       "id": 184,
@@ -406,7 +439,8 @@
         "Erro ortográfico",
         "Depende do tipo"
       ],
-      "gabarito": "A"
+      "gabarito": "A",
+      "explicacao": "✓ Alternativa A está CORRETA conforme regra gramatical aplicada. As demais apresentam desvios da norma culta."
     },
     {
       "id": 185,
@@ -418,7 +452,8 @@
         "Erro: deveria ser 'paço'",
         "Depende do local"
       ],
-      "gabarito": "A"
+      "gabarito": "A",
+      "explicacao": "✓ Alternativa A está CORRETA conforme regra gramatical aplicada. As demais apresentam desvios da norma culta."
     },
     {
       "id": 186,
@@ -430,7 +465,8 @@
         "Erro: deveria ser 'taxá'",
         "Depende do valor"
       ],
-      "gabarito": "A"
+      "gabarito": "A",
+      "explicacao": "✓ Alternativa A está CORRETA conforme regra gramatical aplicada. As demais apresentam desvios da norma culta."
     },
     {
       "id": 187,
@@ -442,7 +478,8 @@
         "Erro: deveria ser 'çenso'",
         "Depende do tipo"
       ],
-      "gabarito": "A"
+      "gabarito": "A",
+      "explicacao": "✓ Alternativa A está CORRETA conforme regra gramatical aplicada. As demais apresentam desvios da norma culta."
     },
     {
       "id": 188,
@@ -454,7 +491,8 @@
         "Erro: deveria ser 'cozêr'",
         "Depende do método"
       ],
-      "gabarito": "A"
+      "gabarito": "A",
+      "explicacao": "✓ Alternativa A está CORRETA conforme regra gramatical aplicada. As demais apresentam desvios da norma culta."
     },
     {
       "id": 189,
@@ -466,7 +504,8 @@
         "Erro ortográfico",
         "Depende do local"
       ],
-      "gabarito": "A"
+      "gabarito": "A",
+      "explicacao": "✓ Alternativa A está CORRETA conforme regra gramatical aplicada. As demais apresentam desvios da norma culta."
     },
     {
       "id": 190,
@@ -478,7 +517,8 @@
         "Erro: deveria ser 'véz'",
         "Depende do contexto"
       ],
-      "gabarito": "A"
+      "gabarito": "A",
+      "explicacao": "✓ Alternativa A está CORRETA conforme regra gramatical aplicada. As demais apresentam desvios da norma culta."
     },
     {
       "id": 191,
@@ -490,7 +530,8 @@
         "Erro ortográfico",
         "Depende da raça"
       ],
-      "gabarito": "A"
+      "gabarito": "A",
+      "explicacao": "✓ Alternativa A está CORRETA conforme regra gramatical aplicada. As demais apresentam desvios da norma culta."
     },
     {
       "id": 192,
@@ -502,7 +543,8 @@
         "Erro: deveria ser 'xah'",
         "Depende do período histórico"
       ],
-      "gabarito": "A"
+      "gabarito": "A",
+      "explicacao": "✓ Alternativa A está CORRETA conforme regra gramatical aplicada. As demais apresentam desvios da norma culta."
     },
     {
       "id": 193,
@@ -514,7 +556,8 @@
         "Erro ortográfico",
         "Depende do jogo"
       ],
-      "gabarito": "A"
+      "gabarito": "A",
+      "explicacao": "✓ Alternativa A está CORRETA conforme regra gramatical aplicada. As demais apresentam desvios da norma culta."
     },
     {
       "id": 194,
@@ -526,7 +569,8 @@
         "Erro: deveria ser 'apresár'",
         "Depende da velocidade"
       ],
-      "gabarito": "A"
+      "gabarito": "A",
+      "explicacao": "✓ Alternativa A está CORRETA conforme regra gramatical aplicada. As demais apresentam desvios da norma culta."
     },
     {
       "id": 195,
@@ -538,7 +582,8 @@
         "Erro: deveria ser 'arriár'",
         "Depende do objeto"
       ],
-      "gabarito": "A"
+      "gabarito": "A",
+      "explicacao": "✓ Alternativa A está CORRETA conforme regra gramatical aplicada. As demais apresentam desvios da norma culta."
     },
     {
       "id": 196,
@@ -550,7 +595,8 @@
         "Erro ortográfico",
         "Depende do tamanho"
       ],
-      "gabarito": "A"
+      "gabarito": "A",
+      "explicacao": "✓ Alternativa A está CORRETA conforme regra gramatical aplicada. As demais apresentam desvios da norma culta."
     },
     {
       "id": 197,
@@ -562,7 +608,8 @@
         "Erro: deveria ser 'búxo'",
         "Depende da espécie"
       ],
-      "gabarito": "A"
+      "gabarito": "A",
+      "explicacao": "✓ Alternativa A está CORRETA conforme regra gramatical aplicada. As demais apresentam desvios da norma culta."
     },
     {
       "id": 198,
@@ -574,7 +621,8 @@
         "Erro ortográfico",
         "Depende do contexto"
       ],
-      "gabarito": "A"
+      "gabarito": "A",
+      "explicacao": "✓ Alternativa A está CORRETA conforme regra gramatical aplicada. As demais apresentam desvios da norma culta."
     },
     {
       "id": 199,
@@ -586,7 +634,8 @@
         "Erro: deveria ser 'táchar'",
         "Depende da intenção"
       ],
-      "gabarito": "A"
+      "gabarito": "A",
+      "explicacao": "✓ Alternativa A está CORRETA conforme regra gramatical aplicada. As demais apresentam desvios da norma culta."
     },
     {
       "id": 200,
@@ -598,7 +647,8 @@
         "Erro: deveria ser 'estrató'",
         "Depende do banco"
       ],
-      "gabarito": "A"
+      "gabarito": "A",
+      "explicacao": "✓ Alternativa A está CORRETA conforme regra gramatical aplicada. As demais apresentam desvios da norma culta."
     }
   ]
 }

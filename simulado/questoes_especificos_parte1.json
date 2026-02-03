@@ -10,7 +10,8 @@
         "Manter sigilo absoluto sem comunicar à equipe",
         "Confrontar o agressor durante a visita"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 2,
@@ -22,7 +23,8 @@
         "Realizar limpeza pessoalmente",
         "Notificar apenas vigilância sanitária"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 3,
@@ -34,7 +36,8 @@
         "Mosquito tem hábitos diurnos, picando ao amanhecer/entardecer",
         "Fase aquática ocorre em água suja e poluída"
       ],
-      "gabarito": "E"
+      "gabarito": "E",
+      "explicacao": "✓ Alternativa E corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
         "Testagem no pré-natal é desnecessária",
         "Apenas parto cesáreo previne transmissão"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 5,
@@ -58,7 +62,8 @@
         "É de uso exclusivo até 6 meses",
         "Não identifica atrasos no desenvolvimento"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 6,
@@ -70,7 +75,8 @@
         "9 meses de idade",
         "12 meses de idade"
       ],
-      "gabarito": "C"
+      "gabarito": "C",
+      "explicacao": "✓ Alternativa C corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 7,
@@ -82,7 +88,8 @@
         "Recomendar apenas aumento de água",
         "Aguardar próxima visita para reavaliar"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 8,
@@ -94,7 +101,8 @@
         "Uso obrigatório de medicação para todos",
         "Dispensa de orientações sobre alimentação"
       ],
-      "gabarito": "C"
+      "gabarito": "C",
+      "explicacao": "✓ Alternativa C corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 9,
@@ -106,7 +114,8 @@
         "Acomete exclusivamente pessoas acima de 65 anos",
         "ACS pode orientar sobre alimentação e adesão ao tratamento"
       ],
-      "gabarito": "D"
+      "gabarito": "D",
+      "explicacao": "✓ Alternativa D corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 10,
@@ -118,7 +127,8 @@
         "Apenas se houver sinais de doença",
         "Somente em bebês prematuros"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 11,
@@ -130,7 +140,8 @@
         "Transmitida por mosquitos",
         "Que não requer notificação compulsória"
       ],
-      "gabarito": "C"
+      "gabarito": "C",
+      "explicacao": "✓ Alternativa C corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 12,
@@ -142,7 +153,8 @@
         "Acomete exclusivamente os pulmões",
         "Não requer investigação de contatos"
       ],
-      "gabarito": "A"
+      "gabarito": "A",
+      "explicacao": "✓ Alternativa A corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 13,
@@ -154,7 +166,8 @@
         "Sarampo",
         "Meningite meningocócica"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 14,
@@ -166,7 +179,8 @@
         "Meningite A, C, W, Y e B",
         "Rotavírus, influenza, pneumococo, meningococo e HPV"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 15,
@@ -178,7 +192,8 @@
         "Exclusivamente pessoas com doenças crônicas",
         "Toda população sem distinção"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 16,
@@ -190,7 +205,8 @@
         "Parceiro também deve ser tratado",
         "Pré-natal é fundamental para prevenção"
       ],
-      "gabarito": "C"
+      "gabarito": "C",
+      "explicacao": "✓ Alternativa C corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 17,
@@ -202,7 +218,8 @@
         "Aguardar confirmação médica antes de agir",
         "Orientar criança a procurar ajuda sozinha"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 18,
@@ -214,7 +231,8 @@
         "Identificar situações de risco e vulnerabilidade",
         "Fortalecer vínculo entre equipe e comunidade"
       ],
-      "gabarito": "C"
+      "gabarito": "C",
+      "explicacao": "✓ Alternativa C corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 19,
@@ -226,7 +244,8 @@
         "Adolescentes não podem acessar orientações",
         "É responsabilidade exclusiva do setor privado"
       ],
-      "gabarito": "A"
+      "gabarito": "A",
+      "explicacao": "✓ Alternativa A corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 20,
@@ -238,7 +257,8 @@
         "Exclusivamente gestantes",
         "A partir da primeira menstruação"
       ],
-      "gabarito": "A"
+      "gabarito": "A",
+      "explicacao": "✓ Alternativa A corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 21,
@@ -250,7 +270,8 @@
         "Não há fatores de risco identificáveis",
         "Homens não podem desenvolver"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 22,
@@ -262,7 +283,8 @@
         "Recomendar que família resolva sozinha",
         "Orientar idoso a 'se animar'"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 23,
@@ -274,7 +296,8 @@
         "Serve apenas para registrar vacinação",
         "Não contém informações sobre capacidade funcional"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 24,
@@ -286,7 +309,8 @@
         "Evitar qualquer atividade física",
         "Quedas são inevitáveis"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 25,
@@ -298,7 +322,8 @@
         "Benefícios exclusivos para maiores de 80 anos",
         "Atendimento igualitário sem prioridade"
       ],
-      "gabarito": "A"
+      "gabarito": "A",
+      "explicacao": "✓ Alternativa A corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 26,
@@ -310,7 +335,8 @@
         "Exclusivamente na adolescência",
         "Quando todos dentes permanentes nasceram"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 27,
@@ -322,7 +348,8 @@
         "Melhorar sabor da água",
         "Prevenir doenças de pele"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 28,
@@ -334,7 +361,8 @@
         "Uso frequente de suplementos",
         "Dietas da moda sem orientação"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 29,
@@ -346,7 +374,8 @@
         "Apenas atletas precisam se exercitar",
         "Atividade física é contraindicada em doenças crônicas"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 30,
@@ -358,7 +387,8 @@
         "Ignorar por ser escolha individual",
         "Isolamento social do usuário"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 31,
@@ -370,7 +400,8 @@
         "Punição para usuários",
         "Apenas tratamento medicamentoso"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 32,
@@ -382,7 +413,8 @@
         "Apenas profissionais do sexo estão em risco",
         "Diagnóstico precoce previne complicações"
       ],
-      "gabarito": "D"
+      "gabarito": "D",
+      "explicacao": "✓ Alternativa D corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 33,
@@ -394,7 +426,8 @@
         "Exclusivamente em transmissão vertical",
         "Não há prazo definido"
       ],
-      "gabarito": "A"
+      "gabarito": "A",
+      "explicacao": "✓ Alternativa A corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 34,
@@ -406,7 +439,8 @@
         "Medida exclusiva para profissionais de saúde",
         "Substituição do preservativo"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 35,
@@ -418,7 +452,8 @@
         "Somente emagrecimento sem causa",
         "Qualquer sintoma respiratório"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 36,
@@ -430,7 +465,8 @@
         "Acomete exclusivamente crianças",
         "Não relaciona-se a condições sanitárias"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 37,
@@ -442,7 +478,8 @@
         "Somente cansaço e indisposição",
         "Apenas sintomas respiratórios"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 38,
@@ -454,7 +491,8 @@
         "Prevenção se dá combatendo o mosquito vetor",
         "Causa sintomas graves em todos, sendo sempre letal"
       ],
-      "gabarito": "E"
+      "gabarito": "E",
+      "explicacao": "✓ Alternativa E corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 39,
@@ -466,7 +504,8 @@
         "Somente doenças cardíacas",
         "Apenas diabetes e hipertensão"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 40,
@@ -478,7 +517,8 @@
         "São apenas responsabilidade individual",
         "Limitam-se a acesso a serviços"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 41,
@@ -490,7 +530,8 @@
         "Desconsiderar saberes populares",
         "Usar linguagem científica complexa"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 42,
@@ -502,7 +543,8 @@
         "Competição entre membros",
         "Desvalorização de diferentes saberes"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 43,
@@ -514,7 +556,8 @@
         "É de propriedade exclusiva do paciente",
         "Pode ser descartado a qualquer momento"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 44,
@@ -526,7 +569,8 @@
         "Controlar população sem planejamento",
         "Dificultar acesso aos serviços"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 45,
@@ -538,7 +582,8 @@
         "Compartilhar dados sem autorização",
         "Desconsiderar privacidade dos usuários"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 46,
@@ -550,7 +595,8 @@
         "Desconsiderar dúvidas e questionamentos",
         "Criar barreiras entre profissional e usuário"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 47,
@@ -562,7 +608,8 @@
         "Dificultar acesso aos serviços",
         "Substituir todas outras atividades da equipe"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 48,
@@ -574,7 +621,8 @@
         "Responsabilizar apenas a população",
         "Ignorar a situação"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 49,
@@ -586,7 +634,8 @@
         "Desnecessária para processo de trabalho",
         "Apenas burocrática sem impacto"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     },
     {
       "id": 50,
@@ -598,7 +647,8 @@
         "Improvisar sem embasamento",
         "Culpar família pela complexidade"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
     }
   ]
 }

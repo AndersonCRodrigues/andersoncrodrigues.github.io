@@ -2,603 +2,653 @@
   "sus_parte3_coseac": [
     {
       "id": 101,
-      "enunciado": "Segundo a Lei 8.080/90, a vigilância sanitária NÃO abrange:",
+      "enunciado": "Segundo a Lei 8.080/90, a INTEGRALIDADE da assistência NO CONTEXTO da regionalização e hierarquização pressupõe:",
       "alternativas": [
-        "Fiscalização de estabelecimentos que produzem alimentos",
-        "Controle de portos, aeroportos e fronteiras",
-        "Investigação epidemiológica de surtos",
-        "Inspeção de produtos saneantes domissanitários",
-        "Fiscalização de serviços de interesse da saúde"
+        "Priorização exclusiva de ações preventivas em detrimento das curativas",
+        "Articulação entre ações de promoção, proteção, recuperação em todos os níveis de complexidade",
+        "Atendimento apenas na atenção básica, com encaminhamento mínimo",
+        "Separação rígida entre níveis de atenção sem comunicação entre eles",
+        "Foco exclusivo em doenças crônicas não transmissíveis"
       ],
-      "gabarito": "C"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 102,
-      "enunciado": "A participação complementar dos serviços privados no SUS, segundo Lei 8.080/90:",
+      "enunciado": "A PNAB 2017 estabelece que a carga horária dos profissionais da equipe de Saúde da Família deve ser de:",
       "alternativas": [
-        "É prioritária em relação aos serviços públicos",
-        "Deve seguir preferencialmente as entidades filantrópicas e sem fins lucrativos",
-        "Independe de contrato ou convênio formal",
-        "Permite que entidades com fins lucrativos tenham prioridade",
-        "É proibida em qualquer hipótese"
+        "20 horas semanais para todos os profissionais",
+        "30 horas semanais, podendo ser 40h para médicos",
+        "40 horas semanais para todos, exceto médicos (mínimo 10h)",
+        "Livre definição municipal sem parâmetros federais",
+        "8 horas diárias sem especificação semanal"
       ],
-      "gabarito": "B"
+      "gabarito": "C",
+      "explicacao": "✓ Alternativa C está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 103,
-      "enunciado": "Sobre o financiamento do SUS (Lei 8.142/90), os recursos do Fundo Nacional de Saúde são destinados aos Estados/Municípios mediante:",
+      "enunciado": "Quanto às atribuições ESPECÍFICAS do ACS segundo PNAB 2017, é INCORRETO afirmar que compete:",
       "alternativas": [
-        "Apenas transferência automática",
-        "Repasse fundo a fundo e remuneração por serviços produzidos",
-        "Exclusivamente convênios específicos",
-        "Apenas pagamento por procedimentos realizados",
-        "Depósito direto sem critérios estabelecidos"
+        "Realizar visitas domiciliares com periodicidade estabelecida no planejamento",
+        "Cadastrar e atualizar dados das famílias no sistema de informação",
+        "Prescrever medicamentos mediante protocolos municipais específicos",
+        "Orientar famílias sobre utilização dos serviços de saúde disponíveis",
+        "Desenvolver ações de promoção da saúde e prevenção de doenças"
       ],
-      "gabarito": "B"
+      "gabarito": "C",
+      "explicacao": "✓ Alternativa C está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 104,
-      "enunciado": "Segundo Decreto 7.508/2011, o Contrato Organizativo da Ação Pública (COAP) define:",
+      "enunciado": "O Decreto 7.508/2011 define que o CONTRATO ORGANIZATIVO DA AÇÃO PÚBLICA (COAP) é acordo:",
       "alternativas": [
-        "Apenas responsabilidades municipais",
-        "Responsabilidades individuais e solidárias dos entes federativos",
-        "Exclusivamente metas federais",
-        "Apenas critérios de financiamento",
-        "Somente organização de serviços privados"
+        "Apenas entre União e Estados para financiamento",
+        "De colaboração entre entes federativos para organizar e integrar ações na RAS",
+        "Privado entre gestores e prestadores de serviços",
+        "Exclusivo para consórcios intermunicipais de saúde",
+        "Facultativo sem obrigatoriedade de execução"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 105,
-      "enunciado": "A PNAB (Portaria 2.436/2017) estabelece que a Atenção Básica caracteriza-se por:",
+      "enunciado": "Segundo Lei 8.142/90, as CONFERÊNCIAS de Saúde devem reunir-se:",
       "alternativas": [
-        "Atender apenas urgências e emergências",
-        "Ser porta de entrada preferencial do sistema",
-        "Focar exclusivamente em ações curativas",
-        "Substituir a atenção especializada",
-        "Atuar apenas em hospitais"
+        "Anualmente em todos os níveis de governo",
+        "A cada dois anos nas três esferas",
+        "A cada quatro anos para avaliar situação de saúde e propor diretrizes",
+        "Mensalmente nos municípios e anualmente nos estados",
+        "Apenas quando convocadas pelo Ministério da Saúde"
       ],
-      "gabarito": "B"
+      "gabarito": "C",
+      "explicacao": "✓ Alternativa C está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 106,
-      "enunciado": "Quanto às atribuições ESPECÍFICAS do ACS (PNAB 2017), é INCORRETO:",
+      "enunciado": "A representação dos USUÁRIOS nos Conselhos de Saúde, segundo Lei 8.142/90, deve ser:",
       "alternativas": [
-        "Cadastrar e atualizar dados das famílias",
-        "Desenvolver atividades de promoção da saúde",
-        "Prescrever medicações de uso contínuo",
-        "Realizar visitas domiciliares",
-        "Orientar sobre uso dos serviços disponíveis"
+        "Igual à dos profissionais de saúde (25% cada)",
+        "Minoritária em relação ao conjunto dos demais (menos de 50%)",
+        "Paritária em relação ao conjunto dos demais segmentos (50%)",
+        "Proporcional à população do município (variável)",
+        "Definida livremente por cada município"
       ],
-      "gabarito": "C"
+      "gabarito": "C",
+      "explicacao": "✓ Alternativa C está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 107,
-      "enunciado": "O e-SUS AB tem como objetivo:",
+      "enunciado": "O financiamento da Atenção Básica, segundo PNAB 2017, é composto por:",
       "alternativas": [
-        "Apenas substituir o SIAB",
-        "Informatizar e integrar informações da AB",
-        "Eliminar a coleta de dados",
-        "Substituir consultas médicas",
-        "Apenas cadastrar usuários"
+        "Apenas recursos federais repassados fundo a fundo",
+        "Recursos federais (capitação ponderada + desempenho + incentivos) e contrapartida municipal/estadual",
+        "Exclusivamente taxas cobradas dos usuários",
+        "Apenas arrecadação municipal sem participação federal",
+        "Recursos federais condicionados à população SUS-dependente apenas"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 108,
-      "enunciado": "Segundo a Política Nacional de Humanização (PNH), o acolhimento com classificação de risco visa:",
+      "enunciado": "Segundo Decreto 7.508/2011, as PORTAS DE ENTRADA do SUS são:",
       "alternativas": [
-        "Atender apenas por ordem de chegada",
-        "Identificar prioridades clínicas segundo gravidade",
-        "Impedir acesso de casos não urgentes",
-        "Substituir triagem médica",
-        "Atender apenas emergências"
+        "Apenas hospitais de referência terciária",
+        "Atenção Primária, Urgência/Emergência, Atenção Psicossocial e serviços especiais de acesso aberto",
+        "Exclusivamente Unidades de Pronto Atendimento (UPA)",
+        "Apenas consultórios particulares conveniados",
+        "Qualquer serviço de saúde sem hierarquização"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 109,
-      "enunciado": "O NASF (Núcleo de Apoio à Saúde da Família) atua através de:",
+      "enunciado": "A Política Nacional de Humanização (PNH) propõe como DIRETRIZ o Acolhimento com Classificação de Risco, que visa:",
       "alternativas": [
-        "Substituição das equipes de SF",
-        "Apoio matricial às equipes de SF",
-        "Atendimento ambulatorial isolado",
-        "Gestão administrativa das UBS",
-        "Apenas ações de vigilância"
+        "Atender exclusivamente por ordem de chegada",
+        "Identificar prioridades clínicas e organizar fluxo assistencial",
+        "Impedir acesso de casos não urgentes aos serviços",
+        "Substituir completamente a avaliação médica",
+        "Atender apenas emergências, encaminhando demais casos"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 110,
-      "enunciado": "A Rede Cegonha (Portaria 1.459/2011) assegura:",
+      "enunciado": "O SISTEMA NACIONAL DE VIGILÂNCIA EM SAÚDE, segundo Lei 8.080/90, abrange:",
       "alternativas": [
-        "Apenas realização de partos normais",
-        "Atenção humanizada à gravidez, parto e puerpério",
-        "Substituição do pré-natal na AB",
-        "Apenas assistência hospitalar",
-        "Exclusivamente planejamento familiar"
+        "Apenas vigilância epidemiológica de doenças transmissíveis",
+        "Vigilância epidemiológica, sanitária, ambiental e saúde do trabalhador",
+        "Somente controle de fronteiras e portos",
+        "Exclusivamente fiscalização de estabelecimentos de saúde",
+        "Apenas monitoramento de indicadores hospitalares"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 111,
-      "enunciado": "Sobre o Programa Nacional de Imunizações (PNI), é INCORRETO:",
+      "enunciado": "A notificação compulsória IMEDIATA (até 24h) é exigida para doenças como:",
       "alternativas": [
-        "Coordena ações de vacinação em todo país",
-        "Visa controle/eliminação de doenças imunopreveníveis",
-        "Atende apenas crianças menores de 5 anos",
-        "Disponibiliza vacinas gratuitamente no SUS",
-        "Mantém sistema de vigilância de eventos adversos"
+        "Hipertensão arterial sistêmica",
+        "Sarampo, poliomielite, raiva humana, óbito materno",
+        "Diabetes mellitus tipo 2",
+        "Obesidade mórbida",
+        "Todas as doenças crônicas não transmissíveis"
       ],
-      "gabarito": "C"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 112,
-      "enunciado": "A notificação compulsória de doenças/agravos visa:",
+      "enunciado": "O Programa Nacional de Imunizações (PNI) estabelecido em 1973 tem como objetivo PRINCIPAL:",
       "alternativas": [
-        "Apenas punir profissionais",
-        "Possibilitar vigilância e medidas de controle",
-        "Substituir atendimento médico",
-        "Apenas fins estatísticos sem ação",
-        "Exclusivamente controle de medicamentos"
+        "Vacinar exclusivamente crianças menores de 2 anos",
+        "Coordenar ações de imunização contribuindo para controle/eliminação de doenças imunopreveníveis",
+        "Comercializar vacinas para a rede privada",
+        "Substituir completamente outras ações de atenção básica",
+        "Atuar apenas durante epidemias e surtos"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 113,
-      "enunciado": "Segundo a Política Nacional de Atenção Integral à Saúde do Homem (PNAISH):",
+      "enunciado": "A Rede de Atenção à Saúde (RAS), segundo Decreto 7.508/2011, caracteriza-se por:",
       "alternativas": [
-        "Homens não necessitam de cuidados preventivos",
-        "Visa ampliar acesso masculino aos serviços de saúde",
-        "Foca exclusivamente em IST/AIDS",
-        "Apenas homens idosos são público-alvo",
-        "Substitui a atenção básica"
+        "Organização hierárquica rígida sem comunicação entre níveis",
+        "Arranjos organizativos com ações e serviços integrados mediante sistemas de apoio",
+        "Fragmentação dos serviços com atuação isolada",
+        "Priorização exclusiva da atenção terciária hospitalar",
+        "Desconsideração da atenção primária como coordenadora"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 114,
-      "enunciado": "A Política Nacional de Saúde da Pessoa Idosa (PNSPI) estabelece como diretriz:",
+      "enunciado": "O NASF (Núcleo de Apoio à Saúde da Família), segundo PNAB, tem como característica:",
       "alternativas": [
-        "Institucionalização obrigatória de dependentes",
-        "Promoção do envelhecimento ativo e saudável",
-        "Atendimento apenas em instituições especializadas",
-        "Restrição a procedimentos de baixa complexidade",
-        "Desestímulo à participação social"
+        "Substituir as equipes de Saúde da Família",
+        "Constituir equipe multiprofissional de apoio matricial às eSF",
+        "Realizar apenas vigilância sanitária",
+        "Gerenciar administrativamente as UBS",
+        "Coordenar exclusivamente campanhas de vacinação"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 115,
-      "enunciado": "Os CAPS (Centros de Atenção Psicossocial) caracterizam-se por:",
+      "enunciado": "A COMISSÃO INTERGESTORES TRIPARTITE (CIT) é composta por representantes:",
       "alternativas": [
-        "Substituir completamente hospitais psiquiátricos",
-        "Oferecer atendimento diário em regime de atenção psicossocial",
-        "Funcionar apenas para internações de longa permanência",
-        "Atender exclusivamente dependência química",
-        "Restringir-se a atendimento infantil"
+        "Apenas de gestores municipais",
+        "Do Ministério da Saúde, CONASS (estados) e CONASEMS (municípios)",
+        "Exclusivamente do Ministério da Saúde",
+        "Apenas de conselhos profissionais",
+        "De usuários, trabalhadores e gestores"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 116,
-      "enunciado": "A Rede de Atenção Psicossocial (RAPS) inclui como componente:",
+      "enunciado": "O MAPA DA SAÚDE, instrumento do Decreto 7.508/2011, consiste em:",
       "alternativas": [
-        "Apenas CAPS e hospitais psiquiátricos",
-        "Atenção básica, psicossocial, urgência, residencial e hospitalar",
-        "Exclusivamente serviços residenciais terapêuticos",
-        "Somente consultórios na rua",
-        "Apenas unidades de acolhimento"
+        "Apenas descrição geográfica de estabelecimentos",
+        "Descrição geográfica da distribuição de recursos humanos e ações/serviços de saúde",
+        "Mapa epidemiológico exclusivo de doenças transmissíveis",
+        "Planejamento financeiro sem base territorial",
+        "Indicador apenas de leitos hospitalares"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 117,
-      "enunciado": "O Programa Saúde na Escola (PSE) resulta da articulação entre:",
+      "enunciado": "A RENASES (Relação Nacional de Ações e Serviços de Saúde) compreende:",
       "alternativas": [
-        "Apenas secretarias estaduais de saúde e educação",
-        "Ministério da Saúde e Ministério da Educação",
-        "Exclusivamente ONGs e municípios",
-        "Apenas iniciativa privada e governo federal",
-        "Somente conselhos profissionais"
+        "Apenas lista de medicamentos essenciais",
+        "Todas as ações e serviços oferecidos pelo SUS",
+        "Somente procedimentos cirúrgicos de alta complexidade",
+        "Exclusivamente ações de atenção básica",
+        "Apenas serviços de urgência e emergência"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 118,
-      "enunciado": "A Política Nacional de Alimentação e Nutrição (PNAN):",
+      "enunciado": "A Rede Cegonha (Portaria 1.459/2011) visa assegurar:",
       "alternativas": [
-        "Foca exclusivamente em desnutrição infantil",
-        "Promove alimentação adequada e saudável em todos ciclos de vida",
-        "Apenas distribui suplementos vitamínicos",
-        "Restringe-se a programas de transferência de renda",
-        "Atua apenas em hospitais"
+        "Apenas realização de partos normais",
+        "Rede de cuidados à mulher e criança com atenção humanizada à gestação, parto e puerpério",
+        "Substituição do pré-natal da atenção básica",
+        "Centralização de todos os partos em hospitais terciários",
+        "Redução do número mínimo de consultas pré-natais"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 119,
-      "enunciado": "Sobre as Práticas Integrativas e Complementares (PNPIC) no SUS:",
+      "enunciado": "O MATRICIAMENTO ou apoio matricial na AB caracteriza-se por:",
       "alternativas": [
-        "São proibidas no sistema público",
-        "Incluem acupuntura, homeopatia, plantas medicinais, entre outras",
-        "Substituem tratamentos convencionais obrigatoriamente",
-        "Apenas para pacientes terminais",
-        "Exclusivas da rede privada"
+        "Substituição completa da equipe por especialistas",
+        "Arranjo organizacional que viabiliza suporte técnico especializado às eSF",
+        "Encaminhamento automático de todos os casos para especialistas",
+        "Fragmentação absoluta do cuidado entre profissionais",
+        "Verticalização sem integração entre níveis"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 120,
-      "enunciado": "O Sistema Nacional de Vigilância em Saúde compreende:",
+      "enunciado": "A Política Nacional de Atenção Integral à Saúde do Homem (PNAISH) reconhece:",
       "alternativas": [
-        "Apenas vigilância epidemiológica",
-        "Vigilância epidemiológica, sanitária, ambiental e saúde do trabalhador",
-        "Somente controle de endemias",
-        "Exclusivamente fiscalização de alimentos",
-        "Apenas vacinação"
+        "Que homens acessam adequadamente os serviços de saúde",
+        "Menor acesso masculino à APS e propõe ações específicas de prevenção",
+        "Que questões de gênero não influenciam no acesso",
+        "Foco exclusivo em IST/AIDS",
+        "Desnecessidade de reorganização de serviços"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 121,
-      "enunciado": "A Política Nacional de Atenção Oncológica prevê:",
+      "enunciado": "A Política Nacional de Saúde da Pessoa Idosa (PNSPI) tem como diretriz:",
       "alternativas": [
-        "Apenas tratamento hospitalar especializado",
-        "Ações de promoção, prevenção, diagnóstico, tratamento e cuidados paliativos",
-        "Exclusivamente quimioterapia e radioterapia",
-        "Somente cirurgias oncológicas",
-        "Apenas diagnóstico sem tratamento"
+        "Institucionalização compulsória de idosos dependentes",
+        "Promoção do envelhecimento ativo e saudável",
+        "Atendimento exclusivo em unidades geriátricas especializadas",
+        "Restrição a procedimentos de baixa complexidade",
+        "Desestímulo à participação social e familiar"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 122,
-      "enunciado": "Os Cuidados Paliativos no SUS visam:",
+      "enunciado": "O Programa Saúde na Escola (PSE) resulta da articulação entre:",
       "alternativas": [
-        "Apenas controle sintomático da dor",
-        "Melhorar qualidade de vida de pacientes e familiares diante de doenças graves",
-        "Substituir sempre o tratamento curativo",
-        "Atender exclusivamente pacientes terminais",
-        "Apenas para pacientes oncológicos"
+        "Apenas secretarias estaduais de educação",
+        "Ministério da Saúde e Ministério da Educação",
+        "ONGs e iniciativa privada exclusivamente",
+        "Apenas conselhos tutelares",
+        "Universidades e hospitais universitários"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 123,
-      "enunciado": "A Rede de Urgência e Emergência (RUE) é composta por:",
+      "enunciado": "A Rede de Atenção Psicossocial (RAPS) tem como componentes:",
       "alternativas": [
-        "Apenas SAMU e UPA",
-        "Promoção, AB, SAMU, UPA, hospitalar e atenção domiciliar",
-        "Somente componente hospitalar",
-        "Exclusivamente pré-hospitalar",
-        "Apenas pronto-socorros"
+        "Apenas CAPS e hospitais psiquiátricos",
+        "Atenção básica, atenção psicossocial estratégica, urgência/emergência, entre outros",
+        "Exclusivamente serviços residenciais terapêuticos",
+        "Somente unidades de acolhimento",
+        "Apenas consultórios na rua"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 124,
-      "enunciado": "O SAMU (Serviço de Atendimento Móvel de Urgência) integra:",
+      "enunciado": "Os CAPS (Centros de Atenção Psicossocial) são serviços que:",
       "alternativas": [
-        "Apenas transporte eletivo",
-        "Componente pré-hospitalar móvel da rede de urgência",
-        "Exclusivamente remoções inter-hospitalares",
-        "Somente atendimento em vias públicas",
-        "Apenas atenção hospitalar"
+        "Substituem integralmente hospitais psiquiátricos em todas situações",
+        "Oferecem atendimento diário em saúde mental com cuidado intensivo, semi-intensivo e não-intensivo",
+        "Funcionam apenas para internações de longa permanência",
+        "Atendem exclusivamente dependentes químicos",
+        "São restritos a atendimento infantil"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 125,
-      "enunciado": "As Unidades de Pronto Atendimento (UPA) classificam-se como:",
+      "enunciado": "A Política Nacional de Práticas Integrativas e Complementares (PNPIC) no SUS inclui:",
       "alternativas": [
-        "Atenção primária à saúde",
-        "Componente pré-hospitalar fixo da urgência",
-        "Atenção terciária hospitalar",
-        "Apenas observação sem atendimento",
-        "Substitutas de hospitais"
+        "Apenas homeopatia",
+        "Acupuntura, homeopatia, plantas medicinais/fitoterapia, entre outras",
+        "Exclusivamente medicina antroposófica",
+        "Apenas práticas corporais em academias",
+        "Somente tratamentos com plantas medicinais"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 126,
-      "enunciado": "A Política de Atenção Integral ao Uso de Crack e outras Drogas estabelece:",
+      "enunciado": "O Bolsa Família relaciona-se com saúde através de CONDICIONALIDADES que incluem:",
       "alternativas": [
-        "Apenas internação compulsória",
-        "Rede de cuidados com atenção psicossocial e redução de danos",
-        "Exclusivamente tratamento medicamentoso",
-        "Somente exigência de abstinência imediata",
-        "Apenas comunidades terapêuticas"
+        "Inexistência de exigências sanitárias",
+        "Acompanhamento do calendário vacinal, pré-natal e crescimento/desenvolvimento infantil",
+        "Apenas matrícula escolar sem exigências de saúde",
+        "Substituição do atendimento na atenção básica",
+        "Distribuição gratuita de medicamentos sem acompanhamento"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 127,
-      "enunciado": "A estratégia de Redução de Danos caracteriza-se por:",
+      "enunciado": "A Política Nacional de Alimentação e Nutrição (PNAN) NO CONTEXTO do SUS visa:",
       "alternativas": [
-        "Exigir abstinência como única possibilidade",
-        "Minimizar riscos e danos sem exigir abstinência imediata",
-        "Incentivar uso de substâncias",
-        "Apenas distribuir insumos",
-        "Substituir todas formas de tratamento"
+        "Focar exclusivamente em desnutrição infantil",
+        "Promover alimentação adequada/saudável e vigilância alimentar/nutricional",
+        "Substituir programas de transferência de renda",
+        "Atuar apenas em casos de obesidade mórbida",
+        "Desconsiderar determinantes sociais da alimentação"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 128,
-      "enunciado": "O Consultório na Rua é um serviço que:",
+      "enunciado": "O CONTROLE SOCIAL no SUS é exercido através de:",
       "alternativas": [
-        "Substitui os CAPS",
-        "Atende população em situação de rua in loco",
-        "Apenas distribui alimentos",
-        "Exclusivamente para dependentes químicos",
-        "Somente ações assistenciais"
+        "Apenas gestores de saúde",
+        "Conselhos de Saúde e Conferências de Saúde com participação popular",
+        "Exclusivamente Ministério Público",
+        "Somente profissionais de saúde",
+        "Apenas representantes governamentais"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 129,
-      "enunciado": "A Política Brasil Sorridente (Saúde Bucal) inclui:",
+      "enunciado": "A Política Nacional de Atenção às Urgências estabelece que:",
       "alternativas": [
-        "Apenas procedimentos de urgência",
-        "Atenção básica, especializada e próteses dentárias",
-        "Exclusivamente extrações",
-        "Somente para crianças",
-        "Apenas ortodontia"
+        "Apenas hospitais podem atender urgências",
+        "Toda unidade de saúde deve acolher, classificar risco e dar resposta adequada",
+        "UBS não devem atender nenhum tipo de urgência",
+        "Apenas SAMU 192 pode atender urgências",
+        "Urgência é competência exclusiva de UPAs"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 130,
-      "enunciado": "Os Centros de Especialidades Odontológicas (CEO) oferecem:",
+      "enunciado": "A Rede de Urgência e Emergência (RUE) é composta por:",
       "alternativas": [
-        "Apenas procedimentos básicos",
-        "Especialidades como endodontia, periodontia e cirurgia oral",
-        "Exclusivamente ortodontia",
-        "Somente próteses",
-        "Apenas urgências"
+        "Apenas SAMU e UPA",
+        "Promoção/prevenção, AB, SAMU, UPA, hospitalar, atenção domiciliar",
+        "Somente componente hospitalar",
+        "Exclusivamente pré-hospitalar móvel",
+        "Apenas pronto-socorros tradicionais"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 131,
-      "enunciado": "A Política de Atenção à Pessoa com Deficiência prevê:",
+      "enunciado": "O SAMU (Serviço de Atendimento Móvel de Urgência) integra o componente:",
       "alternativas": [
-        "Apenas reabilitação física",
-        "Atenção integral incluindo habilitação, reabilitação e tecnologias assistivas",
-        "Exclusivamente fornecimento de órteses/próteses",
-        "Somente fisioterapia",
-        "Apenas atendimento especializado"
+        "Hospitalar terciário",
+        "Pré-hospitalar móvel da rede de urgência",
+        "Atenção básica exclusivamente",
+        "Transporte eletivo intermunicipal",
+        "Apenas remoções inter-hospitalares programadas"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 132,
-      "enunciado": "A Rede de Cuidados à Pessoa com Deficiência é composta por:",
+      "enunciado": "As UPAs (Unidades de Pronto Atendimento) classificam-se como:",
       "alternativas": [
-        "Apenas centros especializados em reabilitação",
-        "Atenção básica, especializada, hospitalar e urgência",
-        "Somente CER (Centros Especializados)",
-        "Exclusivamente oficinas ortopédicas",
-        "Apenas serviços de transporte adaptado"
+        "Atenção primária ampliada",
+        "Componente pré-hospitalar fixo de urgência de complexidade intermediária",
+        "Atenção terciária hospitalar",
+        "Apenas unidade de observação sem atendimento",
+        "Substitutas integrais de hospitais"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 133,
-      "enunciado": "Sobre o Programa de Controle da Tuberculose, é correto:",
+      "enunciado": "A Política Nacional de Regulação do SUS abrange os componentes:",
       "alternativas": [
-        "É exclusivo da atenção especializada",
-        "Preconiza tratamento diretamente observado (TDO) na AB",
-        "Apenas distribui medicamentos",
-        "Não investiga contatos",
-        "Atende somente casos multirresistentes"
+        "Apenas regulação de leitos hospitalares",
+        "Regulação de sistemas de saúde, regulação da atenção e regulação do acesso",
+        "Somente central de marcação de consultas",
+        "Exclusivamente regulação ambulatorial",
+        "Apenas controle de procedimentos de alta complexidade"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 134,
-      "enunciado": "O Programa de Controle da Hanseníase objetiva:",
+      "enunciado": "O Cartão Nacional de Saúde (CNS) tem como finalidade:",
       "alternativas": [
-        "Manter isolamento compulsório",
-        "Eliminar a hanseníase como problema de saúde pública",
-        "Apenas tratamento hospitalar",
-        "Restringir diagnóstico a centros de referência",
-        "Descontinuar vigilância de contatos"
+        "Substituir documentos de identidade civil",
+        "Identificar usuário e vincular procedimentos executados ao prontuário eletrônico",
+        "Funcionar como cartão de crédito para saúde",
+        "Uso exclusivo em hospitais federais",
+        "Apenas controle financeiro de gastos"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 135,
-      "enunciado": "A Política de Saúde da População Negra reconhece:",
+      "enunciado": "A Ouvidoria do SUS tem função de:",
       "alternativas": [
-        "Inexistência de iniquidades raciais em saúde",
-        "Racismo como determinante social de saúde",
-        "Desnecessidade de ações específicas",
-        "Igualdade absoluta de indicadores",
-        "Apenas fatores genéticos como determinantes"
+        "Apenas receber reclamações sem encaminhamento",
+        "Receber, examinar e encaminhar manifestações sobre ações/serviços de saúde",
+        "Substituir conselhos de saúde",
+        "Apenas elogiar serviços públicos",
+        "Atuar exclusivamente em processos judiciais"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 136,
-      "enunciado": "A Política de Saúde LGBT inclui:",
+      "enunciado": "A Política Nacional de Educação Permanente em Saúde propõe:",
       "alternativas": [
-        "Apenas ações contra IST/AIDS",
-        "Promoção de saúde integral e combate à discriminação",
-        "Restrição a serviços especializados",
-        "Exclusão de travestis e transexuais",
-        "Apenas atendimento psicológico"
+        "Apenas cursos pontuais e isolados",
+        "Aprendizagem no trabalho baseada em problemas reais do cotidiano",
+        "Exclusivamente formação acadêmica tradicional",
+        "Separação completa entre ensino e serviço",
+        "Apenas certificações formais sem aplicação prática"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 137,
-      "enunciado": "O Programa de Controle do Tabagismo adota como estratégia:",
+      "enunciado": "A Política Nacional de Saúde do Trabalhador e da Trabalhadora visa:",
       "alternativas": [
-        "Criminalização de fumantes",
-        "Ações educativas, legislativas e econômicas integradas",
-        "Proibição total da venda de cigarros",
-        "Apenas responsabilização individual",
-        "Desconsideração do tabagismo passivo"
+        "Apenas tratar acidentes de trabalho graves",
+        "Promoção e proteção da saúde dos trabalhadores mediante vigilância e atenção integral",
+        "Substituir medicina do trabalho das empresas",
+        "Apenas fiscalização de empresas privadas",
+        "Restringir-se a emissão de CAT"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 138,
-      "enunciado": "A Assistência Farmacêutica no SUS compreende:",
+      "enunciado": "O CEREST (Centro de Referência em Saúde do Trabalhador) tem atribuição de:",
       "alternativas": [
-        "Apenas dispensação de medicamentos",
-        "Seleção, programação, aquisição, distribuição e uso racional",
-        "Exclusivamente produção de genéricos",
-        "Somente armazenamento",
-        "Apenas prescrição médica"
+        "Apenas atendimento ambulatorial individual",
+        "Suporte técnico, educação permanente e vigilância em saúde do trabalhador",
+        "Substituir SESMTs de todas empresas",
+        "Exclusivamente emitir CAT",
+        "Apenas realizar perícias médicas previdenciárias"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 139,
-      "enunciado": "A RENAME (Relação Nacional de Medicamentos Essenciais):",
+      "enunciado": "A Política Nacional de Atenção Oncológica prevê:",
       "alternativas": [
-        "Lista medicamentos da rede privada",
-        "Seleciona medicamentos para necessidades prioritárias de saúde",
-        "Apenas medicamentos de alto custo",
-        "Exclusivamente medicamentos importados",
-        "Lista de venda livre"
+        "Apenas tratamento em hospitais oncológicos especializados",
+        "Ações de promoção, prevenção, diagnóstico, tratamento, reabilitação e cuidados paliativos",
+        "Exclusivamente quimioterapia e radioterapia",
+        "Somente cirurgias oncológicas",
+        "Apenas diagnóstico sem garantia de tratamento"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 140,
-      "enunciado": "O Programa Farmácia Popular visa:",
+      "enunciado": "Os CUIDADOS PALIATIVOS no SUS visam:",
       "alternativas": [
-        "Substituir assistência farmacêutica do SUS",
-        "Ampliar acesso a medicamentos com coparticipação ou gratuidade",
-        "Disponibilizar apenas medicamentos de marca",
-        "Vender controlados sem receita",
-        "Atuar apenas em redes privadas"
+        "Apenas controle de dor terminal",
+        "Melhorar qualidade de vida de pacientes/familiares diante de doença grave",
+        "Substituir obrigatoriamente tratamento curativo",
+        "Atuar exclusivamente no fim da vida (últimas 48h)",
+        "Restringir-se a pacientes com câncer"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 141,
-      "enunciado": "A Política Nacional de Educação Permanente em Saúde propõe:",
+      "enunciado": "A Política Nacional de Atenção Integral à Saúde da Criança estabelece:",
       "alternativas": [
-        "Apenas cursos pontuais descontextualizados",
-        "Aprendizagem no trabalho baseada em problemas reais do cotidiano",
-        "Exclusivamente formação acadêmica tradicional",
-        "Separação entre ensino e serviço",
-        "Apenas certificações formais"
+        "Foco exclusivo em vacinação",
+        "Atenção integral desde gestação até adolescência com acompanhamento do crescimento/desenvolvimento",
+        "Apenas puericultura sem outras ações",
+        "Somente tratamento de doenças agudas",
+        "Foco exclusivo em aleitamento materno"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 142,
-      "enunciado": "A Ouvidoria do SUS tem como função:",
+      "enunciado": "O MÉTODO CANGURU é indicado para:",
       "alternativas": [
-        "Apenas receber reclamações",
-        "Receber, examinar e encaminhar manifestações dos cidadãos",
-        "Substituir o controle social",
-        "Apenas registrar elogios",
-        "Função meramente burocrática"
+        "Todas crianças indistintamente desde o nascimento",
+        "Recém-nascidos de baixo peso após estabilização clínica",
+        "Apenas prematuros extremos em UTI neonatal",
+        "Substituir incubadora em todas situações",
+        "Apenas crianças a termo sem complicações"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 143,
-      "enunciado": "O Cartão Nacional de Saúde (CNS) visa:",
+      "enunciado": "A TRIAGEM NEONATAL (Teste do Pezinho) deve ser realizada preferencialmente:",
       "alternativas": [
-        "Substituir documentos pessoais",
-        "Identificar usuário e vincular procedimentos ao prontuário",
-        "Apenas controle financeiro",
-        "Ser cartão de crédito para saúde",
-        "Uso exclusivo hospitalar"
+        "Nas primeiras 24 horas de vida",
+        "Entre o 3º e 5º dia de vida",
+        "Após 15 dias de nascimento",
+        "Apenas se houver sintomas",
+        "Somente em prematuros"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 144,
-      "enunciado": "A Política Nacional de Regulação do SUS abrange:",
+      "enunciado": "A Política de Atenção Integral à Saúde da Mulher abrange:",
       "alternativas": [
-        "Apenas regulação assistencial",
-        "Regulação de sistemas, assistencial e acesso à assistência",
-        "Somente controle de leitos",
-        "Exclusivamente central de marcação",
-        "Apenas regulação ambulatorial"
+        "Apenas saúde reprodutiva e pré-natal",
+        "Atenção em todos os ciclos de vida incluindo climatério, prevenção de cânceres, planejamento familiar",
+        "Exclusivamente parto e puerpério",
+        "Somente anticoncepção",
+        "Apenas rastreamento de câncer de mama"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 145,
-      "enunciado": "A Atenção Domiciliar no SUS caracteriza-se por:",
+      "enunciado": "O PRÉ-NATAL de baixo risco segundo MS deve ter no mínimo:",
       "alternativas": [
-        "Substituir completamente a hospitalização",
-        "Assistência multiprofissional no domicílio para pacientes com restrição",
-        "Atender apenas idosos",
-        "Ser exclusiva da rede privada",
-        "Não integrar a RAS"
+        "3 consultas durante toda gestação",
+        "6 consultas, sendo 1 no 1º trimestre, 2 no 2º e 3 no 3º",
+        "9 consultas distribuídas uniformemente",
+        "12 consultas mensais obrigatórias",
+        "Não há número mínimo estabelecido"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 146,
-      "enunciado": "O Protocolo Clínico e Diretriz Terapêutica (PCDT) tem por objetivo:",
+      "enunciado": "A Política de Planejamento Familiar garante:",
       "alternativas": [
-        "Apenas definir medicamentos disponíveis",
-        "Estabelecer critérios para diagnóstico, tratamento e acompanhamento",
-        "Substituir completamente autonomia médica",
-        "Restringir acesso a procedimentos",
-        "Apenas orientar compras governamentais"
+        "Apenas distribuição de métodos contraceptivos",
+        "Acesso a informações, métodos anticoncepcionais e acompanhamento clínico",
+        "Somente laqueadura e vasectomia",
+        "Atendimento exclusivo para mulheres",
+        "Apenas DIU e pílula anticoncepcional"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 147,
-      "enunciado": "Segundo Decreto 7.508/2011, o acesso universal inicia-se:",
+      "enunciado": "A Linha de Cuidado da Pessoa com Doenças Crônicas visa:",
       "alternativas": [
-        "Apenas em hospitais terciários",
-        "Pelas Portas de Entrada nas Redes de Atenção",
-        "Exclusivamente em pronto-socorros",
-        "Por consultórios privados credenciados",
-        "Somente por UPAs"
+        "Apenas tratamento medicamentoso contínuo",
+        "Promoção, prevenção, diagnóstico precoce, tratamento e reabilitação articulados na rede",
+        "Foco exclusivo em hipertensão e diabetes",
+        "Somente atenção hospitalar terciária",
+        "Apenas distribuição gratuita de medicamentos"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 148,
-      "enunciado": "A RENASES (Relação Nacional de Ações e Serviços) compreende:",
+      "enunciado": "O HIPERDIA é sistema que:",
       "alternativas": [
-        "Apenas medicamentos essenciais",
-        "Todas as ações e serviços oferecidos pelo SUS",
-        "Somente procedimentos hospitalares",
-        "Exclusivamente atenção básica",
-        "Apenas ações de vigilância"
+        "Apenas distribui medicamentos anti-hipertensivos",
+        "Cadastra e acompanha portadores de hipertensão e diabetes na AB",
+        "Substitui consultas médicas regulares",
+        "Atende exclusivamente insulinodependentes",
+        "Apenas registra dados sem seguimento"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 149,
-      "enunciado": "O Mapa da Saúde (Decreto 7.508/2011) é:",
+      "enunciado": "A Política de Prevenção e Controle do Câncer estabelece:",
       "alternativas": [
-        "Apenas descrição geográfica de municípios",
-        "Descrição geográfica da distribuição de recursos e ações/serviços de saúde",
-        "Apenas indicador epidemiológico",
-        "Planejamento exclusivamente hospitalar",
-        "Indicador financeiro apenas"
+        "Foco exclusivo em tratamento quimioterápico",
+        "Ações de prevenção primária/secundária, diagnóstico precoce e tratamento oportuno",
+        "Apenas rastreamento populacional",
+        "Somente cirurgias oncológicas em centros especializados",
+        "Apenas cuidados paliativos"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     },
     {
       "id": 150,
-      "enunciado": "A Região de Saúde (Decreto 7.508/2011) define-se como:",
+      "enunciado": "O rastreamento do CÂNCER DE COLO UTERINO pelo SUS recomenda:",
       "alternativas": [
-        "Apenas municípios de um mesmo estado",
-        "Espaço geográfico contínuo de municípios limítrofes, inclusive interestaduais",
-        "Território sem necessidade de articulação",
-        "Definição unilateral do Ministério da Saúde",
-        "Substitui as Redes de Atenção"
+        "Papanicolau anual para todas mulheres desde menarca",
+        "Início aos 25 anos, exame trienal se dois anuais consecutivos negativos",
+        "Apenas quando há sintomas ginecológicos",
+        "Início obrigatório na primeira relação sexual",
+        "Somente após os 40 anos de idade"
       ],
-      "gabarito": "B"
+      "gabarito": "B",
+      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
     }
   ]
 }
