@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Loucos pela Vida — Estudo</title>
+  <title>Loucos pela Vida — Guia de Estudos</title>
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400&family=Source+Sans+3:wght@300;400;600&display=swap');
 
@@ -95,7 +95,8 @@
       white-space: nowrap;
       transition: color .2s, border-color .2s;
       position: relative;
-      bottom: -1px
+      bottom: -1px;
+      -webkit-tap-highlight-color: transparent
     }
 
     .tab:hover {
@@ -150,6 +151,7 @@
       line-height: 1.3
     }
 
+    /* PLAYER */
     .player {
       background: var(--surface);
       border: 1px solid var(--border);
@@ -180,17 +182,12 @@
       font-weight: bold;
       -webkit-tap-highlight-color: transparent;
       touch-action: manipulation;
-      transition: transform .1s, opacity .2s;
+      transition: transform .1s;
       user-select: none
     }
 
     .play-btn:active {
       transform: scale(0.9)
-    }
-
-    .play-btn.off {
-      opacity: .35;
-      pointer-events: none
     }
 
     .player-meta {
@@ -280,7 +277,7 @@
       font-family: inherit;
       font-size: 12px;
       cursor: pointer;
-      max-width: 190px
+      max-width: 200px
     }
 
     input[type=range] {
@@ -307,6 +304,7 @@
       min-width: 32px
     }
 
+    /* SUMMARY */
     .summary-box {
       background: var(--card);
       border: 1px solid var(--border);
@@ -336,40 +334,36 @@
 
     .summary-content {
       font-size: 15.5px;
-      line-height: 1.85;
+      line-height: 1.9;
       color: var(--text)
     }
 
     .summary-content p {
-      margin-bottom: 12px
+      margin-bottom: 14px
     }
 
     .summary-content p:last-child {
       margin-bottom: 0
     }
 
-    .ph {
-      color: var(--muted);
-      font-style: italic
-    }
-
-    .loading {
-      display: none;
+    /* LOADING */
+    .loading-screen {
+      display: flex;
       align-items: center;
-      gap: 10px;
-      color: var(--muted);
-      font-style: italic;
-      padding: 4px 0
+      justify-content: center;
+      min-height: 40vh;
+      flex-direction: column;
+      gap: 16px;
+      color: var(--muted)
     }
 
-    .spinner {
-      width: 16px;
-      height: 16px;
-      border: 2px solid var(--border);
+    .spinner-lg {
+      width: 36px;
+      height: 36px;
+      border: 3px solid var(--border);
       border-top-color: var(--accent);
       border-radius: 50%;
-      animation: spin .8s linear infinite;
-      flex-shrink: 0
+      animation: spin .8s linear infinite
     }
 
     @keyframes spin {
@@ -378,38 +372,20 @@
       }
     }
 
-    .err {
-      color: #e57373;
-      font-size: 13px;
-      padding: 4px 0
+    .err-screen {
+      text-align: center;
+      padding: 40px 20px;
+      color: #e57373
     }
 
-    .gen-btn {
-      background: var(--accent);
-      color: #1a1208;
-      border: none;
-      border-radius: 8px;
-      padding: 11px 20px;
-      font-family: inherit;
-      font-size: 14px;
-      font-weight: 700;
-      cursor: pointer;
-      transition: opacity .2s;
-      margin-top: 12px;
+    .err-screen code {
       display: block;
-      width: 100%;
-      -webkit-tap-highlight-color: transparent;
-      touch-action: manipulation
+      margin-top: 10px;
+      font-size: 12px;
+      color: var(--muted)
     }
 
-    .gen-btn:active {
-      opacity: .8
-    }
-
-    .gen-btn:disabled {
-      opacity: .4
-    }
-
+    /* NO TTS */
     .no-tts {
       background: #2a1a1a;
       border: 1px solid #5a2020;
@@ -424,71 +400,106 @@
 </head>
 
 <body>
+
   <header>
-    <span class="tag">Guia Interativo de Estudos</span>
+    <span class="tag">Guia de Estudos</span>
     <h1><em>Loucos</em> pela Vida</h1>
     <p class="subtitle">A Trajetória da Reforma Psiquiátrica no Brasil · Paulo Amarante · FIOCRUZ, 1998</p>
   </header>
-  <div class="tabs" id="tabs-bar"></div>
-  <div class="main" id="panels-container"></div>
+
+  <div id="tabs-bar" class="tabs"></div>
+  <div class="main" id="main-content">
+    <div class="loading-screen">
+      <div class="spinner-lg"></div>
+      <div>Carregando resumos…</div>
+    </div>
+  </div>
 
   <script>
-    const SECTIONS = [{ "tab": "Pref. 2ª Ed.", "sub": "Prefácio à Segunda Edição", "title": "Cidadania, Singularidade e Inovação", "text": "Prefácio à segunda edição Cidadania, singularidade e inovação O setor saúde brasileiro tem oferecido uma vasta gama de inovação organizacional para as políticas públicas na área social: uma competente agenda de descentralização, alternativas de pactação entre atores relevantes e, principalmente, um novo design de justiça distributiva. Contudo, uma pergunta parece ainda que não foi respondida de modo satisfatório: qual o modelo de atenção que sustentará esse castelo? A leitura de Loucos pela Vida é útil e oportuna para responder ao desafio da instauração da cidadania sanitária, ampliando os horizontes culturais e cognitivos de toda sociedade sobre a saúde e sobre a justiça. O livro que testemunha especificamente sobre a trajetória da agenda da Reforma Psiquiátrica no Brasil - anotando os eventos e atores relevantes - inscreve-se como um capítulo na reflexão sobre inovação da noção assistencial, ao enfrentar a discussão sobre a eficácia do modelo médico clássico para responder à complexidade de causas e determinantes do estado de saúde. O modelo clássico restringe o espaço da atenção à saúde à sua natureza biológica ou organicista (a doença torna-se simplesmente um manifestação de desequilíbrio entre estruturas e funções); centra as estratégias terapêuticas no indivíduo, extraído do contexto familiar e social; incentiva a especialização da profissão médica, minimizando a importância da complexidade do sujeito para o diagnóstico clínico; fortalece a tecnificação do ato médico e estruturação da engenharia biomédica; consolida o curativismo, por prestigiar o aspecto fisiopatológico da doença em detrimento da causa. A crise de confiança na organização da atenção a partir da doença, do indivíduo e do hospital foi fortalecida pela avaliação do seu impacto apenas relativo nas mudanças dos indicadores gerais de saúde (causas de morte, de morbidade e esperança de vida). O livro Loucos pela Vida faz uma importante cartografia dessa crise de legitimação do saber médico, aqui traduzida numa das especilidades mais afetadas pelos ideais das inovação e da ampliação dos horizontes cognitivos e práticos: o saber psiquiátrico e seus dispositivos disciplinares. Essas inovações trouxeram contribuições relevantes para pensar e agir sobre dimensões da diferença e da singularidade no caso da organização da atenção aos doentes mentais. É interessante apontar que a leitura da coletânea permite perceber que os realinhamentos cognitivos e práticos não permanecem demarcados apenas pela crise de legitimação profissional, mas afetam a crença absoluta na verdade da ciência e nos dispositivos puramente tecnológicos em oferecer alternativas aceitáveis, sejam explicativas ou terapêuticas, para a loucura. O que aparece submetido a escrutínio é o próprio ideal da cura ou a busca vã em reinscrever o louco como sujeito da vontade e da razão. Nesses termos, o projeto universalista do contrato social, entre sujeitos da razão e da vontade, seria insuficiente para encontrar um lugar para a cidadania tresloucada. Coordenado por Paulo Amarante, este livro é um instrumento importante para compreender esse dilema e um testemunho da construção de alternativas institucionais de reforma na saúde inovadoras, exitosas e includentes. Nilson do Rosário Costa ENSP/FIOCRUZ e UFF" }, { "tab": "Pref. 1ª Ed.", "sub": "Prefácio à Primeira Edição", "title": "O Contexto da Reforma", "text": "Prefácio à primeira edição Há até poucos anos, a condição psiquiátrica do Brasil era muito dramática. O juízo expresso pela Coordenação de Saúde Mental do Ministério da Saúde era negativo: um quadro de ineficácia, ineficiência, baixa qualidade e violação dos direitos humanos. A partir da Conferência Regional para a Reestruturação da Atenção Psiquiátrica na América Latina, realizada em Caracas no ano de 1990, inicia-se um extraordinário processo de transformações, que envolve todo o continente. Atualmente, a Organização Mundial da Saúde (OMS) revela que o Brasil é o país onde se está realizando o mais importante passo à frente deste quadro de mudanças. Em menos de três anos, o número de hospitais psiquiátricos foi reduzido em 8%, enquanto que o número de leitos em hospitais psiquiátricos foi reduzido em 6%. Foram criados 2.156 leitos para atendimento psiquiátrico em 139 hospitais gerais e 3.500 vagas em hospitais-dia, Núcleos e Centros de Atenção Psicossocial. O custo com internações hospitalares baixou e melhoraram as condições de funcionamento. Tendo o privilégio de participar dos trabalhos de preparação e de realização da II Conferência Nacional de Saúde Mental, não tive dúvidas quanto aos resultados. Esta Conferência representou, de fato, uma das mais extraordinárias mobilizações de energia e investimento jamais realizadas sobre uma temática de cunho sanitário. O processo fazia parte do entusiasmo pela reconstrução democrática, que atravessou o País desde o fim dos anos 80, mas que referia-se também à influência produzida pelo pensamento e a prática de Franco Basaglia, desde os últimos anos da década de 70, e do empenho militante do movimento da Luta Antimanicomial. O livro de Paulo Amarante e colaboradores permite-nos percorrer alguns destes extraordinários momentos, além de entender as interconexões entre os mesmos. Mas, vejamos em detalhes as transformações e os pontos críticos deste processo. A partir dos anos 60, se tem constituído no Brasil uma verdadeira e autêntica indústria para o enfrentamento da loucura. Esta provocou um poder de corrupção e uma perversão no circuito de assistência psiquiátrica: os hospitais psiquiátricos conveniados incentivaram a cronicidade das doenças com o objetivo do lucro. Os custos globais da psiquiatria alcançaram níveis desproporcionais e têm crescido ainda mais, em detrimento de outras necessidades sanitárias prementes do País. Igualmente dramática era a situação dos profissionais: sujeitos de mudanças do poder político, condicionados pelas suas ideologias, constrangidos, pelos baixos salários, a uma dimensão de trabalho part time. As suas responsabilidades e os seus envolvimentos ativos nos serviços eram muito reduzidos. Esta condição de 'impasse', os seus custos elevados, a indignação provocada pelo ultraje dos direitos mais elementares dos internados geraram um movimento de protesto que se consolidou em torno de um desejo existente no País, por si só complexo, de cidadania e de justiça social. As experiências-piloto descritas neste livro são diretamente decorrentes desta consciência e estão coligadas àquele vasto movimento alternativo à psiquiatria tradicional que, no fim dos anos 60, atravessou os EUA e alguns países da Europa, e que encontrou, talvez, sua realização mais completa na Itália e na Espanha. Atualmente, algumas das iniciativas já 'históricas' de muitos estados e cidades brasileiras podem ser consideradas experiências consolidadas; mantêm intacto o poder de uma prática rica e entusiasmante e desenvolvem uma função atrativa e multiplicadora através de outros contextos. E, de fato, malgrado grandes dificuldades estruturais, muitos hospitais psiquiátricos estão sendo transformados, ao mesmo tempo em que surgem hospitais-dia, Centros e Núcleos de Atenção Psicossocial (CAPS e NAPS), nos contextos mais diversos, em todas as regiões do País. O que sucede nessas regiões é o nascimento de experiências inovadoras no interior; experiências novas, mas já extraordinariamente ricas e complexas. Existe, todavia, uma preocupação: se o retorno ao passado já resulta impossível, não é claro o ponto de chegada do processo como um todo. Como exemplo, há o risco de que o hospital psiquiátrico, mais ou menos modernizado, com um número de leitos reduzido, continue a desenvolver o seu papel 'insubstituível' de salvaguarda para o controle da 'periculosidade' e da 'cronicidade' psiquiátrica. Há, ainda, o risco de que a ausência de afirmação do novo modelo dos serviços engendre um sentim" }, { "tab": "Apres. 2ª Ed.", "sub": "Apresentação à Segunda Edição", "title": "A Memória da Reforma Psiquiátrica", "text": "Apresentação à segunda edição Este livro nasceu de um projeto cuja maior pretensão era a preservação da memória do processo contemporâneo de reforma psiquiátrica, que vem ocorrendo no Brasil desde a segunda metade da década de 70. Foi assim que demos início ao projeto: recolhendo, organizando e catalogando toda a produção do Movimento de Trabalhadores em Saúde Mental (depois Movimento por uma Sociedade sem Manicômios), chegando a um acervo histórico de miais de três mil documentos processados. Posteriormente, durante um período de cerca de cinco anos, a equipe dedicou-se à leitura e à discussão dos documentos, que culminou com um relatório de análise histórica e conceituai do processo de reforma psiquiátrica no Brasil. Deste relatório, nasceu a idéia do presente livro. Publicá-lo, no entanto, era uma outra questão. Em primeiro lugar, porque não tínhamos uma avaliação clara do interesse que o tema poderia despertar entre os técnicos, pesquisadores e estudantes da área. Embora a pesquisa e os seus resultados nos parecessem muito importantes, principalmente pelo aspecto da preservação da memória, partíamos do pressuposto de que seria um instrumento de consulta de apenas um ou outro pesquisador ou estudante de pós-graduação, mas não um documento de interesse mais amplo. Por outro lado, um texto baseado nos originais da pesquisa já havia antecipado grande parte dos resultados da mesma, reduzindo, assim, sua originalidade e utilidade como fonte de consulta e pesquisa. Dúvidas à parte, recebemos a proposta da Secretaria de Desenvolvimento Educacional da Escola Nacional de Saúde Pública (ENSP), que mantinha uma linha de publicações dedicada aos resultados de pesquisas que, em geral no nosso país, acabam empoeiradas nas estantes dos próprios pesquisadores. E graças a esta linha editorial denominada Panorama ENSP, foi publicada a primeira edição de Loucos pela Vida. Para nossa satisfação, o livro teve uma aceitação bastante favorável, tendo sido rapidamente esgotada a edição, uma vez que foi adotado em cursos de graduação e pós-graduação, em bibliografias de concursos e utilizado em inúmeras monografias, papers, dissertações e teses. Esta segunda edição revista e ampliada, agora pela Editora Fiocruz, vem com algumas alterações importantes, especificamente nos itens quatro do capítulo 2, 'Novos rumos: a trajetória da desinstitucionalização', e dois do capítulo 3, 'O estado da arte: os temas, a literatura, os autores', com a inclusão de novas referências e análises, e com a ampliação do período coberto na edição anterior. Além daqueles aos quais fizemos referência na primeira edição, queremos agradecer ainda a Adauto Araújo, Álvaro Funcia Lemme, Antônio Marcos Dutra da Silva, Carlos Coimbra Jr., Carlos Fernando Reis da Costa, Fernanda Veneu, João Carlos Canossa Mendes, Jurema Camargo Magalhães, Marcionílio Cavalcanti de Paiva, Maria Cecília G. B. Moreira, Maria Helena de Oliveira Torres, Paulo Buss, Pedro Teixeira, Roberto Aguiar, Ruben Fernandes, Sônia Pinho, Sônia Silva e Walter Duarte. Paulo Amarante" }, { "tab": "Apres. 1ª Ed.", "sub": "Apresentação à Primeira Edição", "title": "Objetivos e Metodologia da Pesquisa", "text": "Apresentação à primeira edição Este trabalho é resultado de uma pesquisa desenvolvida no Núcleo de Estudos Político-Sociais em Saúde (NUPES/DAPS), da Escola Nacional de Saúde Pública (ENSP), Fundação Oswaldo Cruz. A pesquisa intitulava-se \"Análise dos Determinantes e Estratégias das Políticas de Saúde Mental no Brasil: o projeto da reforma psiquiátrica (1970-1990)\", e foi desenvolvida no período de 1989 a 1993.1 O principal objetivo deste trabalho é o de delinear os cenários, identificar os temas, os atores e as fontes de pesquisa, no sentido de fornecer subsídios a todos aqueles que se dedicam ao estudo da história recente das experiências brasileiras e, menos, de propor uma interpretação definitiva sobre os mesmos. O primeiro capítulo é dedicado aos antecedentes teóricos da reforma psiquiátrica no Brasil, isto é, à recuperação das principais correntes, tendências e experiências internacionais que influenciaram na constituição do projeto brasileiro. Para tanto, são utilizadas as fontes originais mas, principalmente, as fontes produzidas por autores nacionais, com o objetivo de deles extrair a forma e o contexto com os quais são utilizadas as referências internacionais. O segundo, mais específico, refere-se ao objeto precípuo da pesquisa, em que procura-se recuperar a constituição teórica e prática do processo brasileiro, indo dos primeiros anos da década de 70 até 1990, quando se delineia um novo momento deste mesmo processo. Aqui podem ser encontradas algumas referências dos principais cenários, conjunturas e acontecimentos da trajetória das políticas públicas em saúde mental no País, assim como pode-se ter acesso a alguns destes documentos. No terceiro capítulo, ensaiam-se algumas possibilidades, a partir de alguns elementos históricos e metodológicos, de se pensar o processo da reforma psiquiátrica no Brasil, analisando-o a partir dos diferentes cenários, temas e atores. Esperamos que este trabalho seja útil para aqueles que se dedicam à pesquisa, ao ensino e à assistência, empenhando-se na transformação das instituições, das práticas e das políticas de saúde mental. Agradecemos a cooperação de todos aqueles que nos deram um pouco de suas colaborações e de seus arquivos pessoais, especialmente a Sônia Fleury Teixeira, Cristina de Albuquerque Possas, Maria Cecília Minayo e Joel Birman. Agradecemos ainda a Ana Pitta, Antônio Slavich, Benilton Bezerra, Cláudia Ehrenfreund, Denise Dias Barros, De Paula, Domingos Sávio Nascimento, Ernesto Venturini, Fátima Martins Pereira, Fausto Amarante, Fernanda Nicácio, Franca Ongaro Basaglia, Francisco Inácio Bastos, Franco Rotelli, Giuseppe DeirAcqua, Graça Fernandes, Joel Birman, Manuel Desviat, Marisa Cambraia, Pedro Silva, Raffaele Infante, Ricardo Aquino, Selma Lancman e Sérgio Guerrieri. A todos os amigos, professores e pesquisadores da ENSP, especialmente do NUPES . E, finalmente, os apoios fundamentais do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq), da Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro (FAPERJ), da Coordenadoria de Aperfeiçoamento de Docentes do Ensino Superior (CAPES), da Organização Pan-Americana da Saúde (OPAS), da Coordenadoria de Saúde Mental do Ministério da Saúde (COSAM), do Instituto Philippe Pinei, do Centro Psiquiátrico Pedro II, do Centro Studi e Ricerche per la Salute Mentale della Regione Friuli Venezia-Giulia, da Unità Sanitária Locale 23-Ímola e do Centro Ligure di Documentazione Studi e Ricerche sulla Salute Mentale. Paulo Amarante 1 Aqui podem ser encontradas algumas citações de textos publicados em anos anteriores ou posteriores ao período coberto pela pesquisa. Isto ocorre quando o material em questão refere-se ao período 1970-1990, ou quando é absolutamente imprescindível para a compreensão ou esclarecimento de alguma passagem ou conceito. Nesta mesma pesquisa, realizamos uma detalhada cronologia de eventos e situações de relevância no contexto da reforma psiquiátrica brasileira, assim como organizamos um enorme acervo bibliográfico que cobre o período que vai de 1970 a 1990. Nesta segunda edição procuramos cobrir o período que vai até 1992." }, { "tab": "Capítulo 1", "sub": "Capítulo 1", "title": "Revisitando os Paradigmas do Saber Psiquiátrico", "text": "1 - Revisitando os paradigmas do saber psiquiátrico: tecendo o percurso do movimento da reforma psiquiátrica O exercício de reconstituição do percurso da reforma psiquiátrica apresenta-se conectado tanto à possibilidade de revisão dos principais referenciais teóricos que influenciam e/ou possibilitam a emergência deste movimento, quanto à reatualização de um olhar histórico-crítico sobre os paradigmas fundantes do saber/prática psiquiátricos. Neste sentido, interessa-nos apresentar ao leitor uma visão ao mesmo tempo panorâmica e específica, desde o nascimento da psiquiatria até às propostas de reformulação e críticas ao modelo psiquiátrico. É nosso objetivo, nesse momento, procurar delinear os marcos fundamentais, tanto do modelo psiquiátrico clássico, quanto das principais correntes de reformas psiquiátricas, a fim de procurar estabelecer as relações históricas e metodológicas entre estas e o movimento da reforma psiquiátrica no Brasil. Com isso, mapeamos os principais conceitos que forneceram e ainda fornecem as condições de possibilidade teórica da psiquiatria e suas reformas. Por opção metodológica, realizamos uma leitura transversal, entre a bibliografia nacional produzida sobre os temas e a internacional, com o objetivo de procurar captar a dinâmica do processo de absorção/transformação dos paradigmas psiquiátricos em nosso país. Metodologicamente ainda, seguimos a orientação proposta por Birman & Costa (1994)1 que formulam a hipótese de que a psiquiatria clássica veio desenvolvendo uma crise tanto teórica quanto prática, detonada principalmente pelo fato de ocorrer uma radical mudança no seu objeto, que deixa de ser o tratamento da doença mental para ser a promoção da saúde mental. É certamente no contexto desta crise que surgem as novas experiências, as novas psiquiatrias. Para estes autores, existem dois grandes períodos, nos quais são redimensionados os campos teórico-assistenciais da psiquiatria. O primeiro período é marcado por um processo de crítica à estrutura asilar, responsável pelos altos índices de cronificação. A questão central deste período encontra-se referida, ainda, à crença de que o manicômio é uma 'instituição de cura' e que torna-se urgente resgatar este caráter positivo da instituição através de uma reforma interna da organização psiquiátrica. \"Esta crítica envolve um longo percurso, gerando-se no interior do hospício até atingir a sua periferia: inicia-se com os movimentos das Comunidades Terapêuticas (Inglaterra, EUA) e de Psicoterapia Institucional (França), atingindo o seu extremo com a instalação das Terapias de Família\" (Birman & Costa, 1994:44). O segundo período é marcado pela extensão da psiquiatria ao espaço público, organizando-o com o objetivo de prevenir e promover a 'saúde mental'. Este segundo momento é representado pelas experiências de psiquiatria de setor (França) e psiquiatria comunitária ou preventiva (EUA). Os autores pontuam que esta periodização apresenta-se como estratégias diversas para atingir o mesmo fim: ... apesar da periodização que destaca dois movimentos diversos, propondo-se fins diferentes, realizando-se em espaços também diferentes, esta diversidade é uma ocorrência de superfície, tratando-se de táticas diversas que criam duas formas teórico conceituais aparentemente díspares, porém que se identificam num plano profundo e nas suas condições concretas de possibilidade. A mesma estrutura que efetiva uma Psiquiatria Institucional é a que torna possível também uma Psiquiatria Comunitária. O que tanto uma quanto a outra visam é o mesmo: a promoção da Saúde Mental, sendo esta inferida como um processo de adaptação social (1994:44) A hipótese dos autores é a de que, tanto em um período quanto em outro, assim como tanto numa estrutura quanto nas demais, a importância dada pela psiquiatria tradicional à terapêutica das enfermidades dá lugar a um projeto muito mais amplo e ambicioso, que é o de promover a saúde mental, não apenas em um ou outro indivíduo, mas na comunidade em geral. Visto de outra forma, a terapêutica deixa de ser individual para ser coletiva, deixa de ser assistencial para ser preventiva. De uma forma ou de outra, o certo é que a psiquiatria passa a construir um novo projeto, um projeto eminentemente social, que tem conseqüências políticas e ideológicas muito importantes. Enquanto estes dois momentos limitam-se a meras reformas do modelo psiquiátrico - na medida em que acreditam na instituição psiquiátrica como locus de tratamento e na psiquiatria" }, { "tab": "Capítulo 2", "sub": "Capítulo 2", "title": "A Trajetória da Reforma Psiquiátrica no Brasil", "text": "2 - A trajetória da reforma psiquiátrica no Brasil Início do movimento da reforma psiquiátrica: a trajetória alternativa Neste capítulo, ao nos debruçarmos sobre o que denominamos 'Início do movimento da reforma psiquiátrica', compreendido entre os anos 1978 e 1980, buscamos identificar as principais instituições, entidades, movimentos e militâncias envolvidas com a formulação das políticas de saúde mental no Brasil. Dentre os diversos atores, merece destaque o Movimento dos Trabalhadores em Saúde Mental (MTSM) em suas variadas formas de expressão – Núcleos Estaduais de Saúde Mental do Centro Brasileiro de Estudos de Saúde – (CEBES), Comissões de Saúde Mental dos Sindicatos dos Médicos, Movimento de Renovação Médica – (REME), Rede de Alternativas à Psiquiatria, Sociedade de Psicossíntese). Outros atores de relevância nesta história são a Associação Brasileira de Psiquiatria – (ABP), a Federação Brasileira de Hospitais – (FBH), a indústria farmacêutica e as universidades, que têm uma atuação extremamente importante, ora legitimando, ora instigando a formulação das políticas de saúde mental. O Estado, por meio de seus órgãos do setor saúde – Ministério da Saúde – (MS) e Ministério da Previdência e Assistência Social – (MPAS) –, será também objeto de nossas análises. Este tópico inicia-se abordando a trajetória do Movimento dos Trabalhadores em Saúde Mental, por nós considerado o ator e sujeito político fundamental no projeto da reforma psiquiátrica brasileira. É o ator a partir do qual originalmente emergem as propostas de reformulação do sistema assistencial e no qual se consolida o pensamento crítico ao saber psiquiátrico. A crise da DINSAM O movimento da reforma psiquiátrica brasileira tem como estopim o episódio que fica conhecido como a 'Crise da DINSAM ' (Divisão Nacional de Saúde Mental), órgão do Ministério da Saúde responsável pela formulação das políticas de saúde do subsetor saúde mental. Os profissionais das quatro unidades da DINSAM , todas no Rio de Janeiro (Centro Psiquiátrico Pedro II – CPPII; Hospital Pinel; Colônia Juliano Moreira – CJM; e Manicômio Judiciário Heitor Carrilho), deflagram uma greve, em abril de 1978, seguida da demissão de 260 estagiários e profissionais.1 A DINSAM , que desde 1956/1957 não realiza concurso público, a partir de 1974, com um quadro antigo e defasado, passa a contratar 'bolsistas' com recursos da Campanha Nacional de Saúde Mental. Os 'bolsistas' são profissionais graduados ou estudantes universitários que trabalham como médicos, psicólogos, enfermeiros e assistentes sociais, muitos dos quais com cargos de chefia e direção. Trabalham em condições precárias, em clima de ameaças e violências a eles próprios e aos pacientes destas instituições. São freqüentes as denúncias de agressão, estupro, trabalho escravo e mortes não esclarecidas. A crise é deflagrada a partir da denúncia realizada por três médicos bolsistas do CPPII, ao registrarem no livro de ocorrências do plantão do pronto-socorro as irregularidades da unidade hospitalar, trazendo a público a trágica situação existente naquele hospital. Este ato, que poderia limitar-se apenas a repercussões locais e esvaziar-se, acaba por mobilizar profissionais de outras unidades e recebe o apoio imediato do Movimento de Renovação Médica (REME) e do CEBES . Sucedem-se reuniões periódicas em grupos, comissões, assembléias, ocupando espaços de sindicatos e demais entidades da sociedade civil. Neste movimento, são organizados o Núcleo de Saúde Mental, do Sindicato dos Médicos, já sob a primeira gestão do REME, e o Núcleo de Saúde Mental do CEBES. O MTSM denuncia a falta de recursos das unidades, a conseqüente precariedade das condições de trabalho refletida na assistência dispensada à população e seu atrelamento às políticas de saúde mental e trabalhista nacionais. As amarras de caráter trabalhista e humanitário dão grande repercussão ao movimento, que consegue manter-se por cerca de oito meses em destaque na grande imprensa. Assim nasce o MTSM, cujo objetivo é constituir-se em um espaço de luta não institucional, em um locus de debate e encaminhamento de propostas de transformação da assistência psiquiátrica, que aglutina informações, organiza encontros, reúne trabalhadores em saúde, associações de classe, bem como entidades e setores mais amplos da sociedade. A pauta inicial de reivindicações gira em torno da regularização da situação trabalhista – visto que a situação dos bolsistas é ilegal – aumento salarial, redução do número ex" }, { "tab": "Capítulo 3", "sub": "Capítulo 3", "title": "Considerações Históricas e Metodológicas", "text": "3 - Algumas considerações históricas e outras metodológicas sobre a reforma psiquiátrica no Brasil O que entender por reforma psiquiátrica O objetivo deste texto é identificar e demarcar alguns cenários, atores, temas e debates, considerando determinados aspectos históricos e metodológicos, que sirvam de contribuição para a análise e a problematização do processo da reforma psiquiátrica brasileira. Ao mesmo tempo em que vão sendo ensaiadas algumas possibilidades de análise, temos como proposta sugerir a seleção dos principais documentos produzidos, originados tanto de fontes primárias quanto secundárias, além de propor uma cronologia de eventos importantes na trajetória deste processo de reforma. Para efeito da referida investigação, está sendo considerada como reforma psiquiátrica um processo histórico de formulação crítica e prática, que tem como objetivos e estratégias o questionamento e elaboração de propostas de transformação do modelo clássico e do paradigma da psiquiatria. No Brasil, a reforma psiquiátrica é um processo que surge mais concreta e, principalmente, a partir da conjuntura da redemocratização, em fins da década de 70. Tem como fundamentos apenas uma crítica conjuntural ao subsistema nacional de saúde mental, mas também – e principalmente – uma crítica estrutural ao saber e às instituições psiquiátricas clássicas, dentro de toda a movimentação político- social que caracteriza a conjuntura de redemocratização. Consideram-se, de acordo com a metodologia aqui adotada, os últimos anos da década de 70 como sendo o início do atual movimento da reforma psiquiátrica. Nessa época, começa a se delinear um projeto tal que se inscreve nesta conjuntura histórica, com características conceituais distintas de outros projetos de transformação a ele anteriores ou contemporâneos. Entretanto, o conceito de reforma psiquiátrica se apresenta como sendo política e conceitualmente problemático. Para o objetivo pretendido aqui, é importante resgatar à memória que a própria expressão reforma indica um paradoxo – pois foi sempre utilizada como relativa a transformações superficiais, cosméticas, acessórias, em oposição às 'verdadeiras' transformações estruturais, radicais e de base. O termo, no entanto, prevaleceu e ainda permanece, em parte pela necessidade estratégica de não criar maiores resistências às transformações, de neutralizar oposições, de construir consenso e apoio político. Esta tentativa de compreensão do uso do termo reforma pode ser tranqüilizadora e sensata, mas não deixa de indicar uma contradição que, como veremos, talvez termine por possibilitar um desvio de rota na trajetória da reforma psiquiátrica. Vimos que Rotelli (1990, 1994) reserva a expressão reforma para os modelos psiquiátricos inglês, francês e americano. Em seu entender, estes modelos não passaram de simples tentativas de recuperação do potencial terapêutico da psiquiatria clássica. Proposta de periodização da reforma psiquiátrica brasileira — uma síntese cronológica das principais trajetórias e cenários Quando se iniciam as reformas? É certamente muito difícil procurar definir quando se inicia o processo de reforma da prática e do saber psiquiátrico. Tanto na França, com o aparecimento do primeiro asilo psiquiátrico com Pinel, quanto no Brasil, a partir da criação do Hospício de Pedro II, no Rio de Janeiro, é possível localizar críticas, resistências e projetos de mudança das instituições e das práticas da psiquiatria. Contudo, conforme o preâmbulo, pretende-se, aqui, enfocar a reforma psiquiátrica brasileira como um processo que se inicia em fins da década de 70, com o surgimento de um novo ator, o Movimento dos Trabalhadores em Saúde Mental (MTSM), que desempenha, durante um longo período, o principal papel, tanto na formulação teórica quanto na organização de novas práticas. Para efeitos metodológicos, talvez seja mais correto pensar em uma periodização composta de trajetórias do que propriamente por etapas ou conjunturas apenas. A idéia de trajetória permite uma visualização de percursos, de caminhos que, muitas vezes, se entrecruzam, se sobrepõem. A trajetória refere-se mais à existência e desenvolvimento de uma tradição de uma linha prático-discursiva, do que de uma determinada conjuntura. Desta forma, o período que vai da constituição da medicina mental no Brasil, em meados do século XIX, até as primeiras décadas deste século, mais precisamente até a Segunda Grande Guerra, será aqui considerado como a trajetória higienista – que diz re" }, { "tab": "Posfácio", "sub": "A Título de Posfácio", "title": "Por um Brasil sem Manicômios no Ano 2000", "text": "A título de posfácio Por um \"Brasil sem manicômios no ano 2000\" Às cinco e meia da madrugada de um dia quente de dezembro, uma nuvem de pequenos papéis, confetes improvisados, enchia uma sala de Brasília. Centenas de pessoas cantando, braços levantados, celebravam o final de uma sessão 'maratônica': era aprovada a moção de numero 212! Terminava a II Conferência Nacional de Saúde Mental. O debate final – no qual eram discutidas as emendas às conclusões apresentadas pelos delegados – havia começado às dez da manhã do dia anterior; permaneciam ainda boa parte dos quinhentos delegados e dos observadores internacionais. O total de participantes – profissionais, políticos, associações de usuários e familiares de pacientes – vindos de todas as regiões deste imenso país, ultrapassava os 1.500. Aqueles momentos de júbilo colocavam fim aos dias de encontro e inauguravam uma frutífera via de participação democrática para o futuro da atenção psiquiátrica brasileira e, quem sabe, da América Latina. Era o final de um longo processo empreedido por uma eficiente e progressista equipe do Ministério da Saúde, com a colaboração de um importante grupo de líderes em todo o País, de diferentes orientações e posições, porém movidos pelo propósito comum da desinstitucionalização, pela vontade de realizar as reformas, desde a Coordenação de Saúde Mental, até o fórum de saúde mental coletiva, a professores da Escola Paulista ou da Fundação Oswaldo Cruz. Este episódio atesta a vitalidade de um movimento de reforma (ou de reestruturação psiquiátrica, como gostam de dizer neste continente, desde a Declaração de Caracas) e inaugura uma nova forma de entender os processos de mudança. No mesmo sentido, pode ser entendida a apresentação do projeto de lei no Senado Nacional, que propõe a extinção progressiva dos manicômios e sua substituição por outros recursos assistenciais, com a regulamentação da internação psiquiátrica involuntária para garantir a salvaguarda dos direitos dos enfermos mentais. A originalidade brasileira encontra-se na maneira de integrar, no discurso da cidadania, na consciência social, a trama de atuações que deve construir um programa comunitário e o estilo de inventar novas fórmulas de atenção, a partir do protagonismo de todos. Vejamos, por exemplo, a forma singular de atenção à cronicidade que é realizada por camponeses, voluntários, assessorados pela equipe de Saúde Mental de Bagé, no extremo sul gaúcho. É um programa bastante original de assistência a psicóticos crônicos. Outra proposta implica a utilização de leitos que acolhem pacientes mentais em hospitais gerais, sem qualquer diferenciação, em São Lourenço ou em Rio Grande. Há ainda a busca de uma atenção integrada à saúde em geral, com uma orientação de saúde pública, em alguns bairros de São Paulo. Podemos destacar ainda as experiências 'triestinas' de Santos ou de Campinas, dentre tantos outros processos de reforma que estão se realizando em todo o Brasil. É a mobilização de um amplo e ativo coletivo, militante no campo social, 'loucos pela vida', que busca criar novas experiências para a transformação da vida (e não somente da assistência psiquiátrica). Muito pouco seria possível fazer sem que as formas de vida fossem modificadas. Numa ideologia, em um universo profissional, que se aproxima cada vez mais do laboratório neuro-fisio- endocrinológico, distanciando-se do conhecimento antropológico e clínico do sujeito, em que a psicopatologia é substituída por propedêuticas reducionistas do tipo DSM IV, SCAN, CID 10, não se torna possível um fazer humanista (não é possível saber medicina sem saber o que é o homem, diz o Corpus Hipocrático). \"De perto ninguém é normal\", proclama um dos slogans; frases que repetem-se em cartazes e camisetas. E como se, outra vez, Marx e Rimbaud, Artaud e Freud, Franz Fanon e Marcuse animassem os movimentos de base. Uma reforma que conta com o que outrora se passou com os movimentos desinstitucionalizantes, alternativos, com os acertos e erros de mais de 50 anos de processos de transformação, desde as primeiras experiências iniciadas na França e Inglaterra. Uma reforma na qual se pretende conquistar algo mais que espaços organizativos pertencentes às forças mais inertes da sociedade brasileira e se consegue conjugar sua original capacidade social e comunitária, com uma clínica e investigação avançadas, lançando-se no resgate do patrimônio de cientificidade, tantas vezes usurpado por uma falsa academia. Incorporando as poucas ferramentas u" }];
-
-
-    // ── Gera tabs e painéis dinamicamente ──────────────────
-    const tabsBar = document.getElementById('tabs-bar');
-    const panelsContainer = document.getElementById('panels-container');
-
-    SECTIONS.forEach((sec, idx) => {
-      // Tab
-      const btn = document.createElement('button');
-      btn.className = 'tab' + (idx === 0 ? ' active' : '');
-      btn.textContent = sec.tab;
-      btn.onclick = () => showPanel(idx, btn);
-      tabsBar.appendChild(btn);
-
-      // Painel
-      const panel = document.createElement('div');
-      panel.className = 'panel' + (idx === 0 ? ' active' : '');
-      panel.id = 'panel-' + idx;
-      panel.innerHTML = `
-    <div class="chapter-sub">${sec.sub}</div>
-    <h2 class="chapter-title">${sec.title}</h2>
-    <div class="player">
-      <div class="player-top">
-        <button class="play-btn off" id="play-${idx}" onclick="ttsToggle(${idx})">▶</button>
-        <div class="player-meta">
-          <div class="player-track">Narração do Resumo</div>
-          <div class="player-state" id="st-${idx}">Gere o resumo primeiro</div>
+    // ── Carrega o JSON de resumos ──────────────────────────
+    async function init() {
+      try {
+        const res = await fetch('resumos.json');
+        if (!res.ok) throw new Error('HTTP ' + res.status);
+        const data = await res.json();
+        buildUI(data);
+      } catch (e) {
+        document.getElementById('main-content').innerHTML = `
+      <div class="err-screen">
+        <div>⚠ Não foi possível carregar o arquivo <strong>resumos.json</strong></div>
+        <div style="margin-top:12px;font-size:14px;color:var(--muted)">
+          Certifique-se de que <code>resumos.json</code> está na mesma pasta que este HTML.
         </div>
-        <button class="stop-btn" onclick="ttsStop()">■</button>
-      </div>
-      <div class="prog-wrap"><div class="prog-bar"><div class="prog-fill" id="pg-${idx}"></div></div></div>
-      ${idx === 0 ? `
-      <div class="ctrl-row">
-        <div class="ctrl-group"><label>Voz:</label><select id="voice-sel"></select></div>
-        <div class="ctrl-group"><label>Vel.:</label>
-          <input type="range" id="speed" min="0.5" max="1.6" step="0.05" value="0.85"
-            oninput="document.getElementById('sv').textContent=parseFloat(this.value).toFixed(2)+'×'">
-          <span class="speed-val" id="sv">0.85×</span>
-        </div>
-      </div>` : ''}
-      <div class="no-tts" id="no-tts-${idx}"></div>
-    </div>
-    <div class="summary-box">
-      <div class="box-label">Resumo Gerado por IA</div>
-      <div id="sum-${idx}" class="summary-content">
-        <div class="loading" id="ld-${idx}"><div class="spinner"></div>Gerando…</div>
-        <p class="ph" id="ph-${idx}">Clique em <strong style="color:var(--accent)">✦ Gerar Resumo</strong> para a IA analisar este capítulo.</p>
-      </div>
-      <button class="gen-btn" id="gb-${idx}" onclick="genSummary(${idx})">✦ Gerar Resumo</button>
-    </div>
-  `;
-      panelsContainer.appendChild(panel);
-    });
+        <code>${e.message}</code>
+      </div>`;
+      }
+    }
 
-    // ── Tabs ──────────────────────────────────────────────
+    // ── Monta a interface com os dados do JSON ─────────────
+    function buildUI(data) {
+      const sections = Object.values(data);
+      const tabsBar = document.getElementById('tabs-bar');
+      const main = document.getElementById('main-content');
+      main.innerHTML = '';
+
+      sections.forEach((sec, idx) => {
+        // Tab
+        const tab = document.createElement('button');
+        tab.className = 'tab' + (idx === 0 ? ' active' : '');
+        tab.textContent = sec.tab;
+        tab.onclick = () => showPanel(idx, tab);
+        tabsBar.appendChild(tab);
+
+        // Parágraos do resumo
+        const parasHTML = sec.summary
+          .split(/\n\n+/)
+          .filter(p => p.trim())
+          .map(p => `<p>${p.trim()}</p>`)
+          .join('');
+
+        // Painel
+        const panel = document.createElement('div');
+        panel.className = 'panel' + (idx === 0 ? ' active' : '');
+        panel.id = 'panel-' + idx;
+        panel.innerHTML = `
+      <div class="chapter-sub">${sec.sub}</div>
+      <h2 class="chapter-title">${sec.title}</h2>
+
+      <div class="player">
+        <div class="player-top">
+          <button class="play-btn" id="play-${idx}" onclick="ttsToggle(${idx})">▶</button>
+          <div class="player-meta">
+            <div class="player-track">Narração do Resumo</div>
+            <div class="player-state" id="st-${idx}">Toque ▶ para ouvir</div>
+          </div>
+          <button class="stop-btn" onclick="ttsStop()">■</button>
+        </div>
+        <div class="prog-wrap"><div class="prog-bar"><div class="prog-fill" id="pg-${idx}"></div></div></div>
+        ${idx === 0 ? `
+        <div class="ctrl-row">
+          <div class="ctrl-group"><label>Voz:</label><select id="voice-sel"></select></div>
+          <div class="ctrl-group"><label>Vel.:</label>
+            <input type="range" id="speed" min="0.5" max="2.0" step="0.05" value="1.0"
+              oninput="document.getElementById('sv').textContent=parseFloat(this.value).toFixed(2)+'×'">
+            <span class="speed-val" id="sv">1.0×</span>
+          </div>
+        </div>` : ''}
+        <div class="no-tts" id="no-tts-${idx}"></div>
+      </div>
+
+      <div class="summary-box">
+        <div class="box-label">Resumo</div>
+        <div class="summary-content">${parasHTML}</div>
+      </div>
+    `;
+        main.appendChild(panel);
+      });
+
+      // Guarda os textos de resumo para o TTS
+      window.SUMMARIES = sections.map(s => s.summary);
+      loadVoices();
+    }
+
     function showPanel(idx, btn) {
       ttsStop();
       document.querySelectorAll('.panel').forEach(p => p.classList.remove('active'));
@@ -497,88 +508,13 @@
       btn.classList.add('active');
     }
 
-    // ── Claude API ────────────────────────────────────────
-    const summaries = new Array(SECTIONS.length).fill(null);
-
-    async function genSummary(idx) {
-      const btn = document.getElementById('gb-' + idx);
-      const box = document.getElementById('sum-' + idx);
-      const ld = document.getElementById('ld-' + idx);
-      const ph = document.getElementById('ph-' + idx);
-
-      btn.disabled = true;
-      btn.textContent = '⏳ Gerando…';
-      if (ph) ph.style.display = 'none';
-      ld.style.display = 'flex';
-      box.querySelectorAll('p:not(.ph), .err').forEach(e => e.remove());
-
-      const sec = SECTIONS[idx];
-      const prompt = `Você é um professor universitário especialista em saúde mental coletiva e reforma psiquiátrica no Brasil.
-Analise o trecho abaixo do livro "Loucos pela Vida" de Paulo Amarante (FIOCRUZ, 1998) e produza um RESUMO COMPLETO E DIDÁTICO para estudo universitário, em português brasileiro.
-
-Requisitos:
-- 5 a 7 parágrafos bem desenvolvidos
-- Explique os principais argumentos, personagens históricos, eventos e conceitos
-- Conecte as ideias de forma lógica
-- Linguagem acessível e academicamente rigorosa
-- Destaque o mais importante para provas
-
-Seção — ${sec.sub} / ${sec.title}:
----
-${sec.text}
----
-
-Escreva apenas o resumo em parágrafos corridos. Sem títulos, listas ou markdown.`;
-
-      try {
-        const res = await fetch('https://api.anthropic.com/v1/messages', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({
-            model: 'claude-sonnet-4-20250514',
-            max_tokens: 1000,
-            messages: [{ role: 'user', content: prompt }]
-          })
-        });
-        if (!res.ok) {
-          const e = await res.json().catch(() => ({}));
-          throw new Error(e.error?.message || 'HTTP ' + res.status);
-        }
-        const data = await res.json();
-        const text = data.content.map(c => c.text || '').join('').trim();
-        summaries[idx] = text;
-
-        ld.style.display = 'none';
-        text.split(/\n\n+/).forEach(p => {
-          if (!p.trim()) return;
-          const el = document.createElement('p');
-          el.textContent = p.trim();
-          box.appendChild(el);
-        });
-
-        document.getElementById('play-' + idx).classList.remove('off');
-        document.getElementById('st-' + idx).textContent = 'Toque ▶ para ouvir';
-        btn.textContent = '↺ Regenerar';
-        btn.disabled = false;
-      } catch (e) {
-        ld.style.display = 'none';
-        const el = document.createElement('div');
-        el.className = 'err';
-        el.textContent = '⚠ Erro: ' + e.message;
-        box.appendChild(el);
-        btn.textContent = '✦ Tentar Novamente';
-        btn.disabled = false;
-      }
-    }
-
-    // ── TTS ───────────────────────────────────────────────
+    // ── TTS ────────────────────────────────────────────────
     const HAS_TTS = (() => {
       try { return 'speechSynthesis' in window && typeof window.speechSynthesis.speak === 'function'; }
       catch (e) { return false; }
     })();
 
-    let voices = [];
-    let ttsActive = false, ttsPaused = false;
+    let voices = [], ttsActive = false, ttsPaused = false;
     let ttsChapter = -1, ttsChunks = [], ttsPos = 0, ttsTotal = 0;
 
     function loadVoices() {
@@ -601,11 +537,8 @@ Escreva apenas o resumo em parágrafos corridos. Sem títulos, listas ou markdow
     }
     if (HAS_TTS) {
       window.speechSynthesis.onvoiceschanged = loadVoices;
-      loadVoices();
-      setTimeout(loadVoices, 500);
-      setTimeout(loadVoices, 1500);
+      loadVoices(); setTimeout(loadVoices, 600); setTimeout(loadVoices, 1500);
     }
-
     function getVoice() {
       const sel = document.getElementById('voice-sel');
       if (!sel || !voices.length) return null;
@@ -614,36 +547,29 @@ Escreva apenas o resumo em parágrafos corridos. Sem títulos, listas ou markdow
     }
     function getRate() {
       const r = document.getElementById('speed');
-      return r ? parseFloat(r.value) : 0.85;
+      return r ? parseFloat(r.value) : 1.0;
     }
-
     function setUI(idx, txt, pct) {
       const s = document.getElementById('st-' + idx);
       const p = document.getElementById('pg-' + idx);
       if (s && txt !== null) s.textContent = txt;
       if (p && pct !== null) p.style.width = pct + '%';
     }
-
-    function makechunks(text) {
-      const sentences = text.match(/[^.!?]+[.!?]+/g) || [text];
-      const out = [];
-      let cur = '';
-      sentences.forEach(s => {
-        s = s.trim();
-        if (!s) return;
-        const joined = cur ? cur + ' ' + s : s;
-        if (joined.length > 300 && cur) { out.push(cur); cur = s; }
-        else cur = joined;
+    function makeChunks(text) {
+      const sents = text.match(/[^.!?]+[.!?]+/g) || [text];
+      const out = []; let cur = '';
+      sents.forEach(s => {
+        s = s.trim(); if (!s) return;
+        const j = cur ? cur + ' ' + s : s;
+        if (j.length > 300 && cur) { out.push(cur); cur = s; } else cur = j;
       });
       if (cur.trim()) out.push(cur.trim());
       return out.length ? out : [text];
     }
-
     function speakChunk(idx) {
       if (!ttsActive || ttsChapter !== idx) return;
       if (ttsPos >= ttsTotal) {
-        ttsActive = false;
-        ttsChapter = -1;
+        ttsActive = false; ttsChapter = -1;
         document.getElementById('play-' + idx).textContent = '▶';
         setUI(idx, 'Concluído ✓', 100);
         setTimeout(() => setUI(idx, 'Toque ▶ para ouvir', 0), 2000);
@@ -652,32 +578,23 @@ Escreva apenas o resumo em parágrafos corridos. Sem títulos, listas ou markdow
       const pct = Math.round((ttsPos / ttsTotal) * 100);
       setUI(idx, 'Lendo… ' + pct + '%', pct);
       const u = new SpeechSynthesisUtterance(ttsChunks[ttsPos]);
-      const v = getVoice();
-      if (v) u.voice = v;
-      u.lang = 'pt-BR';
-      u.rate = getRate();
-      u.pitch = 1;
-      u.volume = 1;
-      const capIdx = idx, capPos = ttsPos;
-      u.onend = () => {
-        if (!ttsActive || ttsChapter !== capIdx) return;
-        ttsPos = capPos + 1;
-        speakChunk(capIdx);
-      };
+      const v = getVoice(); if (v) u.voice = v;
+      u.lang = 'pt-BR'; u.rate = getRate(); u.pitch = 1; u.volume = 1;
+      const ci = idx, cp = ttsPos;
+      u.onend = () => { if (!ttsActive || ttsChapter !== ci) return; ttsPos = cp + 1; speakChunk(ci); };
       u.onerror = (e) => {
         if (e.error === 'canceled' || e.error === 'interrupted') return;
-        if (ttsActive && ttsChapter === capIdx) { ttsPos = capPos + 1; speakChunk(capIdx); }
+        if (ttsActive && ttsChapter === ci) { ttsPos = cp + 1; speakChunk(ci); }
       };
       window.speechSynthesis.speak(u);
     }
-
     function ttsToggle(idx) {
       if (!HAS_TTS) {
         const el = document.getElementById('no-tts-' + idx);
         if (el) { el.style.display = 'block'; el.textContent = '⚠ Síntese de voz não disponível. Abra no Chrome.'; }
         return;
       }
-      if (!summaries[idx]) return;
+      if (!window.SUMMARIES || !window.SUMMARIES[idx]) return;
       const ss = window.speechSynthesis;
       if (ttsChapter === idx && ttsActive) {
         if (ttsPaused) {
@@ -691,28 +608,27 @@ Escreva apenas o resumo em parágrafos corridos. Sem títulos, listas ou markdow
         }
         return;
       }
-      ttsStop();
-      loadVoices();
+      ttsStop(); loadVoices();
       ttsChapter = idx;
-      ttsChunks = makechunks(summaries[idx]);
-      ttsPos = 0;
-      ttsTotal = ttsChunks.length;
-      ttsActive = true;
-      ttsPaused = false;
+      ttsChunks = makeChunks(window.SUMMARIES[idx]);
+      ttsPos = 0; ttsTotal = ttsChunks.length;
+      ttsActive = true; ttsPaused = false;
       document.getElementById('play-' + idx).textContent = '⏸';
       setUI(idx, 'Lendo… 0%', 0);
       speakChunk(idx);
     }
-
     function ttsStop() {
       ttsActive = false; ttsPaused = false;
       if (HAS_TTS) { try { window.speechSynthesis.cancel(); } catch (e) { } }
       if (ttsChapter >= 0) {
         const i = ttsChapter; ttsChapter = -1;
-        document.getElementById('play-' + i).textContent = '▶';
-        setUI(i, summaries[i] ? 'Toque ▶ para ouvir' : 'Gere o resumo primeiro', 0);
+        const btn = document.getElementById('play-' + i);
+        if (btn) btn.textContent = '▶';
+        setUI(i, 'Toque ▶ para ouvir', 0);
       }
     }
+
+    init();
   </script>
 </body>
 
