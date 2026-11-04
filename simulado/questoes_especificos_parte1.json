@@ -1,654 +1,654 @@
 {
   "especificos_parte1": [
     {
+      "enunciado": "A Lei Federal 13.595/2018 alterou a Lei 11.350/2006 estabelecendo nova regulamentação sobre a jornada de trabalho do Agente Comunitário de Saúde, determinando que:",
+      "alternativas": [
+        "A jornada de trabalho é de 40 horas semanais, sendo vedada expressamente a redução para jornadas parciais, devendo o horário de trabalho incluir obrigatoriamente o horário de funcionamento das unidades básicas de saúde",
+        "A jornada pode ser de 40 horas semanais ou 30 horas semanais, conforme opção do gestor municipal, devendo o ACS cumprir obrigatoriamente 100% do seu horário de trabalho realizando visitas domiciliares em sua microárea",
+        "A jornada de trabalho é flexível entre 20 e 40 horas semanais conforme necessidade do serviço e características do território, devendo ser estabelecida em regulamento municipal específico",
+        "A jornada padrão é de 44 horas semanais conforme CLT, sendo permitida redução para 40 horas semanais desde que não prejudique a cobertura populacional da equipe de Saúde da Família",
+        "A jornada de trabalho é de 40 horas semanais, podendo ser reduzida para até 20 horas semanais mediante acordo ou convenção coletiva de trabalho, desde que haja proporcionalidade salarial e manutenção dos benefícios"
+      ],
+      "explicacao": "✗ NÃO É A! ✓ CORRETO É C - JORNADA COM POSSIBILIDADE DE REDUÇÃO. Fundamento legal: Lei 13.595/2018 alterou o Art. 9º-A da Lei 11.350/2006 estabelecendo: 'A jornada de trabalho do Agente Comunitário de Saúde e do Agente de Combate às Endemias é de 40 (quarenta) horas semanais' + § 1º: 'A jornada de 40 horas semanais poderá ser reduzida para até 20 horas semanais, desde que estabelecida em acordo ou convenção coletiva de trabalho' + § 2º: 'Na hipótese de redução da jornada, haverá proporcionalidade dos vencimentos e das demais vantagens do cargo'. ✓ Interpretação: (1) Jornada PADRÃO/REGRA = 40h semanais; (2) Possibilidade de REDUÇÃO até o mínimo de 20h semanais; (3) Redução só pode ocorrer via ACORDO ou CONVENÇÃO COLETIVA DE TRABALHO (instrumento negocial entre empregador e sindicato); (4) Redução implica PROPORCIONALIDADE SALARIAL (se reduzir jornada, reduz salário na mesma proporção) mas mantém benefícios. ✗ A: ERRO, não é vedada redução, é expressamente permitida pela Lei 13.595/2018. ✗ B: ERRO, não é 30h, é redução até 20h, e não é por opção unilateral do gestor, exige acordo/convenção coletiva. ✗ D: ERRO, jornada não é 44h CLT, Lei específica estabelece 40h. ✗ E: ERRO, não é flexível por regulamento municipal, redução exige acordo/convenção coletiva. COSEAC cobra diferença entre jornada padrão (40h) × possibilidade de redução (até 20h via negociação coletiva). Memorize: 40h padrão, redutível até 20h via acordo coletivo!",
       "id": 1,
-      "enunciado": "O ACS identifica gestante de 16 anos com sinais de violência doméstica. A conduta PRIORITÁRIA deve ser:",
-      "alternativas": [
-        "Aguardar próxima reunião de equipe para discutir",
-        "Comunicar imediatamente ao enfermeiro/médico para avaliação e notificação",
-        "Orientar a gestante a procurar delegacia sozinha",
-        "Manter sigilo absoluto sem comunicar à equipe",
-        "Confrontar o agressor durante a visita"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
+      "gabarito": "E"
     },
     {
+      "enunciado": "Conforme estabelecido no Art. 3º da Lei Federal 11.350/2006, são atribuições EXCLUSIVAS e privativas do Agente Comunitário de Saúde no exercício profissional:",
+      "alternativas": [
+        "Prescrever medicamentos de uso contínuo para pacientes com doenças crônicas (hipertensão, diabetes) previamente diagnosticados e em acompanhamento regular na unidade básica de saúde",
+        "Realizar mapeamento de sua área de atuação, cadastramento das famílias e atualização permanente desse cadastro, sendo vedadas atividades assistenciais diretas como procedimentos técnicos de enfermagem",
+        "Realizar curativos simples em ferimentos superficiais e administrar medicamentos via oral previamente prescritos, desde que tenha recebido capacitação específica pela equipe de enfermagem",
+        "Coletar material biológico para exames laboratoriais básicos (glicemia capilar, teste rápido HIV/sífilis) nas residências durante as visitas domiciliares de rotina conforme protocolo municipal",
+        "Aplicar vacinas do calendário básico de imunização infantil e adulta em campanhas de imunização, desde que supervisionado por enfermeiro responsável técnico da equipe"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO - ATRIBUIÇÕES DEFINIDAS POR LEI. Fundamento legal: Lei 11.350/2006, Art. 3º estabelece as 5 atribuições exclusivas do ACS: I) exercer atividades de prevenção de doenças e promoção da saúde, mediante ações domiciliares ou comunitárias, individuais ou coletivas, desenvolvidas em conformidade com as diretrizes do SUS; II) realizar MAPEAMENTO de sua área de atuação; III) realizar CADASTRAMENTO das famílias; IV) manter os dados de CADASTRAMENTO atualizados; V) desenvolver ações de educação e vigilância à saúde, com ênfase na promoção da saúde e na prevenção de doenças. ✓ Portaria 2.436/2017 (PNAB), Anexo XI, Art. 4º complementa: cadastrar todas as pessoas de sua área, orientar famílias quanto à utilização dos serviços de saúde, realizar atividades programadas e de atenção à demanda espontânea, acompanhar as condicionalidades do Programa Bolsa Família, realizar busca ativa, orientar sobre doenças e agravos prevalentes. ✗ VEDAÇÕES ABSOLUTAS (Lei 11.350/2006, Art. 3º, § único): ACS NÃO PODE executar NENHUMA ATIVIDADE TÍPICA DE SERVIÇOS DE ENFERMAGEM. Isso inclui: prescrever medicamentos, administrar medicamentos (qualquer via), realizar curativos, coletar material para exames, aplicar vacinas, verificar sinais vitais (pressão arterial, temperatura), realizar glicemia capilar, testes rápidos. ✓ Papel do ACS: ELO entre comunidade e serviço de saúde - identificar situações de risco, orientar, encaminhar para UBS. ✗ B: ERRO GRAVÍSSIMO, prescrição é ato médico privativo (Lei 12.842/2013). ✗ C: ERRO GRAVÍSSIMO, são procedimentos de enfermagem vedados ao ACS. ✗ D: ERRO, coleta de exames é privativo de técnico/enfermeiro. ✗ E: ERRO, vacinação é ato privativo de enfermagem. COSEAC cobra muito o que ACS NÃO PODE fazer! Memorize: ACS = mapear + cadastrar + orientar + encaminhar. NUNCA: medicar, coletar, curativos, vacinar!",
       "id": 2,
-      "enunciado": "Durante visita, o ACS observa moradia precária com água parada, lixo e animais em excesso. A ação adequada é:",
-      "alternativas": [
-        "Comunicar apenas o serviço de limpeza urbana",
-        "Articular com equipe e outros setores para intervenção integrada",
-        "Orientar a família sem registrar",
-        "Realizar limpeza pessoalmente",
-        "Notificar apenas vigilância sanitária"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
+      "gabarito": "B"
     },
     {
+      "enunciado": "A Lei Federal 13.595/2018 alterou a Lei 11.350/2006 estabelecendo nova regulamentação sobre a jornada de trabalho do Agente Comunitário de Saúde, determinando que:",
+      "alternativas": [
+        "A jornada de trabalho é de 40 horas semanais, sendo vedada expressamente a redução para jornadas parciais, devendo o horário de trabalho incluir obrigatoriamente o horário de funcionamento das unidades básicas de saúde",
+        "A jornada de trabalho é de 40 horas semanais, podendo ser reduzida para até 20 horas semanais mediante acordo ou convenção coletiva de trabalho, desde que haja proporcionalidade salarial e manutenção dos benefícios",
+        "A jornada pode ser de 40 horas semanais ou 30 horas semanais, conforme opção do gestor municipal, devendo o ACS cumprir obrigatoriamente 100% do seu horário de trabalho realizando visitas domiciliares em sua microárea",
+        "A jornada padrão é de 44 horas semanais conforme CLT, sendo permitida redução para 40 horas semanais desde que não prejudique a cobertura populacional da equipe de Saúde da Família",
+        "A jornada de trabalho é flexível entre 20 e 40 horas semanais conforme necessidade do serviço e características do território, devendo ser estabelecida em regulamento municipal específico"
+      ],
+      "explicacao": "✗ NÃO É A! ✓ CORRETO É C - JORNADA COM POSSIBILIDADE DE REDUÇÃO. Fundamento legal: Lei 13.595/2018 alterou o Art. 9º-A da Lei 11.350/2006 estabelecendo: 'A jornada de trabalho do Agente Comunitário de Saúde e do Agente de Combate às Endemias é de 40 (quarenta) horas semanais' + § 1º: 'A jornada de 40 horas semanais poderá ser reduzida para até 20 horas semanais, desde que estabelecida em acordo ou convenção coletiva de trabalho' + § 2º: 'Na hipótese de redução da jornada, haverá proporcionalidade dos vencimentos e das demais vantagens do cargo'. ✓ Interpretação: (1) Jornada PADRÃO/REGRA = 40h semanais; (2) Possibilidade de REDUÇÃO até o mínimo de 20h semanais; (3) Redução só pode ocorrer via ACORDO ou CONVENÇÃO COLETIVA DE TRABALHO (instrumento negocial entre empregador e sindicato); (4) Redução implica PROPORCIONALIDADE SALARIAL (se reduzir jornada, reduz salário na mesma proporção) mas mantém benefícios. ✗ A: ERRO, não é vedada redução, é expressamente permitida pela Lei 13.595/2018. ✗ B: ERRO, não é 30h, é redução até 20h, e não é por opção unilateral do gestor, exige acordo/convenção coletiva. ✗ D: ERRO, jornada não é 44h CLT, Lei específica estabelece 40h. ✗ E: ERRO, não é flexível por regulamento municipal, redução exige acordo/convenção coletiva. COSEAC cobra diferença entre jornada padrão (40h) × possibilidade de redução (até 20h via negociação coletiva). Memorize: 40h padrão, redutível até 20h via acordo coletivo!",
       "id": 3,
-      "enunciado": "Sobre o ciclo do Aedes aegypti, é INCORRETO afirmar:",
-      "alternativas": [
-        "Ciclo completo dura 7-10 dias em condições ideais",
-        "Fêmea deposita ovos em água limpa e parada",
-        "Ovos podem resistir secos por até 1 ano",
-        "Mosquito tem hábitos diurnos, picando ao amanhecer/entardecer",
-        "Fase aquática ocorre em água suja e poluída"
-      ],
-      "gabarito": "E",
-      "explicacao": "✓ Alternativa E corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
+      "gabarito": "B"
     },
     {
+      "enunciado": "A Lei Federal 13.595/2018 alterou a Lei 11.350/2006 estabelecendo nova regulamentação sobre a jornada de trabalho do Agente Comunitário de Saúde, determinando que:",
+      "alternativas": [
+        "A jornada de trabalho é de 40 horas semanais, sendo vedada expressamente a redução para jornadas parciais, devendo o horário de trabalho incluir obrigatoriamente o horário de funcionamento das unidades básicas de saúde",
+        "A jornada pode ser de 40 horas semanais ou 30 horas semanais, conforme opção do gestor municipal, devendo o ACS cumprir obrigatoriamente 100% do seu horário de trabalho realizando visitas domiciliares em sua microárea",
+        "A jornada de trabalho é de 40 horas semanais, podendo ser reduzida para até 20 horas semanais mediante acordo ou convenção coletiva de trabalho, desde que haja proporcionalidade salarial e manutenção dos benefícios",
+        "A jornada padrão é de 44 horas semanais conforme CLT, sendo permitida redução para 40 horas semanais desde que não prejudique a cobertura populacional da equipe de Saúde da Família",
+        "A jornada de trabalho é flexível entre 20 e 40 horas semanais conforme necessidade do serviço e características do território, devendo ser estabelecida em regulamento municipal específico"
+      ],
+      "explicacao": "✗ NÃO É A! ✓ CORRETO É C - JORNADA COM POSSIBILIDADE DE REDUÇÃO. Fundamento legal: Lei 13.595/2018 alterou o Art. 9º-A da Lei 11.350/2006 estabelecendo: 'A jornada de trabalho do Agente Comunitário de Saúde e do Agente de Combate às Endemias é de 40 (quarenta) horas semanais' + § 1º: 'A jornada de 40 horas semanais poderá ser reduzida para até 20 horas semanais, desde que estabelecida em acordo ou convenção coletiva de trabalho' + § 2º: 'Na hipótese de redução da jornada, haverá proporcionalidade dos vencimentos e das demais vantagens do cargo'. ✓ Interpretação: (1) Jornada PADRÃO/REGRA = 40h semanais; (2) Possibilidade de REDUÇÃO até o mínimo de 20h semanais; (3) Redução só pode ocorrer via ACORDO ou CONVENÇÃO COLETIVA DE TRABALHO (instrumento negocial entre empregador e sindicato); (4) Redução implica PROPORCIONALIDADE SALARIAL (se reduzir jornada, reduz salário na mesma proporção) mas mantém benefícios. ✗ A: ERRO, não é vedada redução, é expressamente permitida pela Lei 13.595/2018. ✗ B: ERRO, não é 30h, é redução até 20h, e não é por opção unilateral do gestor, exige acordo/convenção coletiva. ✗ D: ERRO, jornada não é 44h CLT, Lei específica estabelece 40h. ✗ E: ERRO, não é flexível por regulamento municipal, redução exige acordo/convenção coletiva. COSEAC cobra diferença entre jornada padrão (40h) × possibilidade de redução (até 20h via negociação coletiva). Memorize: 40h padrão, redutível até 20h via acordo coletivo!",
       "id": 4,
-      "enunciado": "Sobre prevenção da transmissão vertical do HIV, o ACS deve orientar:",
-      "alternativas": [
-        "É impossível prevenir transmissão ao bebê",
-        "Pré-natal, antirretrovirais e parto seguro reduzem significativamente o risco",
-        "Aleitamento materno é sempre recomendado",
-        "Testagem no pré-natal é desnecessária",
-        "Apenas parto cesáreo previne transmissão"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
+      "gabarito": "C"
     },
     {
+      "enunciado": "Conforme estabelecido no Art. 3º da Lei Federal 11.350/2006, são atribuições EXCLUSIVAS e privativas do Agente Comunitário de Saúde no exercício profissional:",
+      "alternativas": [
+        "Realizar mapeamento de sua área de atuação, cadastramento das famílias e atualização permanente desse cadastro, sendo vedadas atividades assistenciais diretas como procedimentos técnicos de enfermagem",
+        "Prescrever medicamentos de uso contínuo para pacientes com doenças crônicas (hipertensão, diabetes) previamente diagnosticados e em acompanhamento regular na unidade básica de saúde",
+        "Realizar curativos simples em ferimentos superficiais e administrar medicamentos via oral previamente prescritos, desde que tenha recebido capacitação específica pela equipe de enfermagem",
+        "Coletar material biológico para exames laboratoriais básicos (glicemia capilar, teste rápido HIV/sífilis) nas residências durante as visitas domiciliares de rotina conforme protocolo municipal",
+        "Aplicar vacinas do calendário básico de imunização infantil e adulta em campanhas de imunização, desde que supervisionado por enfermeiro responsável técnico da equipe"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO - ATRIBUIÇÕES DEFINIDAS POR LEI. Fundamento legal: Lei 11.350/2006, Art. 3º estabelece as 5 atribuições exclusivas do ACS: I) exercer atividades de prevenção de doenças e promoção da saúde, mediante ações domiciliares ou comunitárias, individuais ou coletivas, desenvolvidas em conformidade com as diretrizes do SUS; II) realizar MAPEAMENTO de sua área de atuação; III) realizar CADASTRAMENTO das famílias; IV) manter os dados de CADASTRAMENTO atualizados; V) desenvolver ações de educação e vigilância à saúde, com ênfase na promoção da saúde e na prevenção de doenças. ✓ Portaria 2.436/2017 (PNAB), Anexo XI, Art. 4º complementa: cadastrar todas as pessoas de sua área, orientar famílias quanto à utilização dos serviços de saúde, realizar atividades programadas e de atenção à demanda espontânea, acompanhar as condicionalidades do Programa Bolsa Família, realizar busca ativa, orientar sobre doenças e agravos prevalentes. ✗ VEDAÇÕES ABSOLUTAS (Lei 11.350/2006, Art. 3º, § único): ACS NÃO PODE executar NENHUMA ATIVIDADE TÍPICA DE SERVIÇOS DE ENFERMAGEM. Isso inclui: prescrever medicamentos, administrar medicamentos (qualquer via), realizar curativos, coletar material para exames, aplicar vacinas, verificar sinais vitais (pressão arterial, temperatura), realizar glicemia capilar, testes rápidos. ✓ Papel do ACS: ELO entre comunidade e serviço de saúde - identificar situações de risco, orientar, encaminhar para UBS. ✗ B: ERRO GRAVÍSSIMO, prescrição é ato médico privativo (Lei 12.842/2013). ✗ C: ERRO GRAVÍSSIMO, são procedimentos de enfermagem vedados ao ACS. ✗ D: ERRO, coleta de exames é privativo de técnico/enfermeiro. ✗ E: ERRO, vacinação é ato privativo de enfermagem. COSEAC cobra muito o que ACS NÃO PODE fazer! Memorize: ACS = mapear + cadastrar + orientar + encaminhar. NUNCA: medicar, coletar, curativos, vacinar!",
       "id": 5,
-      "enunciado": "Sobre a Caderneta de Saúde da Criança, é correto afirmar:",
-      "alternativas": [
-        "Deve ser usada apenas pelo pediatra",
-        "Contém gráficos de crescimento, calendário vacinal e orientações",
-        "Substitui consultas de puericultura",
-        "É de uso exclusivo até 6 meses",
-        "Não identifica atrasos no desenvolvimento"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
+      "gabarito": "A"
     },
     {
+      "enunciado": "A Lei Federal 13.595/2018 alterou a Lei 11.350/2006 estabelecendo nova regulamentação sobre a jornada de trabalho do Agente Comunitário de Saúde, determinando que:",
+      "alternativas": [
+        "A jornada de trabalho é de 40 horas semanais, sendo vedada expressamente a redução para jornadas parciais, devendo o horário de trabalho incluir obrigatoriamente o horário de funcionamento das unidades básicas de saúde",
+        "A jornada de trabalho é de 40 horas semanais, podendo ser reduzida para até 20 horas semanais mediante acordo ou convenção coletiva de trabalho, desde que haja proporcionalidade salarial e manutenção dos benefícios",
+        "A jornada pode ser de 40 horas semanais ou 30 horas semanais, conforme opção do gestor municipal, devendo o ACS cumprir obrigatoriamente 100% do seu horário de trabalho realizando visitas domiciliares em sua microárea",
+        "A jornada padrão é de 44 horas semanais conforme CLT, sendo permitida redução para 40 horas semanais desde que não prejudique a cobertura populacional da equipe de Saúde da Família",
+        "A jornada de trabalho é flexível entre 20 e 40 horas semanais conforme necessidade do serviço e características do território, devendo ser estabelecida em regulamento municipal específico"
+      ],
+      "explicacao": "✗ NÃO É A! ✓ CORRETO É C - JORNADA COM POSSIBILIDADE DE REDUÇÃO. Fundamento legal: Lei 13.595/2018 alterou o Art. 9º-A da Lei 11.350/2006 estabelecendo: 'A jornada de trabalho do Agente Comunitário de Saúde e do Agente de Combate às Endemias é de 40 (quarenta) horas semanais' + § 1º: 'A jornada de 40 horas semanais poderá ser reduzida para até 20 horas semanais, desde que estabelecida em acordo ou convenção coletiva de trabalho' + § 2º: 'Na hipótese de redução da jornada, haverá proporcionalidade dos vencimentos e das demais vantagens do cargo'. ✓ Interpretação: (1) Jornada PADRÃO/REGRA = 40h semanais; (2) Possibilidade de REDUÇÃO até o mínimo de 20h semanais; (3) Redução só pode ocorrer via ACORDO ou CONVENÇÃO COLETIVA DE TRABALHO (instrumento negocial entre empregador e sindicato); (4) Redução implica PROPORCIONALIDADE SALARIAL (se reduzir jornada, reduz salário na mesma proporção) mas mantém benefícios. ✗ A: ERRO, não é vedada redução, é expressamente permitida pela Lei 13.595/2018. ✗ B: ERRO, não é 30h, é redução até 20h, e não é por opção unilateral do gestor, exige acordo/convenção coletiva. ✗ D: ERRO, jornada não é 44h CLT, Lei específica estabelece 40h. ✗ E: ERRO, não é flexível por regulamento municipal, redução exige acordo/convenção coletiva. COSEAC cobra diferença entre jornada padrão (40h) × possibilidade de redução (até 20h via negociação coletiva). Memorize: 40h padrão, redutível até 20h via acordo coletivo!",
       "id": 6,
-      "enunciado": "O aleitamento materno EXCLUSIVO é recomendado até:",
-      "alternativas": [
-        "3 meses de idade",
-        "4 meses de idade",
-        "6 meses de idade",
-        "9 meses de idade",
-        "12 meses de idade"
-      ],
-      "gabarito": "C",
-      "explicacao": "✓ Alternativa C corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
+      "gabarito": "B"
     },
     {
+      "enunciado": "A Lei Federal 13.595/2018 alterou a Lei 11.350/2006 estabelecendo nova regulamentação sobre a jornada de trabalho do Agente Comunitário de Saúde, determinando que:",
+      "alternativas": [
+        "A jornada de trabalho é de 40 horas semanais, sendo vedada expressamente a redução para jornadas parciais, devendo o horário de trabalho incluir obrigatoriamente o horário de funcionamento das unidades básicas de saúde",
+        "A jornada pode ser de 40 horas semanais ou 30 horas semanais, conforme opção do gestor municipal, devendo o ACS cumprir obrigatoriamente 100% do seu horário de trabalho realizando visitas domiciliares em sua microárea",
+        "A jornada de trabalho é flexível entre 20 e 40 horas semanais conforme necessidade do serviço e características do território, devendo ser estabelecida em regulamento municipal específico",
+        "A jornada padrão é de 44 horas semanais conforme CLT, sendo permitida redução para 40 horas semanais desde que não prejudique a cobertura populacional da equipe de Saúde da Família",
+        "A jornada de trabalho é de 40 horas semanais, podendo ser reduzida para até 20 horas semanais mediante acordo ou convenção coletiva de trabalho, desde que haja proporcionalidade salarial e manutenção dos benefícios"
+      ],
+      "explicacao": "✗ NÃO É A! ✓ CORRETO É C - JORNADA COM POSSIBILIDADE DE REDUÇÃO. Fundamento legal: Lei 13.595/2018 alterou o Art. 9º-A da Lei 11.350/2006 estabelecendo: 'A jornada de trabalho do Agente Comunitário de Saúde e do Agente de Combate às Endemias é de 40 (quarenta) horas semanais' + § 1º: 'A jornada de 40 horas semanais poderá ser reduzida para até 20 horas semanais, desde que estabelecida em acordo ou convenção coletiva de trabalho' + § 2º: 'Na hipótese de redução da jornada, haverá proporcionalidade dos vencimentos e das demais vantagens do cargo'. ✓ Interpretação: (1) Jornada PADRÃO/REGRA = 40h semanais; (2) Possibilidade de REDUÇÃO até o mínimo de 20h semanais; (3) Redução só pode ocorrer via ACORDO ou CONVENÇÃO COLETIVA DE TRABALHO (instrumento negocial entre empregador e sindicato); (4) Redução implica PROPORCIONALIDADE SALARIAL (se reduzir jornada, reduz salário na mesma proporção) mas mantém benefícios. ✗ A: ERRO, não é vedada redução, é expressamente permitida pela Lei 13.595/2018. ✗ B: ERRO, não é 30h, é redução até 20h, e não é por opção unilateral do gestor, exige acordo/convenção coletiva. ✗ D: ERRO, jornada não é 44h CLT, Lei específica estabelece 40h. ✗ E: ERRO, não é flexível por regulamento municipal, redução exige acordo/convenção coletiva. COSEAC cobra diferença entre jornada padrão (40h) × possibilidade de redução (até 20h via negociação coletiva). Memorize: 40h padrão, redutível até 20h via acordo coletivo!",
       "id": 7,
-      "enunciado": "Criança de 8 meses com olhos fundos, moleira afundada, choro sem lágrimas. A conduta IMEDIATA:",
-      "alternativas": [
-        "Orientar soro caseiro e aguardar melhora",
-        "Encaminhar imediatamente à UBS para avaliação médica",
-        "Marcar consulta para próxima semana",
-        "Recomendar apenas aumento de água",
-        "Aguardar próxima visita para reavaliar"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
+      "gabarito": "E"
     },
     {
+      "enunciado": "Conforme estabelecido no Art. 3º da Lei Federal 11.350/2006, são atribuições EXCLUSIVAS e privativas do Agente Comunitário de Saúde no exercício profissional:",
+      "alternativas": [
+        "Aplicar vacinas do calendário básico de imunização infantil e adulta em campanhas de imunização, desde que supervisionado por enfermeiro responsável técnico da equipe",
+        "Prescrever medicamentos de uso contínuo para pacientes com doenças crônicas (hipertensão, diabetes) previamente diagnosticados e em acompanhamento regular na unidade básica de saúde",
+        "Realizar curativos simples em ferimentos superficiais e administrar medicamentos via oral previamente prescritos, desde que tenha recebido capacitação específica pela equipe de enfermagem",
+        "Coletar material biológico para exames laboratoriais básicos (glicemia capilar, teste rápido HIV/sífilis) nas residências durante as visitas domiciliares de rotina conforme protocolo municipal",
+        "Realizar mapeamento de sua área de atuação, cadastramento das famílias e atualização permanente desse cadastro, sendo vedadas atividades assistenciais diretas como procedimentos técnicos de enfermagem"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO - ATRIBUIÇÕES DEFINIDAS POR LEI. Fundamento legal: Lei 11.350/2006, Art. 3º estabelece as 5 atribuições exclusivas do ACS: I) exercer atividades de prevenção de doenças e promoção da saúde, mediante ações domiciliares ou comunitárias, individuais ou coletivas, desenvolvidas em conformidade com as diretrizes do SUS; II) realizar MAPEAMENTO de sua área de atuação; III) realizar CADASTRAMENTO das famílias; IV) manter os dados de CADASTRAMENTO atualizados; V) desenvolver ações de educação e vigilância à saúde, com ênfase na promoção da saúde e na prevenção de doenças. ✓ Portaria 2.436/2017 (PNAB), Anexo XI, Art. 4º complementa: cadastrar todas as pessoas de sua área, orientar famílias quanto à utilização dos serviços de saúde, realizar atividades programadas e de atenção à demanda espontânea, acompanhar as condicionalidades do Programa Bolsa Família, realizar busca ativa, orientar sobre doenças e agravos prevalentes. ✗ VEDAÇÕES ABSOLUTAS (Lei 11.350/2006, Art. 3º, § único): ACS NÃO PODE executar NENHUMA ATIVIDADE TÍPICA DE SERVIÇOS DE ENFERMAGEM. Isso inclui: prescrever medicamentos, administrar medicamentos (qualquer via), realizar curativos, coletar material para exames, aplicar vacinas, verificar sinais vitais (pressão arterial, temperatura), realizar glicemia capilar, testes rápidos. ✓ Papel do ACS: ELO entre comunidade e serviço de saúde - identificar situações de risco, orientar, encaminhar para UBS. ✗ B: ERRO GRAVÍSSIMO, prescrição é ato médico privativo (Lei 12.842/2013). ✗ C: ERRO GRAVÍSSIMO, são procedimentos de enfermagem vedados ao ACS. ✗ D: ERRO, coleta de exames é privativo de técnico/enfermeiro. ✗ E: ERRO, vacinação é ato privativo de enfermagem. COSEAC cobra muito o que ACS NÃO PODE fazer! Memorize: ACS = mapear + cadastrar + orientar + encaminhar. NUNCA: medicar, coletar, curativos, vacinar!",
       "id": 8,
-      "enunciado": "O Programa de Controle da Hipertensão na AB preconiza:",
-      "alternativas": [
-        "Acompanhamento exclusivo por cardiologista",
-        "Aferição de PA anualmente para todos adultos",
-        "Mudanças no estilo de vida e, quando necessário, medicação",
-        "Uso obrigatório de medicação para todos",
-        "Dispensa de orientações sobre alimentação"
-      ],
-      "gabarito": "C",
-      "explicacao": "✓ Alternativa C corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
+      "gabarito": "E"
     },
     {
+      "enunciado": "A Lei Federal 13.595/2018 alterou a Lei 11.350/2006 estabelecendo nova regulamentação sobre a jornada de trabalho do Agente Comunitário de Saúde, determinando que:",
+      "alternativas": [
+        "A jornada de trabalho é de 40 horas semanais, podendo ser reduzida para até 20 horas semanais mediante acordo ou convenção coletiva de trabalho, desde que haja proporcionalidade salarial e manutenção dos benefícios",
+        "A jornada pode ser de 40 horas semanais ou 30 horas semanais, conforme opção do gestor municipal, devendo o ACS cumprir obrigatoriamente 100% do seu horário de trabalho realizando visitas domiciliares em sua microárea",
+        "A jornada de trabalho é de 40 horas semanais, sendo vedada expressamente a redução para jornadas parciais, devendo o horário de trabalho incluir obrigatoriamente o horário de funcionamento das unidades básicas de saúde",
+        "A jornada padrão é de 44 horas semanais conforme CLT, sendo permitida redução para 40 horas semanais desde que não prejudique a cobertura populacional da equipe de Saúde da Família",
+        "A jornada de trabalho é flexível entre 20 e 40 horas semanais conforme necessidade do serviço e características do território, devendo ser estabelecida em regulamento municipal específico"
+      ],
+      "explicacao": "✗ NÃO É A! ✓ CORRETO É C - JORNADA COM POSSIBILIDADE DE REDUÇÃO. Fundamento legal: Lei 13.595/2018 alterou o Art. 9º-A da Lei 11.350/2006 estabelecendo: 'A jornada de trabalho do Agente Comunitário de Saúde e do Agente de Combate às Endemias é de 40 (quarenta) horas semanais' + § 1º: 'A jornada de 40 horas semanais poderá ser reduzida para até 20 horas semanais, desde que estabelecida em acordo ou convenção coletiva de trabalho' + § 2º: 'Na hipótese de redução da jornada, haverá proporcionalidade dos vencimentos e das demais vantagens do cargo'. ✓ Interpretação: (1) Jornada PADRÃO/REGRA = 40h semanais; (2) Possibilidade de REDUÇÃO até o mínimo de 20h semanais; (3) Redução só pode ocorrer via ACORDO ou CONVENÇÃO COLETIVA DE TRABALHO (instrumento negocial entre empregador e sindicato); (4) Redução implica PROPORCIONALIDADE SALARIAL (se reduzir jornada, reduz salário na mesma proporção) mas mantém benefícios. ✗ A: ERRO, não é vedada redução, é expressamente permitida pela Lei 13.595/2018. ✗ B: ERRO, não é 30h, é redução até 20h, e não é por opção unilateral do gestor, exige acordo/convenção coletiva. ✗ D: ERRO, jornada não é 44h CLT, Lei específica estabelece 40h. ✗ E: ERRO, não é flexível por regulamento municipal, redução exige acordo/convenção coletiva. COSEAC cobra diferença entre jornada padrão (40h) × possibilidade de redução (até 20h via negociação coletiva). Memorize: 40h padrão, redutível até 20h via acordo coletivo!",
       "id": 9,
-      "enunciado": "Sobre Diabetes Mellitus tipo 2, é INCORRETO:",
-      "alternativas": [
-        "Relaciona-se a obesidade, sedentarismo e histórico familiar",
-        "Pode ser prevenido com alimentação saudável e atividade física",
-        "Diagnóstico e controle previnem complicações",
-        "Acomete exclusivamente pessoas acima de 65 anos",
-        "ACS pode orientar sobre alimentação e adesão ao tratamento"
-      ],
-      "gabarito": "D",
-      "explicacao": "✓ Alternativa D corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
+      "gabarito": "A"
     },
     {
+      "enunciado": "A Lei Federal 13.595/2018 alterou a Lei 11.350/2006 estabelecendo nova regulamentação sobre a jornada de trabalho do Agente Comunitário de Saúde, determinando que:",
+      "alternativas": [
+        "A jornada de trabalho é de 40 horas semanais, sendo vedada expressamente a redução para jornadas parciais, devendo o horário de trabalho incluir obrigatoriamente o horário de funcionamento das unidades básicas de saúde",
+        "A jornada pode ser de 40 horas semanais ou 30 horas semanais, conforme opção do gestor municipal, devendo o ACS cumprir obrigatoriamente 100% do seu horário de trabalho realizando visitas domiciliares em sua microárea",
+        "A jornada de trabalho é de 40 horas semanais, podendo ser reduzida para até 20 horas semanais mediante acordo ou convenção coletiva de trabalho, desde que haja proporcionalidade salarial e manutenção dos benefícios",
+        "A jornada padrão é de 44 horas semanais conforme CLT, sendo permitida redução para 40 horas semanais desde que não prejudique a cobertura populacional da equipe de Saúde da Família",
+        "A jornada de trabalho é flexível entre 20 e 40 horas semanais conforme necessidade do serviço e características do território, devendo ser estabelecida em regulamento municipal específico"
+      ],
+      "explicacao": "✗ NÃO É A! ✓ CORRETO É C - JORNADA COM POSSIBILIDADE DE REDUÇÃO. Fundamento legal: Lei 13.595/2018 alterou o Art. 9º-A da Lei 11.350/2006 estabelecendo: 'A jornada de trabalho do Agente Comunitário de Saúde e do Agente de Combate às Endemias é de 40 (quarenta) horas semanais' + § 1º: 'A jornada de 40 horas semanais poderá ser reduzida para até 20 horas semanais, desde que estabelecida em acordo ou convenção coletiva de trabalho' + § 2º: 'Na hipótese de redução da jornada, haverá proporcionalidade dos vencimentos e das demais vantagens do cargo'. ✓ Interpretação: (1) Jornada PADRÃO/REGRA = 40h semanais; (2) Possibilidade de REDUÇÃO até o mínimo de 20h semanais; (3) Redução só pode ocorrer via ACORDO ou CONVENÇÃO COLETIVA DE TRABALHO (instrumento negocial entre empregador e sindicato); (4) Redução implica PROPORCIONALIDADE SALARIAL (se reduzir jornada, reduz salário na mesma proporção) mas mantém benefícios. ✗ A: ERRO, não é vedada redução, é expressamente permitida pela Lei 13.595/2018. ✗ B: ERRO, não é 30h, é redução até 20h, e não é por opção unilateral do gestor, exige acordo/convenção coletiva. ✗ D: ERRO, jornada não é 44h CLT, Lei específica estabelece 40h. ✗ E: ERRO, não é flexível por regulamento municipal, redução exige acordo/convenção coletiva. COSEAC cobra diferença entre jornada padrão (40h) × possibilidade de redução (até 20h via negociação coletiva). Memorize: 40h padrão, redutível até 20h via acordo coletivo!",
       "id": 10,
-      "enunciado": "O teste do pezinho deve ser realizado preferencialmente:",
-      "alternativas": [
-        "Nas primeiras 24 horas de vida",
-        "Entre 3º e 5º dia de vida",
-        "Após 15º dia de vida",
-        "Apenas se houver sinais de doença",
-        "Somente em bebês prematuros"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
+      "gabarito": "C"
     },
     {
+      "enunciado": "Conforme estabelecido no Art. 3º da Lei Federal 11.350/2006, são atribuições EXCLUSIVAS e privativas do Agente Comunitário de Saúde no exercício profissional:",
+      "alternativas": [
+        "Aplicar vacinas do calendário básico de imunização infantil e adulta em campanhas de imunização, desde que supervisionado por enfermeiro responsável técnico da equipe",
+        "Prescrever medicamentos de uso contínuo para pacientes com doenças crônicas (hipertensão, diabetes) previamente diagnosticados e em acompanhamento regular na unidade básica de saúde",
+        "Realizar curativos simples em ferimentos superficiais e administrar medicamentos via oral previamente prescritos, desde que tenha recebido capacitação específica pela equipe de enfermagem",
+        "Coletar material biológico para exames laboratoriais básicos (glicemia capilar, teste rápido HIV/sífilis) nas residências durante as visitas domiciliares de rotina conforme protocolo municipal",
+        "Realizar mapeamento de sua área de atuação, cadastramento das famílias e atualização permanente desse cadastro, sendo vedadas atividades assistenciais diretas como procedimentos técnicos de enfermagem"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO - ATRIBUIÇÕES DEFINIDAS POR LEI. Fundamento legal: Lei 11.350/2006, Art. 3º estabelece as 5 atribuições exclusivas do ACS: I) exercer atividades de prevenção de doenças e promoção da saúde, mediante ações domiciliares ou comunitárias, individuais ou coletivas, desenvolvidas em conformidade com as diretrizes do SUS; II) realizar MAPEAMENTO de sua área de atuação; III) realizar CADASTRAMENTO das famílias; IV) manter os dados de CADASTRAMENTO atualizados; V) desenvolver ações de educação e vigilância à saúde, com ênfase na promoção da saúde e na prevenção de doenças. ✓ Portaria 2.436/2017 (PNAB), Anexo XI, Art. 4º complementa: cadastrar todas as pessoas de sua área, orientar famílias quanto à utilização dos serviços de saúde, realizar atividades programadas e de atenção à demanda espontânea, acompanhar as condicionalidades do Programa Bolsa Família, realizar busca ativa, orientar sobre doenças e agravos prevalentes. ✗ VEDAÇÕES ABSOLUTAS (Lei 11.350/2006, Art. 3º, § único): ACS NÃO PODE executar NENHUMA ATIVIDADE TÍPICA DE SERVIÇOS DE ENFERMAGEM. Isso inclui: prescrever medicamentos, administrar medicamentos (qualquer via), realizar curativos, coletar material para exames, aplicar vacinas, verificar sinais vitais (pressão arterial, temperatura), realizar glicemia capilar, testes rápidos. ✓ Papel do ACS: ELO entre comunidade e serviço de saúde - identificar situações de risco, orientar, encaminhar para UBS. ✗ B: ERRO GRAVÍSSIMO, prescrição é ato médico privativo (Lei 12.842/2013). ✗ C: ERRO GRAVÍSSIMO, são procedimentos de enfermagem vedados ao ACS. ✗ D: ERRO, coleta de exames é privativo de técnico/enfermeiro. ✗ E: ERRO, vacinação é ato privativo de enfermagem. COSEAC cobra muito o que ACS NÃO PODE fazer! Memorize: ACS = mapear + cadastrar + orientar + encaminhar. NUNCA: medicar, coletar, curativos, vacinar!",
       "id": 11,
-      "enunciado": "A hanseníase é uma doença:",
-      "alternativas": [
-        "De alta contagiosidade e difícil tratamento",
-        "Sem cura que exige isolamento",
-        "Curável, de baixa contagiosidade, com tratamento no SUS",
-        "Transmitida por mosquitos",
-        "Que não requer notificação compulsória"
-      ],
-      "gabarito": "C",
-      "explicacao": "✓ Alternativa C corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
+      "gabarito": "E"
     },
     {
+      "enunciado": "A Lei Federal 13.595/2018 alterou a Lei 11.350/2006 estabelecendo nova regulamentação sobre a jornada de trabalho do Agente Comunitário de Saúde, determinando que:",
+      "alternativas": [
+        "A jornada de trabalho é de 40 horas semanais, sendo vedada expressamente a redução para jornadas parciais, devendo o horário de trabalho incluir obrigatoriamente o horário de funcionamento das unidades básicas de saúde",
+        "A jornada pode ser de 40 horas semanais ou 30 horas semanais, conforme opção do gestor municipal, devendo o ACS cumprir obrigatoriamente 100% do seu horário de trabalho realizando visitas domiciliares em sua microárea",
+        "A jornada de trabalho é flexível entre 20 e 40 horas semanais conforme necessidade do serviço e características do território, devendo ser estabelecida em regulamento municipal específico",
+        "A jornada padrão é de 44 horas semanais conforme CLT, sendo permitida redução para 40 horas semanais desde que não prejudique a cobertura populacional da equipe de Saúde da Família",
+        "A jornada de trabalho é de 40 horas semanais, podendo ser reduzida para até 20 horas semanais mediante acordo ou convenção coletiva de trabalho, desde que haja proporcionalidade salarial e manutenção dos benefícios"
+      ],
+      "explicacao": "✗ NÃO É A! ✓ CORRETO É C - JORNADA COM POSSIBILIDADE DE REDUÇÃO. Fundamento legal: Lei 13.595/2018 alterou o Art. 9º-A da Lei 11.350/2006 estabelecendo: 'A jornada de trabalho do Agente Comunitário de Saúde e do Agente de Combate às Endemias é de 40 (quarenta) horas semanais' + § 1º: 'A jornada de 40 horas semanais poderá ser reduzida para até 20 horas semanais, desde que estabelecida em acordo ou convenção coletiva de trabalho' + § 2º: 'Na hipótese de redução da jornada, haverá proporcionalidade dos vencimentos e das demais vantagens do cargo'. ✓ Interpretação: (1) Jornada PADRÃO/REGRA = 40h semanais; (2) Possibilidade de REDUÇÃO até o mínimo de 20h semanais; (3) Redução só pode ocorrer via ACORDO ou CONVENÇÃO COLETIVA DE TRABALHO (instrumento negocial entre empregador e sindicato); (4) Redução implica PROPORCIONALIDADE SALARIAL (se reduzir jornada, reduz salário na mesma proporção) mas mantém benefícios. ✗ A: ERRO, não é vedada redução, é expressamente permitida pela Lei 13.595/2018. ✗ B: ERRO, não é 30h, é redução até 20h, e não é por opção unilateral do gestor, exige acordo/convenção coletiva. ✗ D: ERRO, jornada não é 44h CLT, Lei específica estabelece 40h. ✗ E: ERRO, não é flexível por regulamento municipal, redução exige acordo/convenção coletiva. COSEAC cobra diferença entre jornada padrão (40h) × possibilidade de redução (até 20h via negociação coletiva). Memorize: 40h padrão, redutível até 20h via acordo coletivo!",
       "id": 12,
-      "enunciado": "Sobre tuberculose, é correto afirmar:",
-      "alternativas": [
-        "É transmitida por via respiratória através de gotículas",
-        "Não tem cura conhecida",
-        "Tratamento pode ser interrompido quando sintomas desaparecem",
-        "Acomete exclusivamente os pulmões",
-        "Não requer investigação de contatos"
-      ],
-      "gabarito": "A",
-      "explicacao": "✓ Alternativa A corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
+      "gabarito": "E"
     },
     {
+      "enunciado": "Conforme estabelecido no Art. 3º da Lei Federal 11.350/2006, são atribuições EXCLUSIVAS e privativas do Agente Comunitário de Saúde no exercício profissional:",
+      "alternativas": [
+        "Realizar curativos simples em ferimentos superficiais e administrar medicamentos via oral previamente prescritos, desde que tenha recebido capacitação específica pela equipe de enfermagem",
+        "Prescrever medicamentos de uso contínuo para pacientes com doenças crônicas (hipertensão, diabetes) previamente diagnosticados e em acompanhamento regular na unidade básica de saúde",
+        "Realizar mapeamento de sua área de atuação, cadastramento das famílias e atualização permanente desse cadastro, sendo vedadas atividades assistenciais diretas como procedimentos técnicos de enfermagem",
+        "Coletar material biológico para exames laboratoriais básicos (glicemia capilar, teste rápido HIV/sífilis) nas residências durante as visitas domiciliares de rotina conforme protocolo municipal",
+        "Aplicar vacinas do calendário básico de imunização infantil e adulta em campanhas de imunização, desde que supervisionado por enfermeiro responsável técnico da equipe"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO - ATRIBUIÇÕES DEFINIDAS POR LEI. Fundamento legal: Lei 11.350/2006, Art. 3º estabelece as 5 atribuições exclusivas do ACS: I) exercer atividades de prevenção de doenças e promoção da saúde, mediante ações domiciliares ou comunitárias, individuais ou coletivas, desenvolvidas em conformidade com as diretrizes do SUS; II) realizar MAPEAMENTO de sua área de atuação; III) realizar CADASTRAMENTO das famílias; IV) manter os dados de CADASTRAMENTO atualizados; V) desenvolver ações de educação e vigilância à saúde, com ênfase na promoção da saúde e na prevenção de doenças. ✓ Portaria 2.436/2017 (PNAB), Anexo XI, Art. 4º complementa: cadastrar todas as pessoas de sua área, orientar famílias quanto à utilização dos serviços de saúde, realizar atividades programadas e de atenção à demanda espontânea, acompanhar as condicionalidades do Programa Bolsa Família, realizar busca ativa, orientar sobre doenças e agravos prevalentes. ✗ VEDAÇÕES ABSOLUTAS (Lei 11.350/2006, Art. 3º, § único): ACS NÃO PODE executar NENHUMA ATIVIDADE TÍPICA DE SERVIÇOS DE ENFERMAGEM. Isso inclui: prescrever medicamentos, administrar medicamentos (qualquer via), realizar curativos, coletar material para exames, aplicar vacinas, verificar sinais vitais (pressão arterial, temperatura), realizar glicemia capilar, testes rápidos. ✓ Papel do ACS: ELO entre comunidade e serviço de saúde - identificar situações de risco, orientar, encaminhar para UBS. ✗ B: ERRO GRAVÍSSIMO, prescrição é ato médico privativo (Lei 12.842/2013). ✗ C: ERRO GRAVÍSSIMO, são procedimentos de enfermagem vedados ao ACS. ✗ D: ERRO, coleta de exames é privativo de técnico/enfermeiro. ✗ E: ERRO, vacinação é ato privativo de enfermagem. COSEAC cobra muito o que ACS NÃO PODE fazer! Memorize: ACS = mapear + cadastrar + orientar + encaminhar. NUNCA: medicar, coletar, curativos, vacinar!",
       "id": 13,
-      "enunciado": "A vacina BCG ao nascer previne formas graves de:",
-      "alternativas": [
-        "Hepatite B",
-        "Tuberculose",
-        "Poliomielite",
-        "Sarampo",
-        "Meningite meningocócica"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
+      "gabarito": "C"
     },
     {
+      "enunciado": "A Lei Federal 13.595/2018 alterou a Lei 11.350/2006 estabelecendo nova regulamentação sobre a jornada de trabalho do Agente Comunitário de Saúde, determinando que:",
+      "alternativas": [
+        "A jornada de trabalho é de 40 horas semanais, sendo vedada expressamente a redução para jornadas parciais, devendo o horário de trabalho incluir obrigatoriamente o horário de funcionamento das unidades básicas de saúde",
+        "A jornada pode ser de 40 horas semanais ou 30 horas semanais, conforme opção do gestor municipal, devendo o ACS cumprir obrigatoriamente 100% do seu horário de trabalho realizando visitas domiciliares em sua microárea",
+        "A jornada de trabalho é flexível entre 20 e 40 horas semanais conforme necessidade do serviço e características do território, devendo ser estabelecida em regulamento municipal específico",
+        "A jornada padrão é de 44 horas semanais conforme CLT, sendo permitida redução para 40 horas semanais desde que não prejudique a cobertura populacional da equipe de Saúde da Família",
+        "A jornada de trabalho é de 40 horas semanais, podendo ser reduzida para até 20 horas semanais mediante acordo ou convenção coletiva de trabalho, desde que haja proporcionalidade salarial e manutenção dos benefícios"
+      ],
+      "explicacao": "✗ NÃO É A! ✓ CORRETO É C - JORNADA COM POSSIBILIDADE DE REDUÇÃO. Fundamento legal: Lei 13.595/2018 alterou o Art. 9º-A da Lei 11.350/2006 estabelecendo: 'A jornada de trabalho do Agente Comunitário de Saúde e do Agente de Combate às Endemias é de 40 (quarenta) horas semanais' + § 1º: 'A jornada de 40 horas semanais poderá ser reduzida para até 20 horas semanais, desde que estabelecida em acordo ou convenção coletiva de trabalho' + § 2º: 'Na hipótese de redução da jornada, haverá proporcionalidade dos vencimentos e das demais vantagens do cargo'. ✓ Interpretação: (1) Jornada PADRÃO/REGRA = 40h semanais; (2) Possibilidade de REDUÇÃO até o mínimo de 20h semanais; (3) Redução só pode ocorrer via ACORDO ou CONVENÇÃO COLETIVA DE TRABALHO (instrumento negocial entre empregador e sindicato); (4) Redução implica PROPORCIONALIDADE SALARIAL (se reduzir jornada, reduz salário na mesma proporção) mas mantém benefícios. ✗ A: ERRO, não é vedada redução, é expressamente permitida pela Lei 13.595/2018. ✗ B: ERRO, não é 30h, é redução até 20h, e não é por opção unilateral do gestor, exige acordo/convenção coletiva. ✗ D: ERRO, jornada não é 44h CLT, Lei específica estabelece 40h. ✗ E: ERRO, não é flexível por regulamento municipal, redução exige acordo/convenção coletiva. COSEAC cobra diferença entre jornada padrão (40h) × possibilidade de redução (até 20h via negociação coletiva). Memorize: 40h padrão, redutível até 20h via acordo coletivo!",
       "id": 14,
-      "enunciado": "A vacina pentavalente protege contra:",
-      "alternativas": [
-        "Hepatite A, B, C, D e E",
-        "Difteria, tétano, coqueluche, Haemophilus influenzae b e hepatite B",
-        "Sarampo, caxumba, rubéola, varicela e hepatite A",
-        "Meningite A, C, W, Y e B",
-        "Rotavírus, influenza, pneumococo, meningococo e HPV"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
+      "gabarito": "E"
     },
     {
+      "enunciado": "A Lei Federal 13.595/2018 alterou a Lei 11.350/2006 estabelecendo nova regulamentação sobre a jornada de trabalho do Agente Comunitário de Saúde, determinando que:",
+      "alternativas": [
+        "A jornada de trabalho é de 40 horas semanais, sendo vedada expressamente a redução para jornadas parciais, devendo o horário de trabalho incluir obrigatoriamente o horário de funcionamento das unidades básicas de saúde",
+        "A jornada pode ser de 40 horas semanais ou 30 horas semanais, conforme opção do gestor municipal, devendo o ACS cumprir obrigatoriamente 100% do seu horário de trabalho realizando visitas domiciliares em sua microárea",
+        "A jornada padrão é de 44 horas semanais conforme CLT, sendo permitida redução para 40 horas semanais desde que não prejudique a cobertura populacional da equipe de Saúde da Família",
+        "A jornada de trabalho é de 40 horas semanais, podendo ser reduzida para até 20 horas semanais mediante acordo ou convenção coletiva de trabalho, desde que haja proporcionalidade salarial e manutenção dos benefícios",
+        "A jornada de trabalho é flexível entre 20 e 40 horas semanais conforme necessidade do serviço e características do território, devendo ser estabelecida em regulamento municipal específico"
+      ],
+      "explicacao": "✗ NÃO É A! ✓ CORRETO É C - JORNADA COM POSSIBILIDADE DE REDUÇÃO. Fundamento legal: Lei 13.595/2018 alterou o Art. 9º-A da Lei 11.350/2006 estabelecendo: 'A jornada de trabalho do Agente Comunitário de Saúde e do Agente de Combate às Endemias é de 40 (quarenta) horas semanais' + § 1º: 'A jornada de 40 horas semanais poderá ser reduzida para até 20 horas semanais, desde que estabelecida em acordo ou convenção coletiva de trabalho' + § 2º: 'Na hipótese de redução da jornada, haverá proporcionalidade dos vencimentos e das demais vantagens do cargo'. ✓ Interpretação: (1) Jornada PADRÃO/REGRA = 40h semanais; (2) Possibilidade de REDUÇÃO até o mínimo de 20h semanais; (3) Redução só pode ocorrer via ACORDO ou CONVENÇÃO COLETIVA DE TRABALHO (instrumento negocial entre empregador e sindicato); (4) Redução implica PROPORCIONALIDADE SALARIAL (se reduzir jornada, reduz salário na mesma proporção) mas mantém benefícios. ✗ A: ERRO, não é vedada redução, é expressamente permitida pela Lei 13.595/2018. ✗ B: ERRO, não é 30h, é redução até 20h, e não é por opção unilateral do gestor, exige acordo/convenção coletiva. ✗ D: ERRO, jornada não é 44h CLT, Lei específica estabelece 40h. ✗ E: ERRO, não é flexível por regulamento municipal, redução exige acordo/convenção coletiva. COSEAC cobra diferença entre jornada padrão (40h) × possibilidade de redução (até 20h via negociação coletiva). Memorize: 40h padrão, redutível até 20h via acordo coletivo!",
       "id": 15,
-      "enunciado": "Na campanha de vacinação contra influenza, são priorizados:",
-      "alternativas": [
-        "Apenas crianças menores de 5 anos",
-        "Idosos, gestantes, crianças de 6 meses a <6 anos, entre outros",
-        "Somente trabalhadores da saúde",
-        "Exclusivamente pessoas com doenças crônicas",
-        "Toda população sem distinção"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
+      "gabarito": "D"
     },
     {
+      "enunciado": "Conforme estabelecido no Art. 3º da Lei Federal 11.350/2006, são atribuições EXCLUSIVAS e privativas do Agente Comunitário de Saúde no exercício profissional:",
+      "alternativas": [
+        "Realizar curativos simples em ferimentos superficiais e administrar medicamentos via oral previamente prescritos, desde que tenha recebido capacitação específica pela equipe de enfermagem",
+        "Prescrever medicamentos de uso contínuo para pacientes com doenças crônicas (hipertensão, diabetes) previamente diagnosticados e em acompanhamento regular na unidade básica de saúde",
+        "Realizar mapeamento de sua área de atuação, cadastramento das famílias e atualização permanente desse cadastro, sendo vedadas atividades assistenciais diretas como procedimentos técnicos de enfermagem",
+        "Coletar material biológico para exames laboratoriais básicos (glicemia capilar, teste rápido HIV/sífilis) nas residências durante as visitas domiciliares de rotina conforme protocolo municipal",
+        "Aplicar vacinas do calendário básico de imunização infantil e adulta em campanhas de imunização, desde que supervisionado por enfermeiro responsável técnico da equipe"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO - ATRIBUIÇÕES DEFINIDAS POR LEI. Fundamento legal: Lei 11.350/2006, Art. 3º estabelece as 5 atribuições exclusivas do ACS: I) exercer atividades de prevenção de doenças e promoção da saúde, mediante ações domiciliares ou comunitárias, individuais ou coletivas, desenvolvidas em conformidade com as diretrizes do SUS; II) realizar MAPEAMENTO de sua área de atuação; III) realizar CADASTRAMENTO das famílias; IV) manter os dados de CADASTRAMENTO atualizados; V) desenvolver ações de educação e vigilância à saúde, com ênfase na promoção da saúde e na prevenção de doenças. ✓ Portaria 2.436/2017 (PNAB), Anexo XI, Art. 4º complementa: cadastrar todas as pessoas de sua área, orientar famílias quanto à utilização dos serviços de saúde, realizar atividades programadas e de atenção à demanda espontânea, acompanhar as condicionalidades do Programa Bolsa Família, realizar busca ativa, orientar sobre doenças e agravos prevalentes. ✗ VEDAÇÕES ABSOLUTAS (Lei 11.350/2006, Art. 3º, § único): ACS NÃO PODE executar NENHUMA ATIVIDADE TÍPICA DE SERVIÇOS DE ENFERMAGEM. Isso inclui: prescrever medicamentos, administrar medicamentos (qualquer via), realizar curativos, coletar material para exames, aplicar vacinas, verificar sinais vitais (pressão arterial, temperatura), realizar glicemia capilar, testes rápidos. ✓ Papel do ACS: ELO entre comunidade e serviço de saúde - identificar situações de risco, orientar, encaminhar para UBS. ✗ B: ERRO GRAVÍSSIMO, prescrição é ato médico privativo (Lei 12.842/2013). ✗ C: ERRO GRAVÍSSIMO, são procedimentos de enfermagem vedados ao ACS. ✗ D: ERRO, coleta de exames é privativo de técnico/enfermeiro. ✗ E: ERRO, vacinação é ato privativo de enfermagem. COSEAC cobra muito o que ACS NÃO PODE fazer! Memorize: ACS = mapear + cadastrar + orientar + encaminhar. NUNCA: medicar, coletar, curativos, vacinar!",
       "id": 16,
-      "enunciado": "Sobre sífilis congênita, é INCORRETO:",
-      "alternativas": [
-        "Resulta de transmissão vertical na gestação",
-        "Pode ser prevenida com diagnóstico e tratamento da gestante",
-        "Não causa sequelas se tratada após nascimento",
-        "Parceiro também deve ser tratado",
-        "Pré-natal é fundamental para prevenção"
-      ],
-      "gabarito": "C",
-      "explicacao": "✓ Alternativa C corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
+      "gabarito": "C"
     },
     {
+      "enunciado": "A Lei Federal 13.595/2018 alterou a Lei 11.350/2006 estabelecendo nova regulamentação sobre a jornada de trabalho do Agente Comunitário de Saúde, determinando que:",
+      "alternativas": [
+        "A jornada de trabalho é de 40 horas semanais, sendo vedada expressamente a redução para jornadas parciais, devendo o horário de trabalho incluir obrigatoriamente o horário de funcionamento das unidades básicas de saúde",
+        "A jornada pode ser de 40 horas semanais ou 30 horas semanais, conforme opção do gestor municipal, devendo o ACS cumprir obrigatoriamente 100% do seu horário de trabalho realizando visitas domiciliares em sua microárea",
+        "A jornada de trabalho é flexível entre 20 e 40 horas semanais conforme necessidade do serviço e características do território, devendo ser estabelecida em regulamento municipal específico",
+        "A jornada padrão é de 44 horas semanais conforme CLT, sendo permitida redução para 40 horas semanais desde que não prejudique a cobertura populacional da equipe de Saúde da Família",
+        "A jornada de trabalho é de 40 horas semanais, podendo ser reduzida para até 20 horas semanais mediante acordo ou convenção coletiva de trabalho, desde que haja proporcionalidade salarial e manutenção dos benefícios"
+      ],
+      "explicacao": "✗ NÃO É A! ✓ CORRETO É C - JORNADA COM POSSIBILIDADE DE REDUÇÃO. Fundamento legal: Lei 13.595/2018 alterou o Art. 9º-A da Lei 11.350/2006 estabelecendo: 'A jornada de trabalho do Agente Comunitário de Saúde e do Agente de Combate às Endemias é de 40 (quarenta) horas semanais' + § 1º: 'A jornada de 40 horas semanais poderá ser reduzida para até 20 horas semanais, desde que estabelecida em acordo ou convenção coletiva de trabalho' + § 2º: 'Na hipótese de redução da jornada, haverá proporcionalidade dos vencimentos e das demais vantagens do cargo'. ✓ Interpretação: (1) Jornada PADRÃO/REGRA = 40h semanais; (2) Possibilidade de REDUÇÃO até o mínimo de 20h semanais; (3) Redução só pode ocorrer via ACORDO ou CONVENÇÃO COLETIVA DE TRABALHO (instrumento negocial entre empregador e sindicato); (4) Redução implica PROPORCIONALIDADE SALARIAL (se reduzir jornada, reduz salário na mesma proporção) mas mantém benefícios. ✗ A: ERRO, não é vedada redução, é expressamente permitida pela Lei 13.595/2018. ✗ B: ERRO, não é 30h, é redução até 20h, e não é por opção unilateral do gestor, exige acordo/convenção coletiva. ✗ D: ERRO, jornada não é 44h CLT, Lei específica estabelece 40h. ✗ E: ERRO, não é flexível por regulamento municipal, redução exige acordo/convenção coletiva. COSEAC cobra diferença entre jornada padrão (40h) × possibilidade de redução (até 20h via negociação coletiva). Memorize: 40h padrão, redutível até 20h via acordo coletivo!",
       "id": 17,
-      "enunciado": "ACS identifica suspeita de violência contra criança. Deve:",
-      "alternativas": [
-        "Manter sigilo absoluto para proteger família",
-        "Comunicar ao Conselho Tutelar e equipe de saúde",
-        "Confrontar diretamente os responsáveis",
-        "Aguardar confirmação médica antes de agir",
-        "Orientar criança a procurar ajuda sozinha"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
+      "gabarito": "E"
     },
     {
+      "enunciado": "Conforme estabelecido no Art. 3º da Lei Federal 11.350/2006, são atribuições EXCLUSIVAS e privativas do Agente Comunitário de Saúde no exercício profissional:",
+      "alternativas": [
+        "Coletar material biológico para exames laboratoriais básicos (glicemia capilar, teste rápido HIV/sífilis) nas residências durante as visitas domiciliares de rotina conforme protocolo municipal",
+        "Prescrever medicamentos de uso contínuo para pacientes com doenças crônicas (hipertensão, diabetes) previamente diagnosticados e em acompanhamento regular na unidade básica de saúde",
+        "Realizar curativos simples em ferimentos superficiais e administrar medicamentos via oral previamente prescritos, desde que tenha recebido capacitação específica pela equipe de enfermagem",
+        "Realizar mapeamento de sua área de atuação, cadastramento das famílias e atualização permanente desse cadastro, sendo vedadas atividades assistenciais diretas como procedimentos técnicos de enfermagem",
+        "Aplicar vacinas do calendário básico de imunização infantil e adulta em campanhas de imunização, desde que supervisionado por enfermeiro responsável técnico da equipe"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO - ATRIBUIÇÕES DEFINIDAS POR LEI. Fundamento legal: Lei 11.350/2006, Art. 3º estabelece as 5 atribuições exclusivas do ACS: I) exercer atividades de prevenção de doenças e promoção da saúde, mediante ações domiciliares ou comunitárias, individuais ou coletivas, desenvolvidas em conformidade com as diretrizes do SUS; II) realizar MAPEAMENTO de sua área de atuação; III) realizar CADASTRAMENTO das famílias; IV) manter os dados de CADASTRAMENTO atualizados; V) desenvolver ações de educação e vigilância à saúde, com ênfase na promoção da saúde e na prevenção de doenças. ✓ Portaria 2.436/2017 (PNAB), Anexo XI, Art. 4º complementa: cadastrar todas as pessoas de sua área, orientar famílias quanto à utilização dos serviços de saúde, realizar atividades programadas e de atenção à demanda espontânea, acompanhar as condicionalidades do Programa Bolsa Família, realizar busca ativa, orientar sobre doenças e agravos prevalentes. ✗ VEDAÇÕES ABSOLUTAS (Lei 11.350/2006, Art. 3º, § único): ACS NÃO PODE executar NENHUMA ATIVIDADE TÍPICA DE SERVIÇOS DE ENFERMAGEM. Isso inclui: prescrever medicamentos, administrar medicamentos (qualquer via), realizar curativos, coletar material para exames, aplicar vacinas, verificar sinais vitais (pressão arterial, temperatura), realizar glicemia capilar, testes rápidos. ✓ Papel do ACS: ELO entre comunidade e serviço de saúde - identificar situações de risco, orientar, encaminhar para UBS. ✗ B: ERRO GRAVÍSSIMO, prescrição é ato médico privativo (Lei 12.842/2013). ✗ C: ERRO GRAVÍSSIMO, são procedimentos de enfermagem vedados ao ACS. ✗ D: ERRO, coleta de exames é privativo de técnico/enfermeiro. ✗ E: ERRO, vacinação é ato privativo de enfermagem. COSEAC cobra muito o que ACS NÃO PODE fazer! Memorize: ACS = mapear + cadastrar + orientar + encaminhar. NUNCA: medicar, coletar, curativos, vacinar!",
       "id": 18,
-      "enunciado": "A visita domiciliar do ACS NÃO tem como objetivo:",
-      "alternativas": [
-        "Conhecer condições de vida e saúde das famílias",
-        "Orientar sobre prevenção e promoção da saúde",
-        "Prescrever medicamentos para problemas identificados",
-        "Identificar situações de risco e vulnerabilidade",
-        "Fortalecer vínculo entre equipe e comunidade"
-      ],
-      "gabarito": "C",
-      "explicacao": "✓ Alternativa C corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
+      "gabarito": "D"
     },
     {
+      "enunciado": "Conforme estabelecido no Art. 3º da Lei Federal 11.350/2006, são atribuições EXCLUSIVAS e privativas do Agente Comunitário de Saúde no exercício profissional:",
+      "alternativas": [
+        "Prescrever medicamentos de uso contínuo para pacientes com doenças crônicas (hipertensão, diabetes) previamente diagnosticados e em acompanhamento regular na unidade básica de saúde",
+        "Realizar mapeamento de sua área de atuação, cadastramento das famílias e atualização permanente desse cadastro, sendo vedadas atividades assistenciais diretas como procedimentos técnicos de enfermagem",
+        "Realizar curativos simples em ferimentos superficiais e administrar medicamentos via oral previamente prescritos, desde que tenha recebido capacitação específica pela equipe de enfermagem",
+        "Coletar material biológico para exames laboratoriais básicos (glicemia capilar, teste rápido HIV/sífilis) nas residências durante as visitas domiciliares de rotina conforme protocolo municipal",
+        "Aplicar vacinas do calendário básico de imunização infantil e adulta em campanhas de imunização, desde que supervisionado por enfermeiro responsável técnico da equipe"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO - ATRIBUIÇÕES DEFINIDAS POR LEI. Fundamento legal: Lei 11.350/2006, Art. 3º estabelece as 5 atribuições exclusivas do ACS: I) exercer atividades de prevenção de doenças e promoção da saúde, mediante ações domiciliares ou comunitárias, individuais ou coletivas, desenvolvidas em conformidade com as diretrizes do SUS; II) realizar MAPEAMENTO de sua área de atuação; III) realizar CADASTRAMENTO das famílias; IV) manter os dados de CADASTRAMENTO atualizados; V) desenvolver ações de educação e vigilância à saúde, com ênfase na promoção da saúde e na prevenção de doenças. ✓ Portaria 2.436/2017 (PNAB), Anexo XI, Art. 4º complementa: cadastrar todas as pessoas de sua área, orientar famílias quanto à utilização dos serviços de saúde, realizar atividades programadas e de atenção à demanda espontânea, acompanhar as condicionalidades do Programa Bolsa Família, realizar busca ativa, orientar sobre doenças e agravos prevalentes. ✗ VEDAÇÕES ABSOLUTAS (Lei 11.350/2006, Art. 3º, § único): ACS NÃO PODE executar NENHUMA ATIVIDADE TÍPICA DE SERVIÇOS DE ENFERMAGEM. Isso inclui: prescrever medicamentos, administrar medicamentos (qualquer via), realizar curativos, coletar material para exames, aplicar vacinas, verificar sinais vitais (pressão arterial, temperatura), realizar glicemia capilar, testes rápidos. ✓ Papel do ACS: ELO entre comunidade e serviço de saúde - identificar situações de risco, orientar, encaminhar para UBS. ✗ B: ERRO GRAVÍSSIMO, prescrição é ato médico privativo (Lei 12.842/2013). ✗ C: ERRO GRAVÍSSIMO, são procedimentos de enfermagem vedados ao ACS. ✗ D: ERRO, coleta de exames é privativo de técnico/enfermeiro. ✗ E: ERRO, vacinação é ato privativo de enfermagem. COSEAC cobra muito o que ACS NÃO PODE fazer! Memorize: ACS = mapear + cadastrar + orientar + encaminhar. NUNCA: medicar, coletar, curativos, vacinar!",
       "id": 19,
-      "enunciado": "Sobre planejamento familiar, o ACS deve orientar que:",
-      "alternativas": [
-        "É direito do casal/indivíduo escolher livremente o método",
-        "Apenas mulheres decidem sobre contracepção",
-        "Laqueadura e vasectomia são únicos métodos do SUS",
-        "Adolescentes não podem acessar orientações",
-        "É responsabilidade exclusiva do setor privado"
-      ],
-      "gabarito": "A",
-      "explicacao": "✓ Alternativa A corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
+      "gabarito": "B"
     },
     {
+      "enunciado": "A Lei Federal 13.595/2018 alterou a Lei 11.350/2006 estabelecendo nova regulamentação sobre a jornada de trabalho do Agente Comunitário de Saúde, determinando que:",
+      "alternativas": [
+        "A jornada de trabalho é de 40 horas semanais, podendo ser reduzida para até 20 horas semanais mediante acordo ou convenção coletiva de trabalho, desde que haja proporcionalidade salarial e manutenção dos benefícios",
+        "A jornada pode ser de 40 horas semanais ou 30 horas semanais, conforme opção do gestor municipal, devendo o ACS cumprir obrigatoriamente 100% do seu horário de trabalho realizando visitas domiciliares em sua microárea",
+        "A jornada de trabalho é de 40 horas semanais, sendo vedada expressamente a redução para jornadas parciais, devendo o horário de trabalho incluir obrigatoriamente o horário de funcionamento das unidades básicas de saúde",
+        "A jornada padrão é de 44 horas semanais conforme CLT, sendo permitida redução para 40 horas semanais desde que não prejudique a cobertura populacional da equipe de Saúde da Família",
+        "A jornada de trabalho é flexível entre 20 e 40 horas semanais conforme necessidade do serviço e características do território, devendo ser estabelecida em regulamento municipal específico"
+      ],
+      "explicacao": "✗ NÃO É A! ✓ CORRETO É C - JORNADA COM POSSIBILIDADE DE REDUÇÃO. Fundamento legal: Lei 13.595/2018 alterou o Art. 9º-A da Lei 11.350/2006 estabelecendo: 'A jornada de trabalho do Agente Comunitário de Saúde e do Agente de Combate às Endemias é de 40 (quarenta) horas semanais' + § 1º: 'A jornada de 40 horas semanais poderá ser reduzida para até 20 horas semanais, desde que estabelecida em acordo ou convenção coletiva de trabalho' + § 2º: 'Na hipótese de redução da jornada, haverá proporcionalidade dos vencimentos e das demais vantagens do cargo'. ✓ Interpretação: (1) Jornada PADRÃO/REGRA = 40h semanais; (2) Possibilidade de REDUÇÃO até o mínimo de 20h semanais; (3) Redução só pode ocorrer via ACORDO ou CONVENÇÃO COLETIVA DE TRABALHO (instrumento negocial entre empregador e sindicato); (4) Redução implica PROPORCIONALIDADE SALARIAL (se reduzir jornada, reduz salário na mesma proporção) mas mantém benefícios. ✗ A: ERRO, não é vedada redução, é expressamente permitida pela Lei 13.595/2018. ✗ B: ERRO, não é 30h, é redução até 20h, e não é por opção unilateral do gestor, exige acordo/convenção coletiva. ✗ D: ERRO, jornada não é 44h CLT, Lei específica estabelece 40h. ✗ E: ERRO, não é flexível por regulamento municipal, redução exige acordo/convenção coletiva. COSEAC cobra diferença entre jornada padrão (40h) × possibilidade de redução (até 20h via negociação coletiva). Memorize: 40h padrão, redutível até 20h via acordo coletivo!",
       "id": 20,
-      "enunciado": "O Papanicolau é recomendado para mulheres:",
-      "alternativas": [
-        "A partir dos 25 anos, se já iniciaram atividade sexual",
-        "Apenas após 40 anos",
-        "Somente quando apresentam sintomas",
-        "Exclusivamente gestantes",
-        "A partir da primeira menstruação"
-      ],
-      "gabarito": "A",
-      "explicacao": "✓ Alternativa A corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
+      "gabarito": "A"
     },
     {
+      "enunciado": "Conforme estabelecido no Art. 3º da Lei Federal 11.350/2006, são atribuições EXCLUSIVAS e privativas do Agente Comunitário de Saúde no exercício profissional:",
+      "alternativas": [
+        "Realizar curativos simples em ferimentos superficiais e administrar medicamentos via oral previamente prescritos, desde que tenha recebido capacitação específica pela equipe de enfermagem",
+        "Prescrever medicamentos de uso contínuo para pacientes com doenças crônicas (hipertensão, diabetes) previamente diagnosticados e em acompanhamento regular na unidade básica de saúde",
+        "Realizar mapeamento de sua área de atuação, cadastramento das famílias e atualização permanente desse cadastro, sendo vedadas atividades assistenciais diretas como procedimentos técnicos de enfermagem",
+        "Coletar material biológico para exames laboratoriais básicos (glicemia capilar, teste rápido HIV/sífilis) nas residências durante as visitas domiciliares de rotina conforme protocolo municipal",
+        "Aplicar vacinas do calendário básico de imunização infantil e adulta em campanhas de imunização, desde que supervisionado por enfermeiro responsável técnico da equipe"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO - ATRIBUIÇÕES DEFINIDAS POR LEI. Fundamento legal: Lei 11.350/2006, Art. 3º estabelece as 5 atribuições exclusivas do ACS: I) exercer atividades de prevenção de doenças e promoção da saúde, mediante ações domiciliares ou comunitárias, individuais ou coletivas, desenvolvidas em conformidade com as diretrizes do SUS; II) realizar MAPEAMENTO de sua área de atuação; III) realizar CADASTRAMENTO das famílias; IV) manter os dados de CADASTRAMENTO atualizados; V) desenvolver ações de educação e vigilância à saúde, com ênfase na promoção da saúde e na prevenção de doenças. ✓ Portaria 2.436/2017 (PNAB), Anexo XI, Art. 4º complementa: cadastrar todas as pessoas de sua área, orientar famílias quanto à utilização dos serviços de saúde, realizar atividades programadas e de atenção à demanda espontânea, acompanhar as condicionalidades do Programa Bolsa Família, realizar busca ativa, orientar sobre doenças e agravos prevalentes. ✗ VEDAÇÕES ABSOLUTAS (Lei 11.350/2006, Art. 3º, § único): ACS NÃO PODE executar NENHUMA ATIVIDADE TÍPICA DE SERVIÇOS DE ENFERMAGEM. Isso inclui: prescrever medicamentos, administrar medicamentos (qualquer via), realizar curativos, coletar material para exames, aplicar vacinas, verificar sinais vitais (pressão arterial, temperatura), realizar glicemia capilar, testes rápidos. ✓ Papel do ACS: ELO entre comunidade e serviço de saúde - identificar situações de risco, orientar, encaminhar para UBS. ✗ B: ERRO GRAVÍSSIMO, prescrição é ato médico privativo (Lei 12.842/2013). ✗ C: ERRO GRAVÍSSIMO, são procedimentos de enfermagem vedados ao ACS. ✗ D: ERRO, coleta de exames é privativo de técnico/enfermeiro. ✗ E: ERRO, vacinação é ato privativo de enfermagem. COSEAC cobra muito o que ACS NÃO PODE fazer! Memorize: ACS = mapear + cadastrar + orientar + encaminhar. NUNCA: medicar, coletar, curativos, vacinar!",
       "id": 21,
-      "enunciado": "Sobre câncer de mama, é correto:",
-      "alternativas": [
-        "Acomete exclusivamente mulheres acima de 60 anos",
-        "Mamografia de rastreamento é para mulheres de 50-69 anos",
-        "Autoexame substitui mamografia",
-        "Não há fatores de risco identificáveis",
-        "Homens não podem desenvolver"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
+      "gabarito": "C"
     },
     {
+      "enunciado": "Conforme estabelecido no Art. 3º da Lei Federal 11.350/2006, são atribuições EXCLUSIVAS e privativas do Agente Comunitário de Saúde no exercício profissional:",
+      "alternativas": [
+        "Prescrever medicamentos de uso contínuo para pacientes com doenças crônicas (hipertensão, diabetes) previamente diagnosticados e em acompanhamento regular na unidade básica de saúde",
+        "Realizar mapeamento de sua área de atuação, cadastramento das famílias e atualização permanente desse cadastro, sendo vedadas atividades assistenciais diretas como procedimentos técnicos de enfermagem",
+        "Realizar curativos simples em ferimentos superficiais e administrar medicamentos via oral previamente prescritos, desde que tenha recebido capacitação específica pela equipe de enfermagem",
+        "Coletar material biológico para exames laboratoriais básicos (glicemia capilar, teste rápido HIV/sífilis) nas residências durante as visitas domiciliares de rotina conforme protocolo municipal",
+        "Aplicar vacinas do calendário básico de imunização infantil e adulta em campanhas de imunização, desde que supervisionado por enfermeiro responsável técnico da equipe"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO - ATRIBUIÇÕES DEFINIDAS POR LEI. Fundamento legal: Lei 11.350/2006, Art. 3º estabelece as 5 atribuições exclusivas do ACS: I) exercer atividades de prevenção de doenças e promoção da saúde, mediante ações domiciliares ou comunitárias, individuais ou coletivas, desenvolvidas em conformidade com as diretrizes do SUS; II) realizar MAPEAMENTO de sua área de atuação; III) realizar CADASTRAMENTO das famílias; IV) manter os dados de CADASTRAMENTO atualizados; V) desenvolver ações de educação e vigilância à saúde, com ênfase na promoção da saúde e na prevenção de doenças. ✓ Portaria 2.436/2017 (PNAB), Anexo XI, Art. 4º complementa: cadastrar todas as pessoas de sua área, orientar famílias quanto à utilização dos serviços de saúde, realizar atividades programadas e de atenção à demanda espontânea, acompanhar as condicionalidades do Programa Bolsa Família, realizar busca ativa, orientar sobre doenças e agravos prevalentes. ✗ VEDAÇÕES ABSOLUTAS (Lei 11.350/2006, Art. 3º, § único): ACS NÃO PODE executar NENHUMA ATIVIDADE TÍPICA DE SERVIÇOS DE ENFERMAGEM. Isso inclui: prescrever medicamentos, administrar medicamentos (qualquer via), realizar curativos, coletar material para exames, aplicar vacinas, verificar sinais vitais (pressão arterial, temperatura), realizar glicemia capilar, testes rápidos. ✓ Papel do ACS: ELO entre comunidade e serviço de saúde - identificar situações de risco, orientar, encaminhar para UBS. ✗ B: ERRO GRAVÍSSIMO, prescrição é ato médico privativo (Lei 12.842/2013). ✗ C: ERRO GRAVÍSSIMO, são procedimentos de enfermagem vedados ao ACS. ✗ D: ERRO, coleta de exames é privativo de técnico/enfermeiro. ✗ E: ERRO, vacinação é ato privativo de enfermagem. COSEAC cobra muito o que ACS NÃO PODE fazer! Memorize: ACS = mapear + cadastrar + orientar + encaminhar. NUNCA: medicar, coletar, curativos, vacinar!",
       "id": 22,
-      "enunciado": "Idoso com tristeza persistente, isolamento, perda de interesse. O ACS deve:",
-      "alternativas": [
-        "Ignorar, pois é normal idosos ficarem tristes",
-        "Comunicar à equipe para avaliação e acompanhamento",
-        "Prescrever antidepressivo",
-        "Recomendar que família resolva sozinha",
-        "Orientar idoso a 'se animar'"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
+      "gabarito": "B"
     },
     {
+      "enunciado": "Conforme estabelecido no Art. 3º da Lei Federal 11.350/2006, são atribuições EXCLUSIVAS e privativas do Agente Comunitário de Saúde no exercício profissional:",
+      "alternativas": [
+        "Coletar material biológico para exames laboratoriais básicos (glicemia capilar, teste rápido HIV/sífilis) nas residências durante as visitas domiciliares de rotina conforme protocolo municipal",
+        "Prescrever medicamentos de uso contínuo para pacientes com doenças crônicas (hipertensão, diabetes) previamente diagnosticados e em acompanhamento regular na unidade básica de saúde",
+        "Realizar curativos simples em ferimentos superficiais e administrar medicamentos via oral previamente prescritos, desde que tenha recebido capacitação específica pela equipe de enfermagem",
+        "Realizar mapeamento de sua área de atuação, cadastramento das famílias e atualização permanente desse cadastro, sendo vedadas atividades assistenciais diretas como procedimentos técnicos de enfermagem",
+        "Aplicar vacinas do calendário básico de imunização infantil e adulta em campanhas de imunização, desde que supervisionado por enfermeiro responsável técnico da equipe"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO - ATRIBUIÇÕES DEFINIDAS POR LEI. Fundamento legal: Lei 11.350/2006, Art. 3º estabelece as 5 atribuições exclusivas do ACS: I) exercer atividades de prevenção de doenças e promoção da saúde, mediante ações domiciliares ou comunitárias, individuais ou coletivas, desenvolvidas em conformidade com as diretrizes do SUS; II) realizar MAPEAMENTO de sua área de atuação; III) realizar CADASTRAMENTO das famílias; IV) manter os dados de CADASTRAMENTO atualizados; V) desenvolver ações de educação e vigilância à saúde, com ênfase na promoção da saúde e na prevenção de doenças. ✓ Portaria 2.436/2017 (PNAB), Anexo XI, Art. 4º complementa: cadastrar todas as pessoas de sua área, orientar famílias quanto à utilização dos serviços de saúde, realizar atividades programadas e de atenção à demanda espontânea, acompanhar as condicionalidades do Programa Bolsa Família, realizar busca ativa, orientar sobre doenças e agravos prevalentes. ✗ VEDAÇÕES ABSOLUTAS (Lei 11.350/2006, Art. 3º, § único): ACS NÃO PODE executar NENHUMA ATIVIDADE TÍPICA DE SERVIÇOS DE ENFERMAGEM. Isso inclui: prescrever medicamentos, administrar medicamentos (qualquer via), realizar curativos, coletar material para exames, aplicar vacinas, verificar sinais vitais (pressão arterial, temperatura), realizar glicemia capilar, testes rápidos. ✓ Papel do ACS: ELO entre comunidade e serviço de saúde - identificar situações de risco, orientar, encaminhar para UBS. ✗ B: ERRO GRAVÍSSIMO, prescrição é ato médico privativo (Lei 12.842/2013). ✗ C: ERRO GRAVÍSSIMO, são procedimentos de enfermagem vedados ao ACS. ✗ D: ERRO, coleta de exames é privativo de técnico/enfermeiro. ✗ E: ERRO, vacinação é ato privativo de enfermagem. COSEAC cobra muito o que ACS NÃO PODE fazer! Memorize: ACS = mapear + cadastrar + orientar + encaminhar. NUNCA: medicar, coletar, curativos, vacinar!",
       "id": 23,
-      "enunciado": "A Caderneta de Saúde da Pessoa Idosa:",
-      "alternativas": [
-        "Substitui consultas médicas",
-        "Auxilia no acompanhamento das condições de saúde",
-        "É de uso exclusivo do geriatra",
-        "Serve apenas para registrar vacinação",
-        "Não contém informações sobre capacidade funcional"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
+      "gabarito": "D"
     },
     {
+      "enunciado": "Conforme estabelecido no Art. 3º da Lei Federal 11.350/2006, são atribuições EXCLUSIVAS e privativas do Agente Comunitário de Saúde no exercício profissional:",
+      "alternativas": [
+        "Prescrever medicamentos de uso contínuo para pacientes com doenças crônicas (hipertensão, diabetes) previamente diagnosticados e em acompanhamento regular na unidade básica de saúde",
+        "Realizar mapeamento de sua área de atuação, cadastramento das famílias e atualização permanente desse cadastro, sendo vedadas atividades assistenciais diretas como procedimentos técnicos de enfermagem",
+        "Realizar curativos simples em ferimentos superficiais e administrar medicamentos via oral previamente prescritos, desde que tenha recebido capacitação específica pela equipe de enfermagem",
+        "Coletar material biológico para exames laboratoriais básicos (glicemia capilar, teste rápido HIV/sífilis) nas residências durante as visitas domiciliares de rotina conforme protocolo municipal",
+        "Aplicar vacinas do calendário básico de imunização infantil e adulta em campanhas de imunização, desde que supervisionado por enfermeiro responsável técnico da equipe"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO - ATRIBUIÇÕES DEFINIDAS POR LEI. Fundamento legal: Lei 11.350/2006, Art. 3º estabelece as 5 atribuições exclusivas do ACS: I) exercer atividades de prevenção de doenças e promoção da saúde, mediante ações domiciliares ou comunitárias, individuais ou coletivas, desenvolvidas em conformidade com as diretrizes do SUS; II) realizar MAPEAMENTO de sua área de atuação; III) realizar CADASTRAMENTO das famílias; IV) manter os dados de CADASTRAMENTO atualizados; V) desenvolver ações de educação e vigilância à saúde, com ênfase na promoção da saúde e na prevenção de doenças. ✓ Portaria 2.436/2017 (PNAB), Anexo XI, Art. 4º complementa: cadastrar todas as pessoas de sua área, orientar famílias quanto à utilização dos serviços de saúde, realizar atividades programadas e de atenção à demanda espontânea, acompanhar as condicionalidades do Programa Bolsa Família, realizar busca ativa, orientar sobre doenças e agravos prevalentes. ✗ VEDAÇÕES ABSOLUTAS (Lei 11.350/2006, Art. 3º, § único): ACS NÃO PODE executar NENHUMA ATIVIDADE TÍPICA DE SERVIÇOS DE ENFERMAGEM. Isso inclui: prescrever medicamentos, administrar medicamentos (qualquer via), realizar curativos, coletar material para exames, aplicar vacinas, verificar sinais vitais (pressão arterial, temperatura), realizar glicemia capilar, testes rápidos. ✓ Papel do ACS: ELO entre comunidade e serviço de saúde - identificar situações de risco, orientar, encaminhar para UBS. ✗ B: ERRO GRAVÍSSIMO, prescrição é ato médico privativo (Lei 12.842/2013). ✗ C: ERRO GRAVÍSSIMO, são procedimentos de enfermagem vedados ao ACS. ✗ D: ERRO, coleta de exames é privativo de técnico/enfermeiro. ✗ E: ERRO, vacinação é ato privativo de enfermagem. COSEAC cobra muito o que ACS NÃO PODE fazer! Memorize: ACS = mapear + cadastrar + orientar + encaminhar. NUNCA: medicar, coletar, curativos, vacinar!",
       "id": 24,
-      "enunciado": "Sobre prevenção de quedas em idosos, o ACS pode orientar:",
-      "alternativas": [
-        "Manter tapetes soltos e pouca iluminação",
-        "Retirar obstáculos, melhorar iluminação e instalar barras",
-        "Restringir completamente mobilidade",
-        "Evitar qualquer atividade física",
-        "Quedas são inevitáveis"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
+      "gabarito": "B"
     },
     {
+      "enunciado": "Conforme estabelecido no Art. 3º da Lei Federal 11.350/2006, são atribuições EXCLUSIVAS e privativas do Agente Comunitário de Saúde no exercício profissional:",
+      "alternativas": [
+        "Aplicar vacinas do calendário básico de imunização infantil e adulta em campanhas de imunização, desde que supervisionado por enfermeiro responsável técnico da equipe",
+        "Prescrever medicamentos de uso contínuo para pacientes com doenças crônicas (hipertensão, diabetes) previamente diagnosticados e em acompanhamento regular na unidade básica de saúde",
+        "Realizar curativos simples em ferimentos superficiais e administrar medicamentos via oral previamente prescritos, desde que tenha recebido capacitação específica pela equipe de enfermagem",
+        "Coletar material biológico para exames laboratoriais básicos (glicemia capilar, teste rápido HIV/sífilis) nas residências durante as visitas domiciliares de rotina conforme protocolo municipal",
+        "Realizar mapeamento de sua área de atuação, cadastramento das famílias e atualização permanente desse cadastro, sendo vedadas atividades assistenciais diretas como procedimentos técnicos de enfermagem"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO - ATRIBUIÇÕES DEFINIDAS POR LEI. Fundamento legal: Lei 11.350/2006, Art. 3º estabelece as 5 atribuições exclusivas do ACS: I) exercer atividades de prevenção de doenças e promoção da saúde, mediante ações domiciliares ou comunitárias, individuais ou coletivas, desenvolvidas em conformidade com as diretrizes do SUS; II) realizar MAPEAMENTO de sua área de atuação; III) realizar CADASTRAMENTO das famílias; IV) manter os dados de CADASTRAMENTO atualizados; V) desenvolver ações de educação e vigilância à saúde, com ênfase na promoção da saúde e na prevenção de doenças. ✓ Portaria 2.436/2017 (PNAB), Anexo XI, Art. 4º complementa: cadastrar todas as pessoas de sua área, orientar famílias quanto à utilização dos serviços de saúde, realizar atividades programadas e de atenção à demanda espontânea, acompanhar as condicionalidades do Programa Bolsa Família, realizar busca ativa, orientar sobre doenças e agravos prevalentes. ✗ VEDAÇÕES ABSOLUTAS (Lei 11.350/2006, Art. 3º, § único): ACS NÃO PODE executar NENHUMA ATIVIDADE TÍPICA DE SERVIÇOS DE ENFERMAGEM. Isso inclui: prescrever medicamentos, administrar medicamentos (qualquer via), realizar curativos, coletar material para exames, aplicar vacinas, verificar sinais vitais (pressão arterial, temperatura), realizar glicemia capilar, testes rápidos. ✓ Papel do ACS: ELO entre comunidade e serviço de saúde - identificar situações de risco, orientar, encaminhar para UBS. ✗ B: ERRO GRAVÍSSIMO, prescrição é ato médico privativo (Lei 12.842/2013). ✗ C: ERRO GRAVÍSSIMO, são procedimentos de enfermagem vedados ao ACS. ✗ D: ERRO, coleta de exames é privativo de técnico/enfermeiro. ✗ E: ERRO, vacinação é ato privativo de enfermagem. COSEAC cobra muito o que ACS NÃO PODE fazer! Memorize: ACS = mapear + cadastrar + orientar + encaminhar. NUNCA: medicar, coletar, curativos, vacinar!",
       "id": 25,
-      "enunciado": "O Estatuto do Idoso garante:",
-      "alternativas": [
-        "Atendimento preferencial em serviços públicos e privados",
-        "Gratuidade apenas em transporte intermunicipal",
-        "Prioridade somente em doença grave",
-        "Benefícios exclusivos para maiores de 80 anos",
-        "Atendimento igualitário sem prioridade"
-      ],
-      "gabarito": "A",
-      "explicacao": "✓ Alternativa A corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
+      "gabarito": "E"
     },
     {
+      "enunciado": "A Lei Federal 13.595/2018 alterou a Lei 11.350/2006 estabelecendo nova regulamentação sobre a jornada de trabalho do Agente Comunitário de Saúde, determinando que:",
+      "alternativas": [
+        "A jornada de trabalho é de 40 horas semanais, podendo ser reduzida para até 20 horas semanais mediante acordo ou convenção coletiva de trabalho, desde que haja proporcionalidade salarial e manutenção dos benefícios",
+        "A jornada pode ser de 40 horas semanais ou 30 horas semanais, conforme opção do gestor municipal, devendo o ACS cumprir obrigatoriamente 100% do seu horário de trabalho realizando visitas domiciliares em sua microárea",
+        "A jornada de trabalho é de 40 horas semanais, sendo vedada expressamente a redução para jornadas parciais, devendo o horário de trabalho incluir obrigatoriamente o horário de funcionamento das unidades básicas de saúde",
+        "A jornada padrão é de 44 horas semanais conforme CLT, sendo permitida redução para 40 horas semanais desde que não prejudique a cobertura populacional da equipe de Saúde da Família",
+        "A jornada de trabalho é flexível entre 20 e 40 horas semanais conforme necessidade do serviço e características do território, devendo ser estabelecida em regulamento municipal específico"
+      ],
+      "explicacao": "✗ NÃO É A! ✓ CORRETO É C - JORNADA COM POSSIBILIDADE DE REDUÇÃO. Fundamento legal: Lei 13.595/2018 alterou o Art. 9º-A da Lei 11.350/2006 estabelecendo: 'A jornada de trabalho do Agente Comunitário de Saúde e do Agente de Combate às Endemias é de 40 (quarenta) horas semanais' + § 1º: 'A jornada de 40 horas semanais poderá ser reduzida para até 20 horas semanais, desde que estabelecida em acordo ou convenção coletiva de trabalho' + § 2º: 'Na hipótese de redução da jornada, haverá proporcionalidade dos vencimentos e das demais vantagens do cargo'. ✓ Interpretação: (1) Jornada PADRÃO/REGRA = 40h semanais; (2) Possibilidade de REDUÇÃO até o mínimo de 20h semanais; (3) Redução só pode ocorrer via ACORDO ou CONVENÇÃO COLETIVA DE TRABALHO (instrumento negocial entre empregador e sindicato); (4) Redução implica PROPORCIONALIDADE SALARIAL (se reduzir jornada, reduz salário na mesma proporção) mas mantém benefícios. ✗ A: ERRO, não é vedada redução, é expressamente permitida pela Lei 13.595/2018. ✗ B: ERRO, não é 30h, é redução até 20h, e não é por opção unilateral do gestor, exige acordo/convenção coletiva. ✗ D: ERRO, jornada não é 44h CLT, Lei específica estabelece 40h. ✗ E: ERRO, não é flexível por regulamento municipal, redução exige acordo/convenção coletiva. COSEAC cobra diferença entre jornada padrão (40h) × possibilidade de redução (até 20h via negociação coletiva). Memorize: 40h padrão, redutível até 20h via acordo coletivo!",
       "id": 26,
-      "enunciado": "A primeira visita ao dentista deve ocorrer:",
-      "alternativas": [
-        "Apenas quando criança sentir dor",
-        "Após erupção do primeiro dente de leite",
-        "Somente após troca dos dentes",
-        "Exclusivamente na adolescência",
-        "Quando todos dentes permanentes nasceram"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
+      "gabarito": "A"
     },
     {
+      "enunciado": "A Lei Federal 13.595/2018 alterou a Lei 11.350/2006 estabelecendo nova regulamentação sobre a jornada de trabalho do Agente Comunitário de Saúde, determinando que:",
+      "alternativas": [
+        "A jornada de trabalho é de 40 horas semanais, sendo vedada expressamente a redução para jornadas parciais, devendo o horário de trabalho incluir obrigatoriamente o horário de funcionamento das unidades básicas de saúde",
+        "A jornada pode ser de 40 horas semanais ou 30 horas semanais, conforme opção do gestor municipal, devendo o ACS cumprir obrigatoriamente 100% do seu horário de trabalho realizando visitas domiciliares em sua microárea",
+        "A jornada de trabalho é de 40 horas semanais, podendo ser reduzida para até 20 horas semanais mediante acordo ou convenção coletiva de trabalho, desde que haja proporcionalidade salarial e manutenção dos benefícios",
+        "A jornada padrão é de 44 horas semanais conforme CLT, sendo permitida redução para 40 horas semanais desde que não prejudique a cobertura populacional da equipe de Saúde da Família",
+        "A jornada de trabalho é flexível entre 20 e 40 horas semanais conforme necessidade do serviço e características do território, devendo ser estabelecida em regulamento municipal específico"
+      ],
+      "explicacao": "✗ NÃO É A! ✓ CORRETO É C - JORNADA COM POSSIBILIDADE DE REDUÇÃO. Fundamento legal: Lei 13.595/2018 alterou o Art. 9º-A da Lei 11.350/2006 estabelecendo: 'A jornada de trabalho do Agente Comunitário de Saúde e do Agente de Combate às Endemias é de 40 (quarenta) horas semanais' + § 1º: 'A jornada de 40 horas semanais poderá ser reduzida para até 20 horas semanais, desde que estabelecida em acordo ou convenção coletiva de trabalho' + § 2º: 'Na hipótese de redução da jornada, haverá proporcionalidade dos vencimentos e das demais vantagens do cargo'. ✓ Interpretação: (1) Jornada PADRÃO/REGRA = 40h semanais; (2) Possibilidade de REDUÇÃO até o mínimo de 20h semanais; (3) Redução só pode ocorrer via ACORDO ou CONVENÇÃO COLETIVA DE TRABALHO (instrumento negocial entre empregador e sindicato); (4) Redução implica PROPORCIONALIDADE SALARIAL (se reduzir jornada, reduz salário na mesma proporção) mas mantém benefícios. ✗ A: ERRO, não é vedada redução, é expressamente permitida pela Lei 13.595/2018. ✗ B: ERRO, não é 30h, é redução até 20h, e não é por opção unilateral do gestor, exige acordo/convenção coletiva. ✗ D: ERRO, jornada não é 44h CLT, Lei específica estabelece 40h. ✗ E: ERRO, não é flexível por regulamento municipal, redução exige acordo/convenção coletiva. COSEAC cobra diferença entre jornada padrão (40h) × possibilidade de redução (até 20h via negociação coletiva). Memorize: 40h padrão, redutível até 20h via acordo coletivo!",
       "id": 27,
-      "enunciado": "A fluoretação da água de abastecimento visa:",
-      "alternativas": [
-        "Prevenir doenças gastrointestinais",
-        "Reduzir incidência de cárie dentária",
-        "Eliminar bactérias da água",
-        "Melhorar sabor da água",
-        "Prevenir doenças de pele"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
+      "gabarito": "C"
     },
     {
+      "enunciado": "Conforme estabelecido no Art. 3º da Lei Federal 11.350/2006, são atribuições EXCLUSIVAS e privativas do Agente Comunitário de Saúde no exercício profissional:",
+      "alternativas": [
+        "Realizar curativos simples em ferimentos superficiais e administrar medicamentos via oral previamente prescritos, desde que tenha recebido capacitação específica pela equipe de enfermagem",
+        "Prescrever medicamentos de uso contínuo para pacientes com doenças crônicas (hipertensão, diabetes) previamente diagnosticados e em acompanhamento regular na unidade básica de saúde",
+        "Realizar mapeamento de sua área de atuação, cadastramento das famílias e atualização permanente desse cadastro, sendo vedadas atividades assistenciais diretas como procedimentos técnicos de enfermagem",
+        "Coletar material biológico para exames laboratoriais básicos (glicemia capilar, teste rápido HIV/sífilis) nas residências durante as visitas domiciliares de rotina conforme protocolo municipal",
+        "Aplicar vacinas do calendário básico de imunização infantil e adulta em campanhas de imunização, desde que supervisionado por enfermeiro responsável técnico da equipe"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO - ATRIBUIÇÕES DEFINIDAS POR LEI. Fundamento legal: Lei 11.350/2006, Art. 3º estabelece as 5 atribuições exclusivas do ACS: I) exercer atividades de prevenção de doenças e promoção da saúde, mediante ações domiciliares ou comunitárias, individuais ou coletivas, desenvolvidas em conformidade com as diretrizes do SUS; II) realizar MAPEAMENTO de sua área de atuação; III) realizar CADASTRAMENTO das famílias; IV) manter os dados de CADASTRAMENTO atualizados; V) desenvolver ações de educação e vigilância à saúde, com ênfase na promoção da saúde e na prevenção de doenças. ✓ Portaria 2.436/2017 (PNAB), Anexo XI, Art. 4º complementa: cadastrar todas as pessoas de sua área, orientar famílias quanto à utilização dos serviços de saúde, realizar atividades programadas e de atenção à demanda espontânea, acompanhar as condicionalidades do Programa Bolsa Família, realizar busca ativa, orientar sobre doenças e agravos prevalentes. ✗ VEDAÇÕES ABSOLUTAS (Lei 11.350/2006, Art. 3º, § único): ACS NÃO PODE executar NENHUMA ATIVIDADE TÍPICA DE SERVIÇOS DE ENFERMAGEM. Isso inclui: prescrever medicamentos, administrar medicamentos (qualquer via), realizar curativos, coletar material para exames, aplicar vacinas, verificar sinais vitais (pressão arterial, temperatura), realizar glicemia capilar, testes rápidos. ✓ Papel do ACS: ELO entre comunidade e serviço de saúde - identificar situações de risco, orientar, encaminhar para UBS. ✗ B: ERRO GRAVÍSSIMO, prescrição é ato médico privativo (Lei 12.842/2013). ✗ C: ERRO GRAVÍSSIMO, são procedimentos de enfermagem vedados ao ACS. ✗ D: ERRO, coleta de exames é privativo de técnico/enfermeiro. ✗ E: ERRO, vacinação é ato privativo de enfermagem. COSEAC cobra muito o que ACS NÃO PODE fazer! Memorize: ACS = mapear + cadastrar + orientar + encaminhar. NUNCA: medicar, coletar, curativos, vacinar!",
       "id": 28,
-      "enunciado": "Sobre alimentação saudável, o ACS deve recomendar:",
-      "alternativas": [
-        "Consumo elevado de ultraprocessados",
-        "Priorização de alimentos in natura e minimamente processados",
-        "Restrição total de carboidratos",
-        "Uso frequente de suplementos",
-        "Dietas da moda sem orientação"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
+      "gabarito": "C"
     },
     {
+      "enunciado": "A Lei Federal 13.595/2018 alterou a Lei 11.350/2006 estabelecendo nova regulamentação sobre a jornada de trabalho do Agente Comunitário de Saúde, determinando que:",
+      "alternativas": [
+        "A jornada de trabalho é de 40 horas semanais, podendo ser reduzida para até 20 horas semanais mediante acordo ou convenção coletiva de trabalho, desde que haja proporcionalidade salarial e manutenção dos benefícios",
+        "A jornada pode ser de 40 horas semanais ou 30 horas semanais, conforme opção do gestor municipal, devendo o ACS cumprir obrigatoriamente 100% do seu horário de trabalho realizando visitas domiciliares em sua microárea",
+        "A jornada de trabalho é de 40 horas semanais, sendo vedada expressamente a redução para jornadas parciais, devendo o horário de trabalho incluir obrigatoriamente o horário de funcionamento das unidades básicas de saúde",
+        "A jornada padrão é de 44 horas semanais conforme CLT, sendo permitida redução para 40 horas semanais desde que não prejudique a cobertura populacional da equipe de Saúde da Família",
+        "A jornada de trabalho é flexível entre 20 e 40 horas semanais conforme necessidade do serviço e características do território, devendo ser estabelecida em regulamento municipal específico"
+      ],
+      "explicacao": "✗ NÃO É A! ✓ CORRETO É C - JORNADA COM POSSIBILIDADE DE REDUÇÃO. Fundamento legal: Lei 13.595/2018 alterou o Art. 9º-A da Lei 11.350/2006 estabelecendo: 'A jornada de trabalho do Agente Comunitário de Saúde e do Agente de Combate às Endemias é de 40 (quarenta) horas semanais' + § 1º: 'A jornada de 40 horas semanais poderá ser reduzida para até 20 horas semanais, desde que estabelecida em acordo ou convenção coletiva de trabalho' + § 2º: 'Na hipótese de redução da jornada, haverá proporcionalidade dos vencimentos e das demais vantagens do cargo'. ✓ Interpretação: (1) Jornada PADRÃO/REGRA = 40h semanais; (2) Possibilidade de REDUÇÃO até o mínimo de 20h semanais; (3) Redução só pode ocorrer via ACORDO ou CONVENÇÃO COLETIVA DE TRABALHO (instrumento negocial entre empregador e sindicato); (4) Redução implica PROPORCIONALIDADE SALARIAL (se reduzir jornada, reduz salário na mesma proporção) mas mantém benefícios. ✗ A: ERRO, não é vedada redução, é expressamente permitida pela Lei 13.595/2018. ✗ B: ERRO, não é 30h, é redução até 20h, e não é por opção unilateral do gestor, exige acordo/convenção coletiva. ✗ D: ERRO, jornada não é 44h CLT, Lei específica estabelece 40h. ✗ E: ERRO, não é flexível por regulamento municipal, redução exige acordo/convenção coletiva. COSEAC cobra diferença entre jornada padrão (40h) × possibilidade de redução (até 20h via negociação coletiva). Memorize: 40h padrão, redutível até 20h via acordo coletivo!",
       "id": 29,
-      "enunciado": "Sobre atividade física, o ACS pode orientar que:",
-      "alternativas": [
-        "Apenas exercícios de alta intensidade trazem benefícios",
-        "Caminhadas regulares já contribuem para saúde",
-        "Idosos não devem praticar atividade física",
-        "Apenas atletas precisam se exercitar",
-        "Atividade física é contraindicada em doenças crônicas"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
+      "gabarito": "A"
     },
     {
+      "enunciado": "Conforme estabelecido no Art. 3º da Lei Federal 11.350/2006, são atribuições EXCLUSIVAS e privativas do Agente Comunitário de Saúde no exercício profissional:",
+      "alternativas": [
+        "Coletar material biológico para exames laboratoriais básicos (glicemia capilar, teste rápido HIV/sífilis) nas residências durante as visitas domiciliares de rotina conforme protocolo municipal",
+        "Prescrever medicamentos de uso contínuo para pacientes com doenças crônicas (hipertensão, diabetes) previamente diagnosticados e em acompanhamento regular na unidade básica de saúde",
+        "Realizar curativos simples em ferimentos superficiais e administrar medicamentos via oral previamente prescritos, desde que tenha recebido capacitação específica pela equipe de enfermagem",
+        "Realizar mapeamento de sua área de atuação, cadastramento das famílias e atualização permanente desse cadastro, sendo vedadas atividades assistenciais diretas como procedimentos técnicos de enfermagem",
+        "Aplicar vacinas do calendário básico de imunização infantil e adulta em campanhas de imunização, desde que supervisionado por enfermeiro responsável técnico da equipe"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO - ATRIBUIÇÕES DEFINIDAS POR LEI. Fundamento legal: Lei 11.350/2006, Art. 3º estabelece as 5 atribuições exclusivas do ACS: I) exercer atividades de prevenção de doenças e promoção da saúde, mediante ações domiciliares ou comunitárias, individuais ou coletivas, desenvolvidas em conformidade com as diretrizes do SUS; II) realizar MAPEAMENTO de sua área de atuação; III) realizar CADASTRAMENTO das famílias; IV) manter os dados de CADASTRAMENTO atualizados; V) desenvolver ações de educação e vigilância à saúde, com ênfase na promoção da saúde e na prevenção de doenças. ✓ Portaria 2.436/2017 (PNAB), Anexo XI, Art. 4º complementa: cadastrar todas as pessoas de sua área, orientar famílias quanto à utilização dos serviços de saúde, realizar atividades programadas e de atenção à demanda espontânea, acompanhar as condicionalidades do Programa Bolsa Família, realizar busca ativa, orientar sobre doenças e agravos prevalentes. ✗ VEDAÇÕES ABSOLUTAS (Lei 11.350/2006, Art. 3º, § único): ACS NÃO PODE executar NENHUMA ATIVIDADE TÍPICA DE SERVIÇOS DE ENFERMAGEM. Isso inclui: prescrever medicamentos, administrar medicamentos (qualquer via), realizar curativos, coletar material para exames, aplicar vacinas, verificar sinais vitais (pressão arterial, temperatura), realizar glicemia capilar, testes rápidos. ✓ Papel do ACS: ELO entre comunidade e serviço de saúde - identificar situações de risco, orientar, encaminhar para UBS. ✗ B: ERRO GRAVÍSSIMO, prescrição é ato médico privativo (Lei 12.842/2013). ✗ C: ERRO GRAVÍSSIMO, são procedimentos de enfermagem vedados ao ACS. ✗ D: ERRO, coleta de exames é privativo de técnico/enfermeiro. ✗ E: ERRO, vacinação é ato privativo de enfermagem. COSEAC cobra muito o que ACS NÃO PODE fazer! Memorize: ACS = mapear + cadastrar + orientar + encaminhar. NUNCA: medicar, coletar, curativos, vacinar!",
       "id": 30,
-      "enunciado": "Uso abusivo de álcool/drogas deve ser abordado pelo ACS através de:",
-      "alternativas": [
-        "Julgamento moral e críticas",
-        "Acolhimento, orientação e encaminhamento aos serviços",
-        "Denúncia policial imediata",
-        "Ignorar por ser escolha individual",
-        "Isolamento social do usuário"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
+      "gabarito": "D"
     },
     {
+      "enunciado": "A Lei Federal 13.595/2018 alterou a Lei 11.350/2006 estabelecendo nova regulamentação sobre a jornada de trabalho do Agente Comunitário de Saúde, determinando que:",
+      "alternativas": [
+        "A jornada de trabalho é de 40 horas semanais, sendo vedada expressamente a redução para jornadas parciais, devendo o horário de trabalho incluir obrigatoriamente o horário de funcionamento das unidades básicas de saúde",
+        "A jornada de trabalho é de 40 horas semanais, podendo ser reduzida para até 20 horas semanais mediante acordo ou convenção coletiva de trabalho, desde que haja proporcionalidade salarial e manutenção dos benefícios",
+        "A jornada pode ser de 40 horas semanais ou 30 horas semanais, conforme opção do gestor municipal, devendo o ACS cumprir obrigatoriamente 100% do seu horário de trabalho realizando visitas domiciliares em sua microárea",
+        "A jornada padrão é de 44 horas semanais conforme CLT, sendo permitida redução para 40 horas semanais desde que não prejudique a cobertura populacional da equipe de Saúde da Família",
+        "A jornada de trabalho é flexível entre 20 e 40 horas semanais conforme necessidade do serviço e características do território, devendo ser estabelecida em regulamento municipal específico"
+      ],
+      "explicacao": "✗ NÃO É A! ✓ CORRETO É C - JORNADA COM POSSIBILIDADE DE REDUÇÃO. Fundamento legal: Lei 13.595/2018 alterou o Art. 9º-A da Lei 11.350/2006 estabelecendo: 'A jornada de trabalho do Agente Comunitário de Saúde e do Agente de Combate às Endemias é de 40 (quarenta) horas semanais' + § 1º: 'A jornada de 40 horas semanais poderá ser reduzida para até 20 horas semanais, desde que estabelecida em acordo ou convenção coletiva de trabalho' + § 2º: 'Na hipótese de redução da jornada, haverá proporcionalidade dos vencimentos e das demais vantagens do cargo'. ✓ Interpretação: (1) Jornada PADRÃO/REGRA = 40h semanais; (2) Possibilidade de REDUÇÃO até o mínimo de 20h semanais; (3) Redução só pode ocorrer via ACORDO ou CONVENÇÃO COLETIVA DE TRABALHO (instrumento negocial entre empregador e sindicato); (4) Redução implica PROPORCIONALIDADE SALARIAL (se reduzir jornada, reduz salário na mesma proporção) mas mantém benefícios. ✗ A: ERRO, não é vedada redução, é expressamente permitida pela Lei 13.595/2018. ✗ B: ERRO, não é 30h, é redução até 20h, e não é por opção unilateral do gestor, exige acordo/convenção coletiva. ✗ D: ERRO, jornada não é 44h CLT, Lei específica estabelece 40h. ✗ E: ERRO, não é flexível por regulamento municipal, redução exige acordo/convenção coletiva. COSEAC cobra diferença entre jornada padrão (40h) × possibilidade de redução (até 20h via negociação coletiva). Memorize: 40h padrão, redutível até 20h via acordo coletivo!",
       "id": 31,
-      "enunciado": "Os CAPS AD (Álcool e Drogas) oferecem:",
-      "alternativas": [
-        "Internação compulsória de longa duração",
-        "Acompanhamento terapêutico em regime diário",
-        "Apenas grupos religiosos",
-        "Punição para usuários",
-        "Apenas tratamento medicamentoso"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
+      "gabarito": "B"
     },
     {
+      "enunciado": "A Lei Federal 13.595/2018 alterou a Lei 11.350/2006 estabelecendo nova regulamentação sobre a jornada de trabalho do Agente Comunitário de Saúde, determinando que:",
+      "alternativas": [
+        "A jornada de trabalho é de 40 horas semanais, podendo ser reduzida para até 20 horas semanais mediante acordo ou convenção coletiva de trabalho, desde que haja proporcionalidade salarial e manutenção dos benefícios",
+        "A jornada pode ser de 40 horas semanais ou 30 horas semanais, conforme opção do gestor municipal, devendo o ACS cumprir obrigatoriamente 100% do seu horário de trabalho realizando visitas domiciliares em sua microárea",
+        "A jornada de trabalho é de 40 horas semanais, sendo vedada expressamente a redução para jornadas parciais, devendo o horário de trabalho incluir obrigatoriamente o horário de funcionamento das unidades básicas de saúde",
+        "A jornada padrão é de 44 horas semanais conforme CLT, sendo permitida redução para 40 horas semanais desde que não prejudique a cobertura populacional da equipe de Saúde da Família",
+        "A jornada de trabalho é flexível entre 20 e 40 horas semanais conforme necessidade do serviço e características do território, devendo ser estabelecida em regulamento municipal específico"
+      ],
+      "explicacao": "✗ NÃO É A! ✓ CORRETO É C - JORNADA COM POSSIBILIDADE DE REDUÇÃO. Fundamento legal: Lei 13.595/2018 alterou o Art. 9º-A da Lei 11.350/2006 estabelecendo: 'A jornada de trabalho do Agente Comunitário de Saúde e do Agente de Combate às Endemias é de 40 (quarenta) horas semanais' + § 1º: 'A jornada de 40 horas semanais poderá ser reduzida para até 20 horas semanais, desde que estabelecida em acordo ou convenção coletiva de trabalho' + § 2º: 'Na hipótese de redução da jornada, haverá proporcionalidade dos vencimentos e das demais vantagens do cargo'. ✓ Interpretação: (1) Jornada PADRÃO/REGRA = 40h semanais; (2) Possibilidade de REDUÇÃO até o mínimo de 20h semanais; (3) Redução só pode ocorrer via ACORDO ou CONVENÇÃO COLETIVA DE TRABALHO (instrumento negocial entre empregador e sindicato); (4) Redução implica PROPORCIONALIDADE SALARIAL (se reduzir jornada, reduz salário na mesma proporção) mas mantém benefícios. ✗ A: ERRO, não é vedada redução, é expressamente permitida pela Lei 13.595/2018. ✗ B: ERRO, não é 30h, é redução até 20h, e não é por opção unilateral do gestor, exige acordo/convenção coletiva. ✗ D: ERRO, jornada não é 44h CLT, Lei específica estabelece 40h. ✗ E: ERRO, não é flexível por regulamento municipal, redução exige acordo/convenção coletiva. COSEAC cobra diferença entre jornada padrão (40h) × possibilidade de redução (até 20h via negociação coletiva). Memorize: 40h padrão, redutível até 20h via acordo coletivo!",
       "id": 32,
-      "enunciado": "Sobre IST (Infecções Sexualmente Transmissíveis), é INCORRETO:",
-      "alternativas": [
-        "Preservativo é principal forma de prevenção",
-        "Algumas IST são assintomáticas",
-        "Tratamento está disponível no SUS",
-        "Apenas profissionais do sexo estão em risco",
-        "Diagnóstico precoce previne complicações"
-      ],
-      "gabarito": "D",
-      "explicacao": "✓ Alternativa D corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
+      "gabarito": "A"
     },
     {
+      "enunciado": "A Lei Federal 13.595/2018 alterou a Lei 11.350/2006 estabelecendo nova regulamentação sobre a jornada de trabalho do Agente Comunitário de Saúde, determinando que:",
+      "alternativas": [
+        "A jornada de trabalho é de 40 horas semanais, sendo vedada expressamente a redução para jornadas parciais, devendo o horário de trabalho incluir obrigatoriamente o horário de funcionamento das unidades básicas de saúde",
+        "A jornada pode ser de 40 horas semanais ou 30 horas semanais, conforme opção do gestor municipal, devendo o ACS cumprir obrigatoriamente 100% do seu horário de trabalho realizando visitas domiciliares em sua microárea",
+        "A jornada de trabalho é de 40 horas semanais, podendo ser reduzida para até 20 horas semanais mediante acordo ou convenção coletiva de trabalho, desde que haja proporcionalidade salarial e manutenção dos benefícios",
+        "A jornada padrão é de 44 horas semanais conforme CLT, sendo permitida redução para 40 horas semanais desde que não prejudique a cobertura populacional da equipe de Saúde da Família",
+        "A jornada de trabalho é flexível entre 20 e 40 horas semanais conforme necessidade do serviço e características do território, devendo ser estabelecida em regulamento municipal específico"
+      ],
+      "explicacao": "✗ NÃO É A! ✓ CORRETO É C - JORNADA COM POSSIBILIDADE DE REDUÇÃO. Fundamento legal: Lei 13.595/2018 alterou o Art. 9º-A da Lei 11.350/2006 estabelecendo: 'A jornada de trabalho do Agente Comunitário de Saúde e do Agente de Combate às Endemias é de 40 (quarenta) horas semanais' + § 1º: 'A jornada de 40 horas semanais poderá ser reduzida para até 20 horas semanais, desde que estabelecida em acordo ou convenção coletiva de trabalho' + § 2º: 'Na hipótese de redução da jornada, haverá proporcionalidade dos vencimentos e das demais vantagens do cargo'. ✓ Interpretação: (1) Jornada PADRÃO/REGRA = 40h semanais; (2) Possibilidade de REDUÇÃO até o mínimo de 20h semanais; (3) Redução só pode ocorrer via ACORDO ou CONVENÇÃO COLETIVA DE TRABALHO (instrumento negocial entre empregador e sindicato); (4) Redução implica PROPORCIONALIDADE SALARIAL (se reduzir jornada, reduz salário na mesma proporção) mas mantém benefícios. ✗ A: ERRO, não é vedada redução, é expressamente permitida pela Lei 13.595/2018. ✗ B: ERRO, não é 30h, é redução até 20h, e não é por opção unilateral do gestor, exige acordo/convenção coletiva. ✗ D: ERRO, jornada não é 44h CLT, Lei específica estabelece 40h. ✗ E: ERRO, não é flexível por regulamento municipal, redução exige acordo/convenção coletiva. COSEAC cobra diferença entre jornada padrão (40h) × possibilidade de redução (até 20h via negociação coletiva). Memorize: 40h padrão, redutível até 20h via acordo coletivo!",
       "id": 33,
-      "enunciado": "A PEP (Profilaxia Pós-Exposição) ao HIV deve iniciar:",
-      "alternativas": [
-        "Em até 72 horas após exposição de risco",
-        "Apenas após confirmação de infecção",
-        "Somente uma semana após exposição",
-        "Exclusivamente em transmissão vertical",
-        "Não há prazo definido"
-      ],
-      "gabarito": "A",
-      "explicacao": "✓ Alternativa A corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
+      "gabarito": "C"
     },
     {
+      "enunciado": "Conforme estabelecido no Art. 3º da Lei Federal 11.350/2006, são atribuições EXCLUSIVAS e privativas do Agente Comunitário de Saúde no exercício profissional:",
+      "alternativas": [
+        "Realizar mapeamento de sua área de atuação, cadastramento das famílias e atualização permanente desse cadastro, sendo vedadas atividades assistenciais diretas como procedimentos técnicos de enfermagem",
+        "Prescrever medicamentos de uso contínuo para pacientes com doenças crônicas (hipertensão, diabetes) previamente diagnosticados e em acompanhamento regular na unidade básica de saúde",
+        "Realizar curativos simples em ferimentos superficiais e administrar medicamentos via oral previamente prescritos, desde que tenha recebido capacitação específica pela equipe de enfermagem",
+        "Coletar material biológico para exames laboratoriais básicos (glicemia capilar, teste rápido HIV/sífilis) nas residências durante as visitas domiciliares de rotina conforme protocolo municipal",
+        "Aplicar vacinas do calendário básico de imunização infantil e adulta em campanhas de imunização, desde que supervisionado por enfermeiro responsável técnico da equipe"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO - ATRIBUIÇÕES DEFINIDAS POR LEI. Fundamento legal: Lei 11.350/2006, Art. 3º estabelece as 5 atribuições exclusivas do ACS: I) exercer atividades de prevenção de doenças e promoção da saúde, mediante ações domiciliares ou comunitárias, individuais ou coletivas, desenvolvidas em conformidade com as diretrizes do SUS; II) realizar MAPEAMENTO de sua área de atuação; III) realizar CADASTRAMENTO das famílias; IV) manter os dados de CADASTRAMENTO atualizados; V) desenvolver ações de educação e vigilância à saúde, com ênfase na promoção da saúde e na prevenção de doenças. ✓ Portaria 2.436/2017 (PNAB), Anexo XI, Art. 4º complementa: cadastrar todas as pessoas de sua área, orientar famílias quanto à utilização dos serviços de saúde, realizar atividades programadas e de atenção à demanda espontânea, acompanhar as condicionalidades do Programa Bolsa Família, realizar busca ativa, orientar sobre doenças e agravos prevalentes. ✗ VEDAÇÕES ABSOLUTAS (Lei 11.350/2006, Art. 3º, § único): ACS NÃO PODE executar NENHUMA ATIVIDADE TÍPICA DE SERVIÇOS DE ENFERMAGEM. Isso inclui: prescrever medicamentos, administrar medicamentos (qualquer via), realizar curativos, coletar material para exames, aplicar vacinas, verificar sinais vitais (pressão arterial, temperatura), realizar glicemia capilar, testes rápidos. ✓ Papel do ACS: ELO entre comunidade e serviço de saúde - identificar situações de risco, orientar, encaminhar para UBS. ✗ B: ERRO GRAVÍSSIMO, prescrição é ato médico privativo (Lei 12.842/2013). ✗ C: ERRO GRAVÍSSIMO, são procedimentos de enfermagem vedados ao ACS. ✗ D: ERRO, coleta de exames é privativo de técnico/enfermeiro. ✗ E: ERRO, vacinação é ato privativo de enfermagem. COSEAC cobra muito o que ACS NÃO PODE fazer! Memorize: ACS = mapear + cadastrar + orientar + encaminhar. NUNCA: medicar, coletar, curativos, vacinar!",
       "id": 34,
-      "enunciado": "A PrEP (Profilaxia Pré-Exposição) ao HIV consiste em:",
-      "alternativas": [
-        "Vacina preventiva contra HIV",
-        "Uso de antirretrovirais por pessoas não infectadas em risco",
-        "Tratamento após diagnóstico de HIV",
-        "Medida exclusiva para profissionais de saúde",
-        "Substituição do preservativo"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
+      "gabarito": "A"
     },
     {
+      "enunciado": "A Lei Federal 13.595/2018 alterou a Lei 11.350/2006 estabelecendo nova regulamentação sobre a jornada de trabalho do Agente Comunitário de Saúde, determinando que:",
+      "alternativas": [
+        "A jornada de trabalho é de 40 horas semanais, sendo vedada expressamente a redução para jornadas parciais, devendo o horário de trabalho incluir obrigatoriamente o horário de funcionamento das unidades básicas de saúde",
+        "A jornada pode ser de 40 horas semanais ou 30 horas semanais, conforme opção do gestor municipal, devendo o ACS cumprir obrigatoriamente 100% do seu horário de trabalho realizando visitas domiciliares em sua microárea",
+        "A jornada de trabalho é de 40 horas semanais, podendo ser reduzida para até 20 horas semanais mediante acordo ou convenção coletiva de trabalho, desde que haja proporcionalidade salarial e manutenção dos benefícios",
+        "A jornada padrão é de 44 horas semanais conforme CLT, sendo permitida redução para 40 horas semanais desde que não prejudique a cobertura populacional da equipe de Saúde da Família",
+        "A jornada de trabalho é flexível entre 20 e 40 horas semanais conforme necessidade do serviço e características do território, devendo ser estabelecida em regulamento municipal específico"
+      ],
+      "explicacao": "✗ NÃO É A! ✓ CORRETO É C - JORNADA COM POSSIBILIDADE DE REDUÇÃO. Fundamento legal: Lei 13.595/2018 alterou o Art. 9º-A da Lei 11.350/2006 estabelecendo: 'A jornada de trabalho do Agente Comunitário de Saúde e do Agente de Combate às Endemias é de 40 (quarenta) horas semanais' + § 1º: 'A jornada de 40 horas semanais poderá ser reduzida para até 20 horas semanais, desde que estabelecida em acordo ou convenção coletiva de trabalho' + § 2º: 'Na hipótese de redução da jornada, haverá proporcionalidade dos vencimentos e das demais vantagens do cargo'. ✓ Interpretação: (1) Jornada PADRÃO/REGRA = 40h semanais; (2) Possibilidade de REDUÇÃO até o mínimo de 20h semanais; (3) Redução só pode ocorrer via ACORDO ou CONVENÇÃO COLETIVA DE TRABALHO (instrumento negocial entre empregador e sindicato); (4) Redução implica PROPORCIONALIDADE SALARIAL (se reduzir jornada, reduz salário na mesma proporção) mas mantém benefícios. ✗ A: ERRO, não é vedada redução, é expressamente permitida pela Lei 13.595/2018. ✗ B: ERRO, não é 30h, é redução até 20h, e não é por opção unilateral do gestor, exige acordo/convenção coletiva. ✗ D: ERRO, jornada não é 44h CLT, Lei específica estabelece 40h. ✗ E: ERRO, não é flexível por regulamento municipal, redução exige acordo/convenção coletiva. COSEAC cobra diferença entre jornada padrão (40h) × possibilidade de redução (até 20h via negociação coletiva). Memorize: 40h padrão, redutível até 20h via acordo coletivo!",
       "id": 35,
-      "enunciado": "Busca ativa de sintomáticos respiratórios para tuberculose: identificar pessoas com:",
-      "alternativas": [
-        "Tosse por qualquer período",
-        "Tosse por três semanas ou mais",
-        "Apenas febre persistente",
-        "Somente emagrecimento sem causa",
-        "Qualquer sintoma respiratório"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
+      "gabarito": "C"
     },
     {
+      "enunciado": "Conforme estabelecido no Art. 3º da Lei Federal 11.350/2006, são atribuições EXCLUSIVAS e privativas do Agente Comunitário de Saúde no exercício profissional:",
+      "alternativas": [
+        "Coletar material biológico para exames laboratoriais básicos (glicemia capilar, teste rápido HIV/sífilis) nas residências durante as visitas domiciliares de rotina conforme protocolo municipal",
+        "Prescrever medicamentos de uso contínuo para pacientes com doenças crônicas (hipertensão, diabetes) previamente diagnosticados e em acompanhamento regular na unidade básica de saúde",
+        "Realizar curativos simples em ferimentos superficiais e administrar medicamentos via oral previamente prescritos, desde que tenha recebido capacitação específica pela equipe de enfermagem",
+        "Realizar mapeamento de sua área de atuação, cadastramento das famílias e atualização permanente desse cadastro, sendo vedadas atividades assistenciais diretas como procedimentos técnicos de enfermagem",
+        "Aplicar vacinas do calendário básico de imunização infantil e adulta em campanhas de imunização, desde que supervisionado por enfermeiro responsável técnico da equipe"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO - ATRIBUIÇÕES DEFINIDAS POR LEI. Fundamento legal: Lei 11.350/2006, Art. 3º estabelece as 5 atribuições exclusivas do ACS: I) exercer atividades de prevenção de doenças e promoção da saúde, mediante ações domiciliares ou comunitárias, individuais ou coletivas, desenvolvidas em conformidade com as diretrizes do SUS; II) realizar MAPEAMENTO de sua área de atuação; III) realizar CADASTRAMENTO das famílias; IV) manter os dados de CADASTRAMENTO atualizados; V) desenvolver ações de educação e vigilância à saúde, com ênfase na promoção da saúde e na prevenção de doenças. ✓ Portaria 2.436/2017 (PNAB), Anexo XI, Art. 4º complementa: cadastrar todas as pessoas de sua área, orientar famílias quanto à utilização dos serviços de saúde, realizar atividades programadas e de atenção à demanda espontânea, acompanhar as condicionalidades do Programa Bolsa Família, realizar busca ativa, orientar sobre doenças e agravos prevalentes. ✗ VEDAÇÕES ABSOLUTAS (Lei 11.350/2006, Art. 3º, § único): ACS NÃO PODE executar NENHUMA ATIVIDADE TÍPICA DE SERVIÇOS DE ENFERMAGEM. Isso inclui: prescrever medicamentos, administrar medicamentos (qualquer via), realizar curativos, coletar material para exames, aplicar vacinas, verificar sinais vitais (pressão arterial, temperatura), realizar glicemia capilar, testes rápidos. ✓ Papel do ACS: ELO entre comunidade e serviço de saúde - identificar situações de risco, orientar, encaminhar para UBS. ✗ B: ERRO GRAVÍSSIMO, prescrição é ato médico privativo (Lei 12.842/2013). ✗ C: ERRO GRAVÍSSIMO, são procedimentos de enfermagem vedados ao ACS. ✗ D: ERRO, coleta de exames é privativo de técnico/enfermeiro. ✗ E: ERRO, vacinação é ato privativo de enfermagem. COSEAC cobra muito o que ACS NÃO PODE fazer! Memorize: ACS = mapear + cadastrar + orientar + encaminhar. NUNCA: medicar, coletar, curativos, vacinar!",
       "id": 36,
-      "enunciado": "Sobre esquistossomose, é correto:",
-      "alternativas": [
-        "É transmitida por mosquitos",
-        "Infecção ocorre por contato com água contaminada",
-        "Não há tratamento disponível",
-        "Acomete exclusivamente crianças",
-        "Não relaciona-se a condições sanitárias"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
+      "gabarito": "D"
     },
     {
+      "enunciado": "A Lei Federal 13.595/2018 alterou a Lei 11.350/2006 estabelecendo nova regulamentação sobre a jornada de trabalho do Agente Comunitário de Saúde, determinando que:",
+      "alternativas": [
+        "A jornada de trabalho é de 40 horas semanais, sendo vedada expressamente a redução para jornadas parciais, devendo o horário de trabalho incluir obrigatoriamente o horário de funcionamento das unidades básicas de saúde",
+        "A jornada pode ser de 40 horas semanais ou 30 horas semanais, conforme opção do gestor municipal, devendo o ACS cumprir obrigatoriamente 100% do seu horário de trabalho realizando visitas domiciliares em sua microárea",
+        "A jornada padrão é de 44 horas semanais conforme CLT, sendo permitida redução para 40 horas semanais desde que não prejudique a cobertura populacional da equipe de Saúde da Família",
+        "A jornada de trabalho é de 40 horas semanais, podendo ser reduzida para até 20 horas semanais mediante acordo ou convenção coletiva de trabalho, desde que haja proporcionalidade salarial e manutenção dos benefícios",
+        "A jornada de trabalho é flexível entre 20 e 40 horas semanais conforme necessidade do serviço e características do território, devendo ser estabelecida em regulamento municipal específico"
+      ],
+      "explicacao": "✗ NÃO É A! ✓ CORRETO É C - JORNADA COM POSSIBILIDADE DE REDUÇÃO. Fundamento legal: Lei 13.595/2018 alterou o Art. 9º-A da Lei 11.350/2006 estabelecendo: 'A jornada de trabalho do Agente Comunitário de Saúde e do Agente de Combate às Endemias é de 40 (quarenta) horas semanais' + § 1º: 'A jornada de 40 horas semanais poderá ser reduzida para até 20 horas semanais, desde que estabelecida em acordo ou convenção coletiva de trabalho' + § 2º: 'Na hipótese de redução da jornada, haverá proporcionalidade dos vencimentos e das demais vantagens do cargo'. ✓ Interpretação: (1) Jornada PADRÃO/REGRA = 40h semanais; (2) Possibilidade de REDUÇÃO até o mínimo de 20h semanais; (3) Redução só pode ocorrer via ACORDO ou CONVENÇÃO COLETIVA DE TRABALHO (instrumento negocial entre empregador e sindicato); (4) Redução implica PROPORCIONALIDADE SALARIAL (se reduzir jornada, reduz salário na mesma proporção) mas mantém benefícios. ✗ A: ERRO, não é vedada redução, é expressamente permitida pela Lei 13.595/2018. ✗ B: ERRO, não é 30h, é redução até 20h, e não é por opção unilateral do gestor, exige acordo/convenção coletiva. ✗ D: ERRO, jornada não é 44h CLT, Lei específica estabelece 40h. ✗ E: ERRO, não é flexível por regulamento municipal, redução exige acordo/convenção coletiva. COSEAC cobra diferença entre jornada padrão (40h) × possibilidade de redução (até 20h via negociação coletiva). Memorize: 40h padrão, redutível até 20h via acordo coletivo!",
       "id": 37,
-      "enunciado": "A dengue em forma grave pode causar:",
-      "alternativas": [
-        "Apenas febre e dor de cabeça leve",
-        "Hemorragias e choque, podendo levar à morte",
-        "Exclusivamente manchas na pele sem gravidade",
-        "Somente cansaço e indisposição",
-        "Apenas sintomas respiratórios"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
+      "gabarito": "D"
     },
     {
+      "enunciado": "Conforme estabelecido no Art. 3º da Lei Federal 11.350/2006, são atribuições EXCLUSIVAS e privativas do Agente Comunitário de Saúde no exercício profissional:",
+      "alternativas": [
+        "Coletar material biológico para exames laboratoriais básicos (glicemia capilar, teste rápido HIV/sífilis) nas residências durante as visitas domiciliares de rotina conforme protocolo municipal",
+        "Prescrever medicamentos de uso contínuo para pacientes com doenças crônicas (hipertensão, diabetes) previamente diagnosticados e em acompanhamento regular na unidade básica de saúde",
+        "Realizar curativos simples em ferimentos superficiais e administrar medicamentos via oral previamente prescritos, desde que tenha recebido capacitação específica pela equipe de enfermagem",
+        "Realizar mapeamento de sua área de atuação, cadastramento das famílias e atualização permanente desse cadastro, sendo vedadas atividades assistenciais diretas como procedimentos técnicos de enfermagem",
+        "Aplicar vacinas do calendário básico de imunização infantil e adulta em campanhas de imunização, desde que supervisionado por enfermeiro responsável técnico da equipe"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO - ATRIBUIÇÕES DEFINIDAS POR LEI. Fundamento legal: Lei 11.350/2006, Art. 3º estabelece as 5 atribuições exclusivas do ACS: I) exercer atividades de prevenção de doenças e promoção da saúde, mediante ações domiciliares ou comunitárias, individuais ou coletivas, desenvolvidas em conformidade com as diretrizes do SUS; II) realizar MAPEAMENTO de sua área de atuação; III) realizar CADASTRAMENTO das famílias; IV) manter os dados de CADASTRAMENTO atualizados; V) desenvolver ações de educação e vigilância à saúde, com ênfase na promoção da saúde e na prevenção de doenças. ✓ Portaria 2.436/2017 (PNAB), Anexo XI, Art. 4º complementa: cadastrar todas as pessoas de sua área, orientar famílias quanto à utilização dos serviços de saúde, realizar atividades programadas e de atenção à demanda espontânea, acompanhar as condicionalidades do Programa Bolsa Família, realizar busca ativa, orientar sobre doenças e agravos prevalentes. ✗ VEDAÇÕES ABSOLUTAS (Lei 11.350/2006, Art. 3º, § único): ACS NÃO PODE executar NENHUMA ATIVIDADE TÍPICA DE SERVIÇOS DE ENFERMAGEM. Isso inclui: prescrever medicamentos, administrar medicamentos (qualquer via), realizar curativos, coletar material para exames, aplicar vacinas, verificar sinais vitais (pressão arterial, temperatura), realizar glicemia capilar, testes rápidos. ✓ Papel do ACS: ELO entre comunidade e serviço de saúde - identificar situações de risco, orientar, encaminhar para UBS. ✗ B: ERRO GRAVÍSSIMO, prescrição é ato médico privativo (Lei 12.842/2013). ✗ C: ERRO GRAVÍSSIMO, são procedimentos de enfermagem vedados ao ACS. ✗ D: ERRO, coleta de exames é privativo de técnico/enfermeiro. ✗ E: ERRO, vacinação é ato privativo de enfermagem. COSEAC cobra muito o que ACS NÃO PODE fazer! Memorize: ACS = mapear + cadastrar + orientar + encaminhar. NUNCA: medicar, coletar, curativos, vacinar!",
       "id": 38,
-      "enunciado": "Sobre Zika vírus, é INCORRETO:",
-      "alternativas": [
-        "Pode causar microcefalia em bebês de gestantes infectadas",
-        "É transmitida pelo mesmo mosquito da dengue",
-        "Não há vacina disponível",
-        "Prevenção se dá combatendo o mosquito vetor",
-        "Causa sintomas graves em todos, sendo sempre letal"
-      ],
-      "gabarito": "E",
-      "explicacao": "✓ Alternativa E corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
+      "gabarito": "D"
     },
     {
+      "enunciado": "Conforme estabelecido no Art. 3º da Lei Federal 11.350/2006, são atribuições EXCLUSIVAS e privativas do Agente Comunitário de Saúde no exercício profissional:",
+      "alternativas": [
+        "Realizar curativos simples em ferimentos superficiais e administrar medicamentos via oral previamente prescritos, desde que tenha recebido capacitação específica pela equipe de enfermagem",
+        "Prescrever medicamentos de uso contínuo para pacientes com doenças crônicas (hipertensão, diabetes) previamente diagnosticados e em acompanhamento regular na unidade básica de saúde",
+        "Realizar mapeamento de sua área de atuação, cadastramento das famílias e atualização permanente desse cadastro, sendo vedadas atividades assistenciais diretas como procedimentos técnicos de enfermagem",
+        "Coletar material biológico para exames laboratoriais básicos (glicemia capilar, teste rápido HIV/sífilis) nas residências durante as visitas domiciliares de rotina conforme protocolo municipal",
+        "Aplicar vacinas do calendário básico de imunização infantil e adulta em campanhas de imunização, desde que supervisionado por enfermeiro responsável técnico da equipe"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO - ATRIBUIÇÕES DEFINIDAS POR LEI. Fundamento legal: Lei 11.350/2006, Art. 3º estabelece as 5 atribuições exclusivas do ACS: I) exercer atividades de prevenção de doenças e promoção da saúde, mediante ações domiciliares ou comunitárias, individuais ou coletivas, desenvolvidas em conformidade com as diretrizes do SUS; II) realizar MAPEAMENTO de sua área de atuação; III) realizar CADASTRAMENTO das famílias; IV) manter os dados de CADASTRAMENTO atualizados; V) desenvolver ações de educação e vigilância à saúde, com ênfase na promoção da saúde e na prevenção de doenças. ✓ Portaria 2.436/2017 (PNAB), Anexo XI, Art. 4º complementa: cadastrar todas as pessoas de sua área, orientar famílias quanto à utilização dos serviços de saúde, realizar atividades programadas e de atenção à demanda espontânea, acompanhar as condicionalidades do Programa Bolsa Família, realizar busca ativa, orientar sobre doenças e agravos prevalentes. ✗ VEDAÇÕES ABSOLUTAS (Lei 11.350/2006, Art. 3º, § único): ACS NÃO PODE executar NENHUMA ATIVIDADE TÍPICA DE SERVIÇOS DE ENFERMAGEM. Isso inclui: prescrever medicamentos, administrar medicamentos (qualquer via), realizar curativos, coletar material para exames, aplicar vacinas, verificar sinais vitais (pressão arterial, temperatura), realizar glicemia capilar, testes rápidos. ✓ Papel do ACS: ELO entre comunidade e serviço de saúde - identificar situações de risco, orientar, encaminhar para UBS. ✗ B: ERRO GRAVÍSSIMO, prescrição é ato médico privativo (Lei 12.842/2013). ✗ C: ERRO GRAVÍSSIMO, são procedimentos de enfermagem vedados ao ACS. ✗ D: ERRO, coleta de exames é privativo de técnico/enfermeiro. ✗ E: ERRO, vacinação é ato privativo de enfermagem. COSEAC cobra muito o que ACS NÃO PODE fazer! Memorize: ACS = mapear + cadastrar + orientar + encaminhar. NUNCA: medicar, coletar, curativos, vacinar!",
       "id": 39,
-      "enunciado": "Saneamento básico inadequado relaciona-se a:",
-      "alternativas": [
-        "Apenas gripe e resfriados",
-        "Diarreias, verminoses e hepatite A",
-        "Exclusivamente câncer",
-        "Somente doenças cardíacas",
-        "Apenas diabetes e hipertensão"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
+      "gabarito": "C"
     },
     {
+      "enunciado": "Conforme estabelecido no Art. 3º da Lei Federal 11.350/2006, são atribuições EXCLUSIVAS e privativas do Agente Comunitário de Saúde no exercício profissional:",
+      "alternativas": [
+        "Prescrever medicamentos de uso contínuo para pacientes com doenças crônicas (hipertensão, diabetes) previamente diagnosticados e em acompanhamento regular na unidade básica de saúde",
+        "Realizar mapeamento de sua área de atuação, cadastramento das famílias e atualização permanente desse cadastro, sendo vedadas atividades assistenciais diretas como procedimentos técnicos de enfermagem",
+        "Realizar curativos simples em ferimentos superficiais e administrar medicamentos via oral previamente prescritos, desde que tenha recebido capacitação específica pela equipe de enfermagem",
+        "Coletar material biológico para exames laboratoriais básicos (glicemia capilar, teste rápido HIV/sífilis) nas residências durante as visitas domiciliares de rotina conforme protocolo municipal",
+        "Aplicar vacinas do calendário básico de imunização infantil e adulta em campanhas de imunização, desde que supervisionado por enfermeiro responsável técnico da equipe"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO - ATRIBUIÇÕES DEFINIDAS POR LEI. Fundamento legal: Lei 11.350/2006, Art. 3º estabelece as 5 atribuições exclusivas do ACS: I) exercer atividades de prevenção de doenças e promoção da saúde, mediante ações domiciliares ou comunitárias, individuais ou coletivas, desenvolvidas em conformidade com as diretrizes do SUS; II) realizar MAPEAMENTO de sua área de atuação; III) realizar CADASTRAMENTO das famílias; IV) manter os dados de CADASTRAMENTO atualizados; V) desenvolver ações de educação e vigilância à saúde, com ênfase na promoção da saúde e na prevenção de doenças. ✓ Portaria 2.436/2017 (PNAB), Anexo XI, Art. 4º complementa: cadastrar todas as pessoas de sua área, orientar famílias quanto à utilização dos serviços de saúde, realizar atividades programadas e de atenção à demanda espontânea, acompanhar as condicionalidades do Programa Bolsa Família, realizar busca ativa, orientar sobre doenças e agravos prevalentes. ✗ VEDAÇÕES ABSOLUTAS (Lei 11.350/2006, Art. 3º, § único): ACS NÃO PODE executar NENHUMA ATIVIDADE TÍPICA DE SERVIÇOS DE ENFERMAGEM. Isso inclui: prescrever medicamentos, administrar medicamentos (qualquer via), realizar curativos, coletar material para exames, aplicar vacinas, verificar sinais vitais (pressão arterial, temperatura), realizar glicemia capilar, testes rápidos. ✓ Papel do ACS: ELO entre comunidade e serviço de saúde - identificar situações de risco, orientar, encaminhar para UBS. ✗ B: ERRO GRAVÍSSIMO, prescrição é ato médico privativo (Lei 12.842/2013). ✗ C: ERRO GRAVÍSSIMO, são procedimentos de enfermagem vedados ao ACS. ✗ D: ERRO, coleta de exames é privativo de técnico/enfermeiro. ✗ E: ERRO, vacinação é ato privativo de enfermagem. COSEAC cobra muito o que ACS NÃO PODE fazer! Memorize: ACS = mapear + cadastrar + orientar + encaminhar. NUNCA: medicar, coletar, curativos, vacinar!",
       "id": 40,
-      "enunciado": "Determinantes sociais da saúde:",
-      "alternativas": [
-        "Referem-se apenas a fatores biológicos",
-        "Incluem condições socioeconômicas, culturais e ambientais",
-        "Não influenciam saúde-doença",
-        "São apenas responsabilidade individual",
-        "Limitam-se a acesso a serviços"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
+      "gabarito": "B"
     },
     {
+      "enunciado": "A Lei Federal 13.595/2018 alterou a Lei 11.350/2006 estabelecendo nova regulamentação sobre a jornada de trabalho do Agente Comunitário de Saúde, determinando que:",
+      "alternativas": [
+        "A jornada de trabalho é de 40 horas semanais, sendo vedada expressamente a redução para jornadas parciais, devendo o horário de trabalho incluir obrigatoriamente o horário de funcionamento das unidades básicas de saúde",
+        "A jornada pode ser de 40 horas semanais ou 30 horas semanais, conforme opção do gestor municipal, devendo o ACS cumprir obrigatoriamente 100% do seu horário de trabalho realizando visitas domiciliares em sua microárea",
+        "A jornada de trabalho é flexível entre 20 e 40 horas semanais conforme necessidade do serviço e características do território, devendo ser estabelecida em regulamento municipal específico",
+        "A jornada padrão é de 44 horas semanais conforme CLT, sendo permitida redução para 40 horas semanais desde que não prejudique a cobertura populacional da equipe de Saúde da Família",
+        "A jornada de trabalho é de 40 horas semanais, podendo ser reduzida para até 20 horas semanais mediante acordo ou convenção coletiva de trabalho, desde que haja proporcionalidade salarial e manutenção dos benefícios"
+      ],
+      "explicacao": "✗ NÃO É A! ✓ CORRETO É C - JORNADA COM POSSIBILIDADE DE REDUÇÃO. Fundamento legal: Lei 13.595/2018 alterou o Art. 9º-A da Lei 11.350/2006 estabelecendo: 'A jornada de trabalho do Agente Comunitário de Saúde e do Agente de Combate às Endemias é de 40 (quarenta) horas semanais' + § 1º: 'A jornada de 40 horas semanais poderá ser reduzida para até 20 horas semanais, desde que estabelecida em acordo ou convenção coletiva de trabalho' + § 2º: 'Na hipótese de redução da jornada, haverá proporcionalidade dos vencimentos e das demais vantagens do cargo'. ✓ Interpretação: (1) Jornada PADRÃO/REGRA = 40h semanais; (2) Possibilidade de REDUÇÃO até o mínimo de 20h semanais; (3) Redução só pode ocorrer via ACORDO ou CONVENÇÃO COLETIVA DE TRABALHO (instrumento negocial entre empregador e sindicato); (4) Redução implica PROPORCIONALIDADE SALARIAL (se reduzir jornada, reduz salário na mesma proporção) mas mantém benefícios. ✗ A: ERRO, não é vedada redução, é expressamente permitida pela Lei 13.595/2018. ✗ B: ERRO, não é 30h, é redução até 20h, e não é por opção unilateral do gestor, exige acordo/convenção coletiva. ✗ D: ERRO, jornada não é 44h CLT, Lei específica estabelece 40h. ✗ E: ERRO, não é flexível por regulamento municipal, redução exige acordo/convenção coletiva. COSEAC cobra diferença entre jornada padrão (40h) × possibilidade de redução (até 20h via negociação coletiva). Memorize: 40h padrão, redutível até 20h via acordo coletivo!",
       "id": 41,
-      "enunciado": "A educação em saúde pelo ACS deve:",
-      "alternativas": [
-        "Impor verticalmente conhecimentos",
-        "Dialogar e construir conhecimento com a comunidade",
-        "Focar apenas em palestras técnicas",
-        "Desconsiderar saberes populares",
-        "Usar linguagem científica complexa"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
+      "gabarito": "E"
     },
     {
+      "enunciado": "A Lei Federal 13.595/2018 alterou a Lei 11.350/2006 estabelecendo nova regulamentação sobre a jornada de trabalho do Agente Comunitário de Saúde, determinando que:",
+      "alternativas": [
+        "A jornada de trabalho é de 40 horas semanais, podendo ser reduzida para até 20 horas semanais mediante acordo ou convenção coletiva de trabalho, desde que haja proporcionalidade salarial e manutenção dos benefícios",
+        "A jornada pode ser de 40 horas semanais ou 30 horas semanais, conforme opção do gestor municipal, devendo o ACS cumprir obrigatoriamente 100% do seu horário de trabalho realizando visitas domiciliares em sua microárea",
+        "A jornada de trabalho é de 40 horas semanais, sendo vedada expressamente a redução para jornadas parciais, devendo o horário de trabalho incluir obrigatoriamente o horário de funcionamento das unidades básicas de saúde",
+        "A jornada padrão é de 44 horas semanais conforme CLT, sendo permitida redução para 40 horas semanais desde que não prejudique a cobertura populacional da equipe de Saúde da Família",
+        "A jornada de trabalho é flexível entre 20 e 40 horas semanais conforme necessidade do serviço e características do território, devendo ser estabelecida em regulamento municipal específico"
+      ],
+      "explicacao": "✗ NÃO É A! ✓ CORRETO É C - JORNADA COM POSSIBILIDADE DE REDUÇÃO. Fundamento legal: Lei 13.595/2018 alterou o Art. 9º-A da Lei 11.350/2006 estabelecendo: 'A jornada de trabalho do Agente Comunitário de Saúde e do Agente de Combate às Endemias é de 40 (quarenta) horas semanais' + § 1º: 'A jornada de 40 horas semanais poderá ser reduzida para até 20 horas semanais, desde que estabelecida em acordo ou convenção coletiva de trabalho' + § 2º: 'Na hipótese de redução da jornada, haverá proporcionalidade dos vencimentos e das demais vantagens do cargo'. ✓ Interpretação: (1) Jornada PADRÃO/REGRA = 40h semanais; (2) Possibilidade de REDUÇÃO até o mínimo de 20h semanais; (3) Redução só pode ocorrer via ACORDO ou CONVENÇÃO COLETIVA DE TRABALHO (instrumento negocial entre empregador e sindicato); (4) Redução implica PROPORCIONALIDADE SALARIAL (se reduzir jornada, reduz salário na mesma proporção) mas mantém benefícios. ✗ A: ERRO, não é vedada redução, é expressamente permitida pela Lei 13.595/2018. ✗ B: ERRO, não é 30h, é redução até 20h, e não é por opção unilateral do gestor, exige acordo/convenção coletiva. ✗ D: ERRO, jornada não é 44h CLT, Lei específica estabelece 40h. ✗ E: ERRO, não é flexível por regulamento municipal, redução exige acordo/convenção coletiva. COSEAC cobra diferença entre jornada padrão (40h) × possibilidade de redução (até 20h via negociação coletiva). Memorize: 40h padrão, redutível até 20h via acordo coletivo!",
       "id": 42,
-      "enunciado": "Trabalho em equipe na ESF pressupõe:",
-      "alternativas": [
-        "Hierarquia rígida sem comunicação",
-        "Colaboração, comunicação e responsabilidade compartilhada",
-        "Trabalho isolado de cada profissional",
-        "Competição entre membros",
-        "Desvalorização de diferentes saberes"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
+      "gabarito": "A"
     },
     {
+      "enunciado": "Conforme estabelecido no Art. 3º da Lei Federal 11.350/2006, são atribuições EXCLUSIVAS e privativas do Agente Comunitário de Saúde no exercício profissional:",
+      "alternativas": [
+        "Aplicar vacinas do calendário básico de imunização infantil e adulta em campanhas de imunização, desde que supervisionado por enfermeiro responsável técnico da equipe",
+        "Prescrever medicamentos de uso contínuo para pacientes com doenças crônicas (hipertensão, diabetes) previamente diagnosticados e em acompanhamento regular na unidade básica de saúde",
+        "Realizar curativos simples em ferimentos superficiais e administrar medicamentos via oral previamente prescritos, desde que tenha recebido capacitação específica pela equipe de enfermagem",
+        "Coletar material biológico para exames laboratoriais básicos (glicemia capilar, teste rápido HIV/sífilis) nas residências durante as visitas domiciliares de rotina conforme protocolo municipal",
+        "Realizar mapeamento de sua área de atuação, cadastramento das famílias e atualização permanente desse cadastro, sendo vedadas atividades assistenciais diretas como procedimentos técnicos de enfermagem"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO - ATRIBUIÇÕES DEFINIDAS POR LEI. Fundamento legal: Lei 11.350/2006, Art. 3º estabelece as 5 atribuições exclusivas do ACS: I) exercer atividades de prevenção de doenças e promoção da saúde, mediante ações domiciliares ou comunitárias, individuais ou coletivas, desenvolvidas em conformidade com as diretrizes do SUS; II) realizar MAPEAMENTO de sua área de atuação; III) realizar CADASTRAMENTO das famílias; IV) manter os dados de CADASTRAMENTO atualizados; V) desenvolver ações de educação e vigilância à saúde, com ênfase na promoção da saúde e na prevenção de doenças. ✓ Portaria 2.436/2017 (PNAB), Anexo XI, Art. 4º complementa: cadastrar todas as pessoas de sua área, orientar famílias quanto à utilização dos serviços de saúde, realizar atividades programadas e de atenção à demanda espontânea, acompanhar as condicionalidades do Programa Bolsa Família, realizar busca ativa, orientar sobre doenças e agravos prevalentes. ✗ VEDAÇÕES ABSOLUTAS (Lei 11.350/2006, Art. 3º, § único): ACS NÃO PODE executar NENHUMA ATIVIDADE TÍPICA DE SERVIÇOS DE ENFERMAGEM. Isso inclui: prescrever medicamentos, administrar medicamentos (qualquer via), realizar curativos, coletar material para exames, aplicar vacinas, verificar sinais vitais (pressão arterial, temperatura), realizar glicemia capilar, testes rápidos. ✓ Papel do ACS: ELO entre comunidade e serviço de saúde - identificar situações de risco, orientar, encaminhar para UBS. ✗ B: ERRO GRAVÍSSIMO, prescrição é ato médico privativo (Lei 12.842/2013). ✗ C: ERRO GRAVÍSSIMO, são procedimentos de enfermagem vedados ao ACS. ✗ D: ERRO, coleta de exames é privativo de técnico/enfermeiro. ✗ E: ERRO, vacinação é ato privativo de enfermagem. COSEAC cobra muito o que ACS NÃO PODE fazer! Memorize: ACS = mapear + cadastrar + orientar + encaminhar. NUNCA: medicar, coletar, curativos, vacinar!",
       "id": 43,
-      "enunciado": "O prontuário familiar/individual:",
-      "alternativas": [
-        "Pode ser compartilhado publicamente",
-        "Deve ser mantido em sigilo profissional",
-        "Não requer preenchimento adequado",
-        "É de propriedade exclusiva do paciente",
-        "Pode ser descartado a qualquer momento"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
+      "gabarito": "E"
     },
     {
+      "enunciado": "A Lei Federal 13.595/2018 alterou a Lei 11.350/2006 estabelecendo nova regulamentação sobre a jornada de trabalho do Agente Comunitário de Saúde, determinando que:",
+      "alternativas": [
+        "A jornada de trabalho é de 40 horas semanais, sendo vedada expressamente a redução para jornadas parciais, devendo o horário de trabalho incluir obrigatoriamente o horário de funcionamento das unidades básicas de saúde",
+        "A jornada de trabalho é de 40 horas semanais, podendo ser reduzida para até 20 horas semanais mediante acordo ou convenção coletiva de trabalho, desde que haja proporcionalidade salarial e manutenção dos benefícios",
+        "A jornada pode ser de 40 horas semanais ou 30 horas semanais, conforme opção do gestor municipal, devendo o ACS cumprir obrigatoriamente 100% do seu horário de trabalho realizando visitas domiciliares em sua microárea",
+        "A jornada padrão é de 44 horas semanais conforme CLT, sendo permitida redução para 40 horas semanais desde que não prejudique a cobertura populacional da equipe de Saúde da Família",
+        "A jornada de trabalho é flexível entre 20 e 40 horas semanais conforme necessidade do serviço e características do território, devendo ser estabelecida em regulamento municipal específico"
+      ],
+      "explicacao": "✗ NÃO É A! ✓ CORRETO É C - JORNADA COM POSSIBILIDADE DE REDUÇÃO. Fundamento legal: Lei 13.595/2018 alterou o Art. 9º-A da Lei 11.350/2006 estabelecendo: 'A jornada de trabalho do Agente Comunitário de Saúde e do Agente de Combate às Endemias é de 40 (quarenta) horas semanais' + § 1º: 'A jornada de 40 horas semanais poderá ser reduzida para até 20 horas semanais, desde que estabelecida em acordo ou convenção coletiva de trabalho' + § 2º: 'Na hipótese de redução da jornada, haverá proporcionalidade dos vencimentos e das demais vantagens do cargo'. ✓ Interpretação: (1) Jornada PADRÃO/REGRA = 40h semanais; (2) Possibilidade de REDUÇÃO até o mínimo de 20h semanais; (3) Redução só pode ocorrer via ACORDO ou CONVENÇÃO COLETIVA DE TRABALHO (instrumento negocial entre empregador e sindicato); (4) Redução implica PROPORCIONALIDADE SALARIAL (se reduzir jornada, reduz salário na mesma proporção) mas mantém benefícios. ✗ A: ERRO, não é vedada redução, é expressamente permitida pela Lei 13.595/2018. ✗ B: ERRO, não é 30h, é redução até 20h, e não é por opção unilateral do gestor, exige acordo/convenção coletiva. ✗ D: ERRO, jornada não é 44h CLT, Lei específica estabelece 40h. ✗ E: ERRO, não é flexível por regulamento municipal, redução exige acordo/convenção coletiva. COSEAC cobra diferença entre jornada padrão (40h) × possibilidade de redução (até 20h via negociação coletiva). Memorize: 40h padrão, redutível até 20h via acordo coletivo!",
       "id": 44,
-      "enunciado": "O mapeamento do território serve para:",
-      "alternativas": [
-        "Apenas delimitar geograficamente",
-        "Conhecer características demográficas, sociais e epidemiológicas",
-        "Substituir visitas domiciliares",
-        "Controlar população sem planejamento",
-        "Dificultar acesso aos serviços"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
+      "gabarito": "B"
     },
     {
+      "enunciado": "Conforme estabelecido no Art. 3º da Lei Federal 11.350/2006, são atribuições EXCLUSIVAS e privativas do Agente Comunitário de Saúde no exercício profissional:",
+      "alternativas": [
+        "Coletar material biológico para exames laboratoriais básicos (glicemia capilar, teste rápido HIV/sífilis) nas residências durante as visitas domiciliares de rotina conforme protocolo municipal",
+        "Prescrever medicamentos de uso contínuo para pacientes com doenças crônicas (hipertensão, diabetes) previamente diagnosticados e em acompanhamento regular na unidade básica de saúde",
+        "Realizar curativos simples em ferimentos superficiais e administrar medicamentos via oral previamente prescritos, desde que tenha recebido capacitação específica pela equipe de enfermagem",
+        "Realizar mapeamento de sua área de atuação, cadastramento das famílias e atualização permanente desse cadastro, sendo vedadas atividades assistenciais diretas como procedimentos técnicos de enfermagem",
+        "Aplicar vacinas do calendário básico de imunização infantil e adulta em campanhas de imunização, desde que supervisionado por enfermeiro responsável técnico da equipe"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO - ATRIBUIÇÕES DEFINIDAS POR LEI. Fundamento legal: Lei 11.350/2006, Art. 3º estabelece as 5 atribuições exclusivas do ACS: I) exercer atividades de prevenção de doenças e promoção da saúde, mediante ações domiciliares ou comunitárias, individuais ou coletivas, desenvolvidas em conformidade com as diretrizes do SUS; II) realizar MAPEAMENTO de sua área de atuação; III) realizar CADASTRAMENTO das famílias; IV) manter os dados de CADASTRAMENTO atualizados; V) desenvolver ações de educação e vigilância à saúde, com ênfase na promoção da saúde e na prevenção de doenças. ✓ Portaria 2.436/2017 (PNAB), Anexo XI, Art. 4º complementa: cadastrar todas as pessoas de sua área, orientar famílias quanto à utilização dos serviços de saúde, realizar atividades programadas e de atenção à demanda espontânea, acompanhar as condicionalidades do Programa Bolsa Família, realizar busca ativa, orientar sobre doenças e agravos prevalentes. ✗ VEDAÇÕES ABSOLUTAS (Lei 11.350/2006, Art. 3º, § único): ACS NÃO PODE executar NENHUMA ATIVIDADE TÍPICA DE SERVIÇOS DE ENFERMAGEM. Isso inclui: prescrever medicamentos, administrar medicamentos (qualquer via), realizar curativos, coletar material para exames, aplicar vacinas, verificar sinais vitais (pressão arterial, temperatura), realizar glicemia capilar, testes rápidos. ✓ Papel do ACS: ELO entre comunidade e serviço de saúde - identificar situações de risco, orientar, encaminhar para UBS. ✗ B: ERRO GRAVÍSSIMO, prescrição é ato médico privativo (Lei 12.842/2013). ✗ C: ERRO GRAVÍSSIMO, são procedimentos de enfermagem vedados ao ACS. ✗ D: ERRO, coleta de exames é privativo de técnico/enfermeiro. ✗ E: ERRO, vacinação é ato privativo de enfermagem. COSEAC cobra muito o que ACS NÃO PODE fazer! Memorize: ACS = mapear + cadastrar + orientar + encaminhar. NUNCA: medicar, coletar, curativos, vacinar!",
       "id": 45,
-      "enunciado": "Sobre sigilo profissional, o ACS deve:",
-      "alternativas": [
-        "Comentar casos com vizinhos livremente",
-        "Manter confidencialidade das informações obtidas",
-        "Divulgar informações em redes sociais",
-        "Compartilhar dados sem autorização",
-        "Desconsiderar privacidade dos usuários"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
+      "gabarito": "D"
     },
     {
+      "enunciado": "A Lei Federal 13.595/2018 alterou a Lei 11.350/2006 estabelecendo nova regulamentação sobre a jornada de trabalho do Agente Comunitário de Saúde, determinando que:",
+      "alternativas": [
+        "A jornada de trabalho é de 40 horas semanais, podendo ser reduzida para até 20 horas semanais mediante acordo ou convenção coletiva de trabalho, desde que haja proporcionalidade salarial e manutenção dos benefícios",
+        "A jornada pode ser de 40 horas semanais ou 30 horas semanais, conforme opção do gestor municipal, devendo o ACS cumprir obrigatoriamente 100% do seu horário de trabalho realizando visitas domiciliares em sua microárea",
+        "A jornada de trabalho é de 40 horas semanais, sendo vedada expressamente a redução para jornadas parciais, devendo o horário de trabalho incluir obrigatoriamente o horário de funcionamento das unidades básicas de saúde",
+        "A jornada padrão é de 44 horas semanais conforme CLT, sendo permitida redução para 40 horas semanais desde que não prejudique a cobertura populacional da equipe de Saúde da Família",
+        "A jornada de trabalho é flexível entre 20 e 40 horas semanais conforme necessidade do serviço e características do território, devendo ser estabelecida em regulamento municipal específico"
+      ],
+      "explicacao": "✗ NÃO É A! ✓ CORRETO É C - JORNADA COM POSSIBILIDADE DE REDUÇÃO. Fundamento legal: Lei 13.595/2018 alterou o Art. 9º-A da Lei 11.350/2006 estabelecendo: 'A jornada de trabalho do Agente Comunitário de Saúde e do Agente de Combate às Endemias é de 40 (quarenta) horas semanais' + § 1º: 'A jornada de 40 horas semanais poderá ser reduzida para até 20 horas semanais, desde que estabelecida em acordo ou convenção coletiva de trabalho' + § 2º: 'Na hipótese de redução da jornada, haverá proporcionalidade dos vencimentos e das demais vantagens do cargo'. ✓ Interpretação: (1) Jornada PADRÃO/REGRA = 40h semanais; (2) Possibilidade de REDUÇÃO até o mínimo de 20h semanais; (3) Redução só pode ocorrer via ACORDO ou CONVENÇÃO COLETIVA DE TRABALHO (instrumento negocial entre empregador e sindicato); (4) Redução implica PROPORCIONALIDADE SALARIAL (se reduzir jornada, reduz salário na mesma proporção) mas mantém benefícios. ✗ A: ERRO, não é vedada redução, é expressamente permitida pela Lei 13.595/2018. ✗ B: ERRO, não é 30h, é redução até 20h, e não é por opção unilateral do gestor, exige acordo/convenção coletiva. ✗ D: ERRO, jornada não é 44h CLT, Lei específica estabelece 40h. ✗ E: ERRO, não é flexível por regulamento municipal, redução exige acordo/convenção coletiva. COSEAC cobra diferença entre jornada padrão (40h) × possibilidade de redução (até 20h via negociação coletiva). Memorize: 40h padrão, redutível até 20h via acordo coletivo!",
       "id": 46,
-      "enunciado": "A comunicação efetiva do ACS deve:",
-      "alternativas": [
-        "Utilizar termos técnicos sem explicação",
-        "Ser clara, respeitosa e adaptada ao contexto cultural",
-        "Impor opiniões pessoais como verdades",
-        "Desconsiderar dúvidas e questionamentos",
-        "Criar barreiras entre profissional e usuário"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
+      "gabarito": "A"
     },
     {
+      "enunciado": "Conforme estabelecido no Art. 3º da Lei Federal 11.350/2006, são atribuições EXCLUSIVAS e privativas do Agente Comunitário de Saúde no exercício profissional:",
+      "alternativas": [
+        "Coletar material biológico para exames laboratoriais básicos (glicemia capilar, teste rápido HIV/sífilis) nas residências durante as visitas domiciliares de rotina conforme protocolo municipal",
+        "Prescrever medicamentos de uso contínuo para pacientes com doenças crônicas (hipertensão, diabetes) previamente diagnosticados e em acompanhamento regular na unidade básica de saúde",
+        "Realizar curativos simples em ferimentos superficiais e administrar medicamentos via oral previamente prescritos, desde que tenha recebido capacitação específica pela equipe de enfermagem",
+        "Realizar mapeamento de sua área de atuação, cadastramento das famílias e atualização permanente desse cadastro, sendo vedadas atividades assistenciais diretas como procedimentos técnicos de enfermagem",
+        "Aplicar vacinas do calendário básico de imunização infantil e adulta em campanhas de imunização, desde que supervisionado por enfermeiro responsável técnico da equipe"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO - ATRIBUIÇÕES DEFINIDAS POR LEI. Fundamento legal: Lei 11.350/2006, Art. 3º estabelece as 5 atribuições exclusivas do ACS: I) exercer atividades de prevenção de doenças e promoção da saúde, mediante ações domiciliares ou comunitárias, individuais ou coletivas, desenvolvidas em conformidade com as diretrizes do SUS; II) realizar MAPEAMENTO de sua área de atuação; III) realizar CADASTRAMENTO das famílias; IV) manter os dados de CADASTRAMENTO atualizados; V) desenvolver ações de educação e vigilância à saúde, com ênfase na promoção da saúde e na prevenção de doenças. ✓ Portaria 2.436/2017 (PNAB), Anexo XI, Art. 4º complementa: cadastrar todas as pessoas de sua área, orientar famílias quanto à utilização dos serviços de saúde, realizar atividades programadas e de atenção à demanda espontânea, acompanhar as condicionalidades do Programa Bolsa Família, realizar busca ativa, orientar sobre doenças e agravos prevalentes. ✗ VEDAÇÕES ABSOLUTAS (Lei 11.350/2006, Art. 3º, § único): ACS NÃO PODE executar NENHUMA ATIVIDADE TÍPICA DE SERVIÇOS DE ENFERMAGEM. Isso inclui: prescrever medicamentos, administrar medicamentos (qualquer via), realizar curativos, coletar material para exames, aplicar vacinas, verificar sinais vitais (pressão arterial, temperatura), realizar glicemia capilar, testes rápidos. ✓ Papel do ACS: ELO entre comunidade e serviço de saúde - identificar situações de risco, orientar, encaminhar para UBS. ✗ B: ERRO GRAVÍSSIMO, prescrição é ato médico privativo (Lei 12.842/2013). ✗ C: ERRO GRAVÍSSIMO, são procedimentos de enfermagem vedados ao ACS. ✗ D: ERRO, coleta de exames é privativo de técnico/enfermeiro. ✗ E: ERRO, vacinação é ato privativo de enfermagem. COSEAC cobra muito o que ACS NÃO PODE fazer! Memorize: ACS = mapear + cadastrar + orientar + encaminhar. NUNCA: medicar, coletar, curativos, vacinar!",
       "id": 47,
-      "enunciado": "O cadastramento das famílias permite:",
-      "alternativas": [
-        "Apenas controle burocrático",
-        "Planejamento de ações baseado em necessidades locais",
-        "Invasão de privacidade sem benefícios",
-        "Dificultar acesso aos serviços",
-        "Substituir todas outras atividades da equipe"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
+      "gabarito": "D"
     },
     {
+      "enunciado": "Conforme estabelecido no Art. 3º da Lei Federal 11.350/2006, são atribuições EXCLUSIVAS e privativas do Agente Comunitário de Saúde no exercício profissional:",
+      "alternativas": [
+        "Prescrever medicamentos de uso contínuo para pacientes com doenças crônicas (hipertensão, diabetes) previamente diagnosticados e em acompanhamento regular na unidade básica de saúde",
+        "Realizar mapeamento de sua área de atuação, cadastramento das famílias e atualização permanente desse cadastro, sendo vedadas atividades assistenciais diretas como procedimentos técnicos de enfermagem",
+        "Realizar curativos simples em ferimentos superficiais e administrar medicamentos via oral previamente prescritos, desde que tenha recebido capacitação específica pela equipe de enfermagem",
+        "Coletar material biológico para exames laboratoriais básicos (glicemia capilar, teste rápido HIV/sífilis) nas residências durante as visitas domiciliares de rotina conforme protocolo municipal",
+        "Aplicar vacinas do calendário básico de imunização infantil e adulta em campanhas de imunização, desde que supervisionado por enfermeiro responsável técnico da equipe"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO - ATRIBUIÇÕES DEFINIDAS POR LEI. Fundamento legal: Lei 11.350/2006, Art. 3º estabelece as 5 atribuições exclusivas do ACS: I) exercer atividades de prevenção de doenças e promoção da saúde, mediante ações domiciliares ou comunitárias, individuais ou coletivas, desenvolvidas em conformidade com as diretrizes do SUS; II) realizar MAPEAMENTO de sua área de atuação; III) realizar CADASTRAMENTO das famílias; IV) manter os dados de CADASTRAMENTO atualizados; V) desenvolver ações de educação e vigilância à saúde, com ênfase na promoção da saúde e na prevenção de doenças. ✓ Portaria 2.436/2017 (PNAB), Anexo XI, Art. 4º complementa: cadastrar todas as pessoas de sua área, orientar famílias quanto à utilização dos serviços de saúde, realizar atividades programadas e de atenção à demanda espontânea, acompanhar as condicionalidades do Programa Bolsa Família, realizar busca ativa, orientar sobre doenças e agravos prevalentes. ✗ VEDAÇÕES ABSOLUTAS (Lei 11.350/2006, Art. 3º, § único): ACS NÃO PODE executar NENHUMA ATIVIDADE TÍPICA DE SERVIÇOS DE ENFERMAGEM. Isso inclui: prescrever medicamentos, administrar medicamentos (qualquer via), realizar curativos, coletar material para exames, aplicar vacinas, verificar sinais vitais (pressão arterial, temperatura), realizar glicemia capilar, testes rápidos. ✓ Papel do ACS: ELO entre comunidade e serviço de saúde - identificar situações de risco, orientar, encaminhar para UBS. ✗ B: ERRO GRAVÍSSIMO, prescrição é ato médico privativo (Lei 12.842/2013). ✗ C: ERRO GRAVÍSSIMO, são procedimentos de enfermagem vedados ao ACS. ✗ D: ERRO, coleta de exames é privativo de técnico/enfermeiro. ✗ E: ERRO, vacinação é ato privativo de enfermagem. COSEAC cobra muito o que ACS NÃO PODE fazer! Memorize: ACS = mapear + cadastrar + orientar + encaminhar. NUNCA: medicar, coletar, curativos, vacinar!",
       "id": 48,
-      "enunciado": "Durante surto de doença transmissível, o ACS deve:",
-      "alternativas": [
-        "Ocultar informações para evitar pânico",
-        "Orientar medidas preventivas e comunicar à equipe/vigilância",
-        "Aguardar instruções sem agir",
-        "Responsabilizar apenas a população",
-        "Ignorar a situação"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
+      "gabarito": "B"
     },
     {
+      "enunciado": "A Lei Federal 13.595/2018 alterou a Lei 11.350/2006 estabelecendo nova regulamentação sobre a jornada de trabalho do Agente Comunitário de Saúde, determinando que:",
+      "alternativas": [
+        "A jornada de trabalho é de 40 horas semanais, sendo vedada expressamente a redução para jornadas parciais, devendo o horário de trabalho incluir obrigatoriamente o horário de funcionamento das unidades básicas de saúde",
+        "A jornada pode ser de 40 horas semanais ou 30 horas semanais, conforme opção do gestor municipal, devendo o ACS cumprir obrigatoriamente 100% do seu horário de trabalho realizando visitas domiciliares em sua microárea",
+        "A jornada padrão é de 44 horas semanais conforme CLT, sendo permitida redução para 40 horas semanais desde que não prejudique a cobertura populacional da equipe de Saúde da Família",
+        "A jornada de trabalho é de 40 horas semanais, podendo ser reduzida para até 20 horas semanais mediante acordo ou convenção coletiva de trabalho, desde que haja proporcionalidade salarial e manutenção dos benefícios",
+        "A jornada de trabalho é flexível entre 20 e 40 horas semanais conforme necessidade do serviço e características do território, devendo ser estabelecida em regulamento municipal específico"
+      ],
+      "explicacao": "✗ NÃO É A! ✓ CORRETO É C - JORNADA COM POSSIBILIDADE DE REDUÇÃO. Fundamento legal: Lei 13.595/2018 alterou o Art. 9º-A da Lei 11.350/2006 estabelecendo: 'A jornada de trabalho do Agente Comunitário de Saúde e do Agente de Combate às Endemias é de 40 (quarenta) horas semanais' + § 1º: 'A jornada de 40 horas semanais poderá ser reduzida para até 20 horas semanais, desde que estabelecida em acordo ou convenção coletiva de trabalho' + § 2º: 'Na hipótese de redução da jornada, haverá proporcionalidade dos vencimentos e das demais vantagens do cargo'. ✓ Interpretação: (1) Jornada PADRÃO/REGRA = 40h semanais; (2) Possibilidade de REDUÇÃO até o mínimo de 20h semanais; (3) Redução só pode ocorrer via ACORDO ou CONVENÇÃO COLETIVA DE TRABALHO (instrumento negocial entre empregador e sindicato); (4) Redução implica PROPORCIONALIDADE SALARIAL (se reduzir jornada, reduz salário na mesma proporção) mas mantém benefícios. ✗ A: ERRO, não é vedada redução, é expressamente permitida pela Lei 13.595/2018. ✗ B: ERRO, não é 30h, é redução até 20h, e não é por opção unilateral do gestor, exige acordo/convenção coletiva. ✗ D: ERRO, jornada não é 44h CLT, Lei específica estabelece 40h. ✗ E: ERRO, não é flexível por regulamento municipal, redução exige acordo/convenção coletiva. COSEAC cobra diferença entre jornada padrão (40h) × possibilidade de redução (até 20h via negociação coletiva). Memorize: 40h padrão, redutível até 20h via acordo coletivo!",
       "id": 49,
-      "enunciado": "Participação do ACS em atividades coletivas (grupos, campanhas) é:",
-      "alternativas": [
-        "Dispensável, deve focar apenas em visitas",
-        "Fundamental para promoção e fortalecimento comunitário",
-        "Exclusiva de outros profissionais",
-        "Desnecessária para processo de trabalho",
-        "Apenas burocrática sem impacto"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
+      "gabarito": "D"
     },
     {
-      "id": 50,
-      "enunciado": "ACS identifica situação fora de sua competência. Deve:",
+      "enunciado": "A Lei Federal 13.595/2018 alterou a Lei 11.350/2006 estabelecendo nova regulamentação sobre a jornada de trabalho do Agente Comunitário de Saúde, determinando que:",
       "alternativas": [
-        "Tentar resolver sozinho",
-        "Acionar outros membros da equipe de saúde",
-        "Ignorar por não saber agir",
-        "Improvisar sem embasamento",
-        "Culpar família pela complexidade"
+        "A jornada de trabalho é de 40 horas semanais, podendo ser reduzida para até 20 horas semanais mediante acordo ou convenção coletiva de trabalho, desde que haja proporcionalidade salarial e manutenção dos benefícios",
+        "A jornada pode ser de 40 horas semanais ou 30 horas semanais, conforme opção do gestor municipal, devendo o ACS cumprir obrigatoriamente 100% do seu horário de trabalho realizando visitas domiciliares em sua microárea",
+        "A jornada de trabalho é de 40 horas semanais, sendo vedada expressamente a redução para jornadas parciais, devendo o horário de trabalho incluir obrigatoriamente o horário de funcionamento das unidades básicas de saúde",
+        "A jornada padrão é de 44 horas semanais conforme CLT, sendo permitida redução para 40 horas semanais desde que não prejudique a cobertura populacional da equipe de Saúde da Família",
+        "A jornada de trabalho é flexível entre 20 e 40 horas semanais conforme necessidade do serviço e características do território, devendo ser estabelecida em regulamento municipal específico"
       ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B corresponde à atribuição/protocolo correto do ACS. As demais apresentam procedimentos inadequados."
+      "explicacao": "✗ NÃO É A! ✓ CORRETO É C - JORNADA COM POSSIBILIDADE DE REDUÇÃO. Fundamento legal: Lei 13.595/2018 alterou o Art. 9º-A da Lei 11.350/2006 estabelecendo: 'A jornada de trabalho do Agente Comunitário de Saúde e do Agente de Combate às Endemias é de 40 (quarenta) horas semanais' + § 1º: 'A jornada de 40 horas semanais poderá ser reduzida para até 20 horas semanais, desde que estabelecida em acordo ou convenção coletiva de trabalho' + § 2º: 'Na hipótese de redução da jornada, haverá proporcionalidade dos vencimentos e das demais vantagens do cargo'. ✓ Interpretação: (1) Jornada PADRÃO/REGRA = 40h semanais; (2) Possibilidade de REDUÇÃO até o mínimo de 20h semanais; (3) Redução só pode ocorrer via ACORDO ou CONVENÇÃO COLETIVA DE TRABALHO (instrumento negocial entre empregador e sindicato); (4) Redução implica PROPORCIONALIDADE SALARIAL (se reduzir jornada, reduz salário na mesma proporção) mas mantém benefícios. ✗ A: ERRO, não é vedada redução, é expressamente permitida pela Lei 13.595/2018. ✗ B: ERRO, não é 30h, é redução até 20h, e não é por opção unilateral do gestor, exige acordo/convenção coletiva. ✗ D: ERRO, jornada não é 44h CLT, Lei específica estabelece 40h. ✗ E: ERRO, não é flexível por regulamento municipal, redução exige acordo/convenção coletiva. COSEAC cobra diferença entre jornada padrão (40h) × possibilidade de redução (até 20h via negociação coletiva). Memorize: 40h padrão, redutível até 20h via acordo coletivo!",
+      "id": 50,
+      "gabarito": "A"
     }
   ]
 }

@@ -1,654 +1,654 @@
 {
   "sus_parte2": [
     {
+      "enunciado": "A integralidade da assistência à saúde, conforme princípio estabelecido no Art. 7º, inciso II da Lei 8.080/90, compreende necessariamente:",
+      "alternativas": [
+        "Integração exclusiva e restrita entre as unidades básicas de saúde e os hospitais de referência terciária, sem necessidade de articulação com serviços de média complexidade",
+        "Atendimento integral e completo exclusivamente no nível de alta complexidade (terciário), sendo os demais níveis (primário e secundário) destinados apenas para triagem e encaminhamento de pacientes",
+        "Conjunto articulado e contínuo de ações e serviços preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema de saúde",
+        "Atendimento completo e resolutivo porém limitado às patologias e procedimentos expressamente previstos e elencados em protocolos e diretrizes clínicas do Ministério da Saúde",
+        "Conjunto de ações prioritariamente curativas e de atendimento individual conforme disponibilidade orçamentária e capacidade instalada da rede pública de saúde em cada município"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO - INTEGRALIDADE AMPLA. Fundamento legal: Lei 8.080/90, Art. 7º, inciso II: 'integralidade de assistência, entendida como conjunto articulado e contínuo das ações e serviços preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema'. ✓ Conceito multidimensional: (1) Integralidade VERTICAL: articulação entre TODOS os níveis de complexidade (primária/básica, secundária/média, terciária/alta) com garantia de acesso a todos eles; (2) Integralidade HORIZONTAL: conjunto ARTICULADO e CONTÍNUO, não fragmentado; (3) Integralidade de AÇÕES: preventivas (promoção, proteção) E curativas (recuperação, reabilitação); (4) Integralidade de ABORDAGEM: individual (clínico) E coletivo (vigilância, epidemiologia); (5) Integralidade SINGULAR: 'exigidos para cada caso' = considerar necessidades específicas de cada pessoa, família, comunidade. ✓ Visão holística do ser humano: biológica + psicológica + social. ✗ B: ERRO gravíssimo, integralidade exige articulação entre TODOS os níveis, não concentração no terciário. ✗ C: ERRO, integralidade exige articulação completa primário-secundário-terciário. ✗ D: ERRO, integralidade não se limita a protocolos, considera necessidades específicas de cada caso. ✗ E: ERRO múltiplo - não é só curativo (também preventivo), não é só individual (também coletivo), não é condicionado a orçamento (é princípio fundamental). COSEAC cobra muito a distinção integralidade × protocolos rígidos. Memorize: integralidade = articulado + contínuo + preventivo + curativo + individual + coletivo + todos os níveis!",
       "id": 51,
-      "enunciado": "Sobre os determinantes sociais da saúde, é correto afirmar:",
-      "alternativas": [
-        "Referem-se exclusivamente a fatores biológicos",
-        "Incluem condições socioeconômicas, culturais e ambientais",
-        "Não influenciam o processo saúde-doença",
-        "São apenas responsabilidade individual",
-        "Limitam-se ao acesso a serviços de saúde"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
+      "gabarito": "C"
     },
     {
+      "enunciado": "A integralidade da assistência à saúde, conforme princípio estabelecido no Art. 7º, inciso II da Lei 8.080/90, compreende necessariamente:",
+      "alternativas": [
+        "Atendimento integral e completo exclusivamente no nível de alta complexidade (terciário), sendo os demais níveis (primário e secundário) destinados apenas para triagem e encaminhamento de pacientes",
+        "Conjunto articulado e contínuo de ações e serviços preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema de saúde",
+        "Integração exclusiva e restrita entre as unidades básicas de saúde e os hospitais de referência terciária, sem necessidade de articulação com serviços de média complexidade",
+        "Atendimento completo e resolutivo porém limitado às patologias e procedimentos expressamente previstos e elencados em protocolos e diretrizes clínicas do Ministério da Saúde",
+        "Conjunto de ações prioritariamente curativas e de atendimento individual conforme disponibilidade orçamentária e capacidade instalada da rede pública de saúde em cada município"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO - INTEGRALIDADE AMPLA. Fundamento legal: Lei 8.080/90, Art. 7º, inciso II: 'integralidade de assistência, entendida como conjunto articulado e contínuo das ações e serviços preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema'. ✓ Conceito multidimensional: (1) Integralidade VERTICAL: articulação entre TODOS os níveis de complexidade (primária/básica, secundária/média, terciária/alta) com garantia de acesso a todos eles; (2) Integralidade HORIZONTAL: conjunto ARTICULADO e CONTÍNUO, não fragmentado; (3) Integralidade de AÇÕES: preventivas (promoção, proteção) E curativas (recuperação, reabilitação); (4) Integralidade de ABORDAGEM: individual (clínico) E coletivo (vigilância, epidemiologia); (5) Integralidade SINGULAR: 'exigidos para cada caso' = considerar necessidades específicas de cada pessoa, família, comunidade. ✓ Visão holística do ser humano: biológica + psicológica + social. ✗ B: ERRO gravíssimo, integralidade exige articulação entre TODOS os níveis, não concentração no terciário. ✗ C: ERRO, integralidade exige articulação completa primário-secundário-terciário. ✗ D: ERRO, integralidade não se limita a protocolos, considera necessidades específicas de cada caso. ✗ E: ERRO múltiplo - não é só curativo (também preventivo), não é só individual (também coletivo), não é condicionado a orçamento (é princípio fundamental). COSEAC cobra muito a distinção integralidade × protocolos rígidos. Memorize: integralidade = articulado + contínuo + preventivo + curativo + individual + coletivo + todos os níveis!",
       "id": 52,
-      "enunciado": "A Lei 8.080/90 estabelece que fazem parte do campo de atuação do SUS:",
-      "alternativas": [
-        "Apenas assistência terapêutica integral",
-        "Vigilância sanitária, epidemiológica, saúde do trabalhador e assistência",
-        "Exclusivamente ações curativas",
-        "Somente campanhas de vacinação",
-        "Apenas atendimento hospitalar"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
+      "gabarito": "B"
     },
     {
+      "enunciado": "A descentralização político-administrativa do Sistema Único de Saúde, estabelecida como diretriz organizativa no Art. 7º, inciso IX da Lei 8.080/90, caracteriza-se fundamentalmente por:",
+      "alternativas": [
+        "Comando centralizado e unificado no Ministério da Saúde em nível federal com execução operacional meramente delegada e supervisionada às secretarias estaduais e municipais de saúde",
+        "Direção única e exclusiva em cada esfera de governo (federal, estadual, municipal), com ênfase explícita na descentralização dos serviços de saúde para os municípios como executores principais das ações",
+        "Transferência total e irrestrita de responsabilidades sanitárias da União para estados e municípios, com consequente desoneração completa do governo federal quanto ao financiamento e coordenação nacional",
+        "Descentralização exclusivamente administrativa e operacional dos serviços, mantendo-se obrigatoriamente a centralização político-decisória nas instâncias federais de planejamento e controle do sistema de saúde",
+        "Direção compartilhada e exercida de forma simultânea e sobreposta pelas três esferas de governo sem definição clara de competências específicas ou hierarquia decisória entre os entes federados"
+      ],
+      "explicacao": "✓ PERFEITAMENTE CORRETO - DESCENTRALIZAÇÃO COM DIREÇÃO ÚNICA. Fundamento legal: Lei 8.080/90, Art. 7º, inciso IX: 'descentralização político-administrativa, com direção única em cada esfera de governo' + inciso a) 'ênfase na descentralização dos serviços para os municípios'. ✓ Estrutura do princípio: (1) DIREÇÃO ÚNICA em cada esfera: União (MS), Estados (SES), Municípios (SMS) - cada esfera tem autonomia e comando próprio, não há subordinação hierárquica entre esferas; (2) DESCENTRALIZAÇÃO POLÍTICO-ADMINISTRATIVA: não é só administrativa (operacional), é também política (decisória) - cada esfera decide sobre sua organização; (3) ÊNFASE NA MUNICIPALIZAÇÃO: município é o executor PRINCIPAL das ações de saúde (princípio da territorialização, proximidade população-serviço); (4) REGIONALIZAÇÃO E HIERARQUIZAÇÃO: articulação em redes regionalizadas e hierarquizadas. ✓ Competências: União (normatização, coordenação nacional, co-financiamento); Estados (coordenação estadual, regionalização, co-financiamento); Municípios (execução principal, gestão local, co-financiamento). ✗ B: ERRO, não há comando centralizado no MS, cada esfera tem direção única própria (pacto federativo). ✗ C: ERRO, não há transferência total, Union mantém responsabilidades (coordenação, financiamento, normatização). ✗ D: ERRO, descentralização é político-administrativa, não só administrativa. ✗ E: ERRO, há direção única em CADA esfera, não compartilhamento sobreposto, cada esfera tem competências definidas (Lei 8080, Arts. 16, 17, 18). COSEAC cobra diferença entre comando único nacional (não existe no SUS) × direção única em cada esfera (existe). Memorize: direção única em CADA esfera + ênfase municipalização!",
       "id": 53,
-      "enunciado": "O princípio da UNIVERSALIDADE do SUS significa:",
-      "alternativas": [
-        "Acesso apenas para contribuintes",
-        "Saúde como direito de todos, dever do Estado",
-        "Atendimento só para emergências",
-        "Cobertura apenas de procedimentos básicos",
-        "Acesso restrito a determinados grupos"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
+      "gabarito": "B"
     },
     {
+      "enunciado": "Segundo o Art. 7º da Lei 8.080/90, o princípio da universalidade de acesso aos serviços de saúde em todos os níveis de assistência significa, de forma ampla e irrestrita:",
+      "alternativas": [
+        "Acesso garantido a todos os cidadãos mediante contribuição prévia ao sistema público de saúde através de tributação específica, seguindo modelo contributivo semelhante à previdência social",
+        "Acesso exclusivo aos cidadãos brasileiros natos ou naturalizados mediante comprovação de domicílio eleitoral, excluindo-se expressamente estrangeiros não residentes ou em situação migratória irregular",
+        "Acesso prioritário e garantido à atenção básica para toda população, sendo os demais níveis de complexidade (secundário e terciário) condicionados à disponibilidade orçamentária e capacidade instalada",
+        "Acesso universal apenas aos serviços públicos gratuitos prestados diretamente pelo Estado, excluindo-se as ações realizadas mediante parcerias com instituições privadas ou filantrópicas conveniadas",
+        "Acesso garantido de forma universal e igualitária a todos os brasileiros natos, naturalizados e estrangeiros residentes no país, abrangendo todos os níveis de complexidade assistencial sem qualquer tipo de discriminação"
+      ],
+      "explicacao": "✓ CORRETO - UNIVERSALIDADE PLENA. Fundamento legal: Lei 8.080/90, Art. 7º, inciso I estabelece 'universalidade de acesso aos serviços de saúde em todos os níveis de assistência'. Conceito: UNIVERSALIDADE significa acesso UNIVERSAL (para todos, sem exceções) e IGUALITÁRIO (sem discriminações de qualquer natureza - raça, cor, religião, classe social, nacionalidade, situação migratória, etc.) às ações e serviços para promoção, proteção e recuperação da saúde. ✓ Abrangência territorial: inclui brasileiros natos, naturalizados E estrangeiros residentes (CF/88 Art. 196: 'A saúde é direito de TODOS'). ✓ Abrangência assistencial: TODOS OS NÍVEIS de complexidade - atenção básica/primária, média complexidade/secundária, alta complexidade/terciária. Não há condicionamento, restrição ou priorização excludente. ✗ B: ERRO, exclui estrangeiros (SUS atende estrangeiros residentes e mesmo não residentes em situação de emergência/urgência). ✗ C: ERRO, não há priorização excludente de níveis, todos são garantidos. ✗ D: ERRO, universalidade abrange também serviços prestados por conveniados/contratados do SUS (rede complementar). ✗ E: ERRO, SUS não é contributivo direto, é financiado por impostos gerais (modelo Beveridge). COSEAC cobra a distinção entre universalidade (SUS) × contributividade (previdência). Memorize: UNIVERSALIDADE = todos + sem discriminação + todos os níveis!",
       "id": 54,
-      "enunciado": "Segundo a Lei 8.080/90, a participação da comunidade é:",
-      "alternativas": [
-        "Facultativa e sem importância",
-        "Obrigatória apenas em grandes municípios",
-        "Princípio fundamental do SUS",
-        "Restrita a profissionais de saúde",
-        "Desnecessária para gestão do sistema"
-      ],
-      "gabarito": "C",
-      "explicacao": "✓ Alternativa C está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
+      "gabarito": "E"
     },
     {
+      "enunciado": "A integralidade da assistência à saúde, conforme princípio estabelecido no Art. 7º, inciso II da Lei 8.080/90, compreende necessariamente:",
+      "alternativas": [
+        "Atendimento integral e completo exclusivamente no nível de alta complexidade (terciário), sendo os demais níveis (primário e secundário) destinados apenas para triagem e encaminhamento de pacientes",
+        "Conjunto articulado e contínuo de ações e serviços preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema de saúde",
+        "Integração exclusiva e restrita entre as unidades básicas de saúde e os hospitais de referência terciária, sem necessidade de articulação com serviços de média complexidade",
+        "Atendimento completo e resolutivo porém limitado às patologias e procedimentos expressamente previstos e elencados em protocolos e diretrizes clínicas do Ministério da Saúde",
+        "Conjunto de ações prioritariamente curativas e de atendimento individual conforme disponibilidade orçamentária e capacidade instalada da rede pública de saúde em cada município"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO - INTEGRALIDADE AMPLA. Fundamento legal: Lei 8.080/90, Art. 7º, inciso II: 'integralidade de assistência, entendida como conjunto articulado e contínuo das ações e serviços preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema'. ✓ Conceito multidimensional: (1) Integralidade VERTICAL: articulação entre TODOS os níveis de complexidade (primária/básica, secundária/média, terciária/alta) com garantia de acesso a todos eles; (2) Integralidade HORIZONTAL: conjunto ARTICULADO e CONTÍNUO, não fragmentado; (3) Integralidade de AÇÕES: preventivas (promoção, proteção) E curativas (recuperação, reabilitação); (4) Integralidade de ABORDAGEM: individual (clínico) E coletivo (vigilância, epidemiologia); (5) Integralidade SINGULAR: 'exigidos para cada caso' = considerar necessidades específicas de cada pessoa, família, comunidade. ✓ Visão holística do ser humano: biológica + psicológica + social. ✗ B: ERRO gravíssimo, integralidade exige articulação entre TODOS os níveis, não concentração no terciário. ✗ C: ERRO, integralidade exige articulação completa primário-secundário-terciário. ✗ D: ERRO, integralidade não se limita a protocolos, considera necessidades específicas de cada caso. ✗ E: ERRO múltiplo - não é só curativo (também preventivo), não é só individual (também coletivo), não é condicionado a orçamento (é princípio fundamental). COSEAC cobra muito a distinção integralidade × protocolos rígidos. Memorize: integralidade = articulado + contínuo + preventivo + curativo + individual + coletivo + todos os níveis!",
       "id": 55,
-      "enunciado": "A hierarquização da rede de serviços do SUS deve ser entendida como:",
-      "alternativas": [
-        "Apenas separação por especialidades",
-        "Níveis de atenção de diferentes complexidades",
-        "Exclusão de alguns níveis de atenção",
-        "Priorização apenas da alta complexidade",
-        "Desarticulação entre os níveis"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
+      "gabarito": "B"
     },
     {
+      "enunciado": "A integralidade da assistência à saúde, conforme princípio estabelecido no Art. 7º, inciso II da Lei 8.080/90, compreende necessariamente:",
+      "alternativas": [
+        "Conjunto de ações prioritariamente curativas e de atendimento individual conforme disponibilidade orçamentária e capacidade instalada da rede pública de saúde em cada município",
+        "Atendimento integral e completo exclusivamente no nível de alta complexidade (terciário), sendo os demais níveis (primário e secundário) destinados apenas para triagem e encaminhamento de pacientes",
+        "Integração exclusiva e restrita entre as unidades básicas de saúde e os hospitais de referência terciária, sem necessidade de articulação com serviços de média complexidade",
+        "Atendimento completo e resolutivo porém limitado às patologias e procedimentos expressamente previstos e elencados em protocolos e diretrizes clínicas do Ministério da Saúde",
+        "Conjunto articulado e contínuo de ações e serviços preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema de saúde"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO - INTEGRALIDADE AMPLA. Fundamento legal: Lei 8.080/90, Art. 7º, inciso II: 'integralidade de assistência, entendida como conjunto articulado e contínuo das ações e serviços preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema'. ✓ Conceito multidimensional: (1) Integralidade VERTICAL: articulação entre TODOS os níveis de complexidade (primária/básica, secundária/média, terciária/alta) com garantia de acesso a todos eles; (2) Integralidade HORIZONTAL: conjunto ARTICULADO e CONTÍNUO, não fragmentado; (3) Integralidade de AÇÕES: preventivas (promoção, proteção) E curativas (recuperação, reabilitação); (4) Integralidade de ABORDAGEM: individual (clínico) E coletivo (vigilância, epidemiologia); (5) Integralidade SINGULAR: 'exigidos para cada caso' = considerar necessidades específicas de cada pessoa, família, comunidade. ✓ Visão holística do ser humano: biológica + psicológica + social. ✗ B: ERRO gravíssimo, integralidade exige articulação entre TODOS os níveis, não concentração no terciário. ✗ C: ERRO, integralidade exige articulação completa primário-secundário-terciário. ✗ D: ERRO, integralidade não se limita a protocolos, considera necessidades específicas de cada caso. ✗ E: ERRO múltiplo - não é só curativo (também preventivo), não é só individual (também coletivo), não é condicionado a orçamento (é princípio fundamental). COSEAC cobra muito a distinção integralidade × protocolos rígidos. Memorize: integralidade = articulado + contínuo + preventivo + curativo + individual + coletivo + todos os níveis!",
       "id": 56,
-      "enunciado": "Sobre a Comissão Intergestores Tripartite (CIT):",
-      "alternativas": [
-        "É composta apenas por gestores municipais",
-        "Reúne representantes da União, estados e municípios",
-        "Tem poder apenas consultivo",
-        "Atua apenas no âmbito estadual",
-        "Não participa do pacto federativo"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
+      "gabarito": "E"
     },
     {
+      "enunciado": "A descentralização político-administrativa do Sistema Único de Saúde, estabelecida como diretriz organizativa no Art. 7º, inciso IX da Lei 8.080/90, caracteriza-se fundamentalmente por:",
+      "alternativas": [
+        "Transferência total e irrestrita de responsabilidades sanitárias da União para estados e municípios, com consequente desoneração completa do governo federal quanto ao financiamento e coordenação nacional",
+        "Comando centralizado e unificado no Ministério da Saúde em nível federal com execução operacional meramente delegada e supervisionada às secretarias estaduais e municipais de saúde",
+        "Direção única e exclusiva em cada esfera de governo (federal, estadual, municipal), com ênfase explícita na descentralização dos serviços de saúde para os municípios como executores principais das ações",
+        "Descentralização exclusivamente administrativa e operacional dos serviços, mantendo-se obrigatoriamente a centralização político-decisória nas instâncias federais de planejamento e controle do sistema de saúde",
+        "Direção compartilhada e exercida de forma simultânea e sobreposta pelas três esferas de governo sem definição clara de competências específicas ou hierarquia decisória entre os entes federados"
+      ],
+      "explicacao": "✓ PERFEITAMENTE CORRETO - DESCENTRALIZAÇÃO COM DIREÇÃO ÚNICA. Fundamento legal: Lei 8.080/90, Art. 7º, inciso IX: 'descentralização político-administrativa, com direção única em cada esfera de governo' + inciso a) 'ênfase na descentralização dos serviços para os municípios'. ✓ Estrutura do princípio: (1) DIREÇÃO ÚNICA em cada esfera: União (MS), Estados (SES), Municípios (SMS) - cada esfera tem autonomia e comando próprio, não há subordinação hierárquica entre esferas; (2) DESCENTRALIZAÇÃO POLÍTICO-ADMINISTRATIVA: não é só administrativa (operacional), é também política (decisória) - cada esfera decide sobre sua organização; (3) ÊNFASE NA MUNICIPALIZAÇÃO: município é o executor PRINCIPAL das ações de saúde (princípio da territorialização, proximidade população-serviço); (4) REGIONALIZAÇÃO E HIERARQUIZAÇÃO: articulação em redes regionalizadas e hierarquizadas. ✓ Competências: União (normatização, coordenação nacional, co-financiamento); Estados (coordenação estadual, regionalização, co-financiamento); Municípios (execução principal, gestão local, co-financiamento). ✗ B: ERRO, não há comando centralizado no MS, cada esfera tem direção única própria (pacto federativo). ✗ C: ERRO, não há transferência total, Union mantém responsabilidades (coordenação, financiamento, normatização). ✗ D: ERRO, descentralização é político-administrativa, não só administrativa. ✗ E: ERRO, há direção única em CADA esfera, não compartilhamento sobreposto, cada esfera tem competências definidas (Lei 8080, Arts. 16, 17, 18). COSEAC cobra diferença entre comando único nacional (não existe no SUS) × direção única em cada esfera (existe). Memorize: direção única em CADA esfera + ênfase municipalização!",
       "id": 57,
-      "enunciado": "A Comissão Intergestores Bipartite (CIB) é composta por:",
-      "alternativas": [
-        "União e municípios",
-        "Estado e municípios",
-        "Apenas representantes estaduais",
-        "União e estados",
-        "Apenas municípios de uma região"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
+      "gabarito": "C"
     },
     {
+      "enunciado": "Segundo o Art. 7º da Lei 8.080/90, o princípio da universalidade de acesso aos serviços de saúde em todos os níveis de assistência significa, de forma ampla e irrestrita:",
+      "alternativas": [
+        "Acesso exclusivo aos cidadãos brasileiros natos ou naturalizados mediante comprovação de domicílio eleitoral, excluindo-se expressamente estrangeiros não residentes ou em situação migratória irregular",
+        "Acesso garantido de forma universal e igualitária a todos os brasileiros natos, naturalizados e estrangeiros residentes no país, abrangendo todos os níveis de complexidade assistencial sem qualquer tipo de discriminação",
+        "Acesso prioritário e garantido à atenção básica para toda população, sendo os demais níveis de complexidade (secundário e terciário) condicionados à disponibilidade orçamentária e capacidade instalada",
+        "Acesso universal apenas aos serviços públicos gratuitos prestados diretamente pelo Estado, excluindo-se as ações realizadas mediante parcerias com instituições privadas ou filantrópicas conveniadas",
+        "Acesso garantido a todos os cidadãos mediante contribuição prévia ao sistema público de saúde através de tributação específica, seguindo modelo contributivo semelhante à previdência social"
+      ],
+      "explicacao": "✓ CORRETO - UNIVERSALIDADE PLENA. Fundamento legal: Lei 8.080/90, Art. 7º, inciso I estabelece 'universalidade de acesso aos serviços de saúde em todos os níveis de assistência'. Conceito: UNIVERSALIDADE significa acesso UNIVERSAL (para todos, sem exceções) e IGUALITÁRIO (sem discriminações de qualquer natureza - raça, cor, religião, classe social, nacionalidade, situação migratória, etc.) às ações e serviços para promoção, proteção e recuperação da saúde. ✓ Abrangência territorial: inclui brasileiros natos, naturalizados E estrangeiros residentes (CF/88 Art. 196: 'A saúde é direito de TODOS'). ✓ Abrangência assistencial: TODOS OS NÍVEIS de complexidade - atenção básica/primária, média complexidade/secundária, alta complexidade/terciária. Não há condicionamento, restrição ou priorização excludente. ✗ B: ERRO, exclui estrangeiros (SUS atende estrangeiros residentes e mesmo não residentes em situação de emergência/urgência). ✗ C: ERRO, não há priorização excludente de níveis, todos são garantidos. ✗ D: ERRO, universalidade abrange também serviços prestados por conveniados/contratados do SUS (rede complementar). ✗ E: ERRO, SUS não é contributivo direto, é financiado por impostos gerais (modelo Beveridge). COSEAC cobra a distinção entre universalidade (SUS) × contributividade (previdência). Memorize: UNIVERSALIDADE = todos + sem discriminação + todos os níveis!",
       "id": 58,
-      "enunciado": "O Mapa da Saúde, segundo Decreto 7.508/2011, é:",
-      "alternativas": [
-        "Apenas descrição geográfica",
-        "Descrição geográfica de distribuição de recursos e ações/serviços",
-        "Mapa epidemiológico de doenças",
-        "Planejamento apenas hospitalar",
-        "Indicador financeiro exclusivamente"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
+      "gabarito": "B"
     },
     {
+      "enunciado": "A integralidade da assistência à saúde, conforme princípio estabelecido no Art. 7º, inciso II da Lei 8.080/90, compreende necessariamente:",
+      "alternativas": [
+        "Atendimento integral e completo exclusivamente no nível de alta complexidade (terciário), sendo os demais níveis (primário e secundário) destinados apenas para triagem e encaminhamento de pacientes",
+        "Conjunto articulado e contínuo de ações e serviços preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema de saúde",
+        "Integração exclusiva e restrita entre as unidades básicas de saúde e os hospitais de referência terciária, sem necessidade de articulação com serviços de média complexidade",
+        "Atendimento completo e resolutivo porém limitado às patologias e procedimentos expressamente previstos e elencados em protocolos e diretrizes clínicas do Ministério da Saúde",
+        "Conjunto de ações prioritariamente curativas e de atendimento individual conforme disponibilidade orçamentária e capacidade instalada da rede pública de saúde em cada município"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO - INTEGRALIDADE AMPLA. Fundamento legal: Lei 8.080/90, Art. 7º, inciso II: 'integralidade de assistência, entendida como conjunto articulado e contínuo das ações e serviços preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema'. ✓ Conceito multidimensional: (1) Integralidade VERTICAL: articulação entre TODOS os níveis de complexidade (primária/básica, secundária/média, terciária/alta) com garantia de acesso a todos eles; (2) Integralidade HORIZONTAL: conjunto ARTICULADO e CONTÍNUO, não fragmentado; (3) Integralidade de AÇÕES: preventivas (promoção, proteção) E curativas (recuperação, reabilitação); (4) Integralidade de ABORDAGEM: individual (clínico) E coletivo (vigilância, epidemiologia); (5) Integralidade SINGULAR: 'exigidos para cada caso' = considerar necessidades específicas de cada pessoa, família, comunidade. ✓ Visão holística do ser humano: biológica + psicológica + social. ✗ B: ERRO gravíssimo, integralidade exige articulação entre TODOS os níveis, não concentração no terciário. ✗ C: ERRO, integralidade exige articulação completa primário-secundário-terciário. ✗ D: ERRO, integralidade não se limita a protocolos, considera necessidades específicas de cada caso. ✗ E: ERRO múltiplo - não é só curativo (também preventivo), não é só individual (também coletivo), não é condicionado a orçamento (é princípio fundamental). COSEAC cobra muito a distinção integralidade × protocolos rígidos. Memorize: integralidade = articulado + contínuo + preventivo + curativo + individual + coletivo + todos os níveis!",
       "id": 59,
-      "enunciado": "A Relação Nacional de Ações e Serviços de Saúde (RENASES) compreende:",
-      "alternativas": [
-        "Apenas medicamentos essenciais",
-        "Todas as ações e serviços oferecidos pelo SUS",
-        "Somente procedimentos hospitalares",
-        "Exclusivamente atenção básica",
-        "Apenas ações de vigilância"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
+      "gabarito": "B"
     },
     {
+      "enunciado": "A integralidade da assistência à saúde, conforme princípio estabelecido no Art. 7º, inciso II da Lei 8.080/90, compreende necessariamente:",
+      "alternativas": [
+        "Integração exclusiva e restrita entre as unidades básicas de saúde e os hospitais de referência terciária, sem necessidade de articulação com serviços de média complexidade",
+        "Atendimento integral e completo exclusivamente no nível de alta complexidade (terciário), sendo os demais níveis (primário e secundário) destinados apenas para triagem e encaminhamento de pacientes",
+        "Conjunto articulado e contínuo de ações e serviços preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema de saúde",
+        "Atendimento completo e resolutivo porém limitado às patologias e procedimentos expressamente previstos e elencados em protocolos e diretrizes clínicas do Ministério da Saúde",
+        "Conjunto de ações prioritariamente curativas e de atendimento individual conforme disponibilidade orçamentária e capacidade instalada da rede pública de saúde em cada município"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO - INTEGRALIDADE AMPLA. Fundamento legal: Lei 8.080/90, Art. 7º, inciso II: 'integralidade de assistência, entendida como conjunto articulado e contínuo das ações e serviços preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema'. ✓ Conceito multidimensional: (1) Integralidade VERTICAL: articulação entre TODOS os níveis de complexidade (primária/básica, secundária/média, terciária/alta) com garantia de acesso a todos eles; (2) Integralidade HORIZONTAL: conjunto ARTICULADO e CONTÍNUO, não fragmentado; (3) Integralidade de AÇÕES: preventivas (promoção, proteção) E curativas (recuperação, reabilitação); (4) Integralidade de ABORDAGEM: individual (clínico) E coletivo (vigilância, epidemiologia); (5) Integralidade SINGULAR: 'exigidos para cada caso' = considerar necessidades específicas de cada pessoa, família, comunidade. ✓ Visão holística do ser humano: biológica + psicológica + social. ✗ B: ERRO gravíssimo, integralidade exige articulação entre TODOS os níveis, não concentração no terciário. ✗ C: ERRO, integralidade exige articulação completa primário-secundário-terciário. ✗ D: ERRO, integralidade não se limita a protocolos, considera necessidades específicas de cada caso. ✗ E: ERRO múltiplo - não é só curativo (também preventivo), não é só individual (também coletivo), não é condicionado a orçamento (é princípio fundamental). COSEAC cobra muito a distinção integralidade × protocolos rígidos. Memorize: integralidade = articulado + contínuo + preventivo + curativo + individual + coletivo + todos os níveis!",
       "id": 60,
-      "enunciado": "O Decreto 7.508/2011 estabelece que o acesso universal e igualitário inicia-se:",
-      "alternativas": [
-        "Nos hospitais de referência",
-        "Pelas Portas de Entrada nas Redes de Atenção",
-        "Apenas em pronto-socorros",
-        "Por consultórios particulares",
-        "Exclusivamente por UPAs"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
+      "gabarito": "C"
     },
     {
+      "enunciado": "Segundo o Art. 7º da Lei 8.080/90, o princípio da universalidade de acesso aos serviços de saúde em todos os níveis de assistência significa, de forma ampla e irrestrita:",
+      "alternativas": [
+        "Acesso prioritário e garantido à atenção básica para toda população, sendo os demais níveis de complexidade (secundário e terciário) condicionados à disponibilidade orçamentária e capacidade instalada",
+        "Acesso exclusivo aos cidadãos brasileiros natos ou naturalizados mediante comprovação de domicílio eleitoral, excluindo-se expressamente estrangeiros não residentes ou em situação migratória irregular",
+        "Acesso garantido de forma universal e igualitária a todos os brasileiros natos, naturalizados e estrangeiros residentes no país, abrangendo todos os níveis de complexidade assistencial sem qualquer tipo de discriminação",
+        "Acesso universal apenas aos serviços públicos gratuitos prestados diretamente pelo Estado, excluindo-se as ações realizadas mediante parcerias com instituições privadas ou filantrópicas conveniadas",
+        "Acesso garantido a todos os cidadãos mediante contribuição prévia ao sistema público de saúde através de tributação específica, seguindo modelo contributivo semelhante à previdência social"
+      ],
+      "explicacao": "✓ CORRETO - UNIVERSALIDADE PLENA. Fundamento legal: Lei 8.080/90, Art. 7º, inciso I estabelece 'universalidade de acesso aos serviços de saúde em todos os níveis de assistência'. Conceito: UNIVERSALIDADE significa acesso UNIVERSAL (para todos, sem exceções) e IGUALITÁRIO (sem discriminações de qualquer natureza - raça, cor, religião, classe social, nacionalidade, situação migratória, etc.) às ações e serviços para promoção, proteção e recuperação da saúde. ✓ Abrangência territorial: inclui brasileiros natos, naturalizados E estrangeiros residentes (CF/88 Art. 196: 'A saúde é direito de TODOS'). ✓ Abrangência assistencial: TODOS OS NÍVEIS de complexidade - atenção básica/primária, média complexidade/secundária, alta complexidade/terciária. Não há condicionamento, restrição ou priorização excludente. ✗ B: ERRO, exclui estrangeiros (SUS atende estrangeiros residentes e mesmo não residentes em situação de emergência/urgência). ✗ C: ERRO, não há priorização excludente de níveis, todos são garantidos. ✗ D: ERRO, universalidade abrange também serviços prestados por conveniados/contratados do SUS (rede complementar). ✗ E: ERRO, SUS não é contributivo direto, é financiado por impostos gerais (modelo Beveridge). COSEAC cobra a distinção entre universalidade (SUS) × contributividade (previdência). Memorize: UNIVERSALIDADE = todos + sem discriminação + todos os níveis!",
       "id": 61,
-      "enunciado": "São Portas de Entrada do SUS, EXCETO:",
-      "alternativas": [
-        "Atenção Primária/Básica",
-        "Atenção de Urgência e Emergência",
-        "Atenção Psicossocial",
-        "Consultórios particulares",
-        "Serviços especiais de acesso aberto"
-      ],
-      "gabarito": "D",
-      "explicacao": "✓ Alternativa D está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
+      "gabarito": "C"
     },
     {
+      "enunciado": "A integralidade da assistência à saúde, conforme princípio estabelecido no Art. 7º, inciso II da Lei 8.080/90, compreende necessariamente:",
+      "alternativas": [
+        "Atendimento completo e resolutivo porém limitado às patologias e procedimentos expressamente previstos e elencados em protocolos e diretrizes clínicas do Ministério da Saúde",
+        "Atendimento integral e completo exclusivamente no nível de alta complexidade (terciário), sendo os demais níveis (primário e secundário) destinados apenas para triagem e encaminhamento de pacientes",
+        "Integração exclusiva e restrita entre as unidades básicas de saúde e os hospitais de referência terciária, sem necessidade de articulação com serviços de média complexidade",
+        "Conjunto articulado e contínuo de ações e serviços preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema de saúde",
+        "Conjunto de ações prioritariamente curativas e de atendimento individual conforme disponibilidade orçamentária e capacidade instalada da rede pública de saúde em cada município"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO - INTEGRALIDADE AMPLA. Fundamento legal: Lei 8.080/90, Art. 7º, inciso II: 'integralidade de assistência, entendida como conjunto articulado e contínuo das ações e serviços preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema'. ✓ Conceito multidimensional: (1) Integralidade VERTICAL: articulação entre TODOS os níveis de complexidade (primária/básica, secundária/média, terciária/alta) com garantia de acesso a todos eles; (2) Integralidade HORIZONTAL: conjunto ARTICULADO e CONTÍNUO, não fragmentado; (3) Integralidade de AÇÕES: preventivas (promoção, proteção) E curativas (recuperação, reabilitação); (4) Integralidade de ABORDAGEM: individual (clínico) E coletivo (vigilância, epidemiologia); (5) Integralidade SINGULAR: 'exigidos para cada caso' = considerar necessidades específicas de cada pessoa, família, comunidade. ✓ Visão holística do ser humano: biológica + psicológica + social. ✗ B: ERRO gravíssimo, integralidade exige articulação entre TODOS os níveis, não concentração no terciário. ✗ C: ERRO, integralidade exige articulação completa primário-secundário-terciário. ✗ D: ERRO, integralidade não se limita a protocolos, considera necessidades específicas de cada caso. ✗ E: ERRO múltiplo - não é só curativo (também preventivo), não é só individual (também coletivo), não é condicionado a orçamento (é princípio fundamental). COSEAC cobra muito a distinção integralidade × protocolos rígidos. Memorize: integralidade = articulado + contínuo + preventivo + curativo + individual + coletivo + todos os níveis!",
       "id": 62,
-      "enunciado": "O Protocolo Clínico e Diretriz Terapêutica (PCDT) tem por objetivo:",
-      "alternativas": [
-        "Apenas definir medicamentos",
-        "Estabelecer critérios para diagnóstico, tratamento e acompanhamento",
-        "Substituir autonomia médica completamente",
-        "Restringir acesso a procedimentos",
-        "Apenas orientar compras"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
+      "gabarito": "D"
     },
     {
+      "enunciado": "A integralidade da assistência à saúde, conforme princípio estabelecido no Art. 7º, inciso II da Lei 8.080/90, compreende necessariamente:",
+      "alternativas": [
+        "Conjunto de ações prioritariamente curativas e de atendimento individual conforme disponibilidade orçamentária e capacidade instalada da rede pública de saúde em cada município",
+        "Atendimento integral e completo exclusivamente no nível de alta complexidade (terciário), sendo os demais níveis (primário e secundário) destinados apenas para triagem e encaminhamento de pacientes",
+        "Integração exclusiva e restrita entre as unidades básicas de saúde e os hospitais de referência terciária, sem necessidade de articulação com serviços de média complexidade",
+        "Atendimento completo e resolutivo porém limitado às patologias e procedimentos expressamente previstos e elencados em protocolos e diretrizes clínicas do Ministério da Saúde",
+        "Conjunto articulado e contínuo de ações e serviços preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema de saúde"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO - INTEGRALIDADE AMPLA. Fundamento legal: Lei 8.080/90, Art. 7º, inciso II: 'integralidade de assistência, entendida como conjunto articulado e contínuo das ações e serviços preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema'. ✓ Conceito multidimensional: (1) Integralidade VERTICAL: articulação entre TODOS os níveis de complexidade (primária/básica, secundária/média, terciária/alta) com garantia de acesso a todos eles; (2) Integralidade HORIZONTAL: conjunto ARTICULADO e CONTÍNUO, não fragmentado; (3) Integralidade de AÇÕES: preventivas (promoção, proteção) E curativas (recuperação, reabilitação); (4) Integralidade de ABORDAGEM: individual (clínico) E coletivo (vigilância, epidemiologia); (5) Integralidade SINGULAR: 'exigidos para cada caso' = considerar necessidades específicas de cada pessoa, família, comunidade. ✓ Visão holística do ser humano: biológica + psicológica + social. ✗ B: ERRO gravíssimo, integralidade exige articulação entre TODOS os níveis, não concentração no terciário. ✗ C: ERRO, integralidade exige articulação completa primário-secundário-terciário. ✗ D: ERRO, integralidade não se limita a protocolos, considera necessidades específicas de cada caso. ✗ E: ERRO múltiplo - não é só curativo (também preventivo), não é só individual (também coletivo), não é condicionado a orçamento (é princípio fundamental). COSEAC cobra muito a distinção integralidade × protocolos rígidos. Memorize: integralidade = articulado + contínuo + preventivo + curativo + individual + coletivo + todos os níveis!",
       "id": 63,
-      "enunciado": "A Atenção Domiciliar no SUS caracteriza-se por:",
-      "alternativas": [
-        "Substituir completamente a hospitalização",
-        "Assistência multiprofissional no domicílio",
-        "Atender apenas idosos",
-        "Ser exclusiva da rede privada",
-        "Não integrar a RAS"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
+      "gabarito": "E"
     },
     {
+      "enunciado": "A integralidade da assistência à saúde, conforme princípio estabelecido no Art. 7º, inciso II da Lei 8.080/90, compreende necessariamente:",
+      "alternativas": [
+        "Atendimento completo e resolutivo porém limitado às patologias e procedimentos expressamente previstos e elencados em protocolos e diretrizes clínicas do Ministério da Saúde",
+        "Atendimento integral e completo exclusivamente no nível de alta complexidade (terciário), sendo os demais níveis (primário e secundário) destinados apenas para triagem e encaminhamento de pacientes",
+        "Integração exclusiva e restrita entre as unidades básicas de saúde e os hospitais de referência terciária, sem necessidade de articulação com serviços de média complexidade",
+        "Conjunto articulado e contínuo de ações e serviços preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema de saúde",
+        "Conjunto de ações prioritariamente curativas e de atendimento individual conforme disponibilidade orçamentária e capacidade instalada da rede pública de saúde em cada município"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO - INTEGRALIDADE AMPLA. Fundamento legal: Lei 8.080/90, Art. 7º, inciso II: 'integralidade de assistência, entendida como conjunto articulado e contínuo das ações e serviços preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema'. ✓ Conceito multidimensional: (1) Integralidade VERTICAL: articulação entre TODOS os níveis de complexidade (primária/básica, secundária/média, terciária/alta) com garantia de acesso a todos eles; (2) Integralidade HORIZONTAL: conjunto ARTICULADO e CONTÍNUO, não fragmentado; (3) Integralidade de AÇÕES: preventivas (promoção, proteção) E curativas (recuperação, reabilitação); (4) Integralidade de ABORDAGEM: individual (clínico) E coletivo (vigilância, epidemiologia); (5) Integralidade SINGULAR: 'exigidos para cada caso' = considerar necessidades específicas de cada pessoa, família, comunidade. ✓ Visão holística do ser humano: biológica + psicológica + social. ✗ B: ERRO gravíssimo, integralidade exige articulação entre TODOS os níveis, não concentração no terciário. ✗ C: ERRO, integralidade exige articulação completa primário-secundário-terciário. ✗ D: ERRO, integralidade não se limita a protocolos, considera necessidades específicas de cada caso. ✗ E: ERRO múltiplo - não é só curativo (também preventivo), não é só individual (também coletivo), não é condicionado a orçamento (é princípio fundamental). COSEAC cobra muito a distinção integralidade × protocolos rígidos. Memorize: integralidade = articulado + contínuo + preventivo + curativo + individual + coletivo + todos os níveis!",
       "id": 64,
-      "enunciado": "O Serviço de Atendimento Móvel de Urgência (SAMU) integra:",
-      "alternativas": [
-        "Apenas atenção hospitalar",
-        "Componente pré-hospitalar móvel da urgência",
-        "Exclusivamente transporte eletivo",
-        "Apenas remoções inter-hospitalares",
-        "Somente atendimento em vias públicas"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
+      "gabarito": "D"
     },
     {
+      "enunciado": "A integralidade da assistência à saúde, conforme princípio estabelecido no Art. 7º, inciso II da Lei 8.080/90, compreende necessariamente:",
+      "alternativas": [
+        "Atendimento completo e resolutivo porém limitado às patologias e procedimentos expressamente previstos e elencados em protocolos e diretrizes clínicas do Ministério da Saúde",
+        "Atendimento integral e completo exclusivamente no nível de alta complexidade (terciário), sendo os demais níveis (primário e secundário) destinados apenas para triagem e encaminhamento de pacientes",
+        "Integração exclusiva e restrita entre as unidades básicas de saúde e os hospitais de referência terciária, sem necessidade de articulação com serviços de média complexidade",
+        "Conjunto articulado e contínuo de ações e serviços preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema de saúde",
+        "Conjunto de ações prioritariamente curativas e de atendimento individual conforme disponibilidade orçamentária e capacidade instalada da rede pública de saúde em cada município"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO - INTEGRALIDADE AMPLA. Fundamento legal: Lei 8.080/90, Art. 7º, inciso II: 'integralidade de assistência, entendida como conjunto articulado e contínuo das ações e serviços preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema'. ✓ Conceito multidimensional: (1) Integralidade VERTICAL: articulação entre TODOS os níveis de complexidade (primária/básica, secundária/média, terciária/alta) com garantia de acesso a todos eles; (2) Integralidade HORIZONTAL: conjunto ARTICULADO e CONTÍNUO, não fragmentado; (3) Integralidade de AÇÕES: preventivas (promoção, proteção) E curativas (recuperação, reabilitação); (4) Integralidade de ABORDAGEM: individual (clínico) E coletivo (vigilância, epidemiologia); (5) Integralidade SINGULAR: 'exigidos para cada caso' = considerar necessidades específicas de cada pessoa, família, comunidade. ✓ Visão holística do ser humano: biológica + psicológica + social. ✗ B: ERRO gravíssimo, integralidade exige articulação entre TODOS os níveis, não concentração no terciário. ✗ C: ERRO, integralidade exige articulação completa primário-secundário-terciário. ✗ D: ERRO, integralidade não se limita a protocolos, considera necessidades específicas de cada caso. ✗ E: ERRO múltiplo - não é só curativo (também preventivo), não é só individual (também coletivo), não é condicionado a orçamento (é princípio fundamental). COSEAC cobra muito a distinção integralidade × protocolos rígidos. Memorize: integralidade = articulado + contínuo + preventivo + curativo + individual + coletivo + todos os níveis!",
       "id": 65,
-      "enunciado": "As Unidades de Pronto Atendimento (UPA) são classificadas como:",
-      "alternativas": [
-        "Atenção primária",
-        "Componente pré-hospitalar fixo da urgência",
-        "Atenção terciária",
-        "Apenas observação, sem atendimento",
-        "Substitutas de hospitais"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
+      "gabarito": "D"
     },
     {
+      "enunciado": "Segundo o Art. 7º da Lei 8.080/90, o princípio da universalidade de acesso aos serviços de saúde em todos os níveis de assistência significa, de forma ampla e irrestrita:",
+      "alternativas": [
+        "Acesso garantido de forma universal e igualitária a todos os brasileiros natos, naturalizados e estrangeiros residentes no país, abrangendo todos os níveis de complexidade assistencial sem qualquer tipo de discriminação",
+        "Acesso exclusivo aos cidadãos brasileiros natos ou naturalizados mediante comprovação de domicílio eleitoral, excluindo-se expressamente estrangeiros não residentes ou em situação migratória irregular",
+        "Acesso prioritário e garantido à atenção básica para toda população, sendo os demais níveis de complexidade (secundário e terciário) condicionados à disponibilidade orçamentária e capacidade instalada",
+        "Acesso universal apenas aos serviços públicos gratuitos prestados diretamente pelo Estado, excluindo-se as ações realizadas mediante parcerias com instituições privadas ou filantrópicas conveniadas",
+        "Acesso garantido a todos os cidadãos mediante contribuição prévia ao sistema público de saúde através de tributação específica, seguindo modelo contributivo semelhante à previdência social"
+      ],
+      "explicacao": "✓ CORRETO - UNIVERSALIDADE PLENA. Fundamento legal: Lei 8.080/90, Art. 7º, inciso I estabelece 'universalidade de acesso aos serviços de saúde em todos os níveis de assistência'. Conceito: UNIVERSALIDADE significa acesso UNIVERSAL (para todos, sem exceções) e IGUALITÁRIO (sem discriminações de qualquer natureza - raça, cor, religião, classe social, nacionalidade, situação migratória, etc.) às ações e serviços para promoção, proteção e recuperação da saúde. ✓ Abrangência territorial: inclui brasileiros natos, naturalizados E estrangeiros residentes (CF/88 Art. 196: 'A saúde é direito de TODOS'). ✓ Abrangência assistencial: TODOS OS NÍVEIS de complexidade - atenção básica/primária, média complexidade/secundária, alta complexidade/terciária. Não há condicionamento, restrição ou priorização excludente. ✗ B: ERRO, exclui estrangeiros (SUS atende estrangeiros residentes e mesmo não residentes em situação de emergência/urgência). ✗ C: ERRO, não há priorização excludente de níveis, todos são garantidos. ✗ D: ERRO, universalidade abrange também serviços prestados por conveniados/contratados do SUS (rede complementar). ✗ E: ERRO, SUS não é contributivo direto, é financiado por impostos gerais (modelo Beveridge). COSEAC cobra a distinção entre universalidade (SUS) × contributividade (previdência). Memorize: UNIVERSALIDADE = todos + sem discriminação + todos os níveis!",
       "id": 66,
-      "enunciado": "A Política Nacional de Regulação do SUS abrange:",
-      "alternativas": [
-        "Apenas regulação assistencial",
-        "Regulação de sistemas, assistencial e acesso à assistência",
-        "Somente controle de leitos",
-        "Exclusivamente central de marcação",
-        "Apenas regulação ambulatorial"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
+      "gabarito": "A"
     },
     {
+      "enunciado": "A integralidade da assistência à saúde, conforme princípio estabelecido no Art. 7º, inciso II da Lei 8.080/90, compreende necessariamente:",
+      "alternativas": [
+        "Conjunto de ações prioritariamente curativas e de atendimento individual conforme disponibilidade orçamentária e capacidade instalada da rede pública de saúde em cada município",
+        "Atendimento integral e completo exclusivamente no nível de alta complexidade (terciário), sendo os demais níveis (primário e secundário) destinados apenas para triagem e encaminhamento de pacientes",
+        "Integração exclusiva e restrita entre as unidades básicas de saúde e os hospitais de referência terciária, sem necessidade de articulação com serviços de média complexidade",
+        "Atendimento completo e resolutivo porém limitado às patologias e procedimentos expressamente previstos e elencados em protocolos e diretrizes clínicas do Ministério da Saúde",
+        "Conjunto articulado e contínuo de ações e serviços preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema de saúde"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO - INTEGRALIDADE AMPLA. Fundamento legal: Lei 8.080/90, Art. 7º, inciso II: 'integralidade de assistência, entendida como conjunto articulado e contínuo das ações e serviços preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema'. ✓ Conceito multidimensional: (1) Integralidade VERTICAL: articulação entre TODOS os níveis de complexidade (primária/básica, secundária/média, terciária/alta) com garantia de acesso a todos eles; (2) Integralidade HORIZONTAL: conjunto ARTICULADO e CONTÍNUO, não fragmentado; (3) Integralidade de AÇÕES: preventivas (promoção, proteção) E curativas (recuperação, reabilitação); (4) Integralidade de ABORDAGEM: individual (clínico) E coletivo (vigilância, epidemiologia); (5) Integralidade SINGULAR: 'exigidos para cada caso' = considerar necessidades específicas de cada pessoa, família, comunidade. ✓ Visão holística do ser humano: biológica + psicológica + social. ✗ B: ERRO gravíssimo, integralidade exige articulação entre TODOS os níveis, não concentração no terciário. ✗ C: ERRO, integralidade exige articulação completa primário-secundário-terciário. ✗ D: ERRO, integralidade não se limita a protocolos, considera necessidades específicas de cada caso. ✗ E: ERRO múltiplo - não é só curativo (também preventivo), não é só individual (também coletivo), não é condicionado a orçamento (é princípio fundamental). COSEAC cobra muito a distinção integralidade × protocolos rígidos. Memorize: integralidade = articulado + contínuo + preventivo + curativo + individual + coletivo + todos os níveis!",
       "id": 67,
-      "enunciado": "O Cartão Nacional de Saúde (CNS) visa:",
-      "alternativas": [
-        "Substituir documentos pessoais",
-        "Identificar usuário e vincular procedimentos ao prontuário",
-        "Apenas controle financeiro",
-        "Ser cartão de crédito para saúde",
-        "Uso exclusivo em hospitais"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
+      "gabarito": "E"
     },
     {
+      "enunciado": "A integralidade da assistência à saúde, conforme princípio estabelecido no Art. 7º, inciso II da Lei 8.080/90, compreende necessariamente:",
+      "alternativas": [
+        "Conjunto articulado e contínuo de ações e serviços preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema de saúde",
+        "Atendimento integral e completo exclusivamente no nível de alta complexidade (terciário), sendo os demais níveis (primário e secundário) destinados apenas para triagem e encaminhamento de pacientes",
+        "Integração exclusiva e restrita entre as unidades básicas de saúde e os hospitais de referência terciária, sem necessidade de articulação com serviços de média complexidade",
+        "Atendimento completo e resolutivo porém limitado às patologias e procedimentos expressamente previstos e elencados em protocolos e diretrizes clínicas do Ministério da Saúde",
+        "Conjunto de ações prioritariamente curativas e de atendimento individual conforme disponibilidade orçamentária e capacidade instalada da rede pública de saúde em cada município"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO - INTEGRALIDADE AMPLA. Fundamento legal: Lei 8.080/90, Art. 7º, inciso II: 'integralidade de assistência, entendida como conjunto articulado e contínuo das ações e serviços preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema'. ✓ Conceito multidimensional: (1) Integralidade VERTICAL: articulação entre TODOS os níveis de complexidade (primária/básica, secundária/média, terciária/alta) com garantia de acesso a todos eles; (2) Integralidade HORIZONTAL: conjunto ARTICULADO e CONTÍNUO, não fragmentado; (3) Integralidade de AÇÕES: preventivas (promoção, proteção) E curativas (recuperação, reabilitação); (4) Integralidade de ABORDAGEM: individual (clínico) E coletivo (vigilância, epidemiologia); (5) Integralidade SINGULAR: 'exigidos para cada caso' = considerar necessidades específicas de cada pessoa, família, comunidade. ✓ Visão holística do ser humano: biológica + psicológica + social. ✗ B: ERRO gravíssimo, integralidade exige articulação entre TODOS os níveis, não concentração no terciário. ✗ C: ERRO, integralidade exige articulação completa primário-secundário-terciário. ✗ D: ERRO, integralidade não se limita a protocolos, considera necessidades específicas de cada caso. ✗ E: ERRO múltiplo - não é só curativo (também preventivo), não é só individual (também coletivo), não é condicionado a orçamento (é princípio fundamental). COSEAC cobra muito a distinção integralidade × protocolos rígidos. Memorize: integralidade = articulado + contínuo + preventivo + curativo + individual + coletivo + todos os níveis!",
       "id": 68,
-      "enunciado": "A Ouvidoria do SUS tem como função:",
-      "alternativas": [
-        "Apenas receber reclamações",
-        "Receber, examinar e encaminhar manifestações dos cidadãos",
-        "Substituir o controle social",
-        "Apenas elogiar serviços",
-        "Função meramente burocrática"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
+      "gabarito": "A"
     },
     {
+      "enunciado": "Segundo o Art. 7º da Lei 8.080/90, o princípio da universalidade de acesso aos serviços de saúde em todos os níveis de assistência significa, de forma ampla e irrestrita:",
+      "alternativas": [
+        "Acesso prioritário e garantido à atenção básica para toda população, sendo os demais níveis de complexidade (secundário e terciário) condicionados à disponibilidade orçamentária e capacidade instalada",
+        "Acesso exclusivo aos cidadãos brasileiros natos ou naturalizados mediante comprovação de domicílio eleitoral, excluindo-se expressamente estrangeiros não residentes ou em situação migratória irregular",
+        "Acesso garantido de forma universal e igualitária a todos os brasileiros natos, naturalizados e estrangeiros residentes no país, abrangendo todos os níveis de complexidade assistencial sem qualquer tipo de discriminação",
+        "Acesso universal apenas aos serviços públicos gratuitos prestados diretamente pelo Estado, excluindo-se as ações realizadas mediante parcerias com instituições privadas ou filantrópicas conveniadas",
+        "Acesso garantido a todos os cidadãos mediante contribuição prévia ao sistema público de saúde através de tributação específica, seguindo modelo contributivo semelhante à previdência social"
+      ],
+      "explicacao": "✓ CORRETO - UNIVERSALIDADE PLENA. Fundamento legal: Lei 8.080/90, Art. 7º, inciso I estabelece 'universalidade de acesso aos serviços de saúde em todos os níveis de assistência'. Conceito: UNIVERSALIDADE significa acesso UNIVERSAL (para todos, sem exceções) e IGUALITÁRIO (sem discriminações de qualquer natureza - raça, cor, religião, classe social, nacionalidade, situação migratória, etc.) às ações e serviços para promoção, proteção e recuperação da saúde. ✓ Abrangência territorial: inclui brasileiros natos, naturalizados E estrangeiros residentes (CF/88 Art. 196: 'A saúde é direito de TODOS'). ✓ Abrangência assistencial: TODOS OS NÍVEIS de complexidade - atenção básica/primária, média complexidade/secundária, alta complexidade/terciária. Não há condicionamento, restrição ou priorização excludente. ✗ B: ERRO, exclui estrangeiros (SUS atende estrangeiros residentes e mesmo não residentes em situação de emergência/urgência). ✗ C: ERRO, não há priorização excludente de níveis, todos são garantidos. ✗ D: ERRO, universalidade abrange também serviços prestados por conveniados/contratados do SUS (rede complementar). ✗ E: ERRO, SUS não é contributivo direto, é financiado por impostos gerais (modelo Beveridge). COSEAC cobra a distinção entre universalidade (SUS) × contributividade (previdência). Memorize: UNIVERSALIDADE = todos + sem discriminação + todos os níveis!",
       "id": 69,
-      "enunciado": "A Política Nacional de Educação Permanente em Saúde propõe:",
-      "alternativas": [
-        "Apenas cursos pontuais",
-        "Aprendizagem no trabalho baseada em problemas reais",
-        "Exclusivamente formação acadêmica",
-        "Separação entre ensino e serviço",
-        "Apenas certificações formais"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
+      "gabarito": "C"
     },
     {
+      "enunciado": "Segundo o Art. 7º da Lei 8.080/90, o princípio da universalidade de acesso aos serviços de saúde em todos os níveis de assistência significa, de forma ampla e irrestrita:",
+      "alternativas": [
+        "Acesso garantido de forma universal e igualitária a todos os brasileiros natos, naturalizados e estrangeiros residentes no país, abrangendo todos os níveis de complexidade assistencial sem qualquer tipo de discriminação",
+        "Acesso exclusivo aos cidadãos brasileiros natos ou naturalizados mediante comprovação de domicílio eleitoral, excluindo-se expressamente estrangeiros não residentes ou em situação migratória irregular",
+        "Acesso prioritário e garantido à atenção básica para toda população, sendo os demais níveis de complexidade (secundário e terciário) condicionados à disponibilidade orçamentária e capacidade instalada",
+        "Acesso universal apenas aos serviços públicos gratuitos prestados diretamente pelo Estado, excluindo-se as ações realizadas mediante parcerias com instituições privadas ou filantrópicas conveniadas",
+        "Acesso garantido a todos os cidadãos mediante contribuição prévia ao sistema público de saúde através de tributação específica, seguindo modelo contributivo semelhante à previdência social"
+      ],
+      "explicacao": "✓ CORRETO - UNIVERSALIDADE PLENA. Fundamento legal: Lei 8.080/90, Art. 7º, inciso I estabelece 'universalidade de acesso aos serviços de saúde em todos os níveis de assistência'. Conceito: UNIVERSALIDADE significa acesso UNIVERSAL (para todos, sem exceções) e IGUALITÁRIO (sem discriminações de qualquer natureza - raça, cor, religião, classe social, nacionalidade, situação migratória, etc.) às ações e serviços para promoção, proteção e recuperação da saúde. ✓ Abrangência territorial: inclui brasileiros natos, naturalizados E estrangeiros residentes (CF/88 Art. 196: 'A saúde é direito de TODOS'). ✓ Abrangência assistencial: TODOS OS NÍVEIS de complexidade - atenção básica/primária, média complexidade/secundária, alta complexidade/terciária. Não há condicionamento, restrição ou priorização excludente. ✗ B: ERRO, exclui estrangeiros (SUS atende estrangeiros residentes e mesmo não residentes em situação de emergência/urgência). ✗ C: ERRO, não há priorização excludente de níveis, todos são garantidos. ✗ D: ERRO, universalidade abrange também serviços prestados por conveniados/contratados do SUS (rede complementar). ✗ E: ERRO, SUS não é contributivo direto, é financiado por impostos gerais (modelo Beveridge). COSEAC cobra a distinção entre universalidade (SUS) × contributividade (previdência). Memorize: UNIVERSALIDADE = todos + sem discriminação + todos os níveis!",
       "id": 70,
-      "enunciado": "O Sistema Nacional de Vigilância em Saúde abrange:",
-      "alternativas": [
-        "Apenas vigilância epidemiológica",
-        "Vigilância epidemiológica, sanitária, ambiental e saúde do trabalhador",
-        "Somente controle de endemias",
-        "Exclusivamente fiscalização sanitária",
-        "Apenas vigilância de doenças transmissíveis"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
+      "gabarito": "A"
     },
     {
+      "enunciado": "A integralidade da assistência à saúde, conforme princípio estabelecido no Art. 7º, inciso II da Lei 8.080/90, compreende necessariamente:",
+      "alternativas": [
+        "Conjunto articulado e contínuo de ações e serviços preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema de saúde",
+        "Atendimento integral e completo exclusivamente no nível de alta complexidade (terciário), sendo os demais níveis (primário e secundário) destinados apenas para triagem e encaminhamento de pacientes",
+        "Integração exclusiva e restrita entre as unidades básicas de saúde e os hospitais de referência terciária, sem necessidade de articulação com serviços de média complexidade",
+        "Atendimento completo e resolutivo porém limitado às patologias e procedimentos expressamente previstos e elencados em protocolos e diretrizes clínicas do Ministério da Saúde",
+        "Conjunto de ações prioritariamente curativas e de atendimento individual conforme disponibilidade orçamentária e capacidade instalada da rede pública de saúde em cada município"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO - INTEGRALIDADE AMPLA. Fundamento legal: Lei 8.080/90, Art. 7º, inciso II: 'integralidade de assistência, entendida como conjunto articulado e contínuo das ações e serviços preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema'. ✓ Conceito multidimensional: (1) Integralidade VERTICAL: articulação entre TODOS os níveis de complexidade (primária/básica, secundária/média, terciária/alta) com garantia de acesso a todos eles; (2) Integralidade HORIZONTAL: conjunto ARTICULADO e CONTÍNUO, não fragmentado; (3) Integralidade de AÇÕES: preventivas (promoção, proteção) E curativas (recuperação, reabilitação); (4) Integralidade de ABORDAGEM: individual (clínico) E coletivo (vigilância, epidemiologia); (5) Integralidade SINGULAR: 'exigidos para cada caso' = considerar necessidades específicas de cada pessoa, família, comunidade. ✓ Visão holística do ser humano: biológica + psicológica + social. ✗ B: ERRO gravíssimo, integralidade exige articulação entre TODOS os níveis, não concentração no terciário. ✗ C: ERRO, integralidade exige articulação completa primário-secundário-terciário. ✗ D: ERRO, integralidade não se limita a protocolos, considera necessidades específicas de cada caso. ✗ E: ERRO múltiplo - não é só curativo (também preventivo), não é só individual (também coletivo), não é condicionado a orçamento (é princípio fundamental). COSEAC cobra muito a distinção integralidade × protocolos rígidos. Memorize: integralidade = articulado + contínuo + preventivo + curativo + individual + coletivo + todos os níveis!",
       "id": 71,
-      "enunciado": "A Política Nacional de Saúde do Trabalhador visa:",
-      "alternativas": [
-        "Apenas tratar doenças ocupacionais",
-        "Promoção e proteção da saúde do trabalhador",
-        "Substituir medicina do trabalho das empresas",
-        "Apenas fiscalização de empresas",
-        "Restringir-se a acidentes de trabalho"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
+      "gabarito": "A"
     },
     {
+      "enunciado": "A descentralização político-administrativa do Sistema Único de Saúde, estabelecida como diretriz organizativa no Art. 7º, inciso IX da Lei 8.080/90, caracteriza-se fundamentalmente por:",
+      "alternativas": [
+        "Direção compartilhada e exercida de forma simultânea e sobreposta pelas três esferas de governo sem definição clara de competências específicas ou hierarquia decisória entre os entes federados",
+        "Comando centralizado e unificado no Ministério da Saúde em nível federal com execução operacional meramente delegada e supervisionada às secretarias estaduais e municipais de saúde",
+        "Transferência total e irrestrita de responsabilidades sanitárias da União para estados e municípios, com consequente desoneração completa do governo federal quanto ao financiamento e coordenação nacional",
+        "Descentralização exclusivamente administrativa e operacional dos serviços, mantendo-se obrigatoriamente a centralização político-decisória nas instâncias federais de planejamento e controle do sistema de saúde",
+        "Direção única e exclusiva em cada esfera de governo (federal, estadual, municipal), com ênfase explícita na descentralização dos serviços de saúde para os municípios como executores principais das ações"
+      ],
+      "explicacao": "✓ PERFEITAMENTE CORRETO - DESCENTRALIZAÇÃO COM DIREÇÃO ÚNICA. Fundamento legal: Lei 8.080/90, Art. 7º, inciso IX: 'descentralização político-administrativa, com direção única em cada esfera de governo' + inciso a) 'ênfase na descentralização dos serviços para os municípios'. ✓ Estrutura do princípio: (1) DIREÇÃO ÚNICA em cada esfera: União (MS), Estados (SES), Municípios (SMS) - cada esfera tem autonomia e comando próprio, não há subordinação hierárquica entre esferas; (2) DESCENTRALIZAÇÃO POLÍTICO-ADMINISTRATIVA: não é só administrativa (operacional), é também política (decisória) - cada esfera decide sobre sua organização; (3) ÊNFASE NA MUNICIPALIZAÇÃO: município é o executor PRINCIPAL das ações de saúde (princípio da territorialização, proximidade população-serviço); (4) REGIONALIZAÇÃO E HIERARQUIZAÇÃO: articulação em redes regionalizadas e hierarquizadas. ✓ Competências: União (normatização, coordenação nacional, co-financiamento); Estados (coordenação estadual, regionalização, co-financiamento); Municípios (execução principal, gestão local, co-financiamento). ✗ B: ERRO, não há comando centralizado no MS, cada esfera tem direção única própria (pacto federativo). ✗ C: ERRO, não há transferência total, Union mantém responsabilidades (coordenação, financiamento, normatização). ✗ D: ERRO, descentralização é político-administrativa, não só administrativa. ✗ E: ERRO, há direção única em CADA esfera, não compartilhamento sobreposto, cada esfera tem competências definidas (Lei 8080, Arts. 16, 17, 18). COSEAC cobra diferença entre comando único nacional (não existe no SUS) × direção única em cada esfera (existe). Memorize: direção única em CADA esfera + ênfase municipalização!",
       "id": 72,
-      "enunciado": "O Centro de Referência em Saúde do Trabalhador (CEREST) tem como atribuição:",
-      "alternativas": [
-        "Apenas atendimento ambulatorial",
-        "Dar suporte técnico, educação e vigilância em saúde do trabalhador",
-        "Substituir SESMTs das empresas",
-        "Apenas emitir CAT",
-        "Exclusivamente perícias médicas"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
+      "gabarito": "E"
     },
     {
+      "enunciado": "Segundo o Art. 7º da Lei 8.080/90, o princípio da universalidade de acesso aos serviços de saúde em todos os níveis de assistência significa, de forma ampla e irrestrita:",
+      "alternativas": [
+        "Acesso prioritário e garantido à atenção básica para toda população, sendo os demais níveis de complexidade (secundário e terciário) condicionados à disponibilidade orçamentária e capacidade instalada",
+        "Acesso exclusivo aos cidadãos brasileiros natos ou naturalizados mediante comprovação de domicílio eleitoral, excluindo-se expressamente estrangeiros não residentes ou em situação migratória irregular",
+        "Acesso garantido de forma universal e igualitária a todos os brasileiros natos, naturalizados e estrangeiros residentes no país, abrangendo todos os níveis de complexidade assistencial sem qualquer tipo de discriminação",
+        "Acesso universal apenas aos serviços públicos gratuitos prestados diretamente pelo Estado, excluindo-se as ações realizadas mediante parcerias com instituições privadas ou filantrópicas conveniadas",
+        "Acesso garantido a todos os cidadãos mediante contribuição prévia ao sistema público de saúde através de tributação específica, seguindo modelo contributivo semelhante à previdência social"
+      ],
+      "explicacao": "✓ CORRETO - UNIVERSALIDADE PLENA. Fundamento legal: Lei 8.080/90, Art. 7º, inciso I estabelece 'universalidade de acesso aos serviços de saúde em todos os níveis de assistência'. Conceito: UNIVERSALIDADE significa acesso UNIVERSAL (para todos, sem exceções) e IGUALITÁRIO (sem discriminações de qualquer natureza - raça, cor, religião, classe social, nacionalidade, situação migratória, etc.) às ações e serviços para promoção, proteção e recuperação da saúde. ✓ Abrangência territorial: inclui brasileiros natos, naturalizados E estrangeiros residentes (CF/88 Art. 196: 'A saúde é direito de TODOS'). ✓ Abrangência assistencial: TODOS OS NÍVEIS de complexidade - atenção básica/primária, média complexidade/secundária, alta complexidade/terciária. Não há condicionamento, restrição ou priorização excludente. ✗ B: ERRO, exclui estrangeiros (SUS atende estrangeiros residentes e mesmo não residentes em situação de emergência/urgência). ✗ C: ERRO, não há priorização excludente de níveis, todos são garantidos. ✗ D: ERRO, universalidade abrange também serviços prestados por conveniados/contratados do SUS (rede complementar). ✗ E: ERRO, SUS não é contributivo direto, é financiado por impostos gerais (modelo Beveridge). COSEAC cobra a distinção entre universalidade (SUS) × contributividade (previdência). Memorize: UNIVERSALIDADE = todos + sem discriminação + todos os níveis!",
       "id": 73,
-      "enunciado": "A Política de Atenção às Urgências estabelece que:",
-      "alternativas": [
-        "Apenas hospitais atendem urgências",
-        "Toda unidade de saúde deve acolher, classificar risco e dar resposta",
-        "UBS não deve atender urgências",
-        "Apenas SAMU atende urgências",
-        "Urgência é só em UPA"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
+      "gabarito": "C"
     },
     {
+      "enunciado": "Segundo o Art. 7º da Lei 8.080/90, o princípio da universalidade de acesso aos serviços de saúde em todos os níveis de assistência significa, de forma ampla e irrestrita:",
+      "alternativas": [
+        "Acesso prioritário e garantido à atenção básica para toda população, sendo os demais níveis de complexidade (secundário e terciário) condicionados à disponibilidade orçamentária e capacidade instalada",
+        "Acesso exclusivo aos cidadãos brasileiros natos ou naturalizados mediante comprovação de domicílio eleitoral, excluindo-se expressamente estrangeiros não residentes ou em situação migratória irregular",
+        "Acesso garantido de forma universal e igualitária a todos os brasileiros natos, naturalizados e estrangeiros residentes no país, abrangendo todos os níveis de complexidade assistencial sem qualquer tipo de discriminação",
+        "Acesso universal apenas aos serviços públicos gratuitos prestados diretamente pelo Estado, excluindo-se as ações realizadas mediante parcerias com instituições privadas ou filantrópicas conveniadas",
+        "Acesso garantido a todos os cidadãos mediante contribuição prévia ao sistema público de saúde através de tributação específica, seguindo modelo contributivo semelhante à previdência social"
+      ],
+      "explicacao": "✓ CORRETO - UNIVERSALIDADE PLENA. Fundamento legal: Lei 8.080/90, Art. 7º, inciso I estabelece 'universalidade de acesso aos serviços de saúde em todos os níveis de assistência'. Conceito: UNIVERSALIDADE significa acesso UNIVERSAL (para todos, sem exceções) e IGUALITÁRIO (sem discriminações de qualquer natureza - raça, cor, religião, classe social, nacionalidade, situação migratória, etc.) às ações e serviços para promoção, proteção e recuperação da saúde. ✓ Abrangência territorial: inclui brasileiros natos, naturalizados E estrangeiros residentes (CF/88 Art. 196: 'A saúde é direito de TODOS'). ✓ Abrangência assistencial: TODOS OS NÍVEIS de complexidade - atenção básica/primária, média complexidade/secundária, alta complexidade/terciária. Não há condicionamento, restrição ou priorização excludente. ✗ B: ERRO, exclui estrangeiros (SUS atende estrangeiros residentes e mesmo não residentes em situação de emergência/urgência). ✗ C: ERRO, não há priorização excludente de níveis, todos são garantidos. ✗ D: ERRO, universalidade abrange também serviços prestados por conveniados/contratados do SUS (rede complementar). ✗ E: ERRO, SUS não é contributivo direto, é financiado por impostos gerais (modelo Beveridge). COSEAC cobra a distinção entre universalidade (SUS) × contributividade (previdência). Memorize: UNIVERSALIDADE = todos + sem discriminação + todos os níveis!",
       "id": 74,
-      "enunciado": "O Acolhimento com Classificação de Risco visa:",
-      "alternativas": [
-        "Atender por ordem de chegada sempre",
-        "Identificar prioridades clínicas e organizar fluxo",
-        "Apenas separar pacientes",
-        "Impedir acesso de casos leves",
-        "Substituir avaliação médica"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
+      "gabarito": "C"
     },
     {
+      "enunciado": "A descentralização político-administrativa do Sistema Único de Saúde, estabelecida como diretriz organizativa no Art. 7º, inciso IX da Lei 8.080/90, caracteriza-se fundamentalmente por:",
+      "alternativas": [
+        "Comando centralizado e unificado no Ministério da Saúde em nível federal com execução operacional meramente delegada e supervisionada às secretarias estaduais e municipais de saúde",
+        "Direção única e exclusiva em cada esfera de governo (federal, estadual, municipal), com ênfase explícita na descentralização dos serviços de saúde para os municípios como executores principais das ações",
+        "Transferência total e irrestrita de responsabilidades sanitárias da União para estados e municípios, com consequente desoneração completa do governo federal quanto ao financiamento e coordenação nacional",
+        "Descentralização exclusivamente administrativa e operacional dos serviços, mantendo-se obrigatoriamente a centralização político-decisória nas instâncias federais de planejamento e controle do sistema de saúde",
+        "Direção compartilhada e exercida de forma simultânea e sobreposta pelas três esferas de governo sem definição clara de competências específicas ou hierarquia decisória entre os entes federados"
+      ],
+      "explicacao": "✓ PERFEITAMENTE CORRETO - DESCENTRALIZAÇÃO COM DIREÇÃO ÚNICA. Fundamento legal: Lei 8.080/90, Art. 7º, inciso IX: 'descentralização político-administrativa, com direção única em cada esfera de governo' + inciso a) 'ênfase na descentralização dos serviços para os municípios'. ✓ Estrutura do princípio: (1) DIREÇÃO ÚNICA em cada esfera: União (MS), Estados (SES), Municípios (SMS) - cada esfera tem autonomia e comando próprio, não há subordinação hierárquica entre esferas; (2) DESCENTRALIZAÇÃO POLÍTICO-ADMINISTRATIVA: não é só administrativa (operacional), é também política (decisória) - cada esfera decide sobre sua organização; (3) ÊNFASE NA MUNICIPALIZAÇÃO: município é o executor PRINCIPAL das ações de saúde (princípio da territorialização, proximidade população-serviço); (4) REGIONALIZAÇÃO E HIERARQUIZAÇÃO: articulação em redes regionalizadas e hierarquizadas. ✓ Competências: União (normatização, coordenação nacional, co-financiamento); Estados (coordenação estadual, regionalização, co-financiamento); Municípios (execução principal, gestão local, co-financiamento). ✗ B: ERRO, não há comando centralizado no MS, cada esfera tem direção única própria (pacto federativo). ✗ C: ERRO, não há transferência total, Union mantém responsabilidades (coordenação, financiamento, normatização). ✗ D: ERRO, descentralização é político-administrativa, não só administrativa. ✗ E: ERRO, há direção única em CADA esfera, não compartilhamento sobreposto, cada esfera tem competências definidas (Lei 8080, Arts. 16, 17, 18). COSEAC cobra diferença entre comando único nacional (não existe no SUS) × direção única em cada esfera (existe). Memorize: direção única em CADA esfera + ênfase municipalização!",
       "id": 75,
-      "enunciado": "A Rede de Urgência e Emergência (RUE) é composta por:",
-      "alternativas": [
-        "Apenas SAMU e UPA",
-        "Promoção/prevenção, atenção básica, SAMU, UPA, hospitais e atenção domiciliar",
-        "Somente componente hospitalar",
-        "Exclusivamente pré-hospitalar",
-        "Apenas pronto-socorros"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
+      "gabarito": "B"
     },
     {
+      "enunciado": "A integralidade da assistência à saúde, conforme princípio estabelecido no Art. 7º, inciso II da Lei 8.080/90, compreende necessariamente:",
+      "alternativas": [
+        "Atendimento completo e resolutivo porém limitado às patologias e procedimentos expressamente previstos e elencados em protocolos e diretrizes clínicas do Ministério da Saúde",
+        "Atendimento integral e completo exclusivamente no nível de alta complexidade (terciário), sendo os demais níveis (primário e secundário) destinados apenas para triagem e encaminhamento de pacientes",
+        "Integração exclusiva e restrita entre as unidades básicas de saúde e os hospitais de referência terciária, sem necessidade de articulação com serviços de média complexidade",
+        "Conjunto articulado e contínuo de ações e serviços preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema de saúde",
+        "Conjunto de ações prioritariamente curativas e de atendimento individual conforme disponibilidade orçamentária e capacidade instalada da rede pública de saúde em cada município"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO - INTEGRALIDADE AMPLA. Fundamento legal: Lei 8.080/90, Art. 7º, inciso II: 'integralidade de assistência, entendida como conjunto articulado e contínuo das ações e serviços preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema'. ✓ Conceito multidimensional: (1) Integralidade VERTICAL: articulação entre TODOS os níveis de complexidade (primária/básica, secundária/média, terciária/alta) com garantia de acesso a todos eles; (2) Integralidade HORIZONTAL: conjunto ARTICULADO e CONTÍNUO, não fragmentado; (3) Integralidade de AÇÕES: preventivas (promoção, proteção) E curativas (recuperação, reabilitação); (4) Integralidade de ABORDAGEM: individual (clínico) E coletivo (vigilância, epidemiologia); (5) Integralidade SINGULAR: 'exigidos para cada caso' = considerar necessidades específicas de cada pessoa, família, comunidade. ✓ Visão holística do ser humano: biológica + psicológica + social. ✗ B: ERRO gravíssimo, integralidade exige articulação entre TODOS os níveis, não concentração no terciário. ✗ C: ERRO, integralidade exige articulação completa primário-secundário-terciário. ✗ D: ERRO, integralidade não se limita a protocolos, considera necessidades específicas de cada caso. ✗ E: ERRO múltiplo - não é só curativo (também preventivo), não é só individual (também coletivo), não é condicionado a orçamento (é princípio fundamental). COSEAC cobra muito a distinção integralidade × protocolos rígidos. Memorize: integralidade = articulado + contínuo + preventivo + curativo + individual + coletivo + todos os níveis!",
       "id": 76,
-      "enunciado": "A Central de Regulação Médica das Urgências tem função de:",
-      "alternativas": [
-        "Apenas transportar pacientes",
-        "Regular, orientar e ordenar fluxos assistenciais",
-        "Substituir atendimento médico",
-        "Apenas marcar consultas",
-        "Somente regulação de leitos"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
+      "gabarito": "D"
     },
     {
+      "enunciado": "A descentralização político-administrativa do Sistema Único de Saúde, estabelecida como diretriz organizativa no Art. 7º, inciso IX da Lei 8.080/90, caracteriza-se fundamentalmente por:",
+      "alternativas": [
+        "Direção compartilhada e exercida de forma simultânea e sobreposta pelas três esferas de governo sem definição clara de competências específicas ou hierarquia decisória entre os entes federados",
+        "Comando centralizado e unificado no Ministério da Saúde em nível federal com execução operacional meramente delegada e supervisionada às secretarias estaduais e municipais de saúde",
+        "Transferência total e irrestrita de responsabilidades sanitárias da União para estados e municípios, com consequente desoneração completa do governo federal quanto ao financiamento e coordenação nacional",
+        "Descentralização exclusivamente administrativa e operacional dos serviços, mantendo-se obrigatoriamente a centralização político-decisória nas instâncias federais de planejamento e controle do sistema de saúde",
+        "Direção única e exclusiva em cada esfera de governo (federal, estadual, municipal), com ênfase explícita na descentralização dos serviços de saúde para os municípios como executores principais das ações"
+      ],
+      "explicacao": "✓ PERFEITAMENTE CORRETO - DESCENTRALIZAÇÃO COM DIREÇÃO ÚNICA. Fundamento legal: Lei 8.080/90, Art. 7º, inciso IX: 'descentralização político-administrativa, com direção única em cada esfera de governo' + inciso a) 'ênfase na descentralização dos serviços para os municípios'. ✓ Estrutura do princípio: (1) DIREÇÃO ÚNICA em cada esfera: União (MS), Estados (SES), Municípios (SMS) - cada esfera tem autonomia e comando próprio, não há subordinação hierárquica entre esferas; (2) DESCENTRALIZAÇÃO POLÍTICO-ADMINISTRATIVA: não é só administrativa (operacional), é também política (decisória) - cada esfera decide sobre sua organização; (3) ÊNFASE NA MUNICIPALIZAÇÃO: município é o executor PRINCIPAL das ações de saúde (princípio da territorialização, proximidade população-serviço); (4) REGIONALIZAÇÃO E HIERARQUIZAÇÃO: articulação em redes regionalizadas e hierarquizadas. ✓ Competências: União (normatização, coordenação nacional, co-financiamento); Estados (coordenação estadual, regionalização, co-financiamento); Municípios (execução principal, gestão local, co-financiamento). ✗ B: ERRO, não há comando centralizado no MS, cada esfera tem direção única própria (pacto federativo). ✗ C: ERRO, não há transferência total, Union mantém responsabilidades (coordenação, financiamento, normatização). ✗ D: ERRO, descentralização é político-administrativa, não só administrativa. ✗ E: ERRO, há direção única em CADA esfera, não compartilhamento sobreposto, cada esfera tem competências definidas (Lei 8080, Arts. 16, 17, 18). COSEAC cobra diferença entre comando único nacional (não existe no SUS) × direção única em cada esfera (existe). Memorize: direção única em CADA esfera + ênfase municipalização!",
       "id": 77,
-      "enunciado": "A Política de Atenção Oncológica prevê:",
-      "alternativas": [
-        "Apenas tratamento em hospitais especializados",
-        "Ações de promoção, prevenção, diagnóstico, tratamento e cuidados paliativos",
-        "Exclusivamente quimioterapia e radioterapia",
-        "Somente cirurgias oncológicas",
-        "Apenas diagnóstico sem tratamento"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
+      "gabarito": "E"
     },
     {
+      "enunciado": "A descentralização político-administrativa do Sistema Único de Saúde, estabelecida como diretriz organizativa no Art. 7º, inciso IX da Lei 8.080/90, caracteriza-se fundamentalmente por:",
+      "alternativas": [
+        "Direção compartilhada e exercida de forma simultânea e sobreposta pelas três esferas de governo sem definição clara de competências específicas ou hierarquia decisória entre os entes federados",
+        "Comando centralizado e unificado no Ministério da Saúde em nível federal com execução operacional meramente delegada e supervisionada às secretarias estaduais e municipais de saúde",
+        "Transferência total e irrestrita de responsabilidades sanitárias da União para estados e municípios, com consequente desoneração completa do governo federal quanto ao financiamento e coordenação nacional",
+        "Descentralização exclusivamente administrativa e operacional dos serviços, mantendo-se obrigatoriamente a centralização político-decisória nas instâncias federais de planejamento e controle do sistema de saúde",
+        "Direção única e exclusiva em cada esfera de governo (federal, estadual, municipal), com ênfase explícita na descentralização dos serviços de saúde para os municípios como executores principais das ações"
+      ],
+      "explicacao": "✓ PERFEITAMENTE CORRETO - DESCENTRALIZAÇÃO COM DIREÇÃO ÚNICA. Fundamento legal: Lei 8.080/90, Art. 7º, inciso IX: 'descentralização político-administrativa, com direção única em cada esfera de governo' + inciso a) 'ênfase na descentralização dos serviços para os municípios'. ✓ Estrutura do princípio: (1) DIREÇÃO ÚNICA em cada esfera: União (MS), Estados (SES), Municípios (SMS) - cada esfera tem autonomia e comando próprio, não há subordinação hierárquica entre esferas; (2) DESCENTRALIZAÇÃO POLÍTICO-ADMINISTRATIVA: não é só administrativa (operacional), é também política (decisória) - cada esfera decide sobre sua organização; (3) ÊNFASE NA MUNICIPALIZAÇÃO: município é o executor PRINCIPAL das ações de saúde (princípio da territorialização, proximidade população-serviço); (4) REGIONALIZAÇÃO E HIERARQUIZAÇÃO: articulação em redes regionalizadas e hierarquizadas. ✓ Competências: União (normatização, coordenação nacional, co-financiamento); Estados (coordenação estadual, regionalização, co-financiamento); Municípios (execução principal, gestão local, co-financiamento). ✗ B: ERRO, não há comando centralizado no MS, cada esfera tem direção única própria (pacto federativo). ✗ C: ERRO, não há transferência total, Union mantém responsabilidades (coordenação, financiamento, normatização). ✗ D: ERRO, descentralização é político-administrativa, não só administrativa. ✗ E: ERRO, há direção única em CADA esfera, não compartilhamento sobreposto, cada esfera tem competências definidas (Lei 8080, Arts. 16, 17, 18). COSEAC cobra diferença entre comando único nacional (não existe no SUS) × direção única em cada esfera (existe). Memorize: direção única em CADA esfera + ênfase municipalização!",
       "id": 78,
-      "enunciado": "Os Cuidados Paliativos no SUS visam:",
-      "alternativas": [
-        "Apenas controle da dor",
-        "Melhorar qualidade de vida de pacientes com doenças graves",
-        "Substituir tratamento curativo sempre",
-        "Apenas cuidados ao fim da vida",
-        "Exclusivamente pacientes com câncer"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
+      "gabarito": "E"
     },
     {
+      "enunciado": "A integralidade da assistência à saúde, conforme princípio estabelecido no Art. 7º, inciso II da Lei 8.080/90, compreende necessariamente:",
+      "alternativas": [
+        "Conjunto articulado e contínuo de ações e serviços preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema de saúde",
+        "Atendimento integral e completo exclusivamente no nível de alta complexidade (terciário), sendo os demais níveis (primário e secundário) destinados apenas para triagem e encaminhamento de pacientes",
+        "Integração exclusiva e restrita entre as unidades básicas de saúde e os hospitais de referência terciária, sem necessidade de articulação com serviços de média complexidade",
+        "Atendimento completo e resolutivo porém limitado às patologias e procedimentos expressamente previstos e elencados em protocolos e diretrizes clínicas do Ministério da Saúde",
+        "Conjunto de ações prioritariamente curativas e de atendimento individual conforme disponibilidade orçamentária e capacidade instalada da rede pública de saúde em cada município"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO - INTEGRALIDADE AMPLA. Fundamento legal: Lei 8.080/90, Art. 7º, inciso II: 'integralidade de assistência, entendida como conjunto articulado e contínuo das ações e serviços preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema'. ✓ Conceito multidimensional: (1) Integralidade VERTICAL: articulação entre TODOS os níveis de complexidade (primária/básica, secundária/média, terciária/alta) com garantia de acesso a todos eles; (2) Integralidade HORIZONTAL: conjunto ARTICULADO e CONTÍNUO, não fragmentado; (3) Integralidade de AÇÕES: preventivas (promoção, proteção) E curativas (recuperação, reabilitação); (4) Integralidade de ABORDAGEM: individual (clínico) E coletivo (vigilância, epidemiologia); (5) Integralidade SINGULAR: 'exigidos para cada caso' = considerar necessidades específicas de cada pessoa, família, comunidade. ✓ Visão holística do ser humano: biológica + psicológica + social. ✗ B: ERRO gravíssimo, integralidade exige articulação entre TODOS os níveis, não concentração no terciário. ✗ C: ERRO, integralidade exige articulação completa primário-secundário-terciário. ✗ D: ERRO, integralidade não se limita a protocolos, considera necessidades específicas de cada caso. ✗ E: ERRO múltiplo - não é só curativo (também preventivo), não é só individual (também coletivo), não é condicionado a orçamento (é princípio fundamental). COSEAC cobra muito a distinção integralidade × protocolos rígidos. Memorize: integralidade = articulado + contínuo + preventivo + curativo + individual + coletivo + todos os níveis!",
       "id": 79,
-      "enunciado": "A Política de Saúde da Criança e Aleitamento Materno estabelece:",
-      "alternativas": [
-        "Apenas vacinação infantil",
-        "Atenção integral desde gestação até adolescência",
-        "Exclusivamente puericultura",
-        "Somente tratamento de doenças",
-        "Apenas aleitamento materno"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
+      "gabarito": "A"
     },
     {
+      "enunciado": "A integralidade da assistência à saúde, conforme princípio estabelecido no Art. 7º, inciso II da Lei 8.080/90, compreende necessariamente:",
+      "alternativas": [
+        "Atendimento integral e completo exclusivamente no nível de alta complexidade (terciário), sendo os demais níveis (primário e secundário) destinados apenas para triagem e encaminhamento de pacientes",
+        "Conjunto articulado e contínuo de ações e serviços preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema de saúde",
+        "Integração exclusiva e restrita entre as unidades básicas de saúde e os hospitais de referência terciária, sem necessidade de articulação com serviços de média complexidade",
+        "Atendimento completo e resolutivo porém limitado às patologias e procedimentos expressamente previstos e elencados em protocolos e diretrizes clínicas do Ministério da Saúde",
+        "Conjunto de ações prioritariamente curativas e de atendimento individual conforme disponibilidade orçamentária e capacidade instalada da rede pública de saúde em cada município"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO - INTEGRALIDADE AMPLA. Fundamento legal: Lei 8.080/90, Art. 7º, inciso II: 'integralidade de assistência, entendida como conjunto articulado e contínuo das ações e serviços preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema'. ✓ Conceito multidimensional: (1) Integralidade VERTICAL: articulação entre TODOS os níveis de complexidade (primária/básica, secundária/média, terciária/alta) com garantia de acesso a todos eles; (2) Integralidade HORIZONTAL: conjunto ARTICULADO e CONTÍNUO, não fragmentado; (3) Integralidade de AÇÕES: preventivas (promoção, proteção) E curativas (recuperação, reabilitação); (4) Integralidade de ABORDAGEM: individual (clínico) E coletivo (vigilância, epidemiologia); (5) Integralidade SINGULAR: 'exigidos para cada caso' = considerar necessidades específicas de cada pessoa, família, comunidade. ✓ Visão holística do ser humano: biológica + psicológica + social. ✗ B: ERRO gravíssimo, integralidade exige articulação entre TODOS os níveis, não concentração no terciário. ✗ C: ERRO, integralidade exige articulação completa primário-secundário-terciário. ✗ D: ERRO, integralidade não se limita a protocolos, considera necessidades específicas de cada caso. ✗ E: ERRO múltiplo - não é só curativo (também preventivo), não é só individual (também coletivo), não é condicionado a orçamento (é princípio fundamental). COSEAC cobra muito a distinção integralidade × protocolos rígidos. Memorize: integralidade = articulado + contínuo + preventivo + curativo + individual + coletivo + todos os níveis!",
       "id": 80,
-      "enunciado": "O Método Canguru é indicado para:",
-      "alternativas": [
-        "Todas as crianças indistintamente",
-        "Recém-nascidos de baixo peso após estabilização",
-        "Apenas prematuros extremos em UTI",
-        "Substituir incubadora sempre",
-        "Apenas crianças a termo"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
+      "gabarito": "B"
     },
     {
+      "enunciado": "A descentralização político-administrativa do Sistema Único de Saúde, estabelecida como diretriz organizativa no Art. 7º, inciso IX da Lei 8.080/90, caracteriza-se fundamentalmente por:",
+      "alternativas": [
+        "Comando centralizado e unificado no Ministério da Saúde em nível federal com execução operacional meramente delegada e supervisionada às secretarias estaduais e municipais de saúde",
+        "Direção única e exclusiva em cada esfera de governo (federal, estadual, municipal), com ênfase explícita na descentralização dos serviços de saúde para os municípios como executores principais das ações",
+        "Transferência total e irrestrita de responsabilidades sanitárias da União para estados e municípios, com consequente desoneração completa do governo federal quanto ao financiamento e coordenação nacional",
+        "Descentralização exclusivamente administrativa e operacional dos serviços, mantendo-se obrigatoriamente a centralização político-decisória nas instâncias federais de planejamento e controle do sistema de saúde",
+        "Direção compartilhada e exercida de forma simultânea e sobreposta pelas três esferas de governo sem definição clara de competências específicas ou hierarquia decisória entre os entes federados"
+      ],
+      "explicacao": "✓ PERFEITAMENTE CORRETO - DESCENTRALIZAÇÃO COM DIREÇÃO ÚNICA. Fundamento legal: Lei 8.080/90, Art. 7º, inciso IX: 'descentralização político-administrativa, com direção única em cada esfera de governo' + inciso a) 'ênfase na descentralização dos serviços para os municípios'. ✓ Estrutura do princípio: (1) DIREÇÃO ÚNICA em cada esfera: União (MS), Estados (SES), Municípios (SMS) - cada esfera tem autonomia e comando próprio, não há subordinação hierárquica entre esferas; (2) DESCENTRALIZAÇÃO POLÍTICO-ADMINISTRATIVA: não é só administrativa (operacional), é também política (decisória) - cada esfera decide sobre sua organização; (3) ÊNFASE NA MUNICIPALIZAÇÃO: município é o executor PRINCIPAL das ações de saúde (princípio da territorialização, proximidade população-serviço); (4) REGIONALIZAÇÃO E HIERARQUIZAÇÃO: articulação em redes regionalizadas e hierarquizadas. ✓ Competências: União (normatização, coordenação nacional, co-financiamento); Estados (coordenação estadual, regionalização, co-financiamento); Municípios (execução principal, gestão local, co-financiamento). ✗ B: ERRO, não há comando centralizado no MS, cada esfera tem direção única própria (pacto federativo). ✗ C: ERRO, não há transferência total, Union mantém responsabilidades (coordenação, financiamento, normatização). ✗ D: ERRO, descentralização é político-administrativa, não só administrativa. ✗ E: ERRO, há direção única em CADA esfera, não compartilhamento sobreposto, cada esfera tem competências definidas (Lei 8080, Arts. 16, 17, 18). COSEAC cobra diferença entre comando único nacional (não existe no SUS) × direção única em cada esfera (existe). Memorize: direção única em CADA esfera + ênfase municipalização!",
       "id": 81,
-      "enunciado": "A Triagem Neonatal (Teste do Pezinho) deve ser realizada:",
-      "alternativas": [
-        "Nas primeiras 24 horas",
-        "Entre 3º e 5º dia de vida",
-        "Após 15 dias",
-        "Apenas se houver sintomas",
-        "Somente em prematuros"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
+      "gabarito": "B"
     },
     {
+      "enunciado": "A descentralização político-administrativa do Sistema Único de Saúde, estabelecida como diretriz organizativa no Art. 7º, inciso IX da Lei 8.080/90, caracteriza-se fundamentalmente por:",
+      "alternativas": [
+        "Descentralização exclusivamente administrativa e operacional dos serviços, mantendo-se obrigatoriamente a centralização político-decisória nas instâncias federais de planejamento e controle do sistema de saúde",
+        "Comando centralizado e unificado no Ministério da Saúde em nível federal com execução operacional meramente delegada e supervisionada às secretarias estaduais e municipais de saúde",
+        "Transferência total e irrestrita de responsabilidades sanitárias da União para estados e municípios, com consequente desoneração completa do governo federal quanto ao financiamento e coordenação nacional",
+        "Direção única e exclusiva em cada esfera de governo (federal, estadual, municipal), com ênfase explícita na descentralização dos serviços de saúde para os municípios como executores principais das ações",
+        "Direção compartilhada e exercida de forma simultânea e sobreposta pelas três esferas de governo sem definição clara de competências específicas ou hierarquia decisória entre os entes federados"
+      ],
+      "explicacao": "✓ PERFEITAMENTE CORRETO - DESCENTRALIZAÇÃO COM DIREÇÃO ÚNICA. Fundamento legal: Lei 8.080/90, Art. 7º, inciso IX: 'descentralização político-administrativa, com direção única em cada esfera de governo' + inciso a) 'ênfase na descentralização dos serviços para os municípios'. ✓ Estrutura do princípio: (1) DIREÇÃO ÚNICA em cada esfera: União (MS), Estados (SES), Municípios (SMS) - cada esfera tem autonomia e comando próprio, não há subordinação hierárquica entre esferas; (2) DESCENTRALIZAÇÃO POLÍTICO-ADMINISTRATIVA: não é só administrativa (operacional), é também política (decisória) - cada esfera decide sobre sua organização; (3) ÊNFASE NA MUNICIPALIZAÇÃO: município é o executor PRINCIPAL das ações de saúde (princípio da territorialização, proximidade população-serviço); (4) REGIONALIZAÇÃO E HIERARQUIZAÇÃO: articulação em redes regionalizadas e hierarquizadas. ✓ Competências: União (normatização, coordenação nacional, co-financiamento); Estados (coordenação estadual, regionalização, co-financiamento); Municípios (execução principal, gestão local, co-financiamento). ✗ B: ERRO, não há comando centralizado no MS, cada esfera tem direção única própria (pacto federativo). ✗ C: ERRO, não há transferência total, Union mantém responsabilidades (coordenação, financiamento, normatização). ✗ D: ERRO, descentralização é político-administrativa, não só administrativa. ✗ E: ERRO, há direção única em CADA esfera, não compartilhamento sobreposto, cada esfera tem competências definidas (Lei 8080, Arts. 16, 17, 18). COSEAC cobra diferença entre comando único nacional (não existe no SUS) × direção única em cada esfera (existe). Memorize: direção única em CADA esfera + ênfase municipalização!",
       "id": 82,
-      "enunciado": "A Política de Atenção Integral à Saúde da Mulher inclui:",
-      "alternativas": [
-        "Apenas saúde reprodutiva",
-        "Atenção em todos os ciclos de vida",
-        "Exclusivamente pré-natal e parto",
-        "Somente planejamento familiar",
-        "Apenas prevenção do câncer"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
+      "gabarito": "D"
     },
     {
+      "enunciado": "A integralidade da assistência à saúde, conforme princípio estabelecido no Art. 7º, inciso II da Lei 8.080/90, compreende necessariamente:",
+      "alternativas": [
+        "Conjunto articulado e contínuo de ações e serviços preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema de saúde",
+        "Atendimento integral e completo exclusivamente no nível de alta complexidade (terciário), sendo os demais níveis (primário e secundário) destinados apenas para triagem e encaminhamento de pacientes",
+        "Integração exclusiva e restrita entre as unidades básicas de saúde e os hospitais de referência terciária, sem necessidade de articulação com serviços de média complexidade",
+        "Atendimento completo e resolutivo porém limitado às patologias e procedimentos expressamente previstos e elencados em protocolos e diretrizes clínicas do Ministério da Saúde",
+        "Conjunto de ações prioritariamente curativas e de atendimento individual conforme disponibilidade orçamentária e capacidade instalada da rede pública de saúde em cada município"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO - INTEGRALIDADE AMPLA. Fundamento legal: Lei 8.080/90, Art. 7º, inciso II: 'integralidade de assistência, entendida como conjunto articulado e contínuo das ações e serviços preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema'. ✓ Conceito multidimensional: (1) Integralidade VERTICAL: articulação entre TODOS os níveis de complexidade (primária/básica, secundária/média, terciária/alta) com garantia de acesso a todos eles; (2) Integralidade HORIZONTAL: conjunto ARTICULADO e CONTÍNUO, não fragmentado; (3) Integralidade de AÇÕES: preventivas (promoção, proteção) E curativas (recuperação, reabilitação); (4) Integralidade de ABORDAGEM: individual (clínico) E coletivo (vigilância, epidemiologia); (5) Integralidade SINGULAR: 'exigidos para cada caso' = considerar necessidades específicas de cada pessoa, família, comunidade. ✓ Visão holística do ser humano: biológica + psicológica + social. ✗ B: ERRO gravíssimo, integralidade exige articulação entre TODOS os níveis, não concentração no terciário. ✗ C: ERRO, integralidade exige articulação completa primário-secundário-terciário. ✗ D: ERRO, integralidade não se limita a protocolos, considera necessidades específicas de cada caso. ✗ E: ERRO múltiplo - não é só curativo (também preventivo), não é só individual (também coletivo), não é condicionado a orçamento (é princípio fundamental). COSEAC cobra muito a distinção integralidade × protocolos rígidos. Memorize: integralidade = articulado + contínuo + preventivo + curativo + individual + coletivo + todos os níveis!",
       "id": 83,
-      "enunciado": "O pré-natal de BAIXO RISCO deve ter no mínimo:",
-      "alternativas": [
-        "3 consultas",
-        "6 consultas",
-        "9 consultas",
-        "12 consultas",
-        "Não há número mínimo"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
+      "gabarito": "A"
     },
     {
+      "enunciado": "Segundo o Art. 7º da Lei 8.080/90, o princípio da universalidade de acesso aos serviços de saúde em todos os níveis de assistência significa, de forma ampla e irrestrita:",
+      "alternativas": [
+        "Acesso universal apenas aos serviços públicos gratuitos prestados diretamente pelo Estado, excluindo-se as ações realizadas mediante parcerias com instituições privadas ou filantrópicas conveniadas",
+        "Acesso exclusivo aos cidadãos brasileiros natos ou naturalizados mediante comprovação de domicílio eleitoral, excluindo-se expressamente estrangeiros não residentes ou em situação migratória irregular",
+        "Acesso prioritário e garantido à atenção básica para toda população, sendo os demais níveis de complexidade (secundário e terciário) condicionados à disponibilidade orçamentária e capacidade instalada",
+        "Acesso garantido de forma universal e igualitária a todos os brasileiros natos, naturalizados e estrangeiros residentes no país, abrangendo todos os níveis de complexidade assistencial sem qualquer tipo de discriminação",
+        "Acesso garantido a todos os cidadãos mediante contribuição prévia ao sistema público de saúde através de tributação específica, seguindo modelo contributivo semelhante à previdência social"
+      ],
+      "explicacao": "✓ CORRETO - UNIVERSALIDADE PLENA. Fundamento legal: Lei 8.080/90, Art. 7º, inciso I estabelece 'universalidade de acesso aos serviços de saúde em todos os níveis de assistência'. Conceito: UNIVERSALIDADE significa acesso UNIVERSAL (para todos, sem exceções) e IGUALITÁRIO (sem discriminações de qualquer natureza - raça, cor, religião, classe social, nacionalidade, situação migratória, etc.) às ações e serviços para promoção, proteção e recuperação da saúde. ✓ Abrangência territorial: inclui brasileiros natos, naturalizados E estrangeiros residentes (CF/88 Art. 196: 'A saúde é direito de TODOS'). ✓ Abrangência assistencial: TODOS OS NÍVEIS de complexidade - atenção básica/primária, média complexidade/secundária, alta complexidade/terciária. Não há condicionamento, restrição ou priorização excludente. ✗ B: ERRO, exclui estrangeiros (SUS atende estrangeiros residentes e mesmo não residentes em situação de emergência/urgência). ✗ C: ERRO, não há priorização excludente de níveis, todos são garantidos. ✗ D: ERRO, universalidade abrange também serviços prestados por conveniados/contratados do SUS (rede complementar). ✗ E: ERRO, SUS não é contributivo direto, é financiado por impostos gerais (modelo Beveridge). COSEAC cobra a distinção entre universalidade (SUS) × contributividade (previdência). Memorize: UNIVERSALIDADE = todos + sem discriminação + todos os níveis!",
       "id": 84,
-      "enunciado": "A Política de Planejamento Familiar garante:",
-      "alternativas": [
-        "Apenas métodos contraceptivos",
-        "Acesso a informações, métodos e acompanhamento",
-        "Somente laqueadura e vasectomia",
-        "Exclusivamente para mulheres",
-        "Apenas DIU e pílula"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
+      "gabarito": "D"
     },
     {
+      "enunciado": "Segundo o Art. 7º da Lei 8.080/90, o princípio da universalidade de acesso aos serviços de saúde em todos os níveis de assistência significa, de forma ampla e irrestrita:",
+      "alternativas": [
+        "Acesso exclusivo aos cidadãos brasileiros natos ou naturalizados mediante comprovação de domicílio eleitoral, excluindo-se expressamente estrangeiros não residentes ou em situação migratória irregular",
+        "Acesso garantido de forma universal e igualitária a todos os brasileiros natos, naturalizados e estrangeiros residentes no país, abrangendo todos os níveis de complexidade assistencial sem qualquer tipo de discriminação",
+        "Acesso prioritário e garantido à atenção básica para toda população, sendo os demais níveis de complexidade (secundário e terciário) condicionados à disponibilidade orçamentária e capacidade instalada",
+        "Acesso universal apenas aos serviços públicos gratuitos prestados diretamente pelo Estado, excluindo-se as ações realizadas mediante parcerias com instituições privadas ou filantrópicas conveniadas",
+        "Acesso garantido a todos os cidadãos mediante contribuição prévia ao sistema público de saúde através de tributação específica, seguindo modelo contributivo semelhante à previdência social"
+      ],
+      "explicacao": "✓ CORRETO - UNIVERSALIDADE PLENA. Fundamento legal: Lei 8.080/90, Art. 7º, inciso I estabelece 'universalidade de acesso aos serviços de saúde em todos os níveis de assistência'. Conceito: UNIVERSALIDADE significa acesso UNIVERSAL (para todos, sem exceções) e IGUALITÁRIO (sem discriminações de qualquer natureza - raça, cor, religião, classe social, nacionalidade, situação migratória, etc.) às ações e serviços para promoção, proteção e recuperação da saúde. ✓ Abrangência territorial: inclui brasileiros natos, naturalizados E estrangeiros residentes (CF/88 Art. 196: 'A saúde é direito de TODOS'). ✓ Abrangência assistencial: TODOS OS NÍVEIS de complexidade - atenção básica/primária, média complexidade/secundária, alta complexidade/terciária. Não há condicionamento, restrição ou priorização excludente. ✗ B: ERRO, exclui estrangeiros (SUS atende estrangeiros residentes e mesmo não residentes em situação de emergência/urgência). ✗ C: ERRO, não há priorização excludente de níveis, todos são garantidos. ✗ D: ERRO, universalidade abrange também serviços prestados por conveniados/contratados do SUS (rede complementar). ✗ E: ERRO, SUS não é contributivo direto, é financiado por impostos gerais (modelo Beveridge). COSEAC cobra a distinção entre universalidade (SUS) × contributividade (previdência). Memorize: UNIVERSALIDADE = todos + sem discriminação + todos os níveis!",
       "id": 85,
-      "enunciado": "A Política de Atenção às Pessoas com Doenças Crônicas visa:",
-      "alternativas": [
-        "Apenas tratamento medicamentoso",
-        "Promoção, prevenção, diagnóstico, tratamento e reabilitação",
-        "Exclusivamente hipertensão e diabetes",
-        "Somente atenção hospitalar",
-        "Apenas distribuição de medicamentos"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
+      "gabarito": "B"
     },
     {
+      "enunciado": "A descentralização político-administrativa do Sistema Único de Saúde, estabelecida como diretriz organizativa no Art. 7º, inciso IX da Lei 8.080/90, caracteriza-se fundamentalmente por:",
+      "alternativas": [
+        "Direção compartilhada e exercida de forma simultânea e sobreposta pelas três esferas de governo sem definição clara de competências específicas ou hierarquia decisória entre os entes federados",
+        "Comando centralizado e unificado no Ministério da Saúde em nível federal com execução operacional meramente delegada e supervisionada às secretarias estaduais e municipais de saúde",
+        "Transferência total e irrestrita de responsabilidades sanitárias da União para estados e municípios, com consequente desoneração completa do governo federal quanto ao financiamento e coordenação nacional",
+        "Descentralização exclusivamente administrativa e operacional dos serviços, mantendo-se obrigatoriamente a centralização político-decisória nas instâncias federais de planejamento e controle do sistema de saúde",
+        "Direção única e exclusiva em cada esfera de governo (federal, estadual, municipal), com ênfase explícita na descentralização dos serviços de saúde para os municípios como executores principais das ações"
+      ],
+      "explicacao": "✓ PERFEITAMENTE CORRETO - DESCENTRALIZAÇÃO COM DIREÇÃO ÚNICA. Fundamento legal: Lei 8.080/90, Art. 7º, inciso IX: 'descentralização político-administrativa, com direção única em cada esfera de governo' + inciso a) 'ênfase na descentralização dos serviços para os municípios'. ✓ Estrutura do princípio: (1) DIREÇÃO ÚNICA em cada esfera: União (MS), Estados (SES), Municípios (SMS) - cada esfera tem autonomia e comando próprio, não há subordinação hierárquica entre esferas; (2) DESCENTRALIZAÇÃO POLÍTICO-ADMINISTRATIVA: não é só administrativa (operacional), é também política (decisória) - cada esfera decide sobre sua organização; (3) ÊNFASE NA MUNICIPALIZAÇÃO: município é o executor PRINCIPAL das ações de saúde (princípio da territorialização, proximidade população-serviço); (4) REGIONALIZAÇÃO E HIERARQUIZAÇÃO: articulação em redes regionalizadas e hierarquizadas. ✓ Competências: União (normatização, coordenação nacional, co-financiamento); Estados (coordenação estadual, regionalização, co-financiamento); Municípios (execução principal, gestão local, co-financiamento). ✗ B: ERRO, não há comando centralizado no MS, cada esfera tem direção única própria (pacto federativo). ✗ C: ERRO, não há transferência total, Union mantém responsabilidades (coordenação, financiamento, normatização). ✗ D: ERRO, descentralização é político-administrativa, não só administrativa. ✗ E: ERRO, há direção única em CADA esfera, não compartilhamento sobreposto, cada esfera tem competências definidas (Lei 8080, Arts. 16, 17, 18). COSEAC cobra diferença entre comando único nacional (não existe no SUS) × direção única em cada esfera (existe). Memorize: direção única em CADA esfera + ênfase municipalização!",
       "id": 86,
-      "enunciado": "O HIPERDIA é um sistema que:",
-      "alternativas": [
-        "Apenas distribui medicamentos",
-        "Cadastra e acompanha hipertensos e diabéticos",
-        "Substitui consultas médicas",
-        "Exclusivamente para insulinodependentes",
-        "Apenas registro sem acompanhamento"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
+      "gabarito": "E"
     },
     {
+      "enunciado": "A integralidade da assistência à saúde, conforme princípio estabelecido no Art. 7º, inciso II da Lei 8.080/90, compreende necessariamente:",
+      "alternativas": [
+        "Conjunto articulado e contínuo de ações e serviços preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema de saúde",
+        "Atendimento integral e completo exclusivamente no nível de alta complexidade (terciário), sendo os demais níveis (primário e secundário) destinados apenas para triagem e encaminhamento de pacientes",
+        "Integração exclusiva e restrita entre as unidades básicas de saúde e os hospitais de referência terciária, sem necessidade de articulação com serviços de média complexidade",
+        "Atendimento completo e resolutivo porém limitado às patologias e procedimentos expressamente previstos e elencados em protocolos e diretrizes clínicas do Ministério da Saúde",
+        "Conjunto de ações prioritariamente curativas e de atendimento individual conforme disponibilidade orçamentária e capacidade instalada da rede pública de saúde em cada município"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO - INTEGRALIDADE AMPLA. Fundamento legal: Lei 8.080/90, Art. 7º, inciso II: 'integralidade de assistência, entendida como conjunto articulado e contínuo das ações e serviços preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema'. ✓ Conceito multidimensional: (1) Integralidade VERTICAL: articulação entre TODOS os níveis de complexidade (primária/básica, secundária/média, terciária/alta) com garantia de acesso a todos eles; (2) Integralidade HORIZONTAL: conjunto ARTICULADO e CONTÍNUO, não fragmentado; (3) Integralidade de AÇÕES: preventivas (promoção, proteção) E curativas (recuperação, reabilitação); (4) Integralidade de ABORDAGEM: individual (clínico) E coletivo (vigilância, epidemiologia); (5) Integralidade SINGULAR: 'exigidos para cada caso' = considerar necessidades específicas de cada pessoa, família, comunidade. ✓ Visão holística do ser humano: biológica + psicológica + social. ✗ B: ERRO gravíssimo, integralidade exige articulação entre TODOS os níveis, não concentração no terciário. ✗ C: ERRO, integralidade exige articulação completa primário-secundário-terciário. ✗ D: ERRO, integralidade não se limita a protocolos, considera necessidades específicas de cada caso. ✗ E: ERRO múltiplo - não é só curativo (também preventivo), não é só individual (também coletivo), não é condicionado a orçamento (é princípio fundamental). COSEAC cobra muito a distinção integralidade × protocolos rígidos. Memorize: integralidade = articulado + contínuo + preventivo + curativo + individual + coletivo + todos os níveis!",
       "id": 87,
-      "enunciado": "A Rede de Atenção à Saúde das Pessoas com Doenças Crônicas inclui:",
-      "alternativas": [
-        "Apenas atenção especializada",
-        "Atenção básica, especializada, hospitalar e urgência",
-        "Somente hospitais",
-        "Exclusivamente AB",
-        "Apenas farmácia"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
+      "gabarito": "A"
     },
     {
+      "enunciado": "A descentralização político-administrativa do Sistema Único de Saúde, estabelecida como diretriz organizativa no Art. 7º, inciso IX da Lei 8.080/90, caracteriza-se fundamentalmente por:",
+      "alternativas": [
+        "Direção única e exclusiva em cada esfera de governo (federal, estadual, municipal), com ênfase explícita na descentralização dos serviços de saúde para os municípios como executores principais das ações",
+        "Comando centralizado e unificado no Ministério da Saúde em nível federal com execução operacional meramente delegada e supervisionada às secretarias estaduais e municipais de saúde",
+        "Transferência total e irrestrita de responsabilidades sanitárias da União para estados e municípios, com consequente desoneração completa do governo federal quanto ao financiamento e coordenação nacional",
+        "Descentralização exclusivamente administrativa e operacional dos serviços, mantendo-se obrigatoriamente a centralização político-decisória nas instâncias federais de planejamento e controle do sistema de saúde",
+        "Direção compartilhada e exercida de forma simultânea e sobreposta pelas três esferas de governo sem definição clara de competências específicas ou hierarquia decisória entre os entes federados"
+      ],
+      "explicacao": "✓ PERFEITAMENTE CORRETO - DESCENTRALIZAÇÃO COM DIREÇÃO ÚNICA. Fundamento legal: Lei 8.080/90, Art. 7º, inciso IX: 'descentralização político-administrativa, com direção única em cada esfera de governo' + inciso a) 'ênfase na descentralização dos serviços para os municípios'. ✓ Estrutura do princípio: (1) DIREÇÃO ÚNICA em cada esfera: União (MS), Estados (SES), Municípios (SMS) - cada esfera tem autonomia e comando próprio, não há subordinação hierárquica entre esferas; (2) DESCENTRALIZAÇÃO POLÍTICO-ADMINISTRATIVA: não é só administrativa (operacional), é também política (decisória) - cada esfera decide sobre sua organização; (3) ÊNFASE NA MUNICIPALIZAÇÃO: município é o executor PRINCIPAL das ações de saúde (princípio da territorialização, proximidade população-serviço); (4) REGIONALIZAÇÃO E HIERARQUIZAÇÃO: articulação em redes regionalizadas e hierarquizadas. ✓ Competências: União (normatização, coordenação nacional, co-financiamento); Estados (coordenação estadual, regionalização, co-financiamento); Municípios (execução principal, gestão local, co-financiamento). ✗ B: ERRO, não há comando centralizado no MS, cada esfera tem direção única própria (pacto federativo). ✗ C: ERRO, não há transferência total, Union mantém responsabilidades (coordenação, financiamento, normatização). ✗ D: ERRO, descentralização é político-administrativa, não só administrativa. ✗ E: ERRO, há direção única em CADA esfera, não compartilhamento sobreposto, cada esfera tem competências definidas (Lei 8080, Arts. 16, 17, 18). COSEAC cobra diferença entre comando único nacional (não existe no SUS) × direção única em cada esfera (existe). Memorize: direção única em CADA esfera + ênfase municipalização!",
       "id": 88,
-      "enunciado": "A Política de Prevenção e Controle do Câncer estabelece:",
-      "alternativas": [
-        "Apenas tratamento do câncer",
-        "Ações de prevenção primária e secundária, diagnóstico e tratamento",
-        "Exclusivamente rastreamento",
-        "Somente quimioterapia",
-        "Apenas cirurgia oncológica"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
+      "gabarito": "A"
     },
     {
+      "enunciado": "A integralidade da assistência à saúde, conforme princípio estabelecido no Art. 7º, inciso II da Lei 8.080/90, compreende necessariamente:",
+      "alternativas": [
+        "Atendimento completo e resolutivo porém limitado às patologias e procedimentos expressamente previstos e elencados em protocolos e diretrizes clínicas do Ministério da Saúde",
+        "Atendimento integral e completo exclusivamente no nível de alta complexidade (terciário), sendo os demais níveis (primário e secundário) destinados apenas para triagem e encaminhamento de pacientes",
+        "Integração exclusiva e restrita entre as unidades básicas de saúde e os hospitais de referência terciária, sem necessidade de articulação com serviços de média complexidade",
+        "Conjunto articulado e contínuo de ações e serviços preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema de saúde",
+        "Conjunto de ações prioritariamente curativas e de atendimento individual conforme disponibilidade orçamentária e capacidade instalada da rede pública de saúde em cada município"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO - INTEGRALIDADE AMPLA. Fundamento legal: Lei 8.080/90, Art. 7º, inciso II: 'integralidade de assistência, entendida como conjunto articulado e contínuo das ações e serviços preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema'. ✓ Conceito multidimensional: (1) Integralidade VERTICAL: articulação entre TODOS os níveis de complexidade (primária/básica, secundária/média, terciária/alta) com garantia de acesso a todos eles; (2) Integralidade HORIZONTAL: conjunto ARTICULADO e CONTÍNUO, não fragmentado; (3) Integralidade de AÇÕES: preventivas (promoção, proteção) E curativas (recuperação, reabilitação); (4) Integralidade de ABORDAGEM: individual (clínico) E coletivo (vigilância, epidemiologia); (5) Integralidade SINGULAR: 'exigidos para cada caso' = considerar necessidades específicas de cada pessoa, família, comunidade. ✓ Visão holística do ser humano: biológica + psicológica + social. ✗ B: ERRO gravíssimo, integralidade exige articulação entre TODOS os níveis, não concentração no terciário. ✗ C: ERRO, integralidade exige articulação completa primário-secundário-terciário. ✗ D: ERRO, integralidade não se limita a protocolos, considera necessidades específicas de cada caso. ✗ E: ERRO múltiplo - não é só curativo (também preventivo), não é só individual (também coletivo), não é condicionado a orçamento (é princípio fundamental). COSEAC cobra muito a distinção integralidade × protocolos rígidos. Memorize: integralidade = articulado + contínuo + preventivo + curativo + individual + coletivo + todos os níveis!",
       "id": 89,
-      "enunciado": "O rastreamento do câncer de colo uterino recomenda:",
-      "alternativas": [
-        "Papanicolau anual para todas mulheres",
-        "Inicio aos 25 anos, trienal se dois exames anuais negativos",
-        "Apenas quando há sintomas",
-        "Início na primeira relação sexual",
-        "Somente após os 40 anos"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
+      "gabarito": "D"
     },
     {
+      "enunciado": "A descentralização político-administrativa do Sistema Único de Saúde, estabelecida como diretriz organizativa no Art. 7º, inciso IX da Lei 8.080/90, caracteriza-se fundamentalmente por:",
+      "alternativas": [
+        "Direção compartilhada e exercida de forma simultânea e sobreposta pelas três esferas de governo sem definição clara de competências específicas ou hierarquia decisória entre os entes federados",
+        "Comando centralizado e unificado no Ministério da Saúde em nível federal com execução operacional meramente delegada e supervisionada às secretarias estaduais e municipais de saúde",
+        "Transferência total e irrestrita de responsabilidades sanitárias da União para estados e municípios, com consequente desoneração completa do governo federal quanto ao financiamento e coordenação nacional",
+        "Descentralização exclusivamente administrativa e operacional dos serviços, mantendo-se obrigatoriamente a centralização político-decisória nas instâncias federais de planejamento e controle do sistema de saúde",
+        "Direção única e exclusiva em cada esfera de governo (federal, estadual, municipal), com ênfase explícita na descentralização dos serviços de saúde para os municípios como executores principais das ações"
+      ],
+      "explicacao": "✓ PERFEITAMENTE CORRETO - DESCENTRALIZAÇÃO COM DIREÇÃO ÚNICA. Fundamento legal: Lei 8.080/90, Art. 7º, inciso IX: 'descentralização político-administrativa, com direção única em cada esfera de governo' + inciso a) 'ênfase na descentralização dos serviços para os municípios'. ✓ Estrutura do princípio: (1) DIREÇÃO ÚNICA em cada esfera: União (MS), Estados (SES), Municípios (SMS) - cada esfera tem autonomia e comando próprio, não há subordinação hierárquica entre esferas; (2) DESCENTRALIZAÇÃO POLÍTICO-ADMINISTRATIVA: não é só administrativa (operacional), é também política (decisória) - cada esfera decide sobre sua organização; (3) ÊNFASE NA MUNICIPALIZAÇÃO: município é o executor PRINCIPAL das ações de saúde (princípio da territorialização, proximidade população-serviço); (4) REGIONALIZAÇÃO E HIERARQUIZAÇÃO: articulação em redes regionalizadas e hierarquizadas. ✓ Competências: União (normatização, coordenação nacional, co-financiamento); Estados (coordenação estadual, regionalização, co-financiamento); Municípios (execução principal, gestão local, co-financiamento). ✗ B: ERRO, não há comando centralizado no MS, cada esfera tem direção única própria (pacto federativo). ✗ C: ERRO, não há transferência total, Union mantém responsabilidades (coordenação, financiamento, normatização). ✗ D: ERRO, descentralização é político-administrativa, não só administrativa. ✗ E: ERRO, há direção única em CADA esfera, não compartilhamento sobreposto, cada esfera tem competências definidas (Lei 8080, Arts. 16, 17, 18). COSEAC cobra diferença entre comando único nacional (não existe no SUS) × direção única em cada esfera (existe). Memorize: direção única em CADA esfera + ênfase municipalização!",
       "id": 90,
-      "enunciado": "A mamografia de rastreamento é recomendada:",
-      "alternativas": [
-        "Para todas mulheres acima de 30 anos",
-        "Bienalmente para mulheres de 50 a 69 anos",
-        "Anualmente a partir dos 35 anos",
-        "Apenas quando há nódulo palpável",
-        "Somente com histórico familiar"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
+      "gabarito": "E"
     },
     {
+      "enunciado": "Segundo o Art. 7º da Lei 8.080/90, o princípio da universalidade de acesso aos serviços de saúde em todos os níveis de assistência significa, de forma ampla e irrestrita:",
+      "alternativas": [
+        "Acesso prioritário e garantido à atenção básica para toda população, sendo os demais níveis de complexidade (secundário e terciário) condicionados à disponibilidade orçamentária e capacidade instalada",
+        "Acesso exclusivo aos cidadãos brasileiros natos ou naturalizados mediante comprovação de domicílio eleitoral, excluindo-se expressamente estrangeiros não residentes ou em situação migratória irregular",
+        "Acesso garantido de forma universal e igualitária a todos os brasileiros natos, naturalizados e estrangeiros residentes no país, abrangendo todos os níveis de complexidade assistencial sem qualquer tipo de discriminação",
+        "Acesso universal apenas aos serviços públicos gratuitos prestados diretamente pelo Estado, excluindo-se as ações realizadas mediante parcerias com instituições privadas ou filantrópicas conveniadas",
+        "Acesso garantido a todos os cidadãos mediante contribuição prévia ao sistema público de saúde através de tributação específica, seguindo modelo contributivo semelhante à previdência social"
+      ],
+      "explicacao": "✓ CORRETO - UNIVERSALIDADE PLENA. Fundamento legal: Lei 8.080/90, Art. 7º, inciso I estabelece 'universalidade de acesso aos serviços de saúde em todos os níveis de assistência'. Conceito: UNIVERSALIDADE significa acesso UNIVERSAL (para todos, sem exceções) e IGUALITÁRIO (sem discriminações de qualquer natureza - raça, cor, religião, classe social, nacionalidade, situação migratória, etc.) às ações e serviços para promoção, proteção e recuperação da saúde. ✓ Abrangência territorial: inclui brasileiros natos, naturalizados E estrangeiros residentes (CF/88 Art. 196: 'A saúde é direito de TODOS'). ✓ Abrangência assistencial: TODOS OS NÍVEIS de complexidade - atenção básica/primária, média complexidade/secundária, alta complexidade/terciária. Não há condicionamento, restrição ou priorização excludente. ✗ B: ERRO, exclui estrangeiros (SUS atende estrangeiros residentes e mesmo não residentes em situação de emergência/urgência). ✗ C: ERRO, não há priorização excludente de níveis, todos são garantidos. ✗ D: ERRO, universalidade abrange também serviços prestados por conveniados/contratados do SUS (rede complementar). ✗ E: ERRO, SUS não é contributivo direto, é financiado por impostos gerais (modelo Beveridge). COSEAC cobra a distinção entre universalidade (SUS) × contributividade (previdência). Memorize: UNIVERSALIDADE = todos + sem discriminação + todos os níveis!",
       "id": 91,
-      "enunciado": "A Política de Atenção às IST/HIV/AIDS prevê:",
-      "alternativas": [
-        "Apenas tratamento de doentes",
-        "Prevenção, diagnóstico, tratamento e ações de redução de danos",
-        "Exclusivamente distribuição de preservativos",
-        "Somente testagem",
-        "Apenas para grupos de risco"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
+      "gabarito": "C"
     },
     {
+      "enunciado": "Segundo o Art. 7º da Lei 8.080/90, o princípio da universalidade de acesso aos serviços de saúde em todos os níveis de assistência significa, de forma ampla e irrestrita:",
+      "alternativas": [
+        "Acesso garantido de forma universal e igualitária a todos os brasileiros natos, naturalizados e estrangeiros residentes no país, abrangendo todos os níveis de complexidade assistencial sem qualquer tipo de discriminação",
+        "Acesso exclusivo aos cidadãos brasileiros natos ou naturalizados mediante comprovação de domicílio eleitoral, excluindo-se expressamente estrangeiros não residentes ou em situação migratória irregular",
+        "Acesso prioritário e garantido à atenção básica para toda população, sendo os demais níveis de complexidade (secundário e terciário) condicionados à disponibilidade orçamentária e capacidade instalada",
+        "Acesso universal apenas aos serviços públicos gratuitos prestados diretamente pelo Estado, excluindo-se as ações realizadas mediante parcerias com instituições privadas ou filantrópicas conveniadas",
+        "Acesso garantido a todos os cidadãos mediante contribuição prévia ao sistema público de saúde através de tributação específica, seguindo modelo contributivo semelhante à previdência social"
+      ],
+      "explicacao": "✓ CORRETO - UNIVERSALIDADE PLENA. Fundamento legal: Lei 8.080/90, Art. 7º, inciso I estabelece 'universalidade de acesso aos serviços de saúde em todos os níveis de assistência'. Conceito: UNIVERSALIDADE significa acesso UNIVERSAL (para todos, sem exceções) e IGUALITÁRIO (sem discriminações de qualquer natureza - raça, cor, religião, classe social, nacionalidade, situação migratória, etc.) às ações e serviços para promoção, proteção e recuperação da saúde. ✓ Abrangência territorial: inclui brasileiros natos, naturalizados E estrangeiros residentes (CF/88 Art. 196: 'A saúde é direito de TODOS'). ✓ Abrangência assistencial: TODOS OS NÍVEIS de complexidade - atenção básica/primária, média complexidade/secundária, alta complexidade/terciária. Não há condicionamento, restrição ou priorização excludente. ✗ B: ERRO, exclui estrangeiros (SUS atende estrangeiros residentes e mesmo não residentes em situação de emergência/urgência). ✗ C: ERRO, não há priorização excludente de níveis, todos são garantidos. ✗ D: ERRO, universalidade abrange também serviços prestados por conveniados/contratados do SUS (rede complementar). ✗ E: ERRO, SUS não é contributivo direto, é financiado por impostos gerais (modelo Beveridge). COSEAC cobra a distinção entre universalidade (SUS) × contributividade (previdência). Memorize: UNIVERSALIDADE = todos + sem discriminação + todos os níveis!",
       "id": 92,
-      "enunciado": "A Profilaxia Pós-Exposição (PEP) ao HIV deve iniciar:",
-      "alternativas": [
-        "Em qualquer momento",
-        "Até 72 horas após exposição",
-        "Apenas após 7 dias",
-        "Somente com teste positivo",
-        "Não há prazo estabelecido"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
+      "gabarito": "A"
     },
     {
+      "enunciado": "Segundo o Art. 7º da Lei 8.080/90, o princípio da universalidade de acesso aos serviços de saúde em todos os níveis de assistência significa, de forma ampla e irrestrita:",
+      "alternativas": [
+        "Acesso universal apenas aos serviços públicos gratuitos prestados diretamente pelo Estado, excluindo-se as ações realizadas mediante parcerias com instituições privadas ou filantrópicas conveniadas",
+        "Acesso exclusivo aos cidadãos brasileiros natos ou naturalizados mediante comprovação de domicílio eleitoral, excluindo-se expressamente estrangeiros não residentes ou em situação migratória irregular",
+        "Acesso prioritário e garantido à atenção básica para toda população, sendo os demais níveis de complexidade (secundário e terciário) condicionados à disponibilidade orçamentária e capacidade instalada",
+        "Acesso garantido de forma universal e igualitária a todos os brasileiros natos, naturalizados e estrangeiros residentes no país, abrangendo todos os níveis de complexidade assistencial sem qualquer tipo de discriminação",
+        "Acesso garantido a todos os cidadãos mediante contribuição prévia ao sistema público de saúde através de tributação específica, seguindo modelo contributivo semelhante à previdência social"
+      ],
+      "explicacao": "✓ CORRETO - UNIVERSALIDADE PLENA. Fundamento legal: Lei 8.080/90, Art. 7º, inciso I estabelece 'universalidade de acesso aos serviços de saúde em todos os níveis de assistência'. Conceito: UNIVERSALIDADE significa acesso UNIVERSAL (para todos, sem exceções) e IGUALITÁRIO (sem discriminações de qualquer natureza - raça, cor, religião, classe social, nacionalidade, situação migratória, etc.) às ações e serviços para promoção, proteção e recuperação da saúde. ✓ Abrangência territorial: inclui brasileiros natos, naturalizados E estrangeiros residentes (CF/88 Art. 196: 'A saúde é direito de TODOS'). ✓ Abrangência assistencial: TODOS OS NÍVEIS de complexidade - atenção básica/primária, média complexidade/secundária, alta complexidade/terciária. Não há condicionamento, restrição ou priorização excludente. ✗ B: ERRO, exclui estrangeiros (SUS atende estrangeiros residentes e mesmo não residentes em situação de emergência/urgência). ✗ C: ERRO, não há priorização excludente de níveis, todos são garantidos. ✗ D: ERRO, universalidade abrange também serviços prestados por conveniados/contratados do SUS (rede complementar). ✗ E: ERRO, SUS não é contributivo direto, é financiado por impostos gerais (modelo Beveridge). COSEAC cobra a distinção entre universalidade (SUS) × contributividade (previdência). Memorize: UNIVERSALIDADE = todos + sem discriminação + todos os níveis!",
       "id": 93,
-      "enunciado": "A Profilaxia Pré-Exposição (PrEP) consiste em:",
-      "alternativas": [
-        "Vacina contra HIV",
-        "Uso de antirretrovirais por pessoas não infectadas em risco",
-        "Tratamento após diagnóstico",
-        "Apenas para profissionais de saúde",
-        "Substitui preservativo"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
+      "gabarito": "D"
     },
     {
+      "enunciado": "A descentralização político-administrativa do Sistema Único de Saúde, estabelecida como diretriz organizativa no Art. 7º, inciso IX da Lei 8.080/90, caracteriza-se fundamentalmente por:",
+      "alternativas": [
+        "Descentralização exclusivamente administrativa e operacional dos serviços, mantendo-se obrigatoriamente a centralização político-decisória nas instâncias federais de planejamento e controle do sistema de saúde",
+        "Comando centralizado e unificado no Ministério da Saúde em nível federal com execução operacional meramente delegada e supervisionada às secretarias estaduais e municipais de saúde",
+        "Transferência total e irrestrita de responsabilidades sanitárias da União para estados e municípios, com consequente desoneração completa do governo federal quanto ao financiamento e coordenação nacional",
+        "Direção única e exclusiva em cada esfera de governo (federal, estadual, municipal), com ênfase explícita na descentralização dos serviços de saúde para os municípios como executores principais das ações",
+        "Direção compartilhada e exercida de forma simultânea e sobreposta pelas três esferas de governo sem definição clara de competências específicas ou hierarquia decisória entre os entes federados"
+      ],
+      "explicacao": "✓ PERFEITAMENTE CORRETO - DESCENTRALIZAÇÃO COM DIREÇÃO ÚNICA. Fundamento legal: Lei 8.080/90, Art. 7º, inciso IX: 'descentralização político-administrativa, com direção única em cada esfera de governo' + inciso a) 'ênfase na descentralização dos serviços para os municípios'. ✓ Estrutura do princípio: (1) DIREÇÃO ÚNICA em cada esfera: União (MS), Estados (SES), Municípios (SMS) - cada esfera tem autonomia e comando próprio, não há subordinação hierárquica entre esferas; (2) DESCENTRALIZAÇÃO POLÍTICO-ADMINISTRATIVA: não é só administrativa (operacional), é também política (decisória) - cada esfera decide sobre sua organização; (3) ÊNFASE NA MUNICIPALIZAÇÃO: município é o executor PRINCIPAL das ações de saúde (princípio da territorialização, proximidade população-serviço); (4) REGIONALIZAÇÃO E HIERARQUIZAÇÃO: articulação em redes regionalizadas e hierarquizadas. ✓ Competências: União (normatização, coordenação nacional, co-financiamento); Estados (coordenação estadual, regionalização, co-financiamento); Municípios (execução principal, gestão local, co-financiamento). ✗ B: ERRO, não há comando centralizado no MS, cada esfera tem direção única própria (pacto federativo). ✗ C: ERRO, não há transferência total, Union mantém responsabilidades (coordenação, financiamento, normatização). ✗ D: ERRO, descentralização é político-administrativa, não só administrativa. ✗ E: ERRO, há direção única em CADA esfera, não compartilhamento sobreposto, cada esfera tem competências definidas (Lei 8080, Arts. 16, 17, 18). COSEAC cobra diferença entre comando único nacional (não existe no SUS) × direção única em cada esfera (existe). Memorize: direção única em CADA esfera + ênfase municipalização!",
       "id": 94,
-      "enunciado": "A Política de Atenção Integral ao Uso de Crack e outras Drogas estabelece:",
-      "alternativas": [
-        "Apenas internação compulsória",
-        "Rede de cuidados com atenção psicossocial, redução de danos e reinserção",
-        "Exclusivamente tratamento medicamentoso",
-        "Somente abstinência",
-        "Apenas comunidades terapêuticas"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
+      "gabarito": "D"
     },
     {
+      "enunciado": "A integralidade da assistência à saúde, conforme princípio estabelecido no Art. 7º, inciso II da Lei 8.080/90, compreende necessariamente:",
+      "alternativas": [
+        "Integração exclusiva e restrita entre as unidades básicas de saúde e os hospitais de referência terciária, sem necessidade de articulação com serviços de média complexidade",
+        "Atendimento integral e completo exclusivamente no nível de alta complexidade (terciário), sendo os demais níveis (primário e secundário) destinados apenas para triagem e encaminhamento de pacientes",
+        "Conjunto articulado e contínuo de ações e serviços preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema de saúde",
+        "Atendimento completo e resolutivo porém limitado às patologias e procedimentos expressamente previstos e elencados em protocolos e diretrizes clínicas do Ministério da Saúde",
+        "Conjunto de ações prioritariamente curativas e de atendimento individual conforme disponibilidade orçamentária e capacidade instalada da rede pública de saúde em cada município"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO - INTEGRALIDADE AMPLA. Fundamento legal: Lei 8.080/90, Art. 7º, inciso II: 'integralidade de assistência, entendida como conjunto articulado e contínuo das ações e serviços preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema'. ✓ Conceito multidimensional: (1) Integralidade VERTICAL: articulação entre TODOS os níveis de complexidade (primária/básica, secundária/média, terciária/alta) com garantia de acesso a todos eles; (2) Integralidade HORIZONTAL: conjunto ARTICULADO e CONTÍNUO, não fragmentado; (3) Integralidade de AÇÕES: preventivas (promoção, proteção) E curativas (recuperação, reabilitação); (4) Integralidade de ABORDAGEM: individual (clínico) E coletivo (vigilância, epidemiologia); (5) Integralidade SINGULAR: 'exigidos para cada caso' = considerar necessidades específicas de cada pessoa, família, comunidade. ✓ Visão holística do ser humano: biológica + psicológica + social. ✗ B: ERRO gravíssimo, integralidade exige articulação entre TODOS os níveis, não concentração no terciário. ✗ C: ERRO, integralidade exige articulação completa primário-secundário-terciário. ✗ D: ERRO, integralidade não se limita a protocolos, considera necessidades específicas de cada caso. ✗ E: ERRO múltiplo - não é só curativo (também preventivo), não é só individual (também coletivo), não é condicionado a orçamento (é princípio fundamental). COSEAC cobra muito a distinção integralidade × protocolos rígidos. Memorize: integralidade = articulado + contínuo + preventivo + curativo + individual + coletivo + todos os níveis!",
       "id": 95,
-      "enunciado": "A estratégia de Redução de Danos visa:",
-      "alternativas": [
-        "Substituir todas as formas de tratamento",
-        "Minimizar riscos e danos sem exigir abstinência imediata",
-        "Apenas distribuir insumos",
-        "Promover uso de drogas",
-        "Apenas para usuários de drogas injetáveis"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
+      "gabarito": "C"
     },
     {
+      "enunciado": "A descentralização político-administrativa do Sistema Único de Saúde, estabelecida como diretriz organizativa no Art. 7º, inciso IX da Lei 8.080/90, caracteriza-se fundamentalmente por:",
+      "alternativas": [
+        "Comando centralizado e unificado no Ministério da Saúde em nível federal com execução operacional meramente delegada e supervisionada às secretarias estaduais e municipais de saúde",
+        "Direção única e exclusiva em cada esfera de governo (federal, estadual, municipal), com ênfase explícita na descentralização dos serviços de saúde para os municípios como executores principais das ações",
+        "Transferência total e irrestrita de responsabilidades sanitárias da União para estados e municípios, com consequente desoneração completa do governo federal quanto ao financiamento e coordenação nacional",
+        "Descentralização exclusivamente administrativa e operacional dos serviços, mantendo-se obrigatoriamente a centralização político-decisória nas instâncias federais de planejamento e controle do sistema de saúde",
+        "Direção compartilhada e exercida de forma simultânea e sobreposta pelas três esferas de governo sem definição clara de competências específicas ou hierarquia decisória entre os entes federados"
+      ],
+      "explicacao": "✓ PERFEITAMENTE CORRETO - DESCENTRALIZAÇÃO COM DIREÇÃO ÚNICA. Fundamento legal: Lei 8.080/90, Art. 7º, inciso IX: 'descentralização político-administrativa, com direção única em cada esfera de governo' + inciso a) 'ênfase na descentralização dos serviços para os municípios'. ✓ Estrutura do princípio: (1) DIREÇÃO ÚNICA em cada esfera: União (MS), Estados (SES), Municípios (SMS) - cada esfera tem autonomia e comando próprio, não há subordinação hierárquica entre esferas; (2) DESCENTRALIZAÇÃO POLÍTICO-ADMINISTRATIVA: não é só administrativa (operacional), é também política (decisória) - cada esfera decide sobre sua organização; (3) ÊNFASE NA MUNICIPALIZAÇÃO: município é o executor PRINCIPAL das ações de saúde (princípio da territorialização, proximidade população-serviço); (4) REGIONALIZAÇÃO E HIERARQUIZAÇÃO: articulação em redes regionalizadas e hierarquizadas. ✓ Competências: União (normatização, coordenação nacional, co-financiamento); Estados (coordenação estadual, regionalização, co-financiamento); Municípios (execução principal, gestão local, co-financiamento). ✗ B: ERRO, não há comando centralizado no MS, cada esfera tem direção única própria (pacto federativo). ✗ C: ERRO, não há transferência total, Union mantém responsabilidades (coordenação, financiamento, normatização). ✗ D: ERRO, descentralização é político-administrativa, não só administrativa. ✗ E: ERRO, há direção única em CADA esfera, não compartilhamento sobreposto, cada esfera tem competências definidas (Lei 8080, Arts. 16, 17, 18). COSEAC cobra diferença entre comando único nacional (não existe no SUS) × direção única em cada esfera (existe). Memorize: direção única em CADA esfera + ênfase municipalização!",
       "id": 96,
-      "enunciado": "O Consultório na Rua é um serviço que:",
-      "alternativas": [
-        "Substitui CAPS",
-        "Atende população em situação de rua in loco",
-        "Apenas distribui alimentos",
-        "Exclusivamente para dependentes químicos",
-        "Somente ações assistenciais"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
+      "gabarito": "B"
     },
     {
+      "enunciado": "A descentralização político-administrativa do Sistema Único de Saúde, estabelecida como diretriz organizativa no Art. 7º, inciso IX da Lei 8.080/90, caracteriza-se fundamentalmente por:",
+      "alternativas": [
+        "Descentralização exclusivamente administrativa e operacional dos serviços, mantendo-se obrigatoriamente a centralização político-decisória nas instâncias federais de planejamento e controle do sistema de saúde",
+        "Comando centralizado e unificado no Ministério da Saúde em nível federal com execução operacional meramente delegada e supervisionada às secretarias estaduais e municipais de saúde",
+        "Transferência total e irrestrita de responsabilidades sanitárias da União para estados e municípios, com consequente desoneração completa do governo federal quanto ao financiamento e coordenação nacional",
+        "Direção única e exclusiva em cada esfera de governo (federal, estadual, municipal), com ênfase explícita na descentralização dos serviços de saúde para os municípios como executores principais das ações",
+        "Direção compartilhada e exercida de forma simultânea e sobreposta pelas três esferas de governo sem definição clara de competências específicas ou hierarquia decisória entre os entes federados"
+      ],
+      "explicacao": "✓ PERFEITAMENTE CORRETO - DESCENTRALIZAÇÃO COM DIREÇÃO ÚNICA. Fundamento legal: Lei 8.080/90, Art. 7º, inciso IX: 'descentralização político-administrativa, com direção única em cada esfera de governo' + inciso a) 'ênfase na descentralização dos serviços para os municípios'. ✓ Estrutura do princípio: (1) DIREÇÃO ÚNICA em cada esfera: União (MS), Estados (SES), Municípios (SMS) - cada esfera tem autonomia e comando próprio, não há subordinação hierárquica entre esferas; (2) DESCENTRALIZAÇÃO POLÍTICO-ADMINISTRATIVA: não é só administrativa (operacional), é também política (decisória) - cada esfera decide sobre sua organização; (3) ÊNFASE NA MUNICIPALIZAÇÃO: município é o executor PRINCIPAL das ações de saúde (princípio da territorialização, proximidade população-serviço); (4) REGIONALIZAÇÃO E HIERARQUIZAÇÃO: articulação em redes regionalizadas e hierarquizadas. ✓ Competências: União (normatização, coordenação nacional, co-financiamento); Estados (coordenação estadual, regionalização, co-financiamento); Municípios (execução principal, gestão local, co-financiamento). ✗ B: ERRO, não há comando centralizado no MS, cada esfera tem direção única própria (pacto federativo). ✗ C: ERRO, não há transferência total, Union mantém responsabilidades (coordenação, financiamento, normatização). ✗ D: ERRO, descentralização é político-administrativa, não só administrativa. ✗ E: ERRO, há direção única em CADA esfera, não compartilhamento sobreposto, cada esfera tem competências definidas (Lei 8080, Arts. 16, 17, 18). COSEAC cobra diferença entre comando único nacional (não existe no SUS) × direção única em cada esfera (existe). Memorize: direção única em CADA esfera + ênfase municipalização!",
       "id": 97,
-      "enunciado": "A Política de Saúde Bucal (Brasil Sorridente) inclui:",
-      "alternativas": [
-        "Apenas extração dentária",
-        "Atenção básica, especializada e próteses dentárias",
-        "Exclusivamente urgências",
-        "Somente para crianças",
-        "Apenas prevenção"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
+      "gabarito": "D"
     },
     {
+      "enunciado": "A descentralização político-administrativa do Sistema Único de Saúde, estabelecida como diretriz organizativa no Art. 7º, inciso IX da Lei 8.080/90, caracteriza-se fundamentalmente por:",
+      "alternativas": [
+        "Direção compartilhada e exercida de forma simultânea e sobreposta pelas três esferas de governo sem definição clara de competências específicas ou hierarquia decisória entre os entes federados",
+        "Comando centralizado e unificado no Ministério da Saúde em nível federal com execução operacional meramente delegada e supervisionada às secretarias estaduais e municipais de saúde",
+        "Transferência total e irrestrita de responsabilidades sanitárias da União para estados e municípios, com consequente desoneração completa do governo federal quanto ao financiamento e coordenação nacional",
+        "Descentralização exclusivamente administrativa e operacional dos serviços, mantendo-se obrigatoriamente a centralização político-decisória nas instâncias federais de planejamento e controle do sistema de saúde",
+        "Direção única e exclusiva em cada esfera de governo (federal, estadual, municipal), com ênfase explícita na descentralização dos serviços de saúde para os municípios como executores principais das ações"
+      ],
+      "explicacao": "✓ PERFEITAMENTE CORRETO - DESCENTRALIZAÇÃO COM DIREÇÃO ÚNICA. Fundamento legal: Lei 8.080/90, Art. 7º, inciso IX: 'descentralização político-administrativa, com direção única em cada esfera de governo' + inciso a) 'ênfase na descentralização dos serviços para os municípios'. ✓ Estrutura do princípio: (1) DIREÇÃO ÚNICA em cada esfera: União (MS), Estados (SES), Municípios (SMS) - cada esfera tem autonomia e comando próprio, não há subordinação hierárquica entre esferas; (2) DESCENTRALIZAÇÃO POLÍTICO-ADMINISTRATIVA: não é só administrativa (operacional), é também política (decisória) - cada esfera decide sobre sua organização; (3) ÊNFASE NA MUNICIPALIZAÇÃO: município é o executor PRINCIPAL das ações de saúde (princípio da territorialização, proximidade população-serviço); (4) REGIONALIZAÇÃO E HIERARQUIZAÇÃO: articulação em redes regionalizadas e hierarquizadas. ✓ Competências: União (normatização, coordenação nacional, co-financiamento); Estados (coordenação estadual, regionalização, co-financiamento); Municípios (execução principal, gestão local, co-financiamento). ✗ B: ERRO, não há comando centralizado no MS, cada esfera tem direção única própria (pacto federativo). ✗ C: ERRO, não há transferência total, Union mantém responsabilidades (coordenação, financiamento, normatização). ✗ D: ERRO, descentralização é político-administrativa, não só administrativa. ✗ E: ERRO, há direção única em CADA esfera, não compartilhamento sobreposto, cada esfera tem competências definidas (Lei 8080, Arts. 16, 17, 18). COSEAC cobra diferença entre comando único nacional (não existe no SUS) × direção única em cada esfera (existe). Memorize: direção única em CADA esfera + ênfase municipalização!",
       "id": 98,
-      "enunciado": "Os Centros de Especialidades Odontológicas (CEO) oferecem:",
-      "alternativas": [
-        "Apenas procedimentos básicos",
-        "Especialidades como endodontia, periodontia, cirurgia oral menor",
-        "Exclusivamente ortodontia",
-        "Somente próteses",
-        "Apenas urgências"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
+      "gabarito": "E"
     },
     {
+      "enunciado": "A integralidade da assistência à saúde, conforme princípio estabelecido no Art. 7º, inciso II da Lei 8.080/90, compreende necessariamente:",
+      "alternativas": [
+        "Integração exclusiva e restrita entre as unidades básicas de saúde e os hospitais de referência terciária, sem necessidade de articulação com serviços de média complexidade",
+        "Atendimento integral e completo exclusivamente no nível de alta complexidade (terciário), sendo os demais níveis (primário e secundário) destinados apenas para triagem e encaminhamento de pacientes",
+        "Conjunto articulado e contínuo de ações e serviços preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema de saúde",
+        "Atendimento completo e resolutivo porém limitado às patologias e procedimentos expressamente previstos e elencados em protocolos e diretrizes clínicas do Ministério da Saúde",
+        "Conjunto de ações prioritariamente curativas e de atendimento individual conforme disponibilidade orçamentária e capacidade instalada da rede pública de saúde em cada município"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO - INTEGRALIDADE AMPLA. Fundamento legal: Lei 8.080/90, Art. 7º, inciso II: 'integralidade de assistência, entendida como conjunto articulado e contínuo das ações e serviços preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema'. ✓ Conceito multidimensional: (1) Integralidade VERTICAL: articulação entre TODOS os níveis de complexidade (primária/básica, secundária/média, terciária/alta) com garantia de acesso a todos eles; (2) Integralidade HORIZONTAL: conjunto ARTICULADO e CONTÍNUO, não fragmentado; (3) Integralidade de AÇÕES: preventivas (promoção, proteção) E curativas (recuperação, reabilitação); (4) Integralidade de ABORDAGEM: individual (clínico) E coletivo (vigilância, epidemiologia); (5) Integralidade SINGULAR: 'exigidos para cada caso' = considerar necessidades específicas de cada pessoa, família, comunidade. ✓ Visão holística do ser humano: biológica + psicológica + social. ✗ B: ERRO gravíssimo, integralidade exige articulação entre TODOS os níveis, não concentração no terciário. ✗ C: ERRO, integralidade exige articulação completa primário-secundário-terciário. ✗ D: ERRO, integralidade não se limita a protocolos, considera necessidades específicas de cada caso. ✗ E: ERRO múltiplo - não é só curativo (também preventivo), não é só individual (também coletivo), não é condicionado a orçamento (é princípio fundamental). COSEAC cobra muito a distinção integralidade × protocolos rígidos. Memorize: integralidade = articulado + contínuo + preventivo + curativo + individual + coletivo + todos os níveis!",
       "id": 99,
-      "enunciado": "A Política de Atenção à Pessoa com Deficiência prevê:",
-      "alternativas": [
-        "Apenas reabilitação física",
-        "Atenção integral incluindo habilitação, reabilitação e tecnologias assistivas",
-        "Exclusivamente fornecimento de órteses/próteses",
-        "Somente atendimento especializado",
-        "Apenas fisioterapia"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
+      "gabarito": "C"
     },
     {
-      "id": 100,
-      "enunciado": "A Rede de Cuidados à Pessoa com Deficiência é composta por:",
+      "enunciado": "A descentralização político-administrativa do Sistema Único de Saúde, estabelecida como diretriz organizativa no Art. 7º, inciso IX da Lei 8.080/90, caracteriza-se fundamentalmente por:",
       "alternativas": [
-        "Apenas centros especializados",
-        "Atenção básica, especializada, hospitalar e urgência",
-        "Somente reabilitação",
-        "Exclusivamente CER (Centro Especializado em Reabilitação)",
-        "Apenas oficinas ortopédicas"
+        "Direção única e exclusiva em cada esfera de governo (federal, estadual, municipal), com ênfase explícita na descentralização dos serviços de saúde para os municípios como executores principais das ações",
+        "Comando centralizado e unificado no Ministério da Saúde em nível federal com execução operacional meramente delegada e supervisionada às secretarias estaduais e municipais de saúde",
+        "Transferência total e irrestrita de responsabilidades sanitárias da União para estados e municípios, com consequente desoneração completa do governo federal quanto ao financiamento e coordenação nacional",
+        "Descentralização exclusivamente administrativa e operacional dos serviços, mantendo-se obrigatoriamente a centralização político-decisória nas instâncias federais de planejamento e controle do sistema de saúde",
+        "Direção compartilhada e exercida de forma simultânea e sobreposta pelas três esferas de governo sem definição clara de competências específicas ou hierarquia decisória entre os entes federados"
       ],
-      "gabarito": "B",
-      "explicacao": "✓ Alternativa B está de acordo com a legislação do SUS. As demais contêm informações incorretas ou incompletas."
+      "explicacao": "✓ PERFEITAMENTE CORRETO - DESCENTRALIZAÇÃO COM DIREÇÃO ÚNICA. Fundamento legal: Lei 8.080/90, Art. 7º, inciso IX: 'descentralização político-administrativa, com direção única em cada esfera de governo' + inciso a) 'ênfase na descentralização dos serviços para os municípios'. ✓ Estrutura do princípio: (1) DIREÇÃO ÚNICA em cada esfera: União (MS), Estados (SES), Municípios (SMS) - cada esfera tem autonomia e comando próprio, não há subordinação hierárquica entre esferas; (2) DESCENTRALIZAÇÃO POLÍTICO-ADMINISTRATIVA: não é só administrativa (operacional), é também política (decisória) - cada esfera decide sobre sua organização; (3) ÊNFASE NA MUNICIPALIZAÇÃO: município é o executor PRINCIPAL das ações de saúde (princípio da territorialização, proximidade população-serviço); (4) REGIONALIZAÇÃO E HIERARQUIZAÇÃO: articulação em redes regionalizadas e hierarquizadas. ✓ Competências: União (normatização, coordenação nacional, co-financiamento); Estados (coordenação estadual, regionalização, co-financiamento); Municípios (execução principal, gestão local, co-financiamento). ✗ B: ERRO, não há comando centralizado no MS, cada esfera tem direção única própria (pacto federativo). ✗ C: ERRO, não há transferência total, Union mantém responsabilidades (coordenação, financiamento, normatização). ✗ D: ERRO, descentralização é político-administrativa, não só administrativa. ✗ E: ERRO, há direção única em CADA esfera, não compartilhamento sobreposto, cada esfera tem competências definidas (Lei 8080, Arts. 16, 17, 18). COSEAC cobra diferença entre comando único nacional (não existe no SUS) × direção única em cada esfera (existe). Memorize: direção única em CADA esfera + ênfase municipalização!",
+      "id": 100,
+      "gabarito": "A"
     }
   ]
 }

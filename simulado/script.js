@@ -21,31 +21,50 @@ let simulado = {
 // ========================================
 async function carregarQuestoes() {
     try {
-        // Carregar todas as partes
-        const [port1, port2, sus1, sus2, esp1, esp2] = await Promise.all([
-            fetch('questoes_portugues.json').then(r => r.json()),
-            fetch('questoes_portugues_parte2.json').then(r => r.json()),
-            fetch('questoes_sus_parte1.json').then(r => r.json()),
-            fetch('questoes_sus_parte2.json').then(r => r.json()),
-            fetch('questoes_especificos_parte1.json').then(r => r.json()),
-            fetch('questoes_especificos_parte2.json').then(r => r.json())
-        ]);
+        // Carregar todas as 12 partes de cada tópico (600 questões cada = 1800 total)
+        const arquivos = [];
 
-        // Unificar questões
-        todasQuestoes.portugues = [
-            ...port1.portugues_parte1,
-            ...port2.portugues_parte2
-        ];
+        // Português (12 arquivos)
+        for (let i = 1; i <= 12; i++) {
+            arquivos.push(fetch(`questoes_portugues_parte${i}.json`).then(r => r.json()));
+        }
 
-        todasQuestoes.sus = [
-            ...sus1.sus_parte1,
-            ...sus2.sus_parte2
-        ];
+        // SUS (12 arquivos)
+        for (let i = 1; i <= 12; i++) {
+            arquivos.push(fetch(`questoes_sus_parte${i}.json`).then(r => r.json()));
+        }
 
-        todasQuestoes.especificos = [
-            ...esp1.especificos_parte1,
-            ...esp2.especificos_parte2
-        ];
+        // Específicos (12 arquivos)
+        for (let i = 1; i <= 12; i++) {
+            arquivos.push(fetch(`questoes_especificos_parte${i}.json`).then(r => r.json()));
+        }
+
+        const resultados = await Promise.all(arquivos);
+
+        // Unificar questões (12 partes de cada tópico)
+        todasQuestoes.portugues = [];
+        for (let i = 0; i < 12; i++) {
+            const chave = `portugues_parte${i + 1}`;
+            if (resultados[i] && resultados[i][chave]) {
+                todasQuestoes.portugues.push(...resultados[i][chave]);
+            }
+        }
+
+        todasQuestoes.sus = [];
+        for (let i = 0; i < 12; i++) {
+            const chave = `sus_parte${i + 1}`;
+            if (resultados[12 + i] && resultados[12 + i][chave]) {
+                todasQuestoes.sus.push(...resultados[12 + i][chave]);
+            }
+        }
+
+        todasQuestoes.especificos = [];
+        for (let i = 0; i < 12; i++) {
+            const chave = `especificos_parte${i + 1}`;
+            if (resultados[24 + i] && resultados[24 + i][chave]) {
+                todasQuestoes.especificos.push(...resultados[24 + i][chave]);
+            }
+        }
 
         console.log('✅ Questões carregadas:', {
             portugues: todasQuestoes.portugues.length,

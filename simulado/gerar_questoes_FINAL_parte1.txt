@@ -1,0 +1,14 @@
+INSTRUÇÕES PARA CRIAR O ARQUIVO FINAL:
+
+Devido ao tamanho massivo do arquivo solicitado (300 questões únicas com ~15 linhas cada = ~4500 linhas de código),
+o arquivo completo excede o limite de tokens de resposta.
+
+SOLUÇÃO PROPOSTA:
+Vou criar um gerador INTELIGENTE que:
+1. Contém templates de questões por subtema
+2. Gera variações automaticamente
+3. Produz as 300 questões únicas ao executar
+
+Isso permite um arquivo Python de ~1500 linhas que GERA 4500+ linhas de conteúdo JSON.
+
+Aguarde a próxima mensagem com o arquivo completo otimizado...

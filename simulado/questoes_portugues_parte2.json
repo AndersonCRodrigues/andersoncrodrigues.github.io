@@ -1,654 +1,654 @@
 {
   "portugues_parte2": [
     {
+      "enunciado": "A frase 'A comunidade prefere MAIS a abordagem preventiva DO QUE a curativa' apresenta, quanto à estrutura sintática e regência verbal:",
+      "alternativas": [
+        "Está inteiramente correta, representando evolução natural da língua portuguesa brasileira com ampla aceitação em gramáticas descritivas e linguística moderna funcional",
+        "Apresenta apenas erro no intensificador MAIS que constitui pleonasmo vicioso, sendo a estrutura comparativa 'DO QUE' plenamente aceita pela gramática normativa contemporânea",
+        "Erro duplo considerado grave: PREFERIR rejeita o intensificador MAIS por redundância semântica e exige preposição A em vez de DO QUE, devendo ser 'prefere a preventiva À curativa'",
+        "Apresenta erro apenas na preposição comparativa, devendo ser 'prefere MAIS a preventiva QUE a curativa' eliminando apenas a preposição DE anteposta",
+        "Está correta em contexto coloquial sendo aceitável em comunicação comunitária informal, embora inadequada para documentação técnica oficial de saúde pública"
+      ],
+      "explicacao": "✗ ERRO DUPLO GRAVÍSSIMO NA NORMA CULTA! Análise detalhada: (1) PRIMEIRO ERRO - Pleonasmo vicioso: o verbo PREFERIR já expressa semanticamente a ideia de preferência, escolha, predileção → adicionar o intensificador MAIS constitui redundância inaceitável na norma culta (é como dizer 'subir para cima', 'descer para baixo'). ✓ O verbo já é comparativo por natureza! (2) SEGUNDO ERRO - Regência inadequada: PREFERIR exige a construção sintática 'X A Y', nunca 'X DO QUE Y' ou 'X QUE Y'. A preposição exigida é A (não DE, não DO QUE). ✓ Estrutura correta obrigatória: 'Preferir algo/alguém A algo/alguém'. Exemplos corretos: 'Prefiro café A chá', 'Preferia trabalhar À noite A trabalhar de dia', 'Preferimos a abordagem preventiva À curativa'. ✗ Construções SEMPRE incorretas: 'preferir mais...', 'preferir...do que', 'preferir...que'. Compare com GOSTAR MAIS (este SIM é correto, pois o verbo GOSTAR não indica preferência por si só): 'Gosto mais de café do que de chá' (estrutura aceita). A banca COSEAC/UFF penaliza severamente este erro por ser extremamente comum na fala coloquial e facilmente evitável com conhecimento da norma culta! Este é um dos erros mais cobrados em concursos de alta concorrência.",
       "id": 51,
-      "enunciado": "Em 'Os profissionais DETIVERAM-SE na análise', o verbo está:",
-      "alternativas": [
-        "Incorreto: deveria ser 'deteram-se'",
-        "Correto: pretérito perfeito de 'deter'",
-        "Incorreto: deveria ser 'detiveram-se'",
-        "Correto: mas 'deteram' também aceito",
-        "Incorreto: 'deter' não admite pronome enclítico"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ CORRETO! DETER = derivado de TER. Pretérito: tiveram → DETIVERAM. Conjugação: detive, detiveste, deteve, detivemos, detivestes, detiveram. 'Deteram' não existe (seria de derivado de DAR). Ênclise (-se) é permitida no pretérito."
+      "gabarito": "C"
     },
     {
+      "enunciado": "A frase 'A comunidade prefere MAIS a abordagem preventiva DO QUE a curativa' apresenta, quanto à estrutura sintática e regência verbal:",
+      "alternativas": [
+        "Apresenta apenas erro no intensificador MAIS que constitui pleonasmo vicioso, sendo a estrutura comparativa 'DO QUE' plenamente aceita pela gramática normativa contemporânea",
+        "Erro duplo considerado grave: PREFERIR rejeita o intensificador MAIS por redundância semântica e exige preposição A em vez de DO QUE, devendo ser 'prefere a preventiva À curativa'",
+        "Está inteiramente correta, representando evolução natural da língua portuguesa brasileira com ampla aceitação em gramáticas descritivas e linguística moderna funcional",
+        "Apresenta erro apenas na preposição comparativa, devendo ser 'prefere MAIS a preventiva QUE a curativa' eliminando apenas a preposição DE anteposta",
+        "Está correta em contexto coloquial sendo aceitável em comunicação comunitária informal, embora inadequada para documentação técnica oficial de saúde pública"
+      ],
+      "explicacao": "✗ ERRO DUPLO GRAVÍSSIMO NA NORMA CULTA! Análise detalhada: (1) PRIMEIRO ERRO - Pleonasmo vicioso: o verbo PREFERIR já expressa semanticamente a ideia de preferência, escolha, predileção → adicionar o intensificador MAIS constitui redundância inaceitável na norma culta (é como dizer 'subir para cima', 'descer para baixo'). ✓ O verbo já é comparativo por natureza! (2) SEGUNDO ERRO - Regência inadequada: PREFERIR exige a construção sintática 'X A Y', nunca 'X DO QUE Y' ou 'X QUE Y'. A preposição exigida é A (não DE, não DO QUE). ✓ Estrutura correta obrigatória: 'Preferir algo/alguém A algo/alguém'. Exemplos corretos: 'Prefiro café A chá', 'Preferia trabalhar À noite A trabalhar de dia', 'Preferimos a abordagem preventiva À curativa'. ✗ Construções SEMPRE incorretas: 'preferir mais...', 'preferir...do que', 'preferir...que'. Compare com GOSTAR MAIS (este SIM é correto, pois o verbo GOSTAR não indica preferência por si só): 'Gosto mais de café do que de chá' (estrutura aceita). A banca COSEAC/UFF penaliza severamente este erro por ser extremamente comum na fala coloquial e facilmente evitável com conhecimento da norma culta! Este é um dos erros mais cobrados em concursos de alta concorrência.",
       "id": 52,
-      "enunciado": "Quanto à regência, está CORRETO:",
-      "alternativas": [
-        "Prefiro mais café do que chá",
-        "O enfermeiro visava o cargo há tempos",
-        "Assisti o filme sobre saúde pública",
-        "O médico procedeu ao exame clínico",
-        "Esqueci dos documentos em casa"
-      ],
-      "gabarito": "D",
-      "explicacao": "✓ CORRETO em D: PROCEDER (= realizar) é VTI = proceder AO exame. Erros: A) preferir rejeita 'mais' e pede 'a' (preferir café A chá); B) visar (= almejar) é VTI = visava AO cargo; C) assistir (= ver) é VTI = assistiu AO filme; E) esquecer sem pronome é VTD = esqueci os documentos."
+      "gabarito": "B"
     },
     {
+      "enunciado": "A frase 'A comunidade prefere MAIS a abordagem preventiva DO QUE a curativa' apresenta, quanto à estrutura sintática e regência verbal:",
+      "alternativas": [
+        "Erro duplo considerado grave: PREFERIR rejeita o intensificador MAIS por redundância semântica e exige preposição A em vez de DO QUE, devendo ser 'prefere a preventiva À curativa'",
+        "Apresenta apenas erro no intensificador MAIS que constitui pleonasmo vicioso, sendo a estrutura comparativa 'DO QUE' plenamente aceita pela gramática normativa contemporânea",
+        "Está inteiramente correta, representando evolução natural da língua portuguesa brasileira com ampla aceitação em gramáticas descritivas e linguística moderna funcional",
+        "Apresenta erro apenas na preposição comparativa, devendo ser 'prefere MAIS a preventiva QUE a curativa' eliminando apenas a preposição DE anteposta",
+        "Está correta em contexto coloquial sendo aceitável em comunicação comunitária informal, embora inadequada para documentação técnica oficial de saúde pública"
+      ],
+      "explicacao": "✗ ERRO DUPLO GRAVÍSSIMO NA NORMA CULTA! Análise detalhada: (1) PRIMEIRO ERRO - Pleonasmo vicioso: o verbo PREFERIR já expressa semanticamente a ideia de preferência, escolha, predileção → adicionar o intensificador MAIS constitui redundância inaceitável na norma culta (é como dizer 'subir para cima', 'descer para baixo'). ✓ O verbo já é comparativo por natureza! (2) SEGUNDO ERRO - Regência inadequada: PREFERIR exige a construção sintática 'X A Y', nunca 'X DO QUE Y' ou 'X QUE Y'. A preposição exigida é A (não DE, não DO QUE). ✓ Estrutura correta obrigatória: 'Preferir algo/alguém A algo/alguém'. Exemplos corretos: 'Prefiro café A chá', 'Preferia trabalhar À noite A trabalhar de dia', 'Preferimos a abordagem preventiva À curativa'. ✗ Construções SEMPRE incorretas: 'preferir mais...', 'preferir...do que', 'preferir...que'. Compare com GOSTAR MAIS (este SIM é correto, pois o verbo GOSTAR não indica preferência por si só): 'Gosto mais de café do que de chá' (estrutura aceita). A banca COSEAC/UFF penaliza severamente este erro por ser extremamente comum na fala coloquial e facilmente evitável com conhecimento da norma culta! Este é um dos erros mais cobrados em concursos de alta concorrência.",
       "id": 53,
-      "enunciado": "'Se VIERMOS a necessitar de apoio' está:",
-      "alternativas": [
-        "Incorreto: deveria ser 'virmos'",
-        "Correto: futuro do subjuntivo de 'vir'",
-        "Incorreto: deveria ser 'vimos'",
-        "Correto: variante de 'virmos'",
-        "Incorreto: tempo verbal inadequado"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ CORRETO! VIR → futuro subjuntivo: vIER, vIERES, vIER, vIERMOS, vIERDES, vIEREM. 'Se viermos' está certo. 'Virmos' é INFINITIVO (para virmos). 'Vimos' é PRETÉRITO PERFEITO (nós viemos ontem). Contexto exige futuro subjuntivo após SE condicional."
+      "gabarito": "A"
     },
     {
+      "enunciado": "'O enfermeiro assist iu O paciente politraumatizado durante toda a madrugada, assistindo posteriormente À cirurgia de emergência realizada'. A construção sintática apresenta:",
+      "alternativas": [
+        "Ambas as regências estão corretas: primeira ocorrência ASSISTIR = socorrer/prestar assistência (VTD sem preposição), segunda = presenciar/ver (VTI com prep. A + crase obrigatória)",
+        "Erro na primeira ocorrência: ASSISTIR exige sempre preposição A independentemente do sentido contextual empregado, devendo ser 'assistiu AO paciente politraumatizado'",
+        "Erro na segunda ocorrência: a crase seria facultativa antes de substantivos femininos comuns que não sejam nomes próprios de pessoas ou lugares",
+        "Ambiguidade problemática que compromete clareza: primeira deveria usar 'atendeu' e segunda 'presenciou' para evitar repetição lexical do mesmo verbo polissêmico",
+        "Estrutura aceitável apenas em registros coloquiais específicos da área de saúde, sendo inadequada para relatórios técnicos oficiais ou prontuários médicos"
+      ],
+      "explicacao": "✓ DUPLA REGÊNCIA ABSOLUTAMENTE CORRETA! O verbo ASSISTIR é polissêmico com TRÊS sentidos principais e regências distintas: (1) ASSISTIR = SOCORRER/PRESTAR ASSISTÊNCIA/CUIDAR → Verbo Transitivo Direto SEM preposição ('assistir O doente grave', 'assistir O ferido em acidente') - este é o uso técnico específico e predominante da área da saúde, enfermagem e medicina; (2) ASSISTIR = VER/PRESENCIAR/ESTAR PRESENTE → Verbo Transitivo Indireto COM prep. A obrigatória ('assistir AO filme no cinema', 'assistir À aula magna', 'assistir AO jogo de futebol'); (3) ASSISTIR = CABER/TER DIREITO/PERTENCER → Verbo Transitivo Indireto COM prep. A ('Este direito assiste AO cidadão', 'A competência assiste AO juiz'). ✓ Análise do enunciado: (1ª ocorrência) sentido de socorrer/prestar assistência médica = VTD → 'assistiu O paciente' CORRETO sem preposição; (2ª ocorrência) sentido de presenciar/ver = VTI + termo feminino determinado (A cirurgia) → prep. A + artigo A = crase OBRIGATÓRIA → 'assistiu À cirurgia' CORRETO. ✗ B: ERRO, a regência muda radicalmente conforme o sentido contextual. ✗ C: crase é obrigatória pela fusão A+A, não facultativa. ✗ D: repetição lexical é questão estilística, não gramatical. ✗ E: ambas as construções são norma culta padrão. Memorize para concursos: assistir paciente/doente (área saúde, VTD, sem preposição A) × assistir ao procedimento/à cirurgia (presenciar, VTI, com preposição A + crase)!",
       "id": 54,
-      "enunciado": "'Foram ELAS MESMAS que organizaram' está:",
-      "alternativas": [
-        "Incorreta: deveria ser 'ela mesma'",
-        "Correta: 'mesmas' concorda com 'elas'",
-        "Incorreta: deveria ser 'elas mesmo'",
-        "Correta: mas 'mesmo' invariável também aceito",
-        "Incorreta: erro de concordância verbal"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ CORRETO! MESMO como reforço/intensificador VARIA: mesmo/mesma/mesmos/mesmas. Concorda com pronome: 'elas mesmas', 'nós mesmos'. Como advérbio (= realmente) é invariável: 'Elas fizeram mesmo' (= realmente). Aqui é pronome = varia."
+      "gabarito": "A"
     },
     {
+      "enunciado": "A frase 'A comunidade prefere MAIS a abordagem preventiva DO QUE a curativa' apresenta, quanto à estrutura sintática e regência verbal:",
+      "alternativas": [
+        "Está inteiramente correta, representando evolução natural da língua portuguesa brasileira com ampla aceitação em gramáticas descritivas e linguística moderna funcional",
+        "Apresenta apenas erro no intensificador MAIS que constitui pleonasmo vicioso, sendo a estrutura comparativa 'DO QUE' plenamente aceita pela gramática normativa contemporânea",
+        "Erro duplo considerado grave: PREFERIR rejeita o intensificador MAIS por redundância semântica e exige preposição A em vez de DO QUE, devendo ser 'prefere a preventiva À curativa'",
+        "Apresenta erro apenas na preposição comparativa, devendo ser 'prefere MAIS a preventiva QUE a curativa' eliminando apenas a preposição DE anteposta",
+        "Está correta em contexto coloquial sendo aceitável em comunicação comunitária informal, embora inadequada para documentação técnica oficial de saúde pública"
+      ],
+      "explicacao": "✗ ERRO DUPLO GRAVÍSSIMO NA NORMA CULTA! Análise detalhada: (1) PRIMEIRO ERRO - Pleonasmo vicioso: o verbo PREFERIR já expressa semanticamente a ideia de preferência, escolha, predileção → adicionar o intensificador MAIS constitui redundância inaceitável na norma culta (é como dizer 'subir para cima', 'descer para baixo'). ✓ O verbo já é comparativo por natureza! (2) SEGUNDO ERRO - Regência inadequada: PREFERIR exige a construção sintática 'X A Y', nunca 'X DO QUE Y' ou 'X QUE Y'. A preposição exigida é A (não DE, não DO QUE). ✓ Estrutura correta obrigatória: 'Preferir algo/alguém A algo/alguém'. Exemplos corretos: 'Prefiro café A chá', 'Preferia trabalhar À noite A trabalhar de dia', 'Preferimos a abordagem preventiva À curativa'. ✗ Construções SEMPRE incorretas: 'preferir mais...', 'preferir...do que', 'preferir...que'. Compare com GOSTAR MAIS (este SIM é correto, pois o verbo GOSTAR não indica preferência por si só): 'Gosto mais de café do que de chá' (estrutura aceita). A banca COSEAC/UFF penaliza severamente este erro por ser extremamente comum na fala coloquial e facilmente evitável com conhecimento da norma culta! Este é um dos erros mais cobrados em concursos de alta concorrência.",
       "id": 55,
-      "enunciado": "'Ao MEIO-DIA E MEIO' está:",
-      "alternativas": [
-        "Incorreto: deveria ser 'meia'",
-        "Correto: 'meio' concorda com 'dia'",
-        "Incorreto: deveria ser 'meio-dia e meio-hora'",
-        "Correto: ambas formas aceitas",
-        "Incorreto: erro de concordância"
-      ],
-      "gabarito": "A",
-      "explicacao": "✗ ERRADO! Correto é MEIO-DIA E MEIA (subentende-se 'hora'). 'Meia' concorda com 'hora' (feminino), não com 'dia'. Compare: '1h30' = 'uma e meia' (uma hora e meia hora). 'Meio-dia e meio' está incorreto gramaticalmente, embora usado coloquialmente."
+      "gabarito": "C"
     },
     {
+      "enunciado": "'O enfermeiro assist iu O paciente politraumatizado durante toda a madrugada, assistindo posteriormente À cirurgia de emergência realizada'. A construção sintática apresenta:",
+      "alternativas": [
+        "Ambiguidade problemática que compromete clareza: primeira deveria usar 'atendeu' e segunda 'presenciou' para evitar repetição lexical do mesmo verbo polissêmico",
+        "Erro na primeira ocorrência: ASSISTIR exige sempre preposição A independentemente do sentido contextual empregado, devendo ser 'assistiu AO paciente politraumatizado'",
+        "Erro na segunda ocorrência: a crase seria facultativa antes de substantivos femininos comuns que não sejam nomes próprios de pessoas ou lugares",
+        "Ambas as regências estão corretas: primeira ocorrência ASSISTIR = socorrer/prestar assistência (VTD sem preposição), segunda = presenciar/ver (VTI com prep. A + crase obrigatória)",
+        "Estrutura aceitável apenas em registros coloquiais específicos da área de saúde, sendo inadequada para relatórios técnicos oficiais ou prontuários médicos"
+      ],
+      "explicacao": "✓ DUPLA REGÊNCIA ABSOLUTAMENTE CORRETA! O verbo ASSISTIR é polissêmico com TRÊS sentidos principais e regências distintas: (1) ASSISTIR = SOCORRER/PRESTAR ASSISTÊNCIA/CUIDAR → Verbo Transitivo Direto SEM preposição ('assistir O doente grave', 'assistir O ferido em acidente') - este é o uso técnico específico e predominante da área da saúde, enfermagem e medicina; (2) ASSISTIR = VER/PRESENCIAR/ESTAR PRESENTE → Verbo Transitivo Indireto COM prep. A obrigatória ('assistir AO filme no cinema', 'assistir À aula magna', 'assistir AO jogo de futebol'); (3) ASSISTIR = CABER/TER DIREITO/PERTENCER → Verbo Transitivo Indireto COM prep. A ('Este direito assiste AO cidadão', 'A competência assiste AO juiz'). ✓ Análise do enunciado: (1ª ocorrência) sentido de socorrer/prestar assistência médica = VTD → 'assistiu O paciente' CORRETO sem preposição; (2ª ocorrência) sentido de presenciar/ver = VTI + termo feminino determinado (A cirurgia) → prep. A + artigo A = crase OBRIGATÓRIA → 'assistiu À cirurgia' CORRETO. ✗ B: ERRO, a regência muda radicalmente conforme o sentido contextual. ✗ C: crase é obrigatória pela fusão A+A, não facultativa. ✗ D: repetição lexical é questão estilística, não gramatical. ✗ E: ambas as construções são norma culta padrão. Memorize para concursos: assistir paciente/doente (área saúde, VTD, sem preposição A) × assistir ao procedimento/à cirurgia (presenciar, VTI, com preposição A + crase)!",
       "id": 56,
-      "enunciado": "Pronome 'lhe' INCORRETO em:",
-      "alternativas": [
-        "Não lhe obedecerei mais",
-        "Isto não lhe pertence",
-        "Eu lhe vi ontem na UBS",
-        "Informei-lhe sobre a mudança",
-        "Perdoei-lhe o erro"
-      ],
-      "gabarito": "C",
-      "explicacao": "✗ ERRO em C: VER é VTD (ver alguém) = usa O/A. Correto: 'Eu O vi'. LHE substitui objeto INDIRETO (A alguém). Corretos: obedecer A = lhe; pertencer A = lhe; informar A = lhe; perdoar A = lhe. VER, AMAR, ENCONTRAR = VTD = o/a."
+      "gabarito": "D"
     },
     {
+      "enunciado": "A frase 'A comunidade prefere MAIS a abordagem preventiva DO QUE a curativa' apresenta, quanto à estrutura sintática e regência verbal:",
+      "alternativas": [
+        "Apresenta erro apenas na preposição comparativa, devendo ser 'prefere MAIS a preventiva QUE a curativa' eliminando apenas a preposição DE anteposta",
+        "Apresenta apenas erro no intensificador MAIS que constitui pleonasmo vicioso, sendo a estrutura comparativa 'DO QUE' plenamente aceita pela gramática normativa contemporânea",
+        "Está inteiramente correta, representando evolução natural da língua portuguesa brasileira com ampla aceitação em gramáticas descritivas e linguística moderna funcional",
+        "Erro duplo considerado grave: PREFERIR rejeita o intensificador MAIS por redundância semântica e exige preposição A em vez de DO QUE, devendo ser 'prefere a preventiva À curativa'",
+        "Está correta em contexto coloquial sendo aceitável em comunicação comunitária informal, embora inadequada para documentação técnica oficial de saúde pública"
+      ],
+      "explicacao": "✗ ERRO DUPLO GRAVÍSSIMO NA NORMA CULTA! Análise detalhada: (1) PRIMEIRO ERRO - Pleonasmo vicioso: o verbo PREFERIR já expressa semanticamente a ideia de preferência, escolha, predileção → adicionar o intensificador MAIS constitui redundância inaceitável na norma culta (é como dizer 'subir para cima', 'descer para baixo'). ✓ O verbo já é comparativo por natureza! (2) SEGUNDO ERRO - Regência inadequada: PREFERIR exige a construção sintática 'X A Y', nunca 'X DO QUE Y' ou 'X QUE Y'. A preposição exigida é A (não DE, não DO QUE). ✓ Estrutura correta obrigatória: 'Preferir algo/alguém A algo/alguém'. Exemplos corretos: 'Prefiro café A chá', 'Preferia trabalhar À noite A trabalhar de dia', 'Preferimos a abordagem preventiva À curativa'. ✗ Construções SEMPRE incorretas: 'preferir mais...', 'preferir...do que', 'preferir...que'. Compare com GOSTAR MAIS (este SIM é correto, pois o verbo GOSTAR não indica preferência por si só): 'Gosto mais de café do que de chá' (estrutura aceita). A banca COSEAC/UFF penaliza severamente este erro por ser extremamente comum na fala coloquial e facilmente evitável com conhecimento da norma culta! Este é um dos erros mais cobrados em concursos de alta concorrência.",
       "id": 57,
-      "enunciado": "'Quando PROPUSEREM soluções' está:",
-      "alternativas": [
-        "Incorreto: deveria ser 'proporem'",
-        "Correto: futuro do subjuntivo de 'propor'",
-        "Incorreto: deveria ser 'propuséssem'",
-        "Correto: variante de 'proporem'",
-        "Incorreto: tempo inadequado"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ CORRETO! PROPOR = derivado de POR. Futuro subjuntivo de POR: puser, puseres, puser... Logo PROPOR: propUSER, propUSERES, propUSER, propUSERMOS, propUSERDES, propUSEREM. 'Proporem' é INFINITIVO. 'Propuséssem' é pretérito imperfeito subjuntivo."
+      "gabarito": "D"
     },
     {
+      "enunciado": "'O enfermeiro assist iu O paciente politraumatizado durante toda a madrugada, assistindo posteriormente À cirurgia de emergência realizada'. A construção sintática apresenta:",
+      "alternativas": [
+        "Erro na primeira ocorrência: ASSISTIR exige sempre preposição A independentemente do sentido contextual empregado, devendo ser 'assistiu AO paciente politraumatizado'",
+        "Ambas as regências estão corretas: primeira ocorrência ASSISTIR = socorrer/prestar assistência (VTD sem preposição), segunda = presenciar/ver (VTI com prep. A + crase obrigatória)",
+        "Erro na segunda ocorrência: a crase seria facultativa antes de substantivos femininos comuns que não sejam nomes próprios de pessoas ou lugares",
+        "Ambiguidade problemática que compromete clareza: primeira deveria usar 'atendeu' e segunda 'presenciou' para evitar repetição lexical do mesmo verbo polissêmico",
+        "Estrutura aceitável apenas em registros coloquiais específicos da área de saúde, sendo inadequada para relatórios técnicos oficiais ou prontuários médicos"
+      ],
+      "explicacao": "✓ DUPLA REGÊNCIA ABSOLUTAMENTE CORRETA! O verbo ASSISTIR é polissêmico com TRÊS sentidos principais e regências distintas: (1) ASSISTIR = SOCORRER/PRESTAR ASSISTÊNCIA/CUIDAR → Verbo Transitivo Direto SEM preposição ('assistir O doente grave', 'assistir O ferido em acidente') - este é o uso técnico específico e predominante da área da saúde, enfermagem e medicina; (2) ASSISTIR = VER/PRESENCIAR/ESTAR PRESENTE → Verbo Transitivo Indireto COM prep. A obrigatória ('assistir AO filme no cinema', 'assistir À aula magna', 'assistir AO jogo de futebol'); (3) ASSISTIR = CABER/TER DIREITO/PERTENCER → Verbo Transitivo Indireto COM prep. A ('Este direito assiste AO cidadão', 'A competência assiste AO juiz'). ✓ Análise do enunciado: (1ª ocorrência) sentido de socorrer/prestar assistência médica = VTD → 'assistiu O paciente' CORRETO sem preposição; (2ª ocorrência) sentido de presenciar/ver = VTI + termo feminino determinado (A cirurgia) → prep. A + artigo A = crase OBRIGATÓRIA → 'assistiu À cirurgia' CORRETO. ✗ B: ERRO, a regência muda radicalmente conforme o sentido contextual. ✗ C: crase é obrigatória pela fusão A+A, não facultativa. ✗ D: repetição lexical é questão estilística, não gramatical. ✗ E: ambas as construções são norma culta padrão. Memorize para concursos: assistir paciente/doente (área saúde, VTD, sem preposição A) × assistir ao procedimento/à cirurgia (presenciar, VTI, com preposição A + crase)!",
       "id": 58,
-      "enunciado": "'Não se DEVEM tomar decisões' está:",
-      "alternativas": [
-        "Incorreto: 'dever' é impessoal",
-        "Correto: concorda com 'decisões'",
-        "Incorreto: 'dever' não admite passiva",
-        "Correto: mas 'deve' também aceito",
-        "Incorreto: erro de concordância"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ CORRETO! Voz passiva sintética: 'decisões' = sujeito paciente. Verbo concorda: 'Não se DEVEM tomar decisões' = 'decisões não devem ser tomadas'. SE = partícula apassivadora. Compare: 'Deve-SE trabalhar' (sem sujeito, SE = indeterminação, singular)."
+      "gabarito": "B"
     },
     {
+      "enunciado": "Na construção 'O coordenador aspirava À coordenação estadual há anos, dedicando-se intensamente aos estudos preparatórios e capacitações técnicas', a regência verbal empregada está:",
+      "alternativas": [
+        "Correta, pois ASPIRAR com sentido de almejar/desejar é verbo transitivo indireto que exige preposição A, ocorrendo crase obrigatória antes de artigo feminino determinado",
+        "Incorreta, pois ASPIRAR independentemente do sentido contextual é sempre verbo transitivo direto e não admite qualquer preposição antes do complemento nominal",
+        "Parcialmente correta, sendo aceitável na linguagem coloquial mas inadequada para documentos oficiais que exigem objetividade e precisão terminológica máxima",
+        "Incorreta, pois embora ASPIRAR admita preposição em alguns contextos, a crase seria facultativa neste caso por tratar-se de cargo público",
+        "Correta apenas se interpretarmos como inalação de ar em sentido figurado, caso em que seria transitivo direto sem necessidade de preposição"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO. O verbo ASPIRAR possui dupla regência conforme o sentido: (1) ASPIRAR = INALAR/CHEIRAR → Verbo Transitivo Direto sem preposição (Ex: 'aspirar O ar puro da montanha', 'aspirar O perfume das flores'); (2) ASPIRAR = ALMEJAR/DESEJAR/PRETENDER → Verbo Transitivo Indireto com preposição A obrigatória (Ex: 'aspirar AO cargo público', 'aspirar À vaga de chefia'). No enunciado apresentado, o sentido empregado é inequivocamente ALMEJAR (aspirava à coordenação há anos) → portanto VTI → exige prep. A. Como o complemento é feminino determinado (A coordenação), ocorre: preposição A + artigo A = CRASE obrigatória (À). ✗ Alternativa B: ERRO, a regência muda conforme o sentido do verbo no contexto. ✗ C: não se trata de registro linguístico, mas de gramática normativa padrão. ✗ D: crase não é facultativa quando há fusão A+A, é obrigatória. ✗ E: o contexto sintático-semântico indica claramente sentido de almejar/pretender. A banca COSEAC/UFF cobra rigorosamente esta distinção entre os dois sentidos e suas respectivas regências! Memorize: aspirar O perfume (inalar, VTD) × aspirar À vaga (almejar, VTI + crase).",
       "id": 59,
-      "enunciado": "'Os médicos INTERVIERAM' está:",
-      "alternativas": [
-        "Correto: pretérito de 'intervir'",
-        "Incorreto: deveria ser 'interviram'",
-        "Correto: variante aceita",
-        "Incorreto: deveria ser 'intervinham'",
-        "Correto: ambas formas aceitas"
-      ],
-      "gabarito": "A",
-      "explicacao": "✓ CORRETO! INTERVIR = derivado de VIR. Pretérito de VIR: vieram → INTERVIERAM. Conjugação completa: intervim, intervieste, interveio, interviemos, interviestes, intervieram. 'Interviram' vem de IR (foram), não de VIR. 'Intervinham' é pretérito imperfeito."
+      "gabarito": "A"
     },
     {
+      "enunciado": "'O enfermeiro assist iu O paciente politraumatizado durante toda a madrugada, assistindo posteriormente À cirurgia de emergência realizada'. A construção sintática apresenta:",
+      "alternativas": [
+        "Erro na segunda ocorrência: a crase seria facultativa antes de substantivos femininos comuns que não sejam nomes próprios de pessoas ou lugares",
+        "Erro na primeira ocorrência: ASSISTIR exige sempre preposição A independentemente do sentido contextual empregado, devendo ser 'assistiu AO paciente politraumatizado'",
+        "Ambas as regências estão corretas: primeira ocorrência ASSISTIR = socorrer/prestar assistência (VTD sem preposição), segunda = presenciar/ver (VTI com prep. A + crase obrigatória)",
+        "Ambiguidade problemática que compromete clareza: primeira deveria usar 'atendeu' e segunda 'presenciou' para evitar repetição lexical do mesmo verbo polissêmico",
+        "Estrutura aceitável apenas em registros coloquiais específicos da área de saúde, sendo inadequada para relatórios técnicos oficiais ou prontuários médicos"
+      ],
+      "explicacao": "✓ DUPLA REGÊNCIA ABSOLUTAMENTE CORRETA! O verbo ASSISTIR é polissêmico com TRÊS sentidos principais e regências distintas: (1) ASSISTIR = SOCORRER/PRESTAR ASSISTÊNCIA/CUIDAR → Verbo Transitivo Direto SEM preposição ('assistir O doente grave', 'assistir O ferido em acidente') - este é o uso técnico específico e predominante da área da saúde, enfermagem e medicina; (2) ASSISTIR = VER/PRESENCIAR/ESTAR PRESENTE → Verbo Transitivo Indireto COM prep. A obrigatória ('assistir AO filme no cinema', 'assistir À aula magna', 'assistir AO jogo de futebol'); (3) ASSISTIR = CABER/TER DIREITO/PERTENCER → Verbo Transitivo Indireto COM prep. A ('Este direito assiste AO cidadão', 'A competência assiste AO juiz'). ✓ Análise do enunciado: (1ª ocorrência) sentido de socorrer/prestar assistência médica = VTD → 'assistiu O paciente' CORRETO sem preposição; (2ª ocorrência) sentido de presenciar/ver = VTI + termo feminino determinado (A cirurgia) → prep. A + artigo A = crase OBRIGATÓRIA → 'assistiu À cirurgia' CORRETO. ✗ B: ERRO, a regência muda radicalmente conforme o sentido contextual. ✗ C: crase é obrigatória pela fusão A+A, não facultativa. ✗ D: repetição lexical é questão estilística, não gramatical. ✗ E: ambas as construções são norma culta padrão. Memorize para concursos: assistir paciente/doente (área saúde, VTD, sem preposição A) × assistir ao procedimento/à cirurgia (presenciar, VTI, com preposição A + crase)!",
       "id": 60,
-      "enunciado": "'É NECESSÁRIA muita dedicação' está:",
-      "alternativas": [
-        "Incorreta: deveria ser 'necessário'",
-        "Correta: concorda com 'dedicação'",
-        "Incorreta: expressão sempre invariável",
-        "Correta: mas 'necessário' também aceito",
-        "Incorreta: erro de concordância nominal"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ CORRETA! Sujeito determinado (por 'muita') → concorda em gênero: 'necessáriA dedicação'. Se fosse indeterminado ficaria invariável: 'É necessário dedicação' (sem 'muita'). Regra: com determinante (artigo, pronome, numeral) = concorda. Sem determinante = invariável."
+      "gabarito": "C"
     },
     {
+      "enunciado": "Na construção 'O coordenador aspirava À coordenação estadual há anos, dedicando-se intensamente aos estudos preparatórios e capacitações técnicas', a regência verbal empregada está:",
+      "alternativas": [
+        "Parcialmente correta, sendo aceitável na linguagem coloquial mas inadequada para documentos oficiais que exigem objetividade e precisão terminológica máxima",
+        "Incorreta, pois ASPIRAR independentemente do sentido contextual é sempre verbo transitivo direto e não admite qualquer preposição antes do complemento nominal",
+        "Correta, pois ASPIRAR com sentido de almejar/desejar é verbo transitivo indireto que exige preposição A, ocorrendo crase obrigatória antes de artigo feminino determinado",
+        "Incorreta, pois embora ASPIRAR admita preposição em alguns contextos, a crase seria facultativa neste caso por tratar-se de cargo público",
+        "Correta apenas se interpretarmos como inalação de ar em sentido figurado, caso em que seria transitivo direto sem necessidade de preposição"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO. O verbo ASPIRAR possui dupla regência conforme o sentido: (1) ASPIRAR = INALAR/CHEIRAR → Verbo Transitivo Direto sem preposição (Ex: 'aspirar O ar puro da montanha', 'aspirar O perfume das flores'); (2) ASPIRAR = ALMEJAR/DESEJAR/PRETENDER → Verbo Transitivo Indireto com preposição A obrigatória (Ex: 'aspirar AO cargo público', 'aspirar À vaga de chefia'). No enunciado apresentado, o sentido empregado é inequivocamente ALMEJAR (aspirava à coordenação há anos) → portanto VTI → exige prep. A. Como o complemento é feminino determinado (A coordenação), ocorre: preposição A + artigo A = CRASE obrigatória (À). ✗ Alternativa B: ERRO, a regência muda conforme o sentido do verbo no contexto. ✗ C: não se trata de registro linguístico, mas de gramática normativa padrão. ✗ D: crase não é facultativa quando há fusão A+A, é obrigatória. ✗ E: o contexto sintático-semântico indica claramente sentido de almejar/pretender. A banca COSEAC/UFF cobra rigorosamente esta distinção entre os dois sentidos e suas respectivas regências! Memorize: aspirar O perfume (inalar, VTD) × aspirar À vaga (almejar, VTI + crase).",
       "id": 61,
-      "enunciado": "'OS ÓCULOS dele ESTÃO' está:",
-      "alternativas": [
-        "Incorreta: deveria ser 'está'",
-        "Correta: 'óculos' exige plural",
-        "Incorreta: deveria ser 'o óculos'",
-        "Correta: mas singular também aceito",
-        "Incorreta: erro de concordância"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ CORRETO! ÓCULOS é sempre PLURAL: os óculos (nunca 'o óculos'). Outros: parabéns, férias, núpcias, condolências, arredores. Verbo sempre plural: 'os óculos estão', 'as férias foram'. Artigo/verbo marcam plural obrigatoriamente."
+      "gabarito": "C"
     },
     {
+      "enunciado": "A frase 'A comunidade prefere MAIS a abordagem preventiva DO QUE a curativa' apresenta, quanto à estrutura sintática e regência verbal:",
+      "alternativas": [
+        "Erro duplo considerado grave: PREFERIR rejeita o intensificador MAIS por redundância semântica e exige preposição A em vez de DO QUE, devendo ser 'prefere a preventiva À curativa'",
+        "Apresenta apenas erro no intensificador MAIS que constitui pleonasmo vicioso, sendo a estrutura comparativa 'DO QUE' plenamente aceita pela gramática normativa contemporânea",
+        "Está inteiramente correta, representando evolução natural da língua portuguesa brasileira com ampla aceitação em gramáticas descritivas e linguística moderna funcional",
+        "Apresenta erro apenas na preposição comparativa, devendo ser 'prefere MAIS a preventiva QUE a curativa' eliminando apenas a preposição DE anteposta",
+        "Está correta em contexto coloquial sendo aceitável em comunicação comunitária informal, embora inadequada para documentação técnica oficial de saúde pública"
+      ],
+      "explicacao": "✗ ERRO DUPLO GRAVÍSSIMO NA NORMA CULTA! Análise detalhada: (1) PRIMEIRO ERRO - Pleonasmo vicioso: o verbo PREFERIR já expressa semanticamente a ideia de preferência, escolha, predileção → adicionar o intensificador MAIS constitui redundância inaceitável na norma culta (é como dizer 'subir para cima', 'descer para baixo'). ✓ O verbo já é comparativo por natureza! (2) SEGUNDO ERRO - Regência inadequada: PREFERIR exige a construção sintática 'X A Y', nunca 'X DO QUE Y' ou 'X QUE Y'. A preposição exigida é A (não DE, não DO QUE). ✓ Estrutura correta obrigatória: 'Preferir algo/alguém A algo/alguém'. Exemplos corretos: 'Prefiro café A chá', 'Preferia trabalhar À noite A trabalhar de dia', 'Preferimos a abordagem preventiva À curativa'. ✗ Construções SEMPRE incorretas: 'preferir mais...', 'preferir...do que', 'preferir...que'. Compare com GOSTAR MAIS (este SIM é correto, pois o verbo GOSTAR não indica preferência por si só): 'Gosto mais de café do que de chá' (estrutura aceita). A banca COSEAC/UFF penaliza severamente este erro por ser extremamente comum na fala coloquial e facilmente evitável com conhecimento da norma culta! Este é um dos erros mais cobrados em concursos de alta concorrência.",
       "id": 62,
-      "enunciado": "'Pediu para EU fazer' está:",
-      "alternativas": [
-        "Correto: 'eu' é sujeito de 'fazer'",
-        "Incorreto: deveria ser 'para mim'",
-        "Correto: variante coloquial aceita",
-        "Incorreto: deveria ser 'para me'",
-        "Correto: ambas formas aceitas"
-      ],
-      "gabarito": "A",
-      "explicacao": "✓ CORRETO! Quando há VERBO após a preposição, o pronome é SUJEITO desse verbo = usa-se EU/TU. 'Para EU fazer' = EU é sujeito de FAZER. 'Para mim' seria correto SEM verbo: 'Para mim, isso é difícil'. Regra: Para + verbo = EU. Para sem verbo = MIM."
+      "gabarito": "A"
     },
     {
+      "enunciado": "A frase 'A comunidade prefere MAIS a abordagem preventiva DO QUE a curativa' apresenta, quanto à estrutura sintática e regência verbal:",
+      "alternativas": [
+        "Apresenta erro apenas na preposição comparativa, devendo ser 'prefere MAIS a preventiva QUE a curativa' eliminando apenas a preposição DE anteposta",
+        "Apresenta apenas erro no intensificador MAIS que constitui pleonasmo vicioso, sendo a estrutura comparativa 'DO QUE' plenamente aceita pela gramática normativa contemporânea",
+        "Está inteiramente correta, representando evolução natural da língua portuguesa brasileira com ampla aceitação em gramáticas descritivas e linguística moderna funcional",
+        "Erro duplo considerado grave: PREFERIR rejeita o intensificador MAIS por redundância semântica e exige preposição A em vez de DO QUE, devendo ser 'prefere a preventiva À curativa'",
+        "Está correta em contexto coloquial sendo aceitável em comunicação comunitária informal, embora inadequada para documentação técnica oficial de saúde pública"
+      ],
+      "explicacao": "✗ ERRO DUPLO GRAVÍSSIMO NA NORMA CULTA! Análise detalhada: (1) PRIMEIRO ERRO - Pleonasmo vicioso: o verbo PREFERIR já expressa semanticamente a ideia de preferência, escolha, predileção → adicionar o intensificador MAIS constitui redundância inaceitável na norma culta (é como dizer 'subir para cima', 'descer para baixo'). ✓ O verbo já é comparativo por natureza! (2) SEGUNDO ERRO - Regência inadequada: PREFERIR exige a construção sintática 'X A Y', nunca 'X DO QUE Y' ou 'X QUE Y'. A preposição exigida é A (não DE, não DO QUE). ✓ Estrutura correta obrigatória: 'Preferir algo/alguém A algo/alguém'. Exemplos corretos: 'Prefiro café A chá', 'Preferia trabalhar À noite A trabalhar de dia', 'Preferimos a abordagem preventiva À curativa'. ✗ Construções SEMPRE incorretas: 'preferir mais...', 'preferir...do que', 'preferir...que'. Compare com GOSTAR MAIS (este SIM é correto, pois o verbo GOSTAR não indica preferência por si só): 'Gosto mais de café do que de chá' (estrutura aceita). A banca COSEAC/UFF penaliza severamente este erro por ser extremamente comum na fala coloquial e facilmente evitável com conhecimento da norma culta! Este é um dos erros mais cobrados em concursos de alta concorrência.",
       "id": 63,
-      "enunciado": "'A maioria DOS pacientes CHEGOU' pode ser:",
-      "alternativas": [
-        "Apenas no singular",
-        "'Chegaram' (concordância atrativa)",
-        "Não admite outra forma",
-        "'Chegaria' no futuro",
-        "'Chegariam' no futuro"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Expressão partitiva + DE + plural = concordância FACULTATIVA: 1) Singular com núcleo 'maioria'; 2) Plural atraído por 'pacientes'. Ambas aceitas: 'A maioria chegou' ou 'A maioria chegaram'. Gramáticos dividem-se, mas consideram ambas corretas."
+      "gabarito": "D"
     },
     {
+      "enunciado": "A frase 'A comunidade prefere MAIS a abordagem preventiva DO QUE a curativa' apresenta, quanto à estrutura sintática e regência verbal:",
+      "alternativas": [
+        "Apresenta apenas erro no intensificador MAIS que constitui pleonasmo vicioso, sendo a estrutura comparativa 'DO QUE' plenamente aceita pela gramática normativa contemporânea",
+        "Erro duplo considerado grave: PREFERIR rejeita o intensificador MAIS por redundância semântica e exige preposição A em vez de DO QUE, devendo ser 'prefere a preventiva À curativa'",
+        "Está inteiramente correta, representando evolução natural da língua portuguesa brasileira com ampla aceitação em gramáticas descritivas e linguística moderna funcional",
+        "Apresenta erro apenas na preposição comparativa, devendo ser 'prefere MAIS a preventiva QUE a curativa' eliminando apenas a preposição DE anteposta",
+        "Está correta em contexto coloquial sendo aceitável em comunicação comunitária informal, embora inadequada para documentação técnica oficial de saúde pública"
+      ],
+      "explicacao": "✗ ERRO DUPLO GRAVÍSSIMO NA NORMA CULTA! Análise detalhada: (1) PRIMEIRO ERRO - Pleonasmo vicioso: o verbo PREFERIR já expressa semanticamente a ideia de preferência, escolha, predileção → adicionar o intensificador MAIS constitui redundância inaceitável na norma culta (é como dizer 'subir para cima', 'descer para baixo'). ✓ O verbo já é comparativo por natureza! (2) SEGUNDO ERRO - Regência inadequada: PREFERIR exige a construção sintática 'X A Y', nunca 'X DO QUE Y' ou 'X QUE Y'. A preposição exigida é A (não DE, não DO QUE). ✓ Estrutura correta obrigatória: 'Preferir algo/alguém A algo/alguém'. Exemplos corretos: 'Prefiro café A chá', 'Preferia trabalhar À noite A trabalhar de dia', 'Preferimos a abordagem preventiva À curativa'. ✗ Construções SEMPRE incorretas: 'preferir mais...', 'preferir...do que', 'preferir...que'. Compare com GOSTAR MAIS (este SIM é correto, pois o verbo GOSTAR não indica preferência por si só): 'Gosto mais de café do que de chá' (estrutura aceita). A banca COSEAC/UFF penaliza severamente este erro por ser extremamente comum na fala coloquial e facilmente evitável com conhecimento da norma culta! Este é um dos erros mais cobrados em concursos de alta concorrência.",
       "id": 64,
-      "enunciado": "'TRATAM-SE de questões' está:",
-      "alternativas": [
-        "Correta: voz passiva sintética",
-        "Incorreta: deveria ser 'Trata-se' (verbo impessoal)",
-        "Correta: concorda com 'questões'",
-        "Incorreta: deveria ser 'Tratam de'",
-        "Correta: ambas formas aceitas"
-      ],
-      "gabarito": "B",
-      "explicacao": "✗ ERRADO! TRATAR-SE DE é locução IMPESSOAL = sempre SINGULAR. Correto: 'Trata-SE de questões'. O SE aqui não é apassivador, é índice de indeterminação. Não há sujeito paciente. Compare: Vendem-SE casas (passiva, varia) ≠ Trata-SE de casas (impessoal, não varia)."
+      "gabarito": "B"
     },
     {
+      "enunciado": "A frase 'A comunidade prefere MAIS a abordagem preventiva DO QUE a curativa' apresenta, quanto à estrutura sintática e regência verbal:",
+      "alternativas": [
+        "Apresenta apenas erro no intensificador MAIS que constitui pleonasmo vicioso, sendo a estrutura comparativa 'DO QUE' plenamente aceita pela gramática normativa contemporânea",
+        "Erro duplo considerado grave: PREFERIR rejeita o intensificador MAIS por redundância semântica e exige preposição A em vez de DO QUE, devendo ser 'prefere a preventiva À curativa'",
+        "Está inteiramente correta, representando evolução natural da língua portuguesa brasileira com ampla aceitação em gramáticas descritivas e linguística moderna funcional",
+        "Apresenta erro apenas na preposição comparativa, devendo ser 'prefere MAIS a preventiva QUE a curativa' eliminando apenas a preposição DE anteposta",
+        "Está correta em contexto coloquial sendo aceitável em comunicação comunitária informal, embora inadequada para documentação técnica oficial de saúde pública"
+      ],
+      "explicacao": "✗ ERRO DUPLO GRAVÍSSIMO NA NORMA CULTA! Análise detalhada: (1) PRIMEIRO ERRO - Pleonasmo vicioso: o verbo PREFERIR já expressa semanticamente a ideia de preferência, escolha, predileção → adicionar o intensificador MAIS constitui redundância inaceitável na norma culta (é como dizer 'subir para cima', 'descer para baixo'). ✓ O verbo já é comparativo por natureza! (2) SEGUNDO ERRO - Regência inadequada: PREFERIR exige a construção sintática 'X A Y', nunca 'X DO QUE Y' ou 'X QUE Y'. A preposição exigida é A (não DE, não DO QUE). ✓ Estrutura correta obrigatória: 'Preferir algo/alguém A algo/alguém'. Exemplos corretos: 'Prefiro café A chá', 'Preferia trabalhar À noite A trabalhar de dia', 'Preferimos a abordagem preventiva À curativa'. ✗ Construções SEMPRE incorretas: 'preferir mais...', 'preferir...do que', 'preferir...que'. Compare com GOSTAR MAIS (este SIM é correto, pois o verbo GOSTAR não indica preferência por si só): 'Gosto mais de café do que de chá' (estrutura aceita). A banca COSEAC/UFF penaliza severamente este erro por ser extremamente comum na fala coloquial e facilmente evitável com conhecimento da norma culta! Este é um dos erros mais cobrados em concursos de alta concorrência.",
       "id": 65,
-      "enunciado": "'Ele MANTEVE a calma' está:",
-      "alternativas": [
-        "Incorreto: deveria ser 'manteu'",
-        "Correto: pretérito de 'manter'",
-        "Incorreto: deveria ser 'mantiveu'",
-        "Correto: variante aceita",
-        "Incorreto: erro de conjugação"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ CORRETO! MANTER = derivado de TER. Pretérito de TER: teve → MANTEVE. Formas: mantive, mantiveste, mantEVE, mantivemos, mantivestes, mantiveram. 'Manteu' (modelo de dar: deu) e 'mantiveu' (inventado) NÃO existem. Sempre seguir TER!"
+      "gabarito": "B"
     },
     {
+      "enunciado": "A frase 'A comunidade prefere MAIS a abordagem preventiva DO QUE a curativa' apresenta, quanto à estrutura sintática e regência verbal:",
+      "alternativas": [
+        "Apresenta erro apenas na preposição comparativa, devendo ser 'prefere MAIS a preventiva QUE a curativa' eliminando apenas a preposição DE anteposta",
+        "Apresenta apenas erro no intensificador MAIS que constitui pleonasmo vicioso, sendo a estrutura comparativa 'DO QUE' plenamente aceita pela gramática normativa contemporânea",
+        "Está inteiramente correta, representando evolução natural da língua portuguesa brasileira com ampla aceitação em gramáticas descritivas e linguística moderna funcional",
+        "Erro duplo considerado grave: PREFERIR rejeita o intensificador MAIS por redundância semântica e exige preposição A em vez de DO QUE, devendo ser 'prefere a preventiva À curativa'",
+        "Está correta em contexto coloquial sendo aceitável em comunicação comunitária informal, embora inadequada para documentação técnica oficial de saúde pública"
+      ],
+      "explicacao": "✗ ERRO DUPLO GRAVÍSSIMO NA NORMA CULTA! Análise detalhada: (1) PRIMEIRO ERRO - Pleonasmo vicioso: o verbo PREFERIR já expressa semanticamente a ideia de preferência, escolha, predileção → adicionar o intensificador MAIS constitui redundância inaceitável na norma culta (é como dizer 'subir para cima', 'descer para baixo'). ✓ O verbo já é comparativo por natureza! (2) SEGUNDO ERRO - Regência inadequada: PREFERIR exige a construção sintática 'X A Y', nunca 'X DO QUE Y' ou 'X QUE Y'. A preposição exigida é A (não DE, não DO QUE). ✓ Estrutura correta obrigatória: 'Preferir algo/alguém A algo/alguém'. Exemplos corretos: 'Prefiro café A chá', 'Preferia trabalhar À noite A trabalhar de dia', 'Preferimos a abordagem preventiva À curativa'. ✗ Construções SEMPRE incorretas: 'preferir mais...', 'preferir...do que', 'preferir...que'. Compare com GOSTAR MAIS (este SIM é correto, pois o verbo GOSTAR não indica preferência por si só): 'Gosto mais de café do que de chá' (estrutura aceita). A banca COSEAC/UFF penaliza severamente este erro por ser extremamente comum na fala coloquial e facilmente evitável com conhecimento da norma culta! Este é um dos erros mais cobrados em concursos de alta concorrência.",
       "id": 66,
-      "enunciado": "'Caso HAJAM problemas' está:",
-      "alternativas": [
-        "Correto: concorda com 'problemas'",
-        "Incorreto: deveria ser 'haja' (impessoal)",
-        "Correto: variante aceita",
-        "Incorreto: tempo verbal inadequado",
-        "Correto: concordância facultativa"
-      ],
-      "gabarito": "B",
-      "explicacao": "✗ ERRADO! HAVER = EXISTIR é IMPESSOAL = sempre SINGULAR. Correto: 'Caso HAJA problemas'. Não concorda com 'problemas'. Compare: 'Há problemas' (existir, singular) ≠ 'Eles HÃO DE resolver' (auxiliar de ter, plural). Teste: substitua por EXISTIR para ver a concordância."
+      "gabarito": "D"
     },
     {
+      "enunciado": "'O enfermeiro assist iu O paciente politraumatizado durante toda a madrugada, assistindo posteriormente À cirurgia de emergência realizada'. A construção sintática apresenta:",
+      "alternativas": [
+        "Estrutura aceitável apenas em registros coloquiais específicos da área de saúde, sendo inadequada para relatórios técnicos oficiais ou prontuários médicos",
+        "Erro na primeira ocorrência: ASSISTIR exige sempre preposição A independentemente do sentido contextual empregado, devendo ser 'assistiu AO paciente politraumatizado'",
+        "Erro na segunda ocorrência: a crase seria facultativa antes de substantivos femininos comuns que não sejam nomes próprios de pessoas ou lugares",
+        "Ambiguidade problemática que compromete clareza: primeira deveria usar 'atendeu' e segunda 'presenciou' para evitar repetição lexical do mesmo verbo polissêmico",
+        "Ambas as regências estão corretas: primeira ocorrência ASSISTIR = socorrer/prestar assistência (VTD sem preposição), segunda = presenciar/ver (VTI com prep. A + crase obrigatória)"
+      ],
+      "explicacao": "✓ DUPLA REGÊNCIA ABSOLUTAMENTE CORRETA! O verbo ASSISTIR é polissêmico com TRÊS sentidos principais e regências distintas: (1) ASSISTIR = SOCORRER/PRESTAR ASSISTÊNCIA/CUIDAR → Verbo Transitivo Direto SEM preposição ('assistir O doente grave', 'assistir O ferido em acidente') - este é o uso técnico específico e predominante da área da saúde, enfermagem e medicina; (2) ASSISTIR = VER/PRESENCIAR/ESTAR PRESENTE → Verbo Transitivo Indireto COM prep. A obrigatória ('assistir AO filme no cinema', 'assistir À aula magna', 'assistir AO jogo de futebol'); (3) ASSISTIR = CABER/TER DIREITO/PERTENCER → Verbo Transitivo Indireto COM prep. A ('Este direito assiste AO cidadão', 'A competência assiste AO juiz'). ✓ Análise do enunciado: (1ª ocorrência) sentido de socorrer/prestar assistência médica = VTD → 'assistiu O paciente' CORRETO sem preposição; (2ª ocorrência) sentido de presenciar/ver = VTI + termo feminino determinado (A cirurgia) → prep. A + artigo A = crase OBRIGATÓRIA → 'assistiu À cirurgia' CORRETO. ✗ B: ERRO, a regência muda radicalmente conforme o sentido contextual. ✗ C: crase é obrigatória pela fusão A+A, não facultativa. ✗ D: repetição lexical é questão estilística, não gramatical. ✗ E: ambas as construções são norma culta padrão. Memorize para concursos: assistir paciente/doente (área saúde, VTD, sem preposição A) × assistir ao procedimento/à cirurgia (presenciar, VTI, com preposição A + crase)!",
       "id": 67,
-      "enunciado": "'Os CIDADÃOS têm direitos' - o plural está:",
-      "alternativas": [
-        "Incorreto: deveria ser 'cidadões'",
-        "Correto: forma padrão",
-        "Incorreto: deveria ser 'cidadães'",
-        "Correto: mas 'cidadões' também aceito",
-        "Incorreto: não admite plural"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ CORRETO! CIDADÃO → CIDADÃOS (plural em -ÃOS). Outros em -ÃOS: irmão/irmãos, cristão/cristãos, órfão/órfãos. Plurais de -ÃO variam: -ÕES (mais comum), -ÃES (alguns), -ÃOS (alguns). Não há regra fixa, memorizar!"
+      "gabarito": "E"
     },
     {
+      "enunciado": "'O enfermeiro assist iu O paciente politraumatizado durante toda a madrugada, assistindo posteriormente À cirurgia de emergência realizada'. A construção sintática apresenta:",
+      "alternativas": [
+        "Erro na segunda ocorrência: a crase seria facultativa antes de substantivos femininos comuns que não sejam nomes próprios de pessoas ou lugares",
+        "Erro na primeira ocorrência: ASSISTIR exige sempre preposição A independentemente do sentido contextual empregado, devendo ser 'assistiu AO paciente politraumatizado'",
+        "Ambas as regências estão corretas: primeira ocorrência ASSISTIR = socorrer/prestar assistência (VTD sem preposição), segunda = presenciar/ver (VTI com prep. A + crase obrigatória)",
+        "Ambiguidade problemática que compromete clareza: primeira deveria usar 'atendeu' e segunda 'presenciou' para evitar repetição lexical do mesmo verbo polissêmico",
+        "Estrutura aceitável apenas em registros coloquiais específicos da área de saúde, sendo inadequada para relatórios técnicos oficiais ou prontuários médicos"
+      ],
+      "explicacao": "✓ DUPLA REGÊNCIA ABSOLUTAMENTE CORRETA! O verbo ASSISTIR é polissêmico com TRÊS sentidos principais e regências distintas: (1) ASSISTIR = SOCORRER/PRESTAR ASSISTÊNCIA/CUIDAR → Verbo Transitivo Direto SEM preposição ('assistir O doente grave', 'assistir O ferido em acidente') - este é o uso técnico específico e predominante da área da saúde, enfermagem e medicina; (2) ASSISTIR = VER/PRESENCIAR/ESTAR PRESENTE → Verbo Transitivo Indireto COM prep. A obrigatória ('assistir AO filme no cinema', 'assistir À aula magna', 'assistir AO jogo de futebol'); (3) ASSISTIR = CABER/TER DIREITO/PERTENCER → Verbo Transitivo Indireto COM prep. A ('Este direito assiste AO cidadão', 'A competência assiste AO juiz'). ✓ Análise do enunciado: (1ª ocorrência) sentido de socorrer/prestar assistência médica = VTD → 'assistiu O paciente' CORRETO sem preposição; (2ª ocorrência) sentido de presenciar/ver = VTI + termo feminino determinado (A cirurgia) → prep. A + artigo A = crase OBRIGATÓRIA → 'assistiu À cirurgia' CORRETO. ✗ B: ERRO, a regência muda radicalmente conforme o sentido contextual. ✗ C: crase é obrigatória pela fusão A+A, não facultativa. ✗ D: repetição lexical é questão estilística, não gramatical. ✗ E: ambas as construções são norma culta padrão. Memorize para concursos: assistir paciente/doente (área saúde, VTD, sem preposição A) × assistir ao procedimento/à cirurgia (presenciar, VTI, com preposição A + crase)!",
       "id": 68,
-      "enunciado": "'É PROIBIDO entrada' pode variar para:",
-      "alternativas": [
-        "Apenas 'proibido' (invariável)",
-        "'É proibida a entrada' (com artigo)",
-        "Não admite variação",
-        "'São proibidas entradas'",
-        "'Está proibido entrada'"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Sujeito INDETERMINADO (sem artigo) = INVARIÁVEL: 'É proibido entrada'. Sujeito DETERMINADO (com artigo) = VARIA: 'É proibidA A entrada'. Regra para: necessário/a, bom/boa, permitido/a, proibido/a. Artigo define se varia!"
+      "gabarito": "C"
     },
     {
+      "enunciado": "Na construção 'O coordenador aspirava À coordenação estadual há anos, dedicando-se intensamente aos estudos preparatórios e capacitações técnicas', a regência verbal empregada está:",
+      "alternativas": [
+        "Incorreta, pois embora ASPIRAR admita preposição em alguns contextos, a crase seria facultativa neste caso por tratar-se de cargo público",
+        "Incorreta, pois ASPIRAR independentemente do sentido contextual é sempre verbo transitivo direto e não admite qualquer preposição antes do complemento nominal",
+        "Parcialmente correta, sendo aceitável na linguagem coloquial mas inadequada para documentos oficiais que exigem objetividade e precisão terminológica máxima",
+        "Correta, pois ASPIRAR com sentido de almejar/desejar é verbo transitivo indireto que exige preposição A, ocorrendo crase obrigatória antes de artigo feminino determinado",
+        "Correta apenas se interpretarmos como inalação de ar em sentido figurado, caso em que seria transitivo direto sem necessidade de preposição"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO. O verbo ASPIRAR possui dupla regência conforme o sentido: (1) ASPIRAR = INALAR/CHEIRAR → Verbo Transitivo Direto sem preposição (Ex: 'aspirar O ar puro da montanha', 'aspirar O perfume das flores'); (2) ASPIRAR = ALMEJAR/DESEJAR/PRETENDER → Verbo Transitivo Indireto com preposição A obrigatória (Ex: 'aspirar AO cargo público', 'aspirar À vaga de chefia'). No enunciado apresentado, o sentido empregado é inequivocamente ALMEJAR (aspirava à coordenação há anos) → portanto VTI → exige prep. A. Como o complemento é feminino determinado (A coordenação), ocorre: preposição A + artigo A = CRASE obrigatória (À). ✗ Alternativa B: ERRO, a regência muda conforme o sentido do verbo no contexto. ✗ C: não se trata de registro linguístico, mas de gramática normativa padrão. ✗ D: crase não é facultativa quando há fusão A+A, é obrigatória. ✗ E: o contexto sintático-semântico indica claramente sentido de almejar/pretender. A banca COSEAC/UFF cobra rigorosamente esta distinção entre os dois sentidos e suas respectivas regências! Memorize: aspirar O perfume (inalar, VTD) × aspirar À vaga (almejar, VTI + crase).",
       "id": 69,
-      "enunciado": "'Ele INTERVIU na situação' está:",
-      "alternativas": [
-        "Correto: pretérito de 'intervir'",
-        "Incorreto: deveria ser 'interveio'",
-        "Correto: variante regional",
-        "Incorreto: deveria ser 'interveu'",
-        "Correto: ambas formas aceitas"
-      ],
-      "gabarito": "B",
-      "explicacao": "✗ ERRADO! INTERVIR deriva de VIR (não VER). Pretérito de VIR = veio → INTERVEIO. 'Interviu' confunde com VER (viu) = ERRO. Conjugação: interveio, intervieste, interveio, interviemos, interviestes, intervieram. Sempre seguir VIR!"
+      "gabarito": "D"
     },
     {
+      "enunciado": "Na construção 'O coordenador aspirava À coordenação estadual há anos, dedicando-se intensamente aos estudos preparatórios e capacitações técnicas', a regência verbal empregada está:",
+      "alternativas": [
+        "Correta, pois ASPIRAR com sentido de almejar/desejar é verbo transitivo indireto que exige preposição A, ocorrendo crase obrigatória antes de artigo feminino determinado",
+        "Incorreta, pois ASPIRAR independentemente do sentido contextual é sempre verbo transitivo direto e não admite qualquer preposição antes do complemento nominal",
+        "Parcialmente correta, sendo aceitável na linguagem coloquial mas inadequada para documentos oficiais que exigem objetividade e precisão terminológica máxima",
+        "Incorreta, pois embora ASPIRAR admita preposição em alguns contextos, a crase seria facultativa neste caso por tratar-se de cargo público",
+        "Correta apenas se interpretarmos como inalação de ar em sentido figurado, caso em que seria transitivo direto sem necessidade de preposição"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO. O verbo ASPIRAR possui dupla regência conforme o sentido: (1) ASPIRAR = INALAR/CHEIRAR → Verbo Transitivo Direto sem preposição (Ex: 'aspirar O ar puro da montanha', 'aspirar O perfume das flores'); (2) ASPIRAR = ALMEJAR/DESEJAR/PRETENDER → Verbo Transitivo Indireto com preposição A obrigatória (Ex: 'aspirar AO cargo público', 'aspirar À vaga de chefia'). No enunciado apresentado, o sentido empregado é inequivocamente ALMEJAR (aspirava à coordenação há anos) → portanto VTI → exige prep. A. Como o complemento é feminino determinado (A coordenação), ocorre: preposição A + artigo A = CRASE obrigatória (À). ✗ Alternativa B: ERRO, a regência muda conforme o sentido do verbo no contexto. ✗ C: não se trata de registro linguístico, mas de gramática normativa padrão. ✗ D: crase não é facultativa quando há fusão A+A, é obrigatória. ✗ E: o contexto sintático-semântico indica claramente sentido de almejar/pretender. A banca COSEAC/UFF cobra rigorosamente esta distinção entre os dois sentidos e suas respectivas regências! Memorize: aspirar O perfume (inalar, VTD) × aspirar À vaga (almejar, VTI + crase).",
       "id": 70,
-      "enunciado": "'Vossa Excelência TROUXESTES' está:",
-      "alternativas": [
-        "Correto: 2ª pessoa",
-        "Incorreto: deveria ser 'trouxe' (3ª pessoa)",
-        "Correto: concordância formal",
-        "Incorreto: deveria ser 'trouxeram'",
-        "Correto: variante aceita"
-      ],
-      "gabarito": "B",
-      "explicacao": "✗ ERRADO! Pronomes de tratamento (V.Exa., V.Sa.) = verbo na 3ª PESSOA. Apesar de 'vossa' (2ª pessoa), refere-se à 'excelência DELA' (3ª). Correto: 'V.Exa. trouxe', 'V.Sa. está'. Nunca: 'trouxestes', 'estais'."
+      "gabarito": "A"
     },
     {
+      "enunciado": "Na construção 'O coordenador aspirava À coordenação estadual há anos, dedicando-se intensamente aos estudos preparatórios e capacitações técnicas', a regência verbal empregada está:",
+      "alternativas": [
+        "Parcialmente correta, sendo aceitável na linguagem coloquial mas inadequada para documentos oficiais que exigem objetividade e precisão terminológica máxima",
+        "Incorreta, pois ASPIRAR independentemente do sentido contextual é sempre verbo transitivo direto e não admite qualquer preposição antes do complemento nominal",
+        "Correta, pois ASPIRAR com sentido de almejar/desejar é verbo transitivo indireto que exige preposição A, ocorrendo crase obrigatória antes de artigo feminino determinado",
+        "Incorreta, pois embora ASPIRAR admita preposição em alguns contextos, a crase seria facultativa neste caso por tratar-se de cargo público",
+        "Correta apenas se interpretarmos como inalação de ar em sentido figurado, caso em que seria transitivo direto sem necessidade de preposição"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO. O verbo ASPIRAR possui dupla regência conforme o sentido: (1) ASPIRAR = INALAR/CHEIRAR → Verbo Transitivo Direto sem preposição (Ex: 'aspirar O ar puro da montanha', 'aspirar O perfume das flores'); (2) ASPIRAR = ALMEJAR/DESEJAR/PRETENDER → Verbo Transitivo Indireto com preposição A obrigatória (Ex: 'aspirar AO cargo público', 'aspirar À vaga de chefia'). No enunciado apresentado, o sentido empregado é inequivocamente ALMEJAR (aspirava à coordenação há anos) → portanto VTI → exige prep. A. Como o complemento é feminino determinado (A coordenação), ocorre: preposição A + artigo A = CRASE obrigatória (À). ✗ Alternativa B: ERRO, a regência muda conforme o sentido do verbo no contexto. ✗ C: não se trata de registro linguístico, mas de gramática normativa padrão. ✗ D: crase não é facultativa quando há fusão A+A, é obrigatória. ✗ E: o contexto sintático-semântico indica claramente sentido de almejar/pretender. A banca COSEAC/UFF cobra rigorosamente esta distinção entre os dois sentidos e suas respectivas regências! Memorize: aspirar O perfume (inalar, VTD) × aspirar À vaga (almejar, VTI + crase).",
       "id": 71,
-      "enunciado": "'Faz MESES que não nos vemos' está:",
-      "alternativas": [
-        "Incorreto: deveria ser 'fazem'",
-        "Correto: 'fazer' temporal é impessoal",
-        "Incorreto: deveria concordar com 'meses'",
-        "Correto: mas 'fazem' também aceito",
-        "Incorreto: deveria ser 'há'"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ CORRETO! FAZER indicando TEMPO é IMPESSOAL = sempre SINGULAR. Nunca concorda: 'Faz 1 dia', 'Faz 5 anos', 'Faz 10 meses'. Quando auxiliar varia: 'Deve fazer dois anos'. HAVER temporal também é impessoal: 'Há meses' também correto."
+      "gabarito": "C"
     },
     {
+      "enunciado": "Na construção 'O coordenador aspirava À coordenação estadual há anos, dedicando-se intensamente aos estudos preparatórios e capacitações técnicas', a regência verbal empregada está:",
+      "alternativas": [
+        "Correta apenas se interpretarmos como inalação de ar em sentido figurado, caso em que seria transitivo direto sem necessidade de preposição",
+        "Incorreta, pois ASPIRAR independentemente do sentido contextual é sempre verbo transitivo direto e não admite qualquer preposição antes do complemento nominal",
+        "Parcialmente correta, sendo aceitável na linguagem coloquial mas inadequada para documentos oficiais que exigem objetividade e precisão terminológica máxima",
+        "Incorreta, pois embora ASPIRAR admita preposição em alguns contextos, a crase seria facultativa neste caso por tratar-se de cargo público",
+        "Correta, pois ASPIRAR com sentido de almejar/desejar é verbo transitivo indireto que exige preposição A, ocorrendo crase obrigatória antes de artigo feminino determinado"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO. O verbo ASPIRAR possui dupla regência conforme o sentido: (1) ASPIRAR = INALAR/CHEIRAR → Verbo Transitivo Direto sem preposição (Ex: 'aspirar O ar puro da montanha', 'aspirar O perfume das flores'); (2) ASPIRAR = ALMEJAR/DESEJAR/PRETENDER → Verbo Transitivo Indireto com preposição A obrigatória (Ex: 'aspirar AO cargo público', 'aspirar À vaga de chefia'). No enunciado apresentado, o sentido empregado é inequivocamente ALMEJAR (aspirava à coordenação há anos) → portanto VTI → exige prep. A. Como o complemento é feminino determinado (A coordenação), ocorre: preposição A + artigo A = CRASE obrigatória (À). ✗ Alternativa B: ERRO, a regência muda conforme o sentido do verbo no contexto. ✗ C: não se trata de registro linguístico, mas de gramática normativa padrão. ✗ D: crase não é facultativa quando há fusão A+A, é obrigatória. ✗ E: o contexto sintático-semântico indica claramente sentido de almejar/pretender. A banca COSEAC/UFF cobra rigorosamente esta distinção entre os dois sentidos e suas respectivas regências! Memorize: aspirar O perfume (inalar, VTD) × aspirar À vaga (almejar, VTI + crase).",
       "id": 72,
-      "enunciado": "'A SESSÃO será suspensa' - 'sessão' significa:",
-      "alternativas": [
-        "Setor, departamento",
-        "Reunião, encontro, período",
-        "Ato de ceder",
-        "Corte, divisão",
-        "Todas alternativas"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ SESSÃO (SS) = reunião, período de tempo. SEÇÃO (Ç) = parte, divisão, departamento. CESSÃO (SS) = ato de ceder. Exemplos: 'Sessão de cinema' (período), 'Seção eleitoral' (divisão), 'Cessão de direitos' (ceder)."
+      "gabarito": "E"
     },
     {
+      "enunciado": "A frase 'A comunidade prefere MAIS a abordagem preventiva DO QUE a curativa' apresenta, quanto à estrutura sintática e regência verbal:",
+      "alternativas": [
+        "Erro duplo considerado grave: PREFERIR rejeita o intensificador MAIS por redundância semântica e exige preposição A em vez de DO QUE, devendo ser 'prefere a preventiva À curativa'",
+        "Apresenta apenas erro no intensificador MAIS que constitui pleonasmo vicioso, sendo a estrutura comparativa 'DO QUE' plenamente aceita pela gramática normativa contemporânea",
+        "Está inteiramente correta, representando evolução natural da língua portuguesa brasileira com ampla aceitação em gramáticas descritivas e linguística moderna funcional",
+        "Apresenta erro apenas na preposição comparativa, devendo ser 'prefere MAIS a preventiva QUE a curativa' eliminando apenas a preposição DE anteposta",
+        "Está correta em contexto coloquial sendo aceitável em comunicação comunitária informal, embora inadequada para documentação técnica oficial de saúde pública"
+      ],
+      "explicacao": "✗ ERRO DUPLO GRAVÍSSIMO NA NORMA CULTA! Análise detalhada: (1) PRIMEIRO ERRO - Pleonasmo vicioso: o verbo PREFERIR já expressa semanticamente a ideia de preferência, escolha, predileção → adicionar o intensificador MAIS constitui redundância inaceitável na norma culta (é como dizer 'subir para cima', 'descer para baixo'). ✓ O verbo já é comparativo por natureza! (2) SEGUNDO ERRO - Regência inadequada: PREFERIR exige a construção sintática 'X A Y', nunca 'X DO QUE Y' ou 'X QUE Y'. A preposição exigida é A (não DE, não DO QUE). ✓ Estrutura correta obrigatória: 'Preferir algo/alguém A algo/alguém'. Exemplos corretos: 'Prefiro café A chá', 'Preferia trabalhar À noite A trabalhar de dia', 'Preferimos a abordagem preventiva À curativa'. ✗ Construções SEMPRE incorretas: 'preferir mais...', 'preferir...do que', 'preferir...que'. Compare com GOSTAR MAIS (este SIM é correto, pois o verbo GOSTAR não indica preferência por si só): 'Gosto mais de café do que de chá' (estrutura aceita). A banca COSEAC/UFF penaliza severamente este erro por ser extremamente comum na fala coloquial e facilmente evitável com conhecimento da norma culta! Este é um dos erros mais cobrados em concursos de alta concorrência.",
       "id": 73,
-      "enunciado": "'É um dos que MAIS SE DESTACA' está:",
-      "alternativas": [
-        "Correto: concorda com 'um'",
-        "Incorreto: deveria ser 'destacam'",
-        "Correto: concordância enfática",
-        "Incorreto: deveria ser 'se destacam'",
-        "Ambas formas aceitas"
-      ],
-      "gabarito": "E",
-      "explicacao": "✓ AMBAS ACEITAS! 'Um dos que' admite: 1) SINGULAR concordando com 'um' (ênfase individual): 'se destaca'; 2) PLURAL concordando com 'os que' (ênfase grupo): 'se destacam'. Gramáticos aceitam ambas. Plural é mais tradicional, mas singular não é erro."
+      "gabarito": "A"
     },
     {
+      "enunciado": "'O enfermeiro assist iu O paciente politraumatizado durante toda a madrugada, assistindo posteriormente À cirurgia de emergência realizada'. A construção sintática apresenta:",
+      "alternativas": [
+        "Erro na segunda ocorrência: a crase seria facultativa antes de substantivos femininos comuns que não sejam nomes próprios de pessoas ou lugares",
+        "Erro na primeira ocorrência: ASSISTIR exige sempre preposição A independentemente do sentido contextual empregado, devendo ser 'assistiu AO paciente politraumatizado'",
+        "Ambas as regências estão corretas: primeira ocorrência ASSISTIR = socorrer/prestar assistência (VTD sem preposição), segunda = presenciar/ver (VTI com prep. A + crase obrigatória)",
+        "Ambiguidade problemática que compromete clareza: primeira deveria usar 'atendeu' e segunda 'presenciou' para evitar repetição lexical do mesmo verbo polissêmico",
+        "Estrutura aceitável apenas em registros coloquiais específicos da área de saúde, sendo inadequada para relatórios técnicos oficiais ou prontuários médicos"
+      ],
+      "explicacao": "✓ DUPLA REGÊNCIA ABSOLUTAMENTE CORRETA! O verbo ASSISTIR é polissêmico com TRÊS sentidos principais e regências distintas: (1) ASSISTIR = SOCORRER/PRESTAR ASSISTÊNCIA/CUIDAR → Verbo Transitivo Direto SEM preposição ('assistir O doente grave', 'assistir O ferido em acidente') - este é o uso técnico específico e predominante da área da saúde, enfermagem e medicina; (2) ASSISTIR = VER/PRESENCIAR/ESTAR PRESENTE → Verbo Transitivo Indireto COM prep. A obrigatória ('assistir AO filme no cinema', 'assistir À aula magna', 'assistir AO jogo de futebol'); (3) ASSISTIR = CABER/TER DIREITO/PERTENCER → Verbo Transitivo Indireto COM prep. A ('Este direito assiste AO cidadão', 'A competência assiste AO juiz'). ✓ Análise do enunciado: (1ª ocorrência) sentido de socorrer/prestar assistência médica = VTD → 'assistiu O paciente' CORRETO sem preposição; (2ª ocorrência) sentido de presenciar/ver = VTI + termo feminino determinado (A cirurgia) → prep. A + artigo A = crase OBRIGATÓRIA → 'assistiu À cirurgia' CORRETO. ✗ B: ERRO, a regência muda radicalmente conforme o sentido contextual. ✗ C: crase é obrigatória pela fusão A+A, não facultativa. ✗ D: repetição lexical é questão estilística, não gramatical. ✗ E: ambas as construções são norma culta padrão. Memorize para concursos: assistir paciente/doente (área saúde, VTD, sem preposição A) × assistir ao procedimento/à cirurgia (presenciar, VTI, com preposição A + crase)!",
       "id": 74,
-      "enunciado": "'Os TÓRAX foram examinados' - plural está:",
-      "alternativas": [
-        "Incorreto: deveria ser 'tóraxes'",
-        "Correto: palavras em X são invariáveis",
-        "Incorreto: deveria ser 'tóraces'",
-        "Correto: mas 'tóraxes' também aceito",
-        "Incorreto: não admite plural"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ CORRETO! Terminados em X = INVARIÁVEIS: o tórax → os tórax, o clímax → os clímax, o ônix → os ônix, o córtex → os córtex. O artigo/verbo marca o plural. Não se adiciona S, ES nem se troca o X."
+      "gabarito": "C"
     },
     {
+      "enunciado": "'O enfermeiro assist iu O paciente politraumatizado durante toda a madrugada, assistindo posteriormente À cirurgia de emergência realizada'. A construção sintática apresenta:",
+      "alternativas": [
+        "Ambas as regências estão corretas: primeira ocorrência ASSISTIR = socorrer/prestar assistência (VTD sem preposição), segunda = presenciar/ver (VTI com prep. A + crase obrigatória)",
+        "Erro na primeira ocorrência: ASSISTIR exige sempre preposição A independentemente do sentido contextual empregado, devendo ser 'assistiu AO paciente politraumatizado'",
+        "Erro na segunda ocorrência: a crase seria facultativa antes de substantivos femininos comuns que não sejam nomes próprios de pessoas ou lugares",
+        "Ambiguidade problemática que compromete clareza: primeira deveria usar 'atendeu' e segunda 'presenciou' para evitar repetição lexical do mesmo verbo polissêmico",
+        "Estrutura aceitável apenas em registros coloquiais específicos da área de saúde, sendo inadequada para relatórios técnicos oficiais ou prontuários médicos"
+      ],
+      "explicacao": "✓ DUPLA REGÊNCIA ABSOLUTAMENTE CORRETA! O verbo ASSISTIR é polissêmico com TRÊS sentidos principais e regências distintas: (1) ASSISTIR = SOCORRER/PRESTAR ASSISTÊNCIA/CUIDAR → Verbo Transitivo Direto SEM preposição ('assistir O doente grave', 'assistir O ferido em acidente') - este é o uso técnico específico e predominante da área da saúde, enfermagem e medicina; (2) ASSISTIR = VER/PRESENCIAR/ESTAR PRESENTE → Verbo Transitivo Indireto COM prep. A obrigatória ('assistir AO filme no cinema', 'assistir À aula magna', 'assistir AO jogo de futebol'); (3) ASSISTIR = CABER/TER DIREITO/PERTENCER → Verbo Transitivo Indireto COM prep. A ('Este direito assiste AO cidadão', 'A competência assiste AO juiz'). ✓ Análise do enunciado: (1ª ocorrência) sentido de socorrer/prestar assistência médica = VTD → 'assistiu O paciente' CORRETO sem preposição; (2ª ocorrência) sentido de presenciar/ver = VTI + termo feminino determinado (A cirurgia) → prep. A + artigo A = crase OBRIGATÓRIA → 'assistiu À cirurgia' CORRETO. ✗ B: ERRO, a regência muda radicalmente conforme o sentido contextual. ✗ C: crase é obrigatória pela fusão A+A, não facultativa. ✗ D: repetição lexical é questão estilística, não gramatical. ✗ E: ambas as construções são norma culta padrão. Memorize para concursos: assistir paciente/doente (área saúde, VTD, sem preposição A) × assistir ao procedimento/à cirurgia (presenciar, VTI, com preposição A + crase)!",
       "id": 75,
-      "enunciado": "'Ele REOUVE os documentos' está:",
-      "alternativas": [
-        "Correto: pretérito de 'reaver'",
-        "Incorreto: 'reaver' é defectivo",
-        "Correto: variante aceita",
-        "Incorreto: deveria ser 'reaveu'",
-        "Correto: conjugação regular"
-      ],
-      "gabarito": "B",
-      "explicacao": "✗ ERRADO! REAVER é DEFECTIVO (incompleto). Só existe nas formas com V no radical: reavemos, reaveis, reouveram (3ª pl. pretérito). NÃO existe: reajo, reavê, reouve, reouveste. Usar sinônimo: recuperou, obteve novamente, conseguiu de volta."
+      "gabarito": "A"
     },
     {
+      "enunciado": "A frase 'A comunidade prefere MAIS a abordagem preventiva DO QUE a curativa' apresenta, quanto à estrutura sintática e regência verbal:",
+      "alternativas": [
+        "Apresenta apenas erro no intensificador MAIS que constitui pleonasmo vicioso, sendo a estrutura comparativa 'DO QUE' plenamente aceita pela gramática normativa contemporânea",
+        "Erro duplo considerado grave: PREFERIR rejeita o intensificador MAIS por redundância semântica e exige preposição A em vez de DO QUE, devendo ser 'prefere a preventiva À curativa'",
+        "Está inteiramente correta, representando evolução natural da língua portuguesa brasileira com ampla aceitação em gramáticas descritivas e linguística moderna funcional",
+        "Apresenta erro apenas na preposição comparativa, devendo ser 'prefere MAIS a preventiva QUE a curativa' eliminando apenas a preposição DE anteposta",
+        "Está correta em contexto coloquial sendo aceitável em comunicação comunitária informal, embora inadequada para documentação técnica oficial de saúde pública"
+      ],
+      "explicacao": "✗ ERRO DUPLO GRAVÍSSIMO NA NORMA CULTA! Análise detalhada: (1) PRIMEIRO ERRO - Pleonasmo vicioso: o verbo PREFERIR já expressa semanticamente a ideia de preferência, escolha, predileção → adicionar o intensificador MAIS constitui redundância inaceitável na norma culta (é como dizer 'subir para cima', 'descer para baixo'). ✓ O verbo já é comparativo por natureza! (2) SEGUNDO ERRO - Regência inadequada: PREFERIR exige a construção sintática 'X A Y', nunca 'X DO QUE Y' ou 'X QUE Y'. A preposição exigida é A (não DE, não DO QUE). ✓ Estrutura correta obrigatória: 'Preferir algo/alguém A algo/alguém'. Exemplos corretos: 'Prefiro café A chá', 'Preferia trabalhar À noite A trabalhar de dia', 'Preferimos a abordagem preventiva À curativa'. ✗ Construções SEMPRE incorretas: 'preferir mais...', 'preferir...do que', 'preferir...que'. Compare com GOSTAR MAIS (este SIM é correto, pois o verbo GOSTAR não indica preferência por si só): 'Gosto mais de café do que de chá' (estrutura aceita). A banca COSEAC/UFF penaliza severamente este erro por ser extremamente comum na fala coloquial e facilmente evitável com conhecimento da norma culta! Este é um dos erros mais cobrados em concursos de alta concorrência.",
       "id": 76,
-      "enunciado": "'PARECE haver problemas' ou 'PARECEM haver':",
-      "alternativas": [
-        "Apenas primeira correta",
-        "Apenas segunda correta",
-        "'Parece haver' preferível",
-        "'Parecem existir' está correto",
-        "C e D corretas"
-      ],
-      "gabarito": "E",
-      "explicacao": "✓ 'Parece haver' = PARECER + HAVER impessoal = locução singular (mais aceito). 'Parecem haver' = PARECER varia, HAVER fica impessoal (polêmico, evite). MELHOR: 'Parecem EXISTIR problemas' (EXISTIR concorda normalmente). Prefira 'parece haver' ou 'parecem existir'."
+      "gabarito": "B"
     },
     {
+      "enunciado": "'O enfermeiro assist iu O paciente politraumatizado durante toda a madrugada, assistindo posteriormente À cirurgia de emergência realizada'. A construção sintática apresenta:",
+      "alternativas": [
+        "Estrutura aceitável apenas em registros coloquiais específicos da área de saúde, sendo inadequada para relatórios técnicos oficiais ou prontuários médicos",
+        "Erro na primeira ocorrência: ASSISTIR exige sempre preposição A independentemente do sentido contextual empregado, devendo ser 'assistiu AO paciente politraumatizado'",
+        "Erro na segunda ocorrência: a crase seria facultativa antes de substantivos femininos comuns que não sejam nomes próprios de pessoas ou lugares",
+        "Ambiguidade problemática que compromete clareza: primeira deveria usar 'atendeu' e segunda 'presenciou' para evitar repetição lexical do mesmo verbo polissêmico",
+        "Ambas as regências estão corretas: primeira ocorrência ASSISTIR = socorrer/prestar assistência (VTD sem preposição), segunda = presenciar/ver (VTI com prep. A + crase obrigatória)"
+      ],
+      "explicacao": "✓ DUPLA REGÊNCIA ABSOLUTAMENTE CORRETA! O verbo ASSISTIR é polissêmico com TRÊS sentidos principais e regências distintas: (1) ASSISTIR = SOCORRER/PRESTAR ASSISTÊNCIA/CUIDAR → Verbo Transitivo Direto SEM preposição ('assistir O doente grave', 'assistir O ferido em acidente') - este é o uso técnico específico e predominante da área da saúde, enfermagem e medicina; (2) ASSISTIR = VER/PRESENCIAR/ESTAR PRESENTE → Verbo Transitivo Indireto COM prep. A obrigatória ('assistir AO filme no cinema', 'assistir À aula magna', 'assistir AO jogo de futebol'); (3) ASSISTIR = CABER/TER DIREITO/PERTENCER → Verbo Transitivo Indireto COM prep. A ('Este direito assiste AO cidadão', 'A competência assiste AO juiz'). ✓ Análise do enunciado: (1ª ocorrência) sentido de socorrer/prestar assistência médica = VTD → 'assistiu O paciente' CORRETO sem preposição; (2ª ocorrência) sentido de presenciar/ver = VTI + termo feminino determinado (A cirurgia) → prep. A + artigo A = crase OBRIGATÓRIA → 'assistiu À cirurgia' CORRETO. ✗ B: ERRO, a regência muda radicalmente conforme o sentido contextual. ✗ C: crase é obrigatória pela fusão A+A, não facultativa. ✗ D: repetição lexical é questão estilística, não gramatical. ✗ E: ambas as construções são norma culta padrão. Memorize para concursos: assistir paciente/doente (área saúde, VTD, sem preposição A) × assistir ao procedimento/à cirurgia (presenciar, VTI, com preposição A + crase)!",
       "id": 77,
-      "enunciado": "'HÁ DE existir soluções' está:",
-      "alternativas": [
-        "Incorreta: deveria ser 'Hão de'",
-        "Correta: 'haver' existencial impessoal",
-        "Incorreta: deveria ser 'existirem'",
-        "Correta: concordância facultativa",
-        "Incorreta: erro de pessoa"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ CORRETO! HÁ DE (auxiliar modal) + EXISTIR. HAVER auxiliar de futuro perifrástico fica IMPESSOAL = singular. 'Há de existir' = 'deve existir'. Compare: 'Eles HÃO DE vencer' (HAVER = TER posse, varia) ≠ 'Há de existir' (HAVER existencial, impessoal)."
+      "gabarito": "E"
     },
     {
+      "enunciado": "'O enfermeiro assist iu O paciente politraumatizado durante toda a madrugada, assistindo posteriormente À cirurgia de emergência realizada'. A construção sintática apresenta:",
+      "alternativas": [
+        "Estrutura aceitável apenas em registros coloquiais específicos da área de saúde, sendo inadequada para relatórios técnicos oficiais ou prontuários médicos",
+        "Erro na primeira ocorrência: ASSISTIR exige sempre preposição A independentemente do sentido contextual empregado, devendo ser 'assistiu AO paciente politraumatizado'",
+        "Erro na segunda ocorrência: a crase seria facultativa antes de substantivos femininos comuns que não sejam nomes próprios de pessoas ou lugares",
+        "Ambiguidade problemática que compromete clareza: primeira deveria usar 'atendeu' e segunda 'presenciou' para evitar repetição lexical do mesmo verbo polissêmico",
+        "Ambas as regências estão corretas: primeira ocorrência ASSISTIR = socorrer/prestar assistência (VTD sem preposição), segunda = presenciar/ver (VTI com prep. A + crase obrigatória)"
+      ],
+      "explicacao": "✓ DUPLA REGÊNCIA ABSOLUTAMENTE CORRETA! O verbo ASSISTIR é polissêmico com TRÊS sentidos principais e regências distintas: (1) ASSISTIR = SOCORRER/PRESTAR ASSISTÊNCIA/CUIDAR → Verbo Transitivo Direto SEM preposição ('assistir O doente grave', 'assistir O ferido em acidente') - este é o uso técnico específico e predominante da área da saúde, enfermagem e medicina; (2) ASSISTIR = VER/PRESENCIAR/ESTAR PRESENTE → Verbo Transitivo Indireto COM prep. A obrigatória ('assistir AO filme no cinema', 'assistir À aula magna', 'assistir AO jogo de futebol'); (3) ASSISTIR = CABER/TER DIREITO/PERTENCER → Verbo Transitivo Indireto COM prep. A ('Este direito assiste AO cidadão', 'A competência assiste AO juiz'). ✓ Análise do enunciado: (1ª ocorrência) sentido de socorrer/prestar assistência médica = VTD → 'assistiu O paciente' CORRETO sem preposição; (2ª ocorrência) sentido de presenciar/ver = VTI + termo feminino determinado (A cirurgia) → prep. A + artigo A = crase OBRIGATÓRIA → 'assistiu À cirurgia' CORRETO. ✗ B: ERRO, a regência muda radicalmente conforme o sentido contextual. ✗ C: crase é obrigatória pela fusão A+A, não facultativa. ✗ D: repetição lexical é questão estilística, não gramatical. ✗ E: ambas as construções são norma culta padrão. Memorize para concursos: assistir paciente/doente (área saúde, VTD, sem preposição A) × assistir ao procedimento/à cirurgia (presenciar, VTI, com preposição A + crase)!",
       "id": 78,
-      "enunciado": "'Os PROJETOS-PILOTO' - plural está:",
-      "alternativas": [
-        "Incorreto: 'projetos-pilotos'",
-        "Correto: só primeiro varia",
-        "Incorreto: ambos variam",
-        "Correto: 'pilotos' também aceito",
-        "Incorreto: não admite plural"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ CORRETO! SUBSTANTIVO + SUBSTANTIVO (2º especifica 1º) = só 1º VARIA: projeto-piloto → projetos-piloto, navio-escola → navios-escola, banana-prata → bananas-prata. O 2º tem função adjetiva = não varia. 'Projetos-pilotos' seria ERRO."
+      "gabarito": "E"
     },
     {
+      "enunciado": "A frase 'A comunidade prefere MAIS a abordagem preventiva DO QUE a curativa' apresenta, quanto à estrutura sintática e regência verbal:",
+      "alternativas": [
+        "Erro duplo considerado grave: PREFERIR rejeita o intensificador MAIS por redundância semântica e exige preposição A em vez de DO QUE, devendo ser 'prefere a preventiva À curativa'",
+        "Apresenta apenas erro no intensificador MAIS que constitui pleonasmo vicioso, sendo a estrutura comparativa 'DO QUE' plenamente aceita pela gramática normativa contemporânea",
+        "Está inteiramente correta, representando evolução natural da língua portuguesa brasileira com ampla aceitação em gramáticas descritivas e linguística moderna funcional",
+        "Apresenta erro apenas na preposição comparativa, devendo ser 'prefere MAIS a preventiva QUE a curativa' eliminando apenas a preposição DE anteposta",
+        "Está correta em contexto coloquial sendo aceitável em comunicação comunitária informal, embora inadequada para documentação técnica oficial de saúde pública"
+      ],
+      "explicacao": "✗ ERRO DUPLO GRAVÍSSIMO NA NORMA CULTA! Análise detalhada: (1) PRIMEIRO ERRO - Pleonasmo vicioso: o verbo PREFERIR já expressa semanticamente a ideia de preferência, escolha, predileção → adicionar o intensificador MAIS constitui redundância inaceitável na norma culta (é como dizer 'subir para cima', 'descer para baixo'). ✓ O verbo já é comparativo por natureza! (2) SEGUNDO ERRO - Regência inadequada: PREFERIR exige a construção sintática 'X A Y', nunca 'X DO QUE Y' ou 'X QUE Y'. A preposição exigida é A (não DE, não DO QUE). ✓ Estrutura correta obrigatória: 'Preferir algo/alguém A algo/alguém'. Exemplos corretos: 'Prefiro café A chá', 'Preferia trabalhar À noite A trabalhar de dia', 'Preferimos a abordagem preventiva À curativa'. ✗ Construções SEMPRE incorretas: 'preferir mais...', 'preferir...do que', 'preferir...que'. Compare com GOSTAR MAIS (este SIM é correto, pois o verbo GOSTAR não indica preferência por si só): 'Gosto mais de café do que de chá' (estrutura aceita). A banca COSEAC/UFF penaliza severamente este erro por ser extremamente comum na fala coloquial e facilmente evitável com conhecimento da norma culta! Este é um dos erros mais cobrados em concursos de alta concorrência.",
       "id": 79,
-      "enunciado": "'Comparecem BASTANTES profissionais' está:",
-      "alternativas": [
-        "Incorreta: advérbio invariável",
-        "Correta: adjetivo, flexiona",
-        "Incorreta: sempre invariável",
-        "Correta: facultativa",
-        "Incorreta: erro gramatical"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ CORRETO! BASTANTE = 1) ADJETIVO (= suficientes, muitos) VARIA: 'bastantes profissionais'; 2) ADVÉRBIO (= muito) INVARIÁVEL: 'trabalham bastante'. Regra: modifica SUBSTANTIVO = adjetivo varia. Modifica VERBO/ADJETIVO = advérbio invariável."
+      "gabarito": "A"
     },
     {
+      "enunciado": "'O enfermeiro assist iu O paciente politraumatizado durante toda a madrugada, assistindo posteriormente À cirurgia de emergência realizada'. A construção sintática apresenta:",
+      "alternativas": [
+        "Estrutura aceitável apenas em registros coloquiais específicos da área de saúde, sendo inadequada para relatórios técnicos oficiais ou prontuários médicos",
+        "Erro na primeira ocorrência: ASSISTIR exige sempre preposição A independentemente do sentido contextual empregado, devendo ser 'assistiu AO paciente politraumatizado'",
+        "Erro na segunda ocorrência: a crase seria facultativa antes de substantivos femininos comuns que não sejam nomes próprios de pessoas ou lugares",
+        "Ambiguidade problemática que compromete clareza: primeira deveria usar 'atendeu' e segunda 'presenciou' para evitar repetição lexical do mesmo verbo polissêmico",
+        "Ambas as regências estão corretas: primeira ocorrência ASSISTIR = socorrer/prestar assistência (VTD sem preposição), segunda = presenciar/ver (VTI com prep. A + crase obrigatória)"
+      ],
+      "explicacao": "✓ DUPLA REGÊNCIA ABSOLUTAMENTE CORRETA! O verbo ASSISTIR é polissêmico com TRÊS sentidos principais e regências distintas: (1) ASSISTIR = SOCORRER/PRESTAR ASSISTÊNCIA/CUIDAR → Verbo Transitivo Direto SEM preposição ('assistir O doente grave', 'assistir O ferido em acidente') - este é o uso técnico específico e predominante da área da saúde, enfermagem e medicina; (2) ASSISTIR = VER/PRESENCIAR/ESTAR PRESENTE → Verbo Transitivo Indireto COM prep. A obrigatória ('assistir AO filme no cinema', 'assistir À aula magna', 'assistir AO jogo de futebol'); (3) ASSISTIR = CABER/TER DIREITO/PERTENCER → Verbo Transitivo Indireto COM prep. A ('Este direito assiste AO cidadão', 'A competência assiste AO juiz'). ✓ Análise do enunciado: (1ª ocorrência) sentido de socorrer/prestar assistência médica = VTD → 'assistiu O paciente' CORRETO sem preposição; (2ª ocorrência) sentido de presenciar/ver = VTI + termo feminino determinado (A cirurgia) → prep. A + artigo A = crase OBRIGATÓRIA → 'assistiu À cirurgia' CORRETO. ✗ B: ERRO, a regência muda radicalmente conforme o sentido contextual. ✗ C: crase é obrigatória pela fusão A+A, não facultativa. ✗ D: repetição lexical é questão estilística, não gramatical. ✗ E: ambas as construções são norma culta padrão. Memorize para concursos: assistir paciente/doente (área saúde, VTD, sem preposição A) × assistir ao procedimento/à cirurgia (presenciar, VTI, com preposição A + crase)!",
       "id": 80,
-      "enunciado": "'À MEDIDA EM QUE avançamos' está:",
-      "alternativas": [
-        "Correto: forma padrão",
-        "Incorreto: 'à medida que'",
-        "Correto: variante aceita",
-        "Incorreto: 'na medida em que'",
-        "Correto: sinônimo"
-      ],
-      "gabarito": "B",
-      "explicacao": "✗ ERRADO! Existe: 1) À MEDIDA QUE (proporção); 2) NA MEDIDA EM QUE (causa). 'À medida EM que' é MISTURA incorreta. À MEDIDA QUE = conforme, à proporção que. NA MEDIDA EM QUE = porque, visto que. Significados DIFERENTES!"
+      "gabarito": "E"
     },
     {
+      "enunciado": "'O enfermeiro assist iu O paciente politraumatizado durante toda a madrugada, assistindo posteriormente À cirurgia de emergência realizada'. A construção sintática apresenta:",
+      "alternativas": [
+        "Ambas as regências estão corretas: primeira ocorrência ASSISTIR = socorrer/prestar assistência (VTD sem preposição), segunda = presenciar/ver (VTI com prep. A + crase obrigatória)",
+        "Erro na primeira ocorrência: ASSISTIR exige sempre preposição A independentemente do sentido contextual empregado, devendo ser 'assistiu AO paciente politraumatizado'",
+        "Erro na segunda ocorrência: a crase seria facultativa antes de substantivos femininos comuns que não sejam nomes próprios de pessoas ou lugares",
+        "Ambiguidade problemática que compromete clareza: primeira deveria usar 'atendeu' e segunda 'presenciou' para evitar repetição lexical do mesmo verbo polissêmico",
+        "Estrutura aceitável apenas em registros coloquiais específicos da área de saúde, sendo inadequada para relatórios técnicos oficiais ou prontuários médicos"
+      ],
+      "explicacao": "✓ DUPLA REGÊNCIA ABSOLUTAMENTE CORRETA! O verbo ASSISTIR é polissêmico com TRÊS sentidos principais e regências distintas: (1) ASSISTIR = SOCORRER/PRESTAR ASSISTÊNCIA/CUIDAR → Verbo Transitivo Direto SEM preposição ('assistir O doente grave', 'assistir O ferido em acidente') - este é o uso técnico específico e predominante da área da saúde, enfermagem e medicina; (2) ASSISTIR = VER/PRESENCIAR/ESTAR PRESENTE → Verbo Transitivo Indireto COM prep. A obrigatória ('assistir AO filme no cinema', 'assistir À aula magna', 'assistir AO jogo de futebol'); (3) ASSISTIR = CABER/TER DIREITO/PERTENCER → Verbo Transitivo Indireto COM prep. A ('Este direito assiste AO cidadão', 'A competência assiste AO juiz'). ✓ Análise do enunciado: (1ª ocorrência) sentido de socorrer/prestar assistência médica = VTD → 'assistiu O paciente' CORRETO sem preposição; (2ª ocorrência) sentido de presenciar/ver = VTI + termo feminino determinado (A cirurgia) → prep. A + artigo A = crase OBRIGATÓRIA → 'assistiu À cirurgia' CORRETO. ✗ B: ERRO, a regência muda radicalmente conforme o sentido contextual. ✗ C: crase é obrigatória pela fusão A+A, não facultativa. ✗ D: repetição lexical é questão estilística, não gramatical. ✗ E: ambas as construções são norma culta padrão. Memorize para concursos: assistir paciente/doente (área saúde, VTD, sem preposição A) × assistir ao procedimento/à cirurgia (presenciar, VTI, com preposição A + crase)!",
       "id": 81,
-      "enunciado": "'Duzentas GRAMAS' está:",
-      "alternativas": [
-        "Incorreta: masculino",
-        "Correta: grama (peso) é feminino",
-        "Incorreta: facultativa",
-        "Correta: só no Brasil",
-        "Incorreta: erro de gênero"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ CORRETO! GRAMA peso/medida = FEMININO: a grama, duas gramas, quinhentas gramas. GRAMA planta/relva = MASCULINO: o grama verde. Dicionários confirmam: unidade de massa é feminina. '500g' = 'quinhentas gramas'."
+      "gabarito": "A"
     },
     {
+      "enunciado": "A frase 'A comunidade prefere MAIS a abordagem preventiva DO QUE a curativa' apresenta, quanto à estrutura sintática e regência verbal:",
+      "alternativas": [
+        "Está inteiramente correta, representando evolução natural da língua portuguesa brasileira com ampla aceitação em gramáticas descritivas e linguística moderna funcional",
+        "Apresenta apenas erro no intensificador MAIS que constitui pleonasmo vicioso, sendo a estrutura comparativa 'DO QUE' plenamente aceita pela gramática normativa contemporânea",
+        "Erro duplo considerado grave: PREFERIR rejeita o intensificador MAIS por redundância semântica e exige preposição A em vez de DO QUE, devendo ser 'prefere a preventiva À curativa'",
+        "Apresenta erro apenas na preposição comparativa, devendo ser 'prefere MAIS a preventiva QUE a curativa' eliminando apenas a preposição DE anteposta",
+        "Está correta em contexto coloquial sendo aceitável em comunicação comunitária informal, embora inadequada para documentação técnica oficial de saúde pública"
+      ],
+      "explicacao": "✗ ERRO DUPLO GRAVÍSSIMO NA NORMA CULTA! Análise detalhada: (1) PRIMEIRO ERRO - Pleonasmo vicioso: o verbo PREFERIR já expressa semanticamente a ideia de preferência, escolha, predileção → adicionar o intensificador MAIS constitui redundância inaceitável na norma culta (é como dizer 'subir para cima', 'descer para baixo'). ✓ O verbo já é comparativo por natureza! (2) SEGUNDO ERRO - Regência inadequada: PREFERIR exige a construção sintática 'X A Y', nunca 'X DO QUE Y' ou 'X QUE Y'. A preposição exigida é A (não DE, não DO QUE). ✓ Estrutura correta obrigatória: 'Preferir algo/alguém A algo/alguém'. Exemplos corretos: 'Prefiro café A chá', 'Preferia trabalhar À noite A trabalhar de dia', 'Preferimos a abordagem preventiva À curativa'. ✗ Construções SEMPRE incorretas: 'preferir mais...', 'preferir...do que', 'preferir...que'. Compare com GOSTAR MAIS (este SIM é correto, pois o verbo GOSTAR não indica preferência por si só): 'Gosto mais de café do que de chá' (estrutura aceita). A banca COSEAC/UFF penaliza severamente este erro por ser extremamente comum na fala coloquial e facilmente evitável com conhecimento da norma culta! Este é um dos erros mais cobrados em concursos de alta concorrência.",
       "id": 82,
-      "enunciado": "'Ele PROVEU o necessário' está:",
-      "alternativas": [
-        "Incorreto: 'proviu'",
-        "Correto: pretérito de 'prover'",
-        "Incorreto: segue 'ver'",
-        "Correto: variante",
-        "Incorreto: irregular"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ CORRETO! PROVER pretérito é REGULAR (exceção!): provEU, provESTE, provEU, provEMOS, provESTES, provERAM. NÃO segue VER (viu → proviu ERRADO). Derivados de VER: prever, antever, rever. PROVER não deriva de VER!"
+      "gabarito": "C"
     },
     {
+      "enunciado": "Na construção 'O coordenador aspirava À coordenação estadual há anos, dedicando-se intensamente aos estudos preparatórios e capacitações técnicas', a regência verbal empregada está:",
+      "alternativas": [
+        "Incorreta, pois embora ASPIRAR admita preposição em alguns contextos, a crase seria facultativa neste caso por tratar-se de cargo público",
+        "Incorreta, pois ASPIRAR independentemente do sentido contextual é sempre verbo transitivo direto e não admite qualquer preposição antes do complemento nominal",
+        "Parcialmente correta, sendo aceitável na linguagem coloquial mas inadequada para documentos oficiais que exigem objetividade e precisão terminológica máxima",
+        "Correta, pois ASPIRAR com sentido de almejar/desejar é verbo transitivo indireto que exige preposição A, ocorrendo crase obrigatória antes de artigo feminino determinado",
+        "Correta apenas se interpretarmos como inalação de ar em sentido figurado, caso em que seria transitivo direto sem necessidade de preposição"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO. O verbo ASPIRAR possui dupla regência conforme o sentido: (1) ASPIRAR = INALAR/CHEIRAR → Verbo Transitivo Direto sem preposição (Ex: 'aspirar O ar puro da montanha', 'aspirar O perfume das flores'); (2) ASPIRAR = ALMEJAR/DESEJAR/PRETENDER → Verbo Transitivo Indireto com preposição A obrigatória (Ex: 'aspirar AO cargo público', 'aspirar À vaga de chefia'). No enunciado apresentado, o sentido empregado é inequivocamente ALMEJAR (aspirava à coordenação há anos) → portanto VTI → exige prep. A. Como o complemento é feminino determinado (A coordenação), ocorre: preposição A + artigo A = CRASE obrigatória (À). ✗ Alternativa B: ERRO, a regência muda conforme o sentido do verbo no contexto. ✗ C: não se trata de registro linguístico, mas de gramática normativa padrão. ✗ D: crase não é facultativa quando há fusão A+A, é obrigatória. ✗ E: o contexto sintático-semântico indica claramente sentido de almejar/pretender. A banca COSEAC/UFF cobra rigorosamente esta distinção entre os dois sentidos e suas respectivas regências! Memorize: aspirar O perfume (inalar, VTD) × aspirar À vaga (almejar, VTI + crase).",
       "id": 83,
-      "enunciado": "'Entre MIM e VOCÊ' está:",
-      "alternativas": [
-        "Correto: pronomes retos",
-        "Incorreto: 'eu' e 'ti'",
-        "Correto: oblíquos após preposição",
-        "Incorreto: 'eu' e 'você'",
-        "Correto: forma coloquial"
-      ],
-      "gabarito": "C",
-      "explicacao": "✓ CORRETO! Após PREPOSIÇÃO = oblíquos: mim, ti, si. 'Entre MIM e VOCÊ' certo. 'Entre EU e TU' errado. EXCEÇÃO: com infinitivo: 'Para EU fazer' (EU = sujeito de fazer). Sem verbo: oblíquo!"
+      "gabarito": "D"
     },
     {
+      "enunciado": "A frase 'A comunidade prefere MAIS a abordagem preventiva DO QUE a curativa' apresenta, quanto à estrutura sintática e regência verbal:",
+      "alternativas": [
+        "Está inteiramente correta, representando evolução natural da língua portuguesa brasileira com ampla aceitação em gramáticas descritivas e linguística moderna funcional",
+        "Apresenta apenas erro no intensificador MAIS que constitui pleonasmo vicioso, sendo a estrutura comparativa 'DO QUE' plenamente aceita pela gramática normativa contemporânea",
+        "Erro duplo considerado grave: PREFERIR rejeita o intensificador MAIS por redundância semântica e exige preposição A em vez de DO QUE, devendo ser 'prefere a preventiva À curativa'",
+        "Apresenta erro apenas na preposição comparativa, devendo ser 'prefere MAIS a preventiva QUE a curativa' eliminando apenas a preposição DE anteposta",
+        "Está correta em contexto coloquial sendo aceitável em comunicação comunitária informal, embora inadequada para documentação técnica oficial de saúde pública"
+      ],
+      "explicacao": "✗ ERRO DUPLO GRAVÍSSIMO NA NORMA CULTA! Análise detalhada: (1) PRIMEIRO ERRO - Pleonasmo vicioso: o verbo PREFERIR já expressa semanticamente a ideia de preferência, escolha, predileção → adicionar o intensificador MAIS constitui redundância inaceitável na norma culta (é como dizer 'subir para cima', 'descer para baixo'). ✓ O verbo já é comparativo por natureza! (2) SEGUNDO ERRO - Regência inadequada: PREFERIR exige a construção sintática 'X A Y', nunca 'X DO QUE Y' ou 'X QUE Y'. A preposição exigida é A (não DE, não DO QUE). ✓ Estrutura correta obrigatória: 'Preferir algo/alguém A algo/alguém'. Exemplos corretos: 'Prefiro café A chá', 'Preferia trabalhar À noite A trabalhar de dia', 'Preferimos a abordagem preventiva À curativa'. ✗ Construções SEMPRE incorretas: 'preferir mais...', 'preferir...do que', 'preferir...que'. Compare com GOSTAR MAIS (este SIM é correto, pois o verbo GOSTAR não indica preferência por si só): 'Gosto mais de café do que de chá' (estrutura aceita). A banca COSEAC/UFF penaliza severamente este erro por ser extremamente comum na fala coloquial e facilmente evitável com conhecimento da norma culta! Este é um dos erros mais cobrados em concursos de alta concorrência.",
       "id": 84,
-      "enunciado": "'Eles SE ENTRETIVERAM' está:",
-      "alternativas": [
-        "Incorreto: 'entreteram'",
-        "Correto: pretérito 'entreter'",
-        "Incorreto: 'entretiveram'",
-        "Correto: variante",
-        "Incorreto: inexistente"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ CORRETO! ENTRETER = derivado TER. Pretérito TER: tiveram → ENTRETIVERAM. Formas: entretive, entretiveste, entreteve, entretivemos, entretivestes, entretiveram. 'Entreteram' não existe!"
+      "gabarito": "C"
     },
     {
+      "enunciado": "'O enfermeiro assist iu O paciente politraumatizado durante toda a madrugada, assistindo posteriormente À cirurgia de emergência realizada'. A construção sintática apresenta:",
+      "alternativas": [
+        "Ambiguidade problemática que compromete clareza: primeira deveria usar 'atendeu' e segunda 'presenciou' para evitar repetição lexical do mesmo verbo polissêmico",
+        "Erro na primeira ocorrência: ASSISTIR exige sempre preposição A independentemente do sentido contextual empregado, devendo ser 'assistiu AO paciente politraumatizado'",
+        "Erro na segunda ocorrência: a crase seria facultativa antes de substantivos femininos comuns que não sejam nomes próprios de pessoas ou lugares",
+        "Ambas as regências estão corretas: primeira ocorrência ASSISTIR = socorrer/prestar assistência (VTD sem preposição), segunda = presenciar/ver (VTI com prep. A + crase obrigatória)",
+        "Estrutura aceitável apenas em registros coloquiais específicos da área de saúde, sendo inadequada para relatórios técnicos oficiais ou prontuários médicos"
+      ],
+      "explicacao": "✓ DUPLA REGÊNCIA ABSOLUTAMENTE CORRETA! O verbo ASSISTIR é polissêmico com TRÊS sentidos principais e regências distintas: (1) ASSISTIR = SOCORRER/PRESTAR ASSISTÊNCIA/CUIDAR → Verbo Transitivo Direto SEM preposição ('assistir O doente grave', 'assistir O ferido em acidente') - este é o uso técnico específico e predominante da área da saúde, enfermagem e medicina; (2) ASSISTIR = VER/PRESENCIAR/ESTAR PRESENTE → Verbo Transitivo Indireto COM prep. A obrigatória ('assistir AO filme no cinema', 'assistir À aula magna', 'assistir AO jogo de futebol'); (3) ASSISTIR = CABER/TER DIREITO/PERTENCER → Verbo Transitivo Indireto COM prep. A ('Este direito assiste AO cidadão', 'A competência assiste AO juiz'). ✓ Análise do enunciado: (1ª ocorrência) sentido de socorrer/prestar assistência médica = VTD → 'assistiu O paciente' CORRETO sem preposição; (2ª ocorrência) sentido de presenciar/ver = VTI + termo feminino determinado (A cirurgia) → prep. A + artigo A = crase OBRIGATÓRIA → 'assistiu À cirurgia' CORRETO. ✗ B: ERRO, a regência muda radicalmente conforme o sentido contextual. ✗ C: crase é obrigatória pela fusão A+A, não facultativa. ✗ D: repetição lexical é questão estilística, não gramatical. ✗ E: ambas as construções são norma culta padrão. Memorize para concursos: assistir paciente/doente (área saúde, VTD, sem preposição A) × assistir ao procedimento/à cirurgia (presenciar, VTI, com preposição A + crase)!",
       "id": 85,
-      "enunciado": "'Ele está MAL' - o termo é:",
-      "alternativas": [
-        "Adjetivo",
-        "Advérbio de modo",
-        "Substantivo",
-        "Locução adverbial",
-        "Pronome indefinido"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ MAL = ADVÉRBIO (modifica verbo). MAU = ADJETIVO (modifica substantivo). Teste: BEM ↔ MAL (advérbios). BOM ↔ MAU (adjetivos). 'Está mal' ↔ 'está bem'. 'É mau' ↔ 'é bom'."
+      "gabarito": "D"
     },
     {
+      "enunciado": "A frase 'A comunidade prefere MAIS a abordagem preventiva DO QUE a curativa' apresenta, quanto à estrutura sintática e regência verbal:",
+      "alternativas": [
+        "Está correta em contexto coloquial sendo aceitável em comunicação comunitária informal, embora inadequada para documentação técnica oficial de saúde pública",
+        "Apresenta apenas erro no intensificador MAIS que constitui pleonasmo vicioso, sendo a estrutura comparativa 'DO QUE' plenamente aceita pela gramática normativa contemporânea",
+        "Está inteiramente correta, representando evolução natural da língua portuguesa brasileira com ampla aceitação em gramáticas descritivas e linguística moderna funcional",
+        "Apresenta erro apenas na preposição comparativa, devendo ser 'prefere MAIS a preventiva QUE a curativa' eliminando apenas a preposição DE anteposta",
+        "Erro duplo considerado grave: PREFERIR rejeita o intensificador MAIS por redundância semântica e exige preposição A em vez de DO QUE, devendo ser 'prefere a preventiva À curativa'"
+      ],
+      "explicacao": "✗ ERRO DUPLO GRAVÍSSIMO NA NORMA CULTA! Análise detalhada: (1) PRIMEIRO ERRO - Pleonasmo vicioso: o verbo PREFERIR já expressa semanticamente a ideia de preferência, escolha, predileção → adicionar o intensificador MAIS constitui redundância inaceitável na norma culta (é como dizer 'subir para cima', 'descer para baixo'). ✓ O verbo já é comparativo por natureza! (2) SEGUNDO ERRO - Regência inadequada: PREFERIR exige a construção sintática 'X A Y', nunca 'X DO QUE Y' ou 'X QUE Y'. A preposição exigida é A (não DE, não DO QUE). ✓ Estrutura correta obrigatória: 'Preferir algo/alguém A algo/alguém'. Exemplos corretos: 'Prefiro café A chá', 'Preferia trabalhar À noite A trabalhar de dia', 'Preferimos a abordagem preventiva À curativa'. ✗ Construções SEMPRE incorretas: 'preferir mais...', 'preferir...do que', 'preferir...que'. Compare com GOSTAR MAIS (este SIM é correto, pois o verbo GOSTAR não indica preferência por si só): 'Gosto mais de café do que de chá' (estrutura aceita). A banca COSEAC/UFF penaliza severamente este erro por ser extremamente comum na fala coloquial e facilmente evitável com conhecimento da norma culta! Este é um dos erros mais cobrados em concursos de alta concorrência.",
       "id": 86,
-      "enunciado": "'Seguem ANEXO as cópias' está:",
-      "alternativas": [
-        "Correta: invariável",
-        "Incorreta: 'anexas'",
-        "Correta: facultativa",
-        "Incorreta: 'em anexo'",
-        "Correta: reduzida"
-      ],
-      "gabarito": "B",
-      "explicacao": "✗ ERRADO! ANEXO = ADJETIVO VARIA: anexo/a/os/as. Correto: 'Seguem anexAS as cópias'. EM ANEXO = LOCUÇÃO INVARIÁVEL: 'Seguem em anexo as cópias'. Não confundir anexo (varia) com em anexo (invariável)!"
+      "gabarito": "E"
     },
     {
+      "enunciado": "A frase 'A comunidade prefere MAIS a abordagem preventiva DO QUE a curativa' apresenta, quanto à estrutura sintática e regência verbal:",
+      "alternativas": [
+        "Apresenta erro apenas na preposição comparativa, devendo ser 'prefere MAIS a preventiva QUE a curativa' eliminando apenas a preposição DE anteposta",
+        "Apresenta apenas erro no intensificador MAIS que constitui pleonasmo vicioso, sendo a estrutura comparativa 'DO QUE' plenamente aceita pela gramática normativa contemporânea",
+        "Está inteiramente correta, representando evolução natural da língua portuguesa brasileira com ampla aceitação em gramáticas descritivas e linguística moderna funcional",
+        "Erro duplo considerado grave: PREFERIR rejeita o intensificador MAIS por redundância semântica e exige preposição A em vez de DO QUE, devendo ser 'prefere a preventiva À curativa'",
+        "Está correta em contexto coloquial sendo aceitável em comunicação comunitária informal, embora inadequada para documentação técnica oficial de saúde pública"
+      ],
+      "explicacao": "✗ ERRO DUPLO GRAVÍSSIMO NA NORMA CULTA! Análise detalhada: (1) PRIMEIRO ERRO - Pleonasmo vicioso: o verbo PREFERIR já expressa semanticamente a ideia de preferência, escolha, predileção → adicionar o intensificador MAIS constitui redundância inaceitável na norma culta (é como dizer 'subir para cima', 'descer para baixo'). ✓ O verbo já é comparativo por natureza! (2) SEGUNDO ERRO - Regência inadequada: PREFERIR exige a construção sintática 'X A Y', nunca 'X DO QUE Y' ou 'X QUE Y'. A preposição exigida é A (não DE, não DO QUE). ✓ Estrutura correta obrigatória: 'Preferir algo/alguém A algo/alguém'. Exemplos corretos: 'Prefiro café A chá', 'Preferia trabalhar À noite A trabalhar de dia', 'Preferimos a abordagem preventiva À curativa'. ✗ Construções SEMPRE incorretas: 'preferir mais...', 'preferir...do que', 'preferir...que'. Compare com GOSTAR MAIS (este SIM é correto, pois o verbo GOSTAR não indica preferência por si só): 'Gosto mais de café do que de chá' (estrutura aceita). A banca COSEAC/UFF penaliza severamente este erro por ser extremamente comum na fala coloquial e facilmente evitável com conhecimento da norma culta! Este é um dos erros mais cobrados em concursos de alta concorrência.",
       "id": 87,
-      "enunciado": "'Ela está MEIO nervosa' está:",
-      "alternativas": [
-        "Incorreto: 'meia'",
-        "Correto: advérbio invariável",
-        "Incorreto: concorda 'ela'",
-        "Correto: facultativa",
-        "Incorreto: erro"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ CORRETO! MEIO = ADVÉRBIO (= um pouco) INVARIÁVEL. 'Está MEIO nervosa' = 'um pouco nervosa'. MEIO numeral (= metade) VARIA: 'MEIA xícara'. Teste: substitui por 'um pouco' = invariável!"
+      "gabarito": "D"
     },
     {
+      "enunciado": "'O enfermeiro assist iu O paciente politraumatizado durante toda a madrugada, assistindo posteriormente À cirurgia de emergência realizada'. A construção sintática apresenta:",
+      "alternativas": [
+        "Estrutura aceitável apenas em registros coloquiais específicos da área de saúde, sendo inadequada para relatórios técnicos oficiais ou prontuários médicos",
+        "Erro na primeira ocorrência: ASSISTIR exige sempre preposição A independentemente do sentido contextual empregado, devendo ser 'assistiu AO paciente politraumatizado'",
+        "Erro na segunda ocorrência: a crase seria facultativa antes de substantivos femininos comuns que não sejam nomes próprios de pessoas ou lugares",
+        "Ambiguidade problemática que compromete clareza: primeira deveria usar 'atendeu' e segunda 'presenciou' para evitar repetição lexical do mesmo verbo polissêmico",
+        "Ambas as regências estão corretas: primeira ocorrência ASSISTIR = socorrer/prestar assistência (VTD sem preposição), segunda = presenciar/ver (VTI com prep. A + crase obrigatória)"
+      ],
+      "explicacao": "✓ DUPLA REGÊNCIA ABSOLUTAMENTE CORRETA! O verbo ASSISTIR é polissêmico com TRÊS sentidos principais e regências distintas: (1) ASSISTIR = SOCORRER/PRESTAR ASSISTÊNCIA/CUIDAR → Verbo Transitivo Direto SEM preposição ('assistir O doente grave', 'assistir O ferido em acidente') - este é o uso técnico específico e predominante da área da saúde, enfermagem e medicina; (2) ASSISTIR = VER/PRESENCIAR/ESTAR PRESENTE → Verbo Transitivo Indireto COM prep. A obrigatória ('assistir AO filme no cinema', 'assistir À aula magna', 'assistir AO jogo de futebol'); (3) ASSISTIR = CABER/TER DIREITO/PERTENCER → Verbo Transitivo Indireto COM prep. A ('Este direito assiste AO cidadão', 'A competência assiste AO juiz'). ✓ Análise do enunciado: (1ª ocorrência) sentido de socorrer/prestar assistência médica = VTD → 'assistiu O paciente' CORRETO sem preposição; (2ª ocorrência) sentido de presenciar/ver = VTI + termo feminino determinado (A cirurgia) → prep. A + artigo A = crase OBRIGATÓRIA → 'assistiu À cirurgia' CORRETO. ✗ B: ERRO, a regência muda radicalmente conforme o sentido contextual. ✗ C: crase é obrigatória pela fusão A+A, não facultativa. ✗ D: repetição lexical é questão estilística, não gramatical. ✗ E: ambas as construções são norma culta padrão. Memorize para concursos: assistir paciente/doente (área saúde, VTD, sem preposição A) × assistir ao procedimento/à cirurgia (presenciar, VTI, com preposição A + crase)!",
       "id": 88,
-      "enunciado": "'Os CARACTERES' - plural está:",
-      "alternativas": [
-        "Incorreto: 'carácteres'",
-        "Correto: muda tônica",
-        "Incorreto: 'caractéres'",
-        "Correto: também 'carácteres'",
-        "Incorreto: sem plural"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ CORRETO! CARÁTER (paroxítona) → CARACTERES (proparoxítona). Muda SÍLABA TÔNICA: ca-RÁ-ter → ca-rac-TE-res. Outros: júnior → juniores. 'Carácteres' ERRADO!"
+      "gabarito": "E"
     },
     {
+      "enunciado": "'O enfermeiro assist iu O paciente politraumatizado durante toda a madrugada, assistindo posteriormente À cirurgia de emergência realizada'. A construção sintática apresenta:",
+      "alternativas": [
+        "Estrutura aceitável apenas em registros coloquiais específicos da área de saúde, sendo inadequada para relatórios técnicos oficiais ou prontuários médicos",
+        "Erro na primeira ocorrência: ASSISTIR exige sempre preposição A independentemente do sentido contextual empregado, devendo ser 'assistiu AO paciente politraumatizado'",
+        "Erro na segunda ocorrência: a crase seria facultativa antes de substantivos femininos comuns que não sejam nomes próprios de pessoas ou lugares",
+        "Ambiguidade problemática que compromete clareza: primeira deveria usar 'atendeu' e segunda 'presenciou' para evitar repetição lexical do mesmo verbo polissêmico",
+        "Ambas as regências estão corretas: primeira ocorrência ASSISTIR = socorrer/prestar assistência (VTD sem preposição), segunda = presenciar/ver (VTI com prep. A + crase obrigatória)"
+      ],
+      "explicacao": "✓ DUPLA REGÊNCIA ABSOLUTAMENTE CORRETA! O verbo ASSISTIR é polissêmico com TRÊS sentidos principais e regências distintas: (1) ASSISTIR = SOCORRER/PRESTAR ASSISTÊNCIA/CUIDAR → Verbo Transitivo Direto SEM preposição ('assistir O doente grave', 'assistir O ferido em acidente') - este é o uso técnico específico e predominante da área da saúde, enfermagem e medicina; (2) ASSISTIR = VER/PRESENCIAR/ESTAR PRESENTE → Verbo Transitivo Indireto COM prep. A obrigatória ('assistir AO filme no cinema', 'assistir À aula magna', 'assistir AO jogo de futebol'); (3) ASSISTIR = CABER/TER DIREITO/PERTENCER → Verbo Transitivo Indireto COM prep. A ('Este direito assiste AO cidadão', 'A competência assiste AO juiz'). ✓ Análise do enunciado: (1ª ocorrência) sentido de socorrer/prestar assistência médica = VTD → 'assistiu O paciente' CORRETO sem preposição; (2ª ocorrência) sentido de presenciar/ver = VTI + termo feminino determinado (A cirurgia) → prep. A + artigo A = crase OBRIGATÓRIA → 'assistiu À cirurgia' CORRETO. ✗ B: ERRO, a regência muda radicalmente conforme o sentido contextual. ✗ C: crase é obrigatória pela fusão A+A, não facultativa. ✗ D: repetição lexical é questão estilística, não gramatical. ✗ E: ambas as construções são norma culta padrão. Memorize para concursos: assistir paciente/doente (área saúde, VTD, sem preposição A) × assistir ao procedimento/à cirurgia (presenciar, VTI, com preposição A + crase)!",
       "id": 89,
-      "enunciado": "'Não quero QUE venhas' pode ser:",
-      "alternativas": [
-        "Apenas esta",
-        "'que venha' (você)",
-        "'que vir'",
-        "'que vens'",
-        "Todas"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ 'Que venhas' = subjuntivo TU. 'Que venha' = subjuntivo VOCÊ. Ambas corretas (depende pronome). 'Que vir' = infinitivo ERRADO. 'Que vens' = indicativo ERRADO. Após QUERER = subjuntivo!"
+      "gabarito": "E"
     },
     {
+      "enunciado": "Na construção 'O coordenador aspirava À coordenação estadual há anos, dedicando-se intensamente aos estudos preparatórios e capacitações técnicas', a regência verbal empregada está:",
+      "alternativas": [
+        "Correta apenas se interpretarmos como inalação de ar em sentido figurado, caso em que seria transitivo direto sem necessidade de preposição",
+        "Incorreta, pois ASPIRAR independentemente do sentido contextual é sempre verbo transitivo direto e não admite qualquer preposição antes do complemento nominal",
+        "Parcialmente correta, sendo aceitável na linguagem coloquial mas inadequada para documentos oficiais que exigem objetividade e precisão terminológica máxima",
+        "Incorreta, pois embora ASPIRAR admita preposição em alguns contextos, a crase seria facultativa neste caso por tratar-se de cargo público",
+        "Correta, pois ASPIRAR com sentido de almejar/desejar é verbo transitivo indireto que exige preposição A, ocorrendo crase obrigatória antes de artigo feminino determinado"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO. O verbo ASPIRAR possui dupla regência conforme o sentido: (1) ASPIRAR = INALAR/CHEIRAR → Verbo Transitivo Direto sem preposição (Ex: 'aspirar O ar puro da montanha', 'aspirar O perfume das flores'); (2) ASPIRAR = ALMEJAR/DESEJAR/PRETENDER → Verbo Transitivo Indireto com preposição A obrigatória (Ex: 'aspirar AO cargo público', 'aspirar À vaga de chefia'). No enunciado apresentado, o sentido empregado é inequivocamente ALMEJAR (aspirava à coordenação há anos) → portanto VTI → exige prep. A. Como o complemento é feminino determinado (A coordenação), ocorre: preposição A + artigo A = CRASE obrigatória (À). ✗ Alternativa B: ERRO, a regência muda conforme o sentido do verbo no contexto. ✗ C: não se trata de registro linguístico, mas de gramática normativa padrão. ✗ D: crase não é facultativa quando há fusão A+A, é obrigatória. ✗ E: o contexto sintático-semântico indica claramente sentido de almejar/pretender. A banca COSEAC/UFF cobra rigorosamente esta distinção entre os dois sentidos e suas respectivas regências! Memorize: aspirar O perfume (inalar, VTD) × aspirar À vaga (almejar, VTI + crase).",
       "id": 90,
-      "enunciado": "'Chegaste ATRASADO' (tu) está:",
-      "alternativas": [
-        "Incorreta: 'atrasada'",
-        "Correta: masculino genérico",
-        "Incorreta: deve concordar",
-        "Correta: facultativa",
-        "Depende gênero"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ CORRETO! Predicativo com TU = MASCULINO genérico quando gênero indefinido. Se mulher: 'atrasada'. Se homem: 'atrasado'. Contexto indefinido = masculino (forma neutra)."
+      "gabarito": "E"
     },
     {
+      "enunciado": "Na construção 'O coordenador aspirava À coordenação estadual há anos, dedicando-se intensamente aos estudos preparatórios e capacitações técnicas', a regência verbal empregada está:",
+      "alternativas": [
+        "Incorreta, pois embora ASPIRAR admita preposição em alguns contextos, a crase seria facultativa neste caso por tratar-se de cargo público",
+        "Incorreta, pois ASPIRAR independentemente do sentido contextual é sempre verbo transitivo direto e não admite qualquer preposição antes do complemento nominal",
+        "Parcialmente correta, sendo aceitável na linguagem coloquial mas inadequada para documentos oficiais que exigem objetividade e precisão terminológica máxima",
+        "Correta, pois ASPIRAR com sentido de almejar/desejar é verbo transitivo indireto que exige preposição A, ocorrendo crase obrigatória antes de artigo feminino determinado",
+        "Correta apenas se interpretarmos como inalação de ar em sentido figurado, caso em que seria transitivo direto sem necessidade de preposição"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO. O verbo ASPIRAR possui dupla regência conforme o sentido: (1) ASPIRAR = INALAR/CHEIRAR → Verbo Transitivo Direto sem preposição (Ex: 'aspirar O ar puro da montanha', 'aspirar O perfume das flores'); (2) ASPIRAR = ALMEJAR/DESEJAR/PRETENDER → Verbo Transitivo Indireto com preposição A obrigatória (Ex: 'aspirar AO cargo público', 'aspirar À vaga de chefia'). No enunciado apresentado, o sentido empregado é inequivocamente ALMEJAR (aspirava à coordenação há anos) → portanto VTI → exige prep. A. Como o complemento é feminino determinado (A coordenação), ocorre: preposição A + artigo A = CRASE obrigatória (À). ✗ Alternativa B: ERRO, a regência muda conforme o sentido do verbo no contexto. ✗ C: não se trata de registro linguístico, mas de gramática normativa padrão. ✗ D: crase não é facultativa quando há fusão A+A, é obrigatória. ✗ E: o contexto sintático-semântico indica claramente sentido de almejar/pretender. A banca COSEAC/UFF cobra rigorosamente esta distinção entre os dois sentidos e suas respectivas regências! Memorize: aspirar O perfume (inalar, VTD) × aspirar À vaga (almejar, VTI + crase).",
       "id": 91,
-      "enunciado": "'É PRECISO cautela' pode ser:",
-      "alternativas": [
-        "Apenas 'preciso'",
-        "'É precisa a cautela' (artigo)",
-        "Não varia",
-        "'São precisas'",
-        "Todas"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ Sem artigo = INVARIÁVEL: 'É preciso cautela'. Com artigo = VARIA: 'É precisA A cautela'. Regra: determinado varia, indeterminado não. Vale para: necessário, bom, proibido."
+      "gabarito": "D"
     },
     {
+      "enunciado": "'O enfermeiro assist iu O paciente politraumatizado durante toda a madrugada, assistindo posteriormente À cirurgia de emergência realizada'. A construção sintática apresenta:",
+      "alternativas": [
+        "Ambiguidade problemática que compromete clareza: primeira deveria usar 'atendeu' e segunda 'presenciou' para evitar repetição lexical do mesmo verbo polissêmico",
+        "Erro na primeira ocorrência: ASSISTIR exige sempre preposição A independentemente do sentido contextual empregado, devendo ser 'assistiu AO paciente politraumatizado'",
+        "Erro na segunda ocorrência: a crase seria facultativa antes de substantivos femininos comuns que não sejam nomes próprios de pessoas ou lugares",
+        "Ambas as regências estão corretas: primeira ocorrência ASSISTIR = socorrer/prestar assistência (VTD sem preposição), segunda = presenciar/ver (VTI com prep. A + crase obrigatória)",
+        "Estrutura aceitável apenas em registros coloquiais específicos da área de saúde, sendo inadequada para relatórios técnicos oficiais ou prontuários médicos"
+      ],
+      "explicacao": "✓ DUPLA REGÊNCIA ABSOLUTAMENTE CORRETA! O verbo ASSISTIR é polissêmico com TRÊS sentidos principais e regências distintas: (1) ASSISTIR = SOCORRER/PRESTAR ASSISTÊNCIA/CUIDAR → Verbo Transitivo Direto SEM preposição ('assistir O doente grave', 'assistir O ferido em acidente') - este é o uso técnico específico e predominante da área da saúde, enfermagem e medicina; (2) ASSISTIR = VER/PRESENCIAR/ESTAR PRESENTE → Verbo Transitivo Indireto COM prep. A obrigatória ('assistir AO filme no cinema', 'assistir À aula magna', 'assistir AO jogo de futebol'); (3) ASSISTIR = CABER/TER DIREITO/PERTENCER → Verbo Transitivo Indireto COM prep. A ('Este direito assiste AO cidadão', 'A competência assiste AO juiz'). ✓ Análise do enunciado: (1ª ocorrência) sentido de socorrer/prestar assistência médica = VTD → 'assistiu O paciente' CORRETO sem preposição; (2ª ocorrência) sentido de presenciar/ver = VTI + termo feminino determinado (A cirurgia) → prep. A + artigo A = crase OBRIGATÓRIA → 'assistiu À cirurgia' CORRETO. ✗ B: ERRO, a regência muda radicalmente conforme o sentido contextual. ✗ C: crase é obrigatória pela fusão A+A, não facultativa. ✗ D: repetição lexical é questão estilística, não gramatical. ✗ E: ambas as construções são norma culta padrão. Memorize para concursos: assistir paciente/doente (área saúde, VTD, sem preposição A) × assistir ao procedimento/à cirurgia (presenciar, VTI, com preposição A + crase)!",
       "id": 92,
-      "enunciado": "'Eles REQUERERAM equipamentos' está:",
-      "alternativas": [
-        "Incorreto: 'requiseram'",
-        "Correto: pretérito 'requerer'",
-        "Incorreto: 'requisitaram'",
-        "Correto: variante",
-        "Incorreto: inadequada"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ CORRETO! REQUERER pretérito segue QUERER: quiseram → REQUERERAM. NÃO é 'requiseram'. Conjugação: requeri, requereste, requereu, requeremos, requerestes, requereram. Derivado irregular de QUERER!"
+      "gabarito": "D"
     },
     {
+      "enunciado": "Na construção 'O coordenador aspirava À coordenação estadual há anos, dedicando-se intensamente aos estudos preparatórios e capacitações técnicas', a regência verbal empregada está:",
+      "alternativas": [
+        "Parcialmente correta, sendo aceitável na linguagem coloquial mas inadequada para documentos oficiais que exigem objetividade e precisão terminológica máxima",
+        "Incorreta, pois ASPIRAR independentemente do sentido contextual é sempre verbo transitivo direto e não admite qualquer preposição antes do complemento nominal",
+        "Correta, pois ASPIRAR com sentido de almejar/desejar é verbo transitivo indireto que exige preposição A, ocorrendo crase obrigatória antes de artigo feminino determinado",
+        "Incorreta, pois embora ASPIRAR admita preposição em alguns contextos, a crase seria facultativa neste caso por tratar-se de cargo público",
+        "Correta apenas se interpretarmos como inalação de ar em sentido figurado, caso em que seria transitivo direto sem necessidade de preposição"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO. O verbo ASPIRAR possui dupla regência conforme o sentido: (1) ASPIRAR = INALAR/CHEIRAR → Verbo Transitivo Direto sem preposição (Ex: 'aspirar O ar puro da montanha', 'aspirar O perfume das flores'); (2) ASPIRAR = ALMEJAR/DESEJAR/PRETENDER → Verbo Transitivo Indireto com preposição A obrigatória (Ex: 'aspirar AO cargo público', 'aspirar À vaga de chefia'). No enunciado apresentado, o sentido empregado é inequivocamente ALMEJAR (aspirava à coordenação há anos) → portanto VTI → exige prep. A. Como o complemento é feminino determinado (A coordenação), ocorre: preposição A + artigo A = CRASE obrigatória (À). ✗ Alternativa B: ERRO, a regência muda conforme o sentido do verbo no contexto. ✗ C: não se trata de registro linguístico, mas de gramática normativa padrão. ✗ D: crase não é facultativa quando há fusão A+A, é obrigatória. ✗ E: o contexto sintático-semântico indica claramente sentido de almejar/pretender. A banca COSEAC/UFF cobra rigorosamente esta distinção entre os dois sentidos e suas respectivas regências! Memorize: aspirar O perfume (inalar, VTD) × aspirar À vaga (almejar, VTI + crase).",
       "id": 93,
-      "enunciado": "'Vou À CASA de Maria' - crase:",
-      "alternativas": [
-        "Incorreta: sem especificação",
-        "Correta: especificada leva",
-        "Incorreta: nunca leva",
-        "Correta: facultativa",
-        "Depende"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ CORRETO! CASA especificada (de alguém) = crase: 'à casa DE Maria'. Casa genérica = sem: 'Voltei A casa' (lar). Regra: CASA/TERRA/DISTÂNCIA especificados = crase. Genéricos = sem."
+      "gabarito": "C"
     },
     {
+      "enunciado": "A frase 'A comunidade prefere MAIS a abordagem preventiva DO QUE a curativa' apresenta, quanto à estrutura sintática e regência verbal:",
+      "alternativas": [
+        "Apresenta apenas erro no intensificador MAIS que constitui pleonasmo vicioso, sendo a estrutura comparativa 'DO QUE' plenamente aceita pela gramática normativa contemporânea",
+        "Erro duplo considerado grave: PREFERIR rejeita o intensificador MAIS por redundância semântica e exige preposição A em vez de DO QUE, devendo ser 'prefere a preventiva À curativa'",
+        "Está inteiramente correta, representando evolução natural da língua portuguesa brasileira com ampla aceitação em gramáticas descritivas e linguística moderna funcional",
+        "Apresenta erro apenas na preposição comparativa, devendo ser 'prefere MAIS a preventiva QUE a curativa' eliminando apenas a preposição DE anteposta",
+        "Está correta em contexto coloquial sendo aceitável em comunicação comunitária informal, embora inadequada para documentação técnica oficial de saúde pública"
+      ],
+      "explicacao": "✗ ERRO DUPLO GRAVÍSSIMO NA NORMA CULTA! Análise detalhada: (1) PRIMEIRO ERRO - Pleonasmo vicioso: o verbo PREFERIR já expressa semanticamente a ideia de preferência, escolha, predileção → adicionar o intensificador MAIS constitui redundância inaceitável na norma culta (é como dizer 'subir para cima', 'descer para baixo'). ✓ O verbo já é comparativo por natureza! (2) SEGUNDO ERRO - Regência inadequada: PREFERIR exige a construção sintática 'X A Y', nunca 'X DO QUE Y' ou 'X QUE Y'. A preposição exigida é A (não DE, não DO QUE). ✓ Estrutura correta obrigatória: 'Preferir algo/alguém A algo/alguém'. Exemplos corretos: 'Prefiro café A chá', 'Preferia trabalhar À noite A trabalhar de dia', 'Preferimos a abordagem preventiva À curativa'. ✗ Construções SEMPRE incorretas: 'preferir mais...', 'preferir...do que', 'preferir...que'. Compare com GOSTAR MAIS (este SIM é correto, pois o verbo GOSTAR não indica preferência por si só): 'Gosto mais de café do que de chá' (estrutura aceita). A banca COSEAC/UFF penaliza severamente este erro por ser extremamente comum na fala coloquial e facilmente evitável com conhecimento da norma culta! Este é um dos erros mais cobrados em concursos de alta concorrência.",
       "id": 94,
-      "enunciado": "'Os ANOS-LUZ' - plural:",
-      "alternativas": [
-        "Incorreto: 'ano-luz'",
-        "Correto: só primeiro",
-        "Incorreto: ambos",
-        "Correto: 'anos-luzes'",
-        "Incorreto: sem plural"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ CORRETO! SUBSTANTIVO + SUBSTANTIVO (2º especifica) = só 1º: anos-luz. 'Anos-luzes' ERRO. Padrão: navio-escola → navios-escola."
+      "gabarito": "B"
     },
     {
+      "enunciado": "Na construção 'O coordenador aspirava À coordenação estadual há anos, dedicando-se intensamente aos estudos preparatórios e capacitações técnicas', a regência verbal empregada está:",
+      "alternativas": [
+        "Incorreta, pois ASPIRAR independentemente do sentido contextual é sempre verbo transitivo direto e não admite qualquer preposição antes do complemento nominal",
+        "Correta, pois ASPIRAR com sentido de almejar/desejar é verbo transitivo indireto que exige preposição A, ocorrendo crase obrigatória antes de artigo feminino determinado",
+        "Parcialmente correta, sendo aceitável na linguagem coloquial mas inadequada para documentos oficiais que exigem objetividade e precisão terminológica máxima",
+        "Incorreta, pois embora ASPIRAR admita preposição em alguns contextos, a crase seria facultativa neste caso por tratar-se de cargo público",
+        "Correta apenas se interpretarmos como inalação de ar em sentido figurado, caso em que seria transitivo direto sem necessidade de preposição"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO. O verbo ASPIRAR possui dupla regência conforme o sentido: (1) ASPIRAR = INALAR/CHEIRAR → Verbo Transitivo Direto sem preposição (Ex: 'aspirar O ar puro da montanha', 'aspirar O perfume das flores'); (2) ASPIRAR = ALMEJAR/DESEJAR/PRETENDER → Verbo Transitivo Indireto com preposição A obrigatória (Ex: 'aspirar AO cargo público', 'aspirar À vaga de chefia'). No enunciado apresentado, o sentido empregado é inequivocamente ALMEJAR (aspirava à coordenação há anos) → portanto VTI → exige prep. A. Como o complemento é feminino determinado (A coordenação), ocorre: preposição A + artigo A = CRASE obrigatória (À). ✗ Alternativa B: ERRO, a regência muda conforme o sentido do verbo no contexto. ✗ C: não se trata de registro linguístico, mas de gramática normativa padrão. ✗ D: crase não é facultativa quando há fusão A+A, é obrigatória. ✗ E: o contexto sintático-semântico indica claramente sentido de almejar/pretender. A banca COSEAC/UFF cobra rigorosamente esta distinção entre os dois sentidos e suas respectivas regências! Memorize: aspirar O perfume (inalar, VTD) × aspirar À vaga (almejar, VTI + crase).",
       "id": 95,
-      "enunciado": "'Ele PROPÔS' - acento:",
-      "alternativas": [
-        "Incorreto: não acentua",
-        "Correto: diferencial",
-        "Incorreto: 'propós'",
-        "Correto: facultativo",
-        "Incorreto: erro"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ CORRETO! PROPÔS mantém acento DIFERENCIAL. Novo Acordo manteve: pôr≠por, pôde≠pode, têm/vêm (plural). PROPÔS diferencia de forma arcaica."
+      "gabarito": "B"
     },
     {
+      "enunciado": "Na construção 'O coordenador aspirava À coordenação estadual há anos, dedicando-se intensamente aos estudos preparatórios e capacitações técnicas', a regência verbal empregada está:",
+      "alternativas": [
+        "Incorreta, pois ASPIRAR independentemente do sentido contextual é sempre verbo transitivo direto e não admite qualquer preposição antes do complemento nominal",
+        "Correta, pois ASPIRAR com sentido de almejar/desejar é verbo transitivo indireto que exige preposição A, ocorrendo crase obrigatória antes de artigo feminino determinado",
+        "Parcialmente correta, sendo aceitável na linguagem coloquial mas inadequada para documentos oficiais que exigem objetividade e precisão terminológica máxima",
+        "Incorreta, pois embora ASPIRAR admita preposição em alguns contextos, a crase seria facultativa neste caso por tratar-se de cargo público",
+        "Correta apenas se interpretarmos como inalação de ar em sentido figurado, caso em que seria transitivo direto sem necessidade de preposição"
+      ],
+      "explicacao": "✓ ABSOLUTAMENTE CORRETO. O verbo ASPIRAR possui dupla regência conforme o sentido: (1) ASPIRAR = INALAR/CHEIRAR → Verbo Transitivo Direto sem preposição (Ex: 'aspirar O ar puro da montanha', 'aspirar O perfume das flores'); (2) ASPIRAR = ALMEJAR/DESEJAR/PRETENDER → Verbo Transitivo Indireto com preposição A obrigatória (Ex: 'aspirar AO cargo público', 'aspirar À vaga de chefia'). No enunciado apresentado, o sentido empregado é inequivocamente ALMEJAR (aspirava à coordenação há anos) → portanto VTI → exige prep. A. Como o complemento é feminino determinado (A coordenação), ocorre: preposição A + artigo A = CRASE obrigatória (À). ✗ Alternativa B: ERRO, a regência muda conforme o sentido do verbo no contexto. ✗ C: não se trata de registro linguístico, mas de gramática normativa padrão. ✗ D: crase não é facultativa quando há fusão A+A, é obrigatória. ✗ E: o contexto sintático-semântico indica claramente sentido de almejar/pretender. A banca COSEAC/UFF cobra rigorosamente esta distinção entre os dois sentidos e suas respectivas regências! Memorize: aspirar O perfume (inalar, VTD) × aspirar À vaga (almejar, VTI + crase).",
       "id": 96,
-      "enunciado": "'A MAIORIA elegeu' pode ser:",
-      "alternativas": [
-        "Apenas singular",
-        "Só 'elegeram'",
-        "Não varia",
-        "Também 'elegeram'",
-        "Erro"
-      ],
-      "gabarito": "D",
-      "explicacao": "✓ Coletivo partitivo = concordância FACULTATIVA: 'elegeu' (maioria) ou 'elegeram' (plural implícito). Gramáticos aceitam ambas."
+      "gabarito": "B"
     },
     {
+      "enunciado": "A frase 'A comunidade prefere MAIS a abordagem preventiva DO QUE a curativa' apresenta, quanto à estrutura sintática e regência verbal:",
+      "alternativas": [
+        "Apresenta apenas erro no intensificador MAIS que constitui pleonasmo vicioso, sendo a estrutura comparativa 'DO QUE' plenamente aceita pela gramática normativa contemporânea",
+        "Erro duplo considerado grave: PREFERIR rejeita o intensificador MAIS por redundância semântica e exige preposição A em vez de DO QUE, devendo ser 'prefere a preventiva À curativa'",
+        "Está inteiramente correta, representando evolução natural da língua portuguesa brasileira com ampla aceitação em gramáticas descritivas e linguística moderna funcional",
+        "Apresenta erro apenas na preposição comparativa, devendo ser 'prefere MAIS a preventiva QUE a curativa' eliminando apenas a preposição DE anteposta",
+        "Está correta em contexto coloquial sendo aceitável em comunicação comunitária informal, embora inadequada para documentação técnica oficial de saúde pública"
+      ],
+      "explicacao": "✗ ERRO DUPLO GRAVÍSSIMO NA NORMA CULTA! Análise detalhada: (1) PRIMEIRO ERRO - Pleonasmo vicioso: o verbo PREFERIR já expressa semanticamente a ideia de preferência, escolha, predileção → adicionar o intensificador MAIS constitui redundância inaceitável na norma culta (é como dizer 'subir para cima', 'descer para baixo'). ✓ O verbo já é comparativo por natureza! (2) SEGUNDO ERRO - Regência inadequada: PREFERIR exige a construção sintática 'X A Y', nunca 'X DO QUE Y' ou 'X QUE Y'. A preposição exigida é A (não DE, não DO QUE). ✓ Estrutura correta obrigatória: 'Preferir algo/alguém A algo/alguém'. Exemplos corretos: 'Prefiro café A chá', 'Preferia trabalhar À noite A trabalhar de dia', 'Preferimos a abordagem preventiva À curativa'. ✗ Construções SEMPRE incorretas: 'preferir mais...', 'preferir...do que', 'preferir...que'. Compare com GOSTAR MAIS (este SIM é correto, pois o verbo GOSTAR não indica preferência por si só): 'Gosto mais de café do que de chá' (estrutura aceita). A banca COSEAC/UFF penaliza severamente este erro por ser extremamente comum na fala coloquial e facilmente evitável com conhecimento da norma culta! Este é um dos erros mais cobrados em concursos de alta concorrência.",
       "id": 97,
-      "enunciado": "'Não LHES obedecerei' está:",
-      "alternativas": [
-        "Incorreto: 'os'",
-        "Correto: VTI 'obedecer A'",
-        "Incorreto: 'a eles'",
-        "Correto: 'os' também",
-        "Incorreto: inadequado"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ CORRETO! OBEDECER = VTI (A alguém) = LHE/LHES. 'Os' é objeto direto (VTD). 'Obedecer OS' ERRADO!"
+      "gabarito": "B"
     },
     {
+      "enunciado": "'O enfermeiro assist iu O paciente politraumatizado durante toda a madrugada, assistindo posteriormente À cirurgia de emergência realizada'. A construção sintática apresenta:",
+      "alternativas": [
+        "Estrutura aceitável apenas em registros coloquiais específicos da área de saúde, sendo inadequada para relatórios técnicos oficiais ou prontuários médicos",
+        "Erro na primeira ocorrência: ASSISTIR exige sempre preposição A independentemente do sentido contextual empregado, devendo ser 'assistiu AO paciente politraumatizado'",
+        "Erro na segunda ocorrência: a crase seria facultativa antes de substantivos femininos comuns que não sejam nomes próprios de pessoas ou lugares",
+        "Ambiguidade problemática que compromete clareza: primeira deveria usar 'atendeu' e segunda 'presenciou' para evitar repetição lexical do mesmo verbo polissêmico",
+        "Ambas as regências estão corretas: primeira ocorrência ASSISTIR = socorrer/prestar assistência (VTD sem preposição), segunda = presenciar/ver (VTI com prep. A + crase obrigatória)"
+      ],
+      "explicacao": "✓ DUPLA REGÊNCIA ABSOLUTAMENTE CORRETA! O verbo ASSISTIR é polissêmico com TRÊS sentidos principais e regências distintas: (1) ASSISTIR = SOCORRER/PRESTAR ASSISTÊNCIA/CUIDAR → Verbo Transitivo Direto SEM preposição ('assistir O doente grave', 'assistir O ferido em acidente') - este é o uso técnico específico e predominante da área da saúde, enfermagem e medicina; (2) ASSISTIR = VER/PRESENCIAR/ESTAR PRESENTE → Verbo Transitivo Indireto COM prep. A obrigatória ('assistir AO filme no cinema', 'assistir À aula magna', 'assistir AO jogo de futebol'); (3) ASSISTIR = CABER/TER DIREITO/PERTENCER → Verbo Transitivo Indireto COM prep. A ('Este direito assiste AO cidadão', 'A competência assiste AO juiz'). ✓ Análise do enunciado: (1ª ocorrência) sentido de socorrer/prestar assistência médica = VTD → 'assistiu O paciente' CORRETO sem preposição; (2ª ocorrência) sentido de presenciar/ver = VTI + termo feminino determinado (A cirurgia) → prep. A + artigo A = crase OBRIGATÓRIA → 'assistiu À cirurgia' CORRETO. ✗ B: ERRO, a regência muda radicalmente conforme o sentido contextual. ✗ C: crase é obrigatória pela fusão A+A, não facultativa. ✗ D: repetição lexical é questão estilística, não gramatical. ✗ E: ambas as construções são norma culta padrão. Memorize para concursos: assistir paciente/doente (área saúde, VTD, sem preposição A) × assistir ao procedimento/à cirurgia (presenciar, VTI, com preposição A + crase)!",
       "id": 98,
-      "enunciado": "'Espero QUE ESTEJA bem' está:",
-      "alternativas": [
-        "Incorreto: 'esteje'",
-        "Correto: presente subjuntivo",
-        "Incorreto: 'está'",
-        "Correto: variante",
-        "Incorreto: modo"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ CORRETO! ESTEJA = presente SUBJUNTIVO de ESTAR. 'Esteje' NÃO existe. Após 'espero que' = subjuntivo. Formas: esteja, estejas, esteja, estejamos, estejais, estejam."
+      "gabarito": "E"
     },
     {
+      "enunciado": "A frase 'A comunidade prefere MAIS a abordagem preventiva DO QUE a curativa' apresenta, quanto à estrutura sintática e regência verbal:",
+      "alternativas": [
+        "Erro duplo considerado grave: PREFERIR rejeita o intensificador MAIS por redundância semântica e exige preposição A em vez de DO QUE, devendo ser 'prefere a preventiva À curativa'",
+        "Apresenta apenas erro no intensificador MAIS que constitui pleonasmo vicioso, sendo a estrutura comparativa 'DO QUE' plenamente aceita pela gramática normativa contemporânea",
+        "Está inteiramente correta, representando evolução natural da língua portuguesa brasileira com ampla aceitação em gramáticas descritivas e linguística moderna funcional",
+        "Apresenta erro apenas na preposição comparativa, devendo ser 'prefere MAIS a preventiva QUE a curativa' eliminando apenas a preposição DE anteposta",
+        "Está correta em contexto coloquial sendo aceitável em comunicação comunitária informal, embora inadequada para documentação técnica oficial de saúde pública"
+      ],
+      "explicacao": "✗ ERRO DUPLO GRAVÍSSIMO NA NORMA CULTA! Análise detalhada: (1) PRIMEIRO ERRO - Pleonasmo vicioso: o verbo PREFERIR já expressa semanticamente a ideia de preferência, escolha, predileção → adicionar o intensificador MAIS constitui redundância inaceitável na norma culta (é como dizer 'subir para cima', 'descer para baixo'). ✓ O verbo já é comparativo por natureza! (2) SEGUNDO ERRO - Regência inadequada: PREFERIR exige a construção sintática 'X A Y', nunca 'X DO QUE Y' ou 'X QUE Y'. A preposição exigida é A (não DE, não DO QUE). ✓ Estrutura correta obrigatória: 'Preferir algo/alguém A algo/alguém'. Exemplos corretos: 'Prefiro café A chá', 'Preferia trabalhar À noite A trabalhar de dia', 'Preferimos a abordagem preventiva À curativa'. ✗ Construções SEMPRE incorretas: 'preferir mais...', 'preferir...do que', 'preferir...que'. Compare com GOSTAR MAIS (este SIM é correto, pois o verbo GOSTAR não indica preferência por si só): 'Gosto mais de café do que de chá' (estrutura aceita). A banca COSEAC/UFF penaliza severamente este erro por ser extremamente comum na fala coloquial e facilmente evitável com conhecimento da norma culta! Este é um dos erros mais cobrados em concursos de alta concorrência.",
       "id": 99,
-      "enunciado": "'Quando VIREM o resultado' está:",
-      "alternativas": [
-        "Incorreto: 'vir'",
-        "Correto: futuro subjuntivo VER",
-        "Incorreto: 'verem'",
-        "Correto: variante 'vir'",
-        "Incorreto: tempo"
-      ],
-      "gabarito": "B",
-      "explicacao": "✓ CORRETO! VER → futuro subjuntivo: vir, vires, vir, virmos, virdes, VIREM. Após 'quando' temporal = futuro subjuntivo. VIREM (ver) ≠ VIEREM (vir)!"
+      "gabarito": "A"
     },
     {
-      "id": 100,
-      "enunciado": "'Ele MANTÉM' - acento:",
+      "enunciado": "'O enfermeiro assist iu O paciente politraumatizado durante toda a madrugada, assistindo posteriormente À cirurgia de emergência realizada'. A construção sintática apresenta:",
       "alternativas": [
-        "Incorreto: não acentua",
-        "Correto: 3ª singular",
-        "Incorreto: 'mantem'",
-        "Correto: facultativo",
-        "Incorreto: erro"
+        "Erro na primeira ocorrência: ASSISTIR exige sempre preposição A independentemente do sentido contextual empregado, devendo ser 'assistiu AO paciente politraumatizado'",
+        "Ambas as regências estão corretas: primeira ocorrência ASSISTIR = socorrer/prestar assistência (VTD sem preposição), segunda = presenciar/ver (VTI com prep. A + crase obrigatória)",
+        "Erro na segunda ocorrência: a crase seria facultativa antes de substantivos femininos comuns que não sejam nomes próprios de pessoas ou lugares",
+        "Ambiguidade problemática que compromete clareza: primeira deveria usar 'atendeu' e segunda 'presenciou' para evitar repetição lexical do mesmo verbo polissêmico",
+        "Estrutura aceitável apenas em registros coloquiais específicos da área de saúde, sendo inadequada para relatórios técnicos oficiais ou prontuários médicos"
       ],
-      "gabarito": "B",
-      "explicacao": "✓ CORRETO! MANTÉM (singular) ≠ MANTÊM (plural). TER/VIR e derivados: ele tem ≠ eles têm. Manteve-se acento diferencial no Novo Acordo!"
+      "explicacao": "✓ DUPLA REGÊNCIA ABSOLUTAMENTE CORRETA! O verbo ASSISTIR é polissêmico com TRÊS sentidos principais e regências distintas: (1) ASSISTIR = SOCORRER/PRESTAR ASSISTÊNCIA/CUIDAR → Verbo Transitivo Direto SEM preposição ('assistir O doente grave', 'assistir O ferido em acidente') - este é o uso técnico específico e predominante da área da saúde, enfermagem e medicina; (2) ASSISTIR = VER/PRESENCIAR/ESTAR PRESENTE → Verbo Transitivo Indireto COM prep. A obrigatória ('assistir AO filme no cinema', 'assistir À aula magna', 'assistir AO jogo de futebol'); (3) ASSISTIR = CABER/TER DIREITO/PERTENCER → Verbo Transitivo Indireto COM prep. A ('Este direito assiste AO cidadão', 'A competência assiste AO juiz'). ✓ Análise do enunciado: (1ª ocorrência) sentido de socorrer/prestar assistência médica = VTD → 'assistiu O paciente' CORRETO sem preposição; (2ª ocorrência) sentido de presenciar/ver = VTI + termo feminino determinado (A cirurgia) → prep. A + artigo A = crase OBRIGATÓRIA → 'assistiu À cirurgia' CORRETO. ✗ B: ERRO, a regência muda radicalmente conforme o sentido contextual. ✗ C: crase é obrigatória pela fusão A+A, não facultativa. ✗ D: repetição lexical é questão estilística, não gramatical. ✗ E: ambas as construções são norma culta padrão. Memorize para concursos: assistir paciente/doente (área saúde, VTD, sem preposição A) × assistir ao procedimento/à cirurgia (presenciar, VTI, com preposição A + crase)!",
+      "id": 100,
+      "gabarito": "B"
     }
   ]
 }
