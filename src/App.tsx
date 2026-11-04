@@ -133,15 +133,15 @@ function Header() {
 
 function ArchitectureIllustration() {
   return (
-    <div className="relative mx-auto w-full max-w-[510px] select-none" aria-label="Diagrama ilustrativo de uma arquitetura backend com API, mensageria, workers e dados">
+    <div className="relative mx-auto w-full max-w-[510px] select-none" role="img" aria-label="Diagrama ilustrativo de uma arquitetura backend com API, mensageria, workers e dados">
       <div className="absolute -inset-8 rounded-full bg-[#4bd9b4]/[.055] blur-3xl" />
       <div className="relative overflow-hidden rounded-[23px] border border-white/[.14] bg-[#0b1425]/90 shadow-[0_35px_95px_rgba(0,0,0,.46)]">
-        <div className="flex h-12 items-center justify-between border-b border-white/[.09] bg-white/[.025] px-5">
+        <div className="flex h-12 items-center justify-between gap-2 border-b border-white/[.09] bg-white/[.025] px-4 sm:px-5">
           <div className="flex items-center gap-2"><span className="size-[7px] rounded-full bg-[#fa736b]"/><span className="size-[7px] rounded-full bg-[#f7c35c]"/><span className="size-[7px] rounded-full bg-[#63e7c3]"/></div>
-          <span className="font-mono text-[10px] tracking-[.03em] text-white/40">architecture / system-overview</span>
+          <span className="min-w-0 truncate font-mono text-[9px] tracking-[.03em] text-white/45 sm:text-[10px]">architecture / system-overview</span>
           <Braces size={14} className="text-white/30" />
         </div>
-        <div className="relative p-5 sm:p-7">
+        <div className="relative p-4 sm:p-7">
           <div className="absolute inset-0 diagram-grid opacity-[.32]" />
           <div className="relative mb-7 flex items-center justify-between">
             <div className="flex items-center gap-2 text-[11px] font-medium text-[#b4c4db]"><span className="size-1.5 animate-pulse rounded-full bg-[#63e7c3]"/> VISÃO DE ARQUITETURA</div>
@@ -169,10 +169,13 @@ function ArchitectureIllustration() {
             <span className="flex items-center gap-1.5 text-[#9fc7bf]"><Check size={13}/> quality first</span>
           </div>
         </div>
+      <div className="relative flex items-center gap-3 border-t border-white/[.09] bg-[#132136]/75 px-4 py-3.5 sm:px-7">
+        <span className="grid size-9 shrink-0 place-items-center rounded-lg bg-[#63e7c3]/[.13] text-[#63e7c3]"><ShieldCheck size={19}/></span>
+        <div className="min-w-0">
+          <div className="text-[11px] font-bold text-white">Engineering mindset</div>
+          <div className="mt-0.5 text-[10px] leading-relaxed text-[#a0b2c8]">segurança · testes · observabilidade</div>
+        </div>
       </div>
-      <div className="absolute -bottom-6 -left-2 hidden items-center gap-3 rounded-xl border border-white/15 bg-[#152236]/95 p-3 shadow-2xl backdrop-blur sm:flex md:-left-7">
-        <span className="grid size-9 place-items-center rounded-lg bg-[#63e7c3]/[.13] text-[#63e7c3]"><ShieldCheck size={19}/></span>
-        <div><div className="text-[11px] font-bold text-white">Engineering mindset</div><div className="mt-0.5 text-[10px] text-[#8c9db5]">segurança · testes · observabilidade</div></div>
       </div>
     </div>
   );
@@ -181,32 +184,32 @@ function ArchitectureIllustration() {
 function Hero() {
   return (
     <section id="inicio" className="relative overflow-hidden border-b border-white/[.07] pt-[76px]">
-      <div className="hero-grid absolute inset-0 opacity-[.14]" />
+      <div aria-hidden="true" className="hero-grid absolute inset-0 opacity-[.14]" />
       <div className="pointer-events-none absolute left-[-20%] top-[-35%] size-[650px] rounded-full bg-[#326ebc]/[.11] blur-[120px]" />
       <div className="pointer-events-none absolute bottom-[-40%] right-[-18%] size-[600px] rounded-full bg-[#37c7aa]/[.065] blur-[130px]" />
-      <div className="page-container relative grid min-h-[730px] grid-cols-1 items-center gap-20 pb-24 pt-20 lg:grid-cols-[1.08fr_.92fr] lg:gap-12 lg:py-[118px]">
+      <div className="page-container relative grid grid-cols-1 items-center gap-12 pb-16 pt-12 sm:pb-20 sm:pt-16 lg:min-h-[650px] lg:grid-cols-[minmax(0,1.1fr)_minmax(0,.9fr)] lg:gap-14 lg:py-20 xl:py-24">
         <div>
-          <div className="mb-9 inline-flex items-center gap-2.5 rounded-full border border-[#63e7c3]/25 bg-[#63e7c3]/[.065] px-3.5 py-2 text-[11px] font-bold uppercase tracking-[.13em] text-[#8df2d3]">
-            <span className="relative flex size-2"><span className="absolute inline-flex size-full animate-ping rounded-full bg-[#63e7c3] opacity-35"/><span className="relative inline-flex size-2 rounded-full bg-[#63e7c3]"/></span>
+          <div className="mb-6 inline-flex max-w-full items-center gap-2.5 rounded-full border border-[#63e7c3]/25 bg-[#63e7c3]/[.065] px-3.5 py-2 text-[10px] font-bold uppercase tracking-[.07em] text-[#8df2d3] sm:text-[11px] sm:tracking-[.13em]">
+            <span className="relative flex size-2 shrink-0"><span className="absolute inline-flex size-full animate-ping rounded-full bg-[#63e7c3] opacity-35"/><span className="relative inline-flex size-2 rounded-full bg-[#63e7c3]"/></span>
             Aberto a oportunidades em tecnologia
           </div>
-          <p className="mb-5 font-mono text-xs font-semibold tracking-[.1em] text-[#a4b3cb]">OLÁ, EU SOU ANDERSON COSTA RODRIGUES <span className="ml-1 text-[#63e7c3]">_</span></p>
-          <h1 className="max-w-[660px] font-display text-[clamp(3.25rem,5.75vw,5.7rem)] font-bold leading-[1.045] tracking-[-.075em] text-[#f5f8ff]">
-            Engenharia <span className="text-[#63e7c3]">backend</span> para ideias que precisam <span className="text-[#a1b4d5]">escalar.</span>
+          <p className="mb-4 font-mono text-[10px] font-semibold leading-relaxed tracking-[.045em] text-[#a4b3cb] sm:text-xs sm:tracking-[.1em]">OLÁ, EU SOU ANDERSON COSTA RODRIGUES <span className="ml-1 text-[#63e7c3]">_</span></p>
+          <h1 className="max-w-[660px] font-display text-[clamp(2.8rem,4.35vw,4.35rem)] font-bold leading-[1.09] tracking-[-.065em] text-[#f5f8ff] [text-wrap:balance]">
+            Engenharia de <span className="text-[#63e7c3]">backend</span> para sistemas que <span className="text-[#a1b4d5]">escalam.</span>
           </h1>
-          <p className="mt-7 max-w-[570px] text-[15px] leading-[1.9] text-[#a5b4cb] sm:text-[16px]">
+          <p className="mt-6 max-w-[560px] text-[14px] leading-[1.8] text-[#b1c1d7] sm:text-[15px]">
             Desenvolvo APIs, microsserviços e sistemas orientados a eventos com <strong className="font-medium text-[#e0eaf8]">Python e Node.js</strong>. Segurança, qualidade e arquitetura não são detalhes — fazem parte da solução.
           </p>
-          <div className="mt-9 flex flex-wrap gap-3">
+          <div className="mt-7 flex flex-wrap gap-3">
             <a href="#projetos" className="group inline-flex items-center gap-2 rounded-xl bg-[#63e7c3] px-5 py-3.5 text-[13px] font-bold text-[#071820] transition hover:bg-[#a4f4dc]">Conhecer projetos <ArrowUpRight size={17} className="transition-transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5"/></a>
             <a href={links.whatsapp} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 rounded-xl border border-white/[.18] bg-white/[.045] px-5 py-3.5 text-[13px] font-semibold text-white transition hover:border-white/35 hover:bg-white/[.09]"><MessageCircle size={17}/> Falar no WhatsApp</a>
           </div>
-          <div className="mt-8 flex flex-wrap items-center gap-x-6 gap-y-3 text-[12px] text-[#8e9eb7]">
+          <div className="mt-6 flex flex-wrap items-center gap-x-6 gap-y-3 text-[12px] text-[#a1b0c6]">
             <span className="inline-flex items-center gap-1.5"><MapPin size={14} className="text-[#7a93b1]"/> Maricá, Rio de Janeiro</span>
             <a href={links.curriculum} download className="inline-flex items-center gap-1.5 font-semibold text-[#d1dfed] transition hover:text-[#63e7c3]"><Download size={14}/> Baixar currículo <ArrowRight size={12}/></a>
           </div>
         </div>
-        <div className="lg:pl-2"><ArchitectureIllustration/></div>
+        <div className="min-w-0 lg:pl-2"><ArchitectureIllustration/></div>
       </div>
       <div className="relative border-t border-white/[.075] bg-[#0b1322]/70">
         <div className="page-container flex flex-wrap items-center justify-between gap-x-7 gap-y-4 py-5">
