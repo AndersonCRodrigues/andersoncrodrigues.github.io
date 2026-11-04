@@ -27,10 +27,19 @@ button { cursor: pointer; }
   width: min(100% - 40px, 1190px);
   margin-inline: auto;
 }
+/* Âncoras e seções: a barra fixa tem 76px de altura. */
 .section-padding {
-  padding-block: clamp(76px, 9vw, 128px);
-  scroll-margin-top: 80px;
+  min-height: calc(100vh - 76px);
+  min-height: calc(100svh - 76px);
+  padding-block: clamp(44px, 6vh, 76px);
+  scroll-margin-top: 76px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
+/* Faz o conteúdo aproveitar toda a largura do container enquanto centraliza verticalmente.
+   Se os cards excederem a altura da janela, a seção cresce naturalmente. */
+.section-padding > .page-container { width: min(100% - 40px, 1190px); }
 
 .hero-grid {
   background-image: linear-gradient(to right, #6d8bb13b 1px, transparent 1px), linear-gradient(to bottom, #6d8bb13b 1px, transparent 1px);
@@ -73,4 +82,18 @@ button { cursor: pointer; }
 #inicio [role="img"] { min-width: 0; }
 @media (max-width: 359px) {
   #inicio h1 { font-size: clamp(2.45rem, 12.2vw, 2.8rem); }
+}
+
+/* Em telas estreitas, priorizamos a leitura contínua e evitamos uma tela vazia
+   entre blocos de conteúdo. */
+@media (max-width: 767px) {
+  .section-padding {
+    min-height: auto;
+    padding-block: clamp(52px, 8vh, 78px);
+    scroll-margin-top: 76px;
+  }
+  .section-padding > .page-container { width: min(100% - 36px, 1190px); }
+}
+@media (min-width: 768px) and (max-height: 660px) {
+  .section-padding { padding-block: 36px; }
 }
