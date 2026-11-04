@@ -1,0 +1,69 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "DM Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Space Grotesk", "DM Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: ui-monospace, "SFMono-Regular", Consolas, monospace;
+}
+
+:root {
+  color-scheme: dark;
+  background: #080e1c;
+  font-family: "DM Sans", sans-serif;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+html { scroll-behavior: smooth; }
+body { margin: 0; min-width: 320px; color: #f2f6ff; background: #080e1c; }
+* { box-sizing: border-box; }
+button, a { -webkit-tap-highlight-color: transparent; }
+button { cursor: pointer; }
+:focus-visible { outline: 2px solid #63e7c3; outline-offset: 4px; }
+::selection { background: #63e7c3; color: #071820; }
+
+.page-container {
+  width: min(100% - 40px, 1190px);
+  margin-inline: auto;
+}
+.section-padding {
+  padding-block: clamp(76px, 9vw, 128px);
+  scroll-margin-top: 80px;
+}
+
+.hero-grid {
+  background-image: linear-gradient(to right, #6d8bb13b 1px, transparent 1px), linear-gradient(to bottom, #6d8bb13b 1px, transparent 1px);
+  background-size: 78px 78px;
+  mask-image: linear-gradient(to bottom, black, transparent 88%);
+}
+.diagram-grid {
+  background-image: linear-gradient(to right, #ffffff0f 1px, transparent 1px), linear-gradient(to bottom, #ffffff0f 1px, transparent 1px);
+  background-size: 24px 24px;
+}
+.project-grid {
+  background-image: linear-gradient(to right, #ffffff17 1px, transparent 1px), linear-gradient(to bottom, #ffffff17 1px, transparent 1px);
+  background-size: 26px 26px;
+  mask-image: linear-gradient(95deg, transparent, #000 35%, #000 65%, transparent);
+}
+.skip-link {
+  position: fixed;
+  left: 16px;
+  top: -80px;
+  z-index: 100;
+  padding: 10px 16px;
+  border-radius: 8px;
+  color: #061a16;
+  background: #63e7c3;
+  font-weight: 700;
+}
+.skip-link:focus { top: 12px; }
+
+@media (max-width: 640px) {
+  .page-container {
+    width: min(100% - 36px, 1190px);
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { scroll-behavior: auto !important; animation-duration: .01ms !important; transition-duration: .01ms !important; }
+}

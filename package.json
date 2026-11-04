@@ -1,26 +1,31 @@
 {
   "name": "anderson-rodrigues-portfolio",
-  "version": "1.0.0",
-  "description": "Portfólio profissional para desenvolvedor backend",
+  "private": true,
+  "version": "2.0.0",
   "type": "module",
-  "main": "index.js",
   "scripts": {
-    "build": "tsc",
-    "watch": "tsc -w",
-    "start": "lite-server"
-  },
-  "keywords": [
-    "portfolio",
-    "backend",
-    "developer"
-  ],
-  "author": "Anderson Rodrigues",
-  "license": "MIT",
-  "devDependencies": {
-    "lite-server": "^2.6.1",
-    "typescript": "^5.2.2"
+    "dev": "vite --host 0.0.0.0",
+    "typecheck": "tsc --noEmit",
+    "build": "npm run typecheck && vite build && node scripts/copy-legacy.mjs",
+    "preview": "vite preview --host 0.0.0.0",
+    "test:source": "node --test tests/*.test.mjs"
   },
   "dependencies": {
-    "@emailjs/browser": "^4.4.1"
+    "lucide-react": "0.468.0",
+    "react": "19.1.1",
+    "react-dom": "19.1.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "4.1.11",
+    "@types/node": "22.15.0",
+    "@types/react": "19.1.10",
+    "@types/react-dom": "19.1.7",
+    "@vitejs/plugin-react": "5.0.0",
+    "tailwindcss": "4.1.11",
+    "typescript": "5.9.2",
+    "vite": "^7.3.7"
+  },
+  "engines": {
+    "node": ">=20.19.0"
   }
 }
